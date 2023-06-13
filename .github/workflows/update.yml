@@ -3,9 +3,12 @@ name: Update hosts.txt
 on:
   schedule:
     - cron: "0 0,12 * * *"
-    
+
   push:
-    branches: [ "main" ]
+    branches: ["main"]
+    paths:
+      - .github/workflows/update.yml
+      - update.sh
 
   workflow_dispatch:
 
