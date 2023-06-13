@@ -17,10 +17,10 @@ echo "Generating hosts file..."
 for url in $urls; do
     domain=${url#*//}
     domain=${domain%%/*}
-    domain=${domain##*@}  # remove username
-    domain=${domain%%\?*}  # remove query parameters
     domain=${domain%%\#*}  # remove fragment identifiers
+    domain=${domain%%\?*}  # remove query parameters
     domain=${domain%:*}  # remove port
+    domain=${domain##*@}  # remove username
 
     # skip if domain is an ipv4 address
     if [[ $domain =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+ ]]; then
