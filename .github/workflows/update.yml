@@ -1,0 +1,27 @@
+name: Update hosts.txt
+
+on:
+  schedule:
+    - cron: "0 0,12 * * *"
+    
+  push:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update hosts.txt
+        run: ./update.sh
+
+      - name: Commit changes
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git commit -am "Update hosts.txt"
+          git push
