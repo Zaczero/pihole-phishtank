@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eo pipefail
+set -e
 
 # cwd to script directory
 cd "$(dirname "$0")"
