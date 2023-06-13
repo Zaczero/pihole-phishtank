@@ -17,14 +17,15 @@ echo "Generating hosts file..."
 for url in $urls; do
     domain=${url#*//}
     domain=${domain%%/*}
+    domain=${domain%:*}  # remove port if present
 
     # skip if domain is an ipv4 address
-    if [[ $domain =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+    if [[ $domain =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+([?#].*)?$ ]]; then
         continue
     fi
 
     # skip if domain is an ipv6 address
-    if [[ $domain =~ ^([0-9a-fA-F]*:){1,7}[0-9a-fA-F]*$ ]]; then
+    if [[ $domain =~ ^([0-9a-fA-F]*:){1,7}[0-9a-fA-F]*([?#].*)?$ ]]; then
         continue
     fi
 
