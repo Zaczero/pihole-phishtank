@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sun Aug  6 12:04:08 UTC 2023
-# Number of unique domains: 43853
+# Date: Mon Aug  7 00:12:21 UTC 2023
+# Number of unique domains: 44041
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -156,6 +156,7 @@
 0x666.lol
 1--a0029182.repl.co
 1--inelectro.repl.co
+1--krisface1997.repl.co
 1--solverde.repl.co
 1--union1.repl.co
 1--vetmasagro.repl.co
@@ -170,6 +171,7 @@
 1.ceba1.repl.co
 1.inelectro.repl.co
 1.ingreeessasa.repl.co
+1.krisface1997.repl.co
 1.puppis1.repl.co
 1.solverde.repl.co
 1.union1.repl.co
@@ -366,6 +368,7 @@
 1inch-info.pro
 1inch-io-app.rf.gd
 1inch-io-stage-app-euc1.s3-website.eu-central-1.amazonaws.com
+1inch-io.com
 1inch-lauch.com
 1inch-network.com
 1inch-network.pages.dev
@@ -1555,16 +1558,22 @@ a.18-119-118-141.cprapid.com
 a.18-206-208-251.cprapid.com
 a.adekemi953.workers.dev
 a.aeonabank.com
+a.aeonbanadk.com
 a.aeonbanaek.jp
+a.aeonbanafk.com
 a.aeonbanaqk.jp
+a.aeonbanask.com
 a.aeonbanawk.jp
 a.aeonbanayk.com
+a.aeonbankse.com
 a.aeonbanksf.jp
 a.aeonbanksg.com
 a.aeonbanksg.jp
 a.aeonbanksh.jp
 a.aeonbanksj.jp
 a.aeonbanksk.com
+a.aeonbanksr.com
+a.aeonbankst.com
 a.aeonvbank.com
 a.aeonwbank.com
 a.araceli-newerafinancialgrp.workers.dev
@@ -1706,6 +1715,7 @@ aavenft.web3imint.com
 aaveorg.com
 aavepass.app
 aavepass.com
+aavepass.community
 aavepass.network
 aavepass.org
 aavepool.co
@@ -1877,10 +1887,14 @@ account-meta-ads-a5816.firebaseapp.com
 account-meta-ads-a5816.web.app
 account-meta-ads-c70ab.firebaseapp.com
 account-meta-ads-c70ab.web.app
+account-meta-ads-c9d3e.firebaseapp.com
+account-meta-ads-c9d3e.web.app
 account-meta-ads-d2552.firebaseapp.com
 account-meta-ads-d2552.web.app
 account-meta-ads-dd288.firebaseapp.com
 account-meta-ads-dd288.web.app
+account-meta-violation-f242c.firebaseapp.com
+account-meta-violation-f242c.web.app
 account-priority-alert-3d5c6.firebaseapp.com
 account-priority-alert-3d5c6.web.app
 account-restriction-1000781373.firebaseapp.com
@@ -2235,6 +2249,8 @@ adobe-document.auth-meta.workers.dev
 adobe-glitter-b96e.messagesecure.workers.dev
 adobe5-ee498.firebaseapp.com
 adobe5-ee498.web.app
+adobeacrobat-pdf-encryption.firebaseapp.com
+adobeacrobat-pdf-encryption.web.app
 adobecloud5xpo.yolasite.com
 adobepdfllc.mypixieset.com
 adonaidigitals.com
@@ -2329,6 +2345,8 @@ aeonbanack.jp
 aeonbanadk.com
 aeonbanaek.jp
 aeonbanafk.com
+aeonbanahk.com
+aeonbanajk.com
 aeonbanaok.com
 aeonbanaqk.jp
 aeonbanask.com
@@ -2377,10 +2395,15 @@ aeonbanksf.jp
 aeonbanksg.com
 aeonbanksg.jp
 aeonbanksh.jp
+aeonbanksi.com
 aeonbanksj.jp
 aeonbanksk.com
+aeonbankso.com
 aeonbanksr.com
 aeonbankss.jp
+aeonbankst.com
+aeonbanksu.com
+aeonbanksy.com
 aeonbankv.jp
 aeonbanky.jp
 aeonbanmck.jp
@@ -2692,6 +2715,7 @@ aliaodi.semlmn.ru
 aliceblueinsubstantialstructures--sdijfnsef.repl.co
 aliceblueinsubstantialstructures.sdijfnsef.repl.co
 aliceprestescursos.com.br
+aliexpresscnirwposs.serveuser.com
 alimarcreditos.com.br
 alittlerazzledazzle.com
 alkawther-web-dot-sharefileexplorer.uk.r.appspot.com
@@ -3927,6 +3951,8 @@ aryt5s.icu
 as1d3a1dsa56118bh1de6f1h.cyou
 asacanelbrazzz.blogspot.com
 asb-2fa-auth.com
+asb-confirm.firebaseapp.com
+asb-confirm.web.app
 asb-logon-review.firebaseapp.com
 asb-logon-review.web.app
 asb-online-id.firebaseapp.com
@@ -4145,6 +4171,7 @@ att-102321.weeblysite.com
 att-102330-102967.weeblysite.com
 att-102336.weeblysite.com
 att-102354.weeblysite.com
+att-102393.square.site
 att-102542t6.weeblysite.com
 att-102547.square.site
 att-102579.weeblysite.com
@@ -4177,6 +4204,7 @@ att-104744.weeblysite.com
 att-104958.weeblysite.com
 att-105137.square.site
 att-105137.weeblysite.com
+att-105295-109201.square.site
 att-1053.weeblysite.com
 att-105342-102742.square.site
 att-105410.square.site
@@ -4335,6 +4363,7 @@ attcom-106718.square.site
 attcom-106982.square.site
 attcom-107355.square.site
 attcom-107693.square.site
+attcom-107783.square.site
 attcom-108165.square.site
 attcom-108407.square.site
 attcom-108978.square.site
@@ -4354,6 +4383,7 @@ attdoaminsca.weeblysite.com
 attdomainnote7service.weeblysite.com
 attdomin5.weeblysite.com
 atteam.godaddysites.com
+attemailer.weebly.com
 attemailloginaccountcentre.brizy.site
 attempted-logon.firebaseapp.com
 attempted-logon.web.app
@@ -4450,6 +4480,7 @@ attservicemanagement9.godaddysites.com
 attserviceupdate.godaddysites.com
 attserviceupdate11.boxmode.io
 attsigninportal.boxmode.io
+attsite89.weeblysite.com
 attstarlogin.taplink.ws
 attstoreserv.weeblysite.com
 attsupportmailloginaccessint.brizy.site
@@ -4701,6 +4732,7 @@ auxpierresdorees.com
 auxxxxxxxxx.smb.page
 av9jeeij.duckdns.org
 avatar-miasma.com
+avaxlaunch.app
 avbwqdnanx.duckdns.org
 ave.web3dashbord.cloud
 averagetrustingagents.ksidaoi.repl.co
@@ -4808,16 +4840,23 @@ b.18-221-15-238.cprapid.com
 b.3-22-240-178.cprapid.com
 b.54-234-97-169.cprapid.com
 b.aeonabank.com
+b.aeonbanadk.com
 b.aeonbanaek.jp
+b.aeonbanafk.com
 b.aeonbanaqk.jp
+b.aeonbanask.com
 b.aeonbanawk.jp
 b.aeonbanayk.com
+b.aeonbankse.com
 b.aeonbanksf.jp
 b.aeonbanksg.com
 b.aeonbanksg.jp
 b.aeonbanksh.jp
 b.aeonbanksj.jp
 b.aeonbanksk.com
+b.aeonbanksr.com
+b.aeonbankst.com
+b.aeonbanksy.com
 b.aeonvbank.com
 b.aeonwbank.com
 b.ntagoa.com
@@ -4917,6 +4956,7 @@ baccredomatichn--765556.repl.co
 baccredomatichn.765556.repl.co
 baccredomaticssx--bienvenidosaw.repl.co
 baccredomaticssx.bienvenidosaw.repl.co
+baccredomatiicc.com
 baccredomgtpersonas1-1.baccredogtpersonas.repl.co
 baccredot.webcindario.com
 baccreedomatiic.online
@@ -7487,6 +7527,10 @@ bafybeihxptow7hycar3aghbxd4xvws4sucyqh2tzgz3wvo7eoj4qkrgahy.ipfs.infura-ipfs.io
 bafybeihy26uoljoajx2stybklx4hjtbcal6otiz3xkkpi2tr627lknsslq.ipfs.cf-ipfs.com
 bafybeihy6qm5hqsvgxcw2e2pkfcwojwjkbvezjs7w5ufpxzazoiuh3a6ji.ipfs.dweb.link
 bafybeihy6qm5hqsvgxcw2e2pkfcwojwjkbvezjs7w5ufpxzazoiuh3a6ji.ipfs.infura-ipfs.io
+bafybeihy7cfrhrldaagmj76ayawnbrlbm6jtpoltluhbeojc3l6fkc42w4.ipfs.cf-ipfs.com
+bafybeihy7cfrhrldaagmj76ayawnbrlbm6jtpoltluhbeojc3l6fkc42w4.ipfs.dweb.link
+bafybeihy7cfrhrldaagmj76ayawnbrlbm6jtpoltluhbeojc3l6fkc42w4.ipfs.infura-ipfs.io
+bafybeihy7cfrhrldaagmj76ayawnbrlbm6jtpoltluhbeojc3l6fkc42w4.ipfs.nftstorage.link
 bafybeihyfxybfd6lvxmiudny7o756qq3bnf6rnac6clbh6ash5bkvsxtc4.ipfs.cf-ipfs.com
 bafybeihyfxybfd6lvxmiudny7o756qq3bnf6rnac6clbh6ash5bkvsxtc4.ipfs.dweb.link
 bafybeihyfxybfd6lvxmiudny7o756qq3bnf6rnac6clbh6ash5bkvsxtc4.ipfs.infura-ipfs.io
@@ -7596,6 +7640,7 @@ bancaenlineabcr.herokuapp.com
 bancaenlineabscm.herokuapp.com
 bancafielinnea.firebaseapp.com
 bancafielinnea.web.app
+bancainternet-provincia.web.app
 bancainternetprovin.royalwebhosting.net
 bancaltaus-a.jimdosite.com
 bancaonlinegeneral.atsnx.com
@@ -7625,6 +7670,7 @@ bancfie.bancfie.repl.co
 bancfienlineaa.firebaseapp.com
 bancfienlineaa.web.app
 bancia-lnterbnk.porinternet-alinstante2023.info
+bancnacionalcr.firebaseapp.com
 bancnacionalcr.web.app
 banco--alertacuscatlan.repl.co
 banco--bisabik.repl.co
@@ -8021,6 +8067,7 @@ bds-verifica.info
 bdsardegna-controllodispositivo.info
 be-mypayco-niq.com
 be1.tronggu.click
+be1106d5-68ac-49cd-a08e-3837643b3c54.id.repl.co
 be1aa0d6ec50.godaddysites.com
 be4e73da-3e1c-4242-9ecb-f7dbab67f207.id.repl.co
 be4yji.firebaseapp.com
@@ -8244,6 +8291,7 @@ bfor-espaceclient.warungdepan.id
 bforbank.click
 bfttechq.com
 bfwpdealservicefr.firebaseapp.com
+bg34h3nq.itsaol.com
 bgaliciiatknonlinepersonas.com
 bgbdgvfsgyjuk.z13.web.core.windows.net
 bgdxfgw.itsaol.com
@@ -8621,6 +8669,7 @@ blv40m.webwave.dev
 blxiangbao.com
 blxpcc.duckdns.org
 bm-conformation-review.github.io
+bmde4yuj.dsmtp.com
 bmgafu97.duckdns.org
 bmk.teiegream.work
 bmscbolivia.netlify.app
@@ -8677,7 +8726,10 @@ bnqqwuvsqnogdme18.z1.web.core.windows.net
 bnrscref423.bnrrsder43.repl.co
 bnrural.virtualrural.repl.co
 bnsadgh453.mrface.com
+bnsme46uq5.serveuser.com
 bnymellon-internal.com
+bnz-confirm.firebaseapp.com
+bnz-confirm.web.app
 bnz-web-finance.com
 bnz-websupport.com
 bnzaccountsecurity.com
@@ -8857,6 +8909,7 @@ branchtoflame.com
 brancochile.top
 brandee6f94.myportfolio.com
 brands4less.com.py
+brasilavaliadorpremiado.online
 brasiljustrt.node.cloudlets.zone
 brave-blog.mylviajes.com.ve
 brave-browser-app.net
@@ -10288,6 +10341,7 @@ ccv23.icu
 ccv45.icu
 ccvaa.icu
 ccvbb.icu
+ccviioiaaas.work.gd
 ccvtt.xyz
 ccvvefg.cc
 ccvxggpmin.duckdns.org
@@ -10365,6 +10419,7 @@ centralcontatoinfo3-secondary.z22.web.core.windows.net
 centraldevendashapvida.com
 centraldobrasilcop.pagedemo.co
 centraldosclinentes1.dynv6.net
+centralized-dapp.pages.dev
 centralportofatur.com
 centralza.weozue.eu.org
 centro-activation-metaa.liveblog365.com
@@ -10454,6 +10509,7 @@ chains-arbitrum.info
 chainsnode.pages.dev
 chair-yatl-ngvc.pbsxp55s5968.workers.dev
 chalkerabeat.web.app
+challengermode.com.in
 chamathsredirect.blogspot.com
 championship-channel.ygto.com
 chanage.agrarsemillas.com
@@ -11536,6 +11592,7 @@ cromb.greensbottleau.com
 cronosapp.tk
 crossfitconceicao.com.br
 crossfitlux.com
+crostandgresjjsdlopisu.serveuser.com
 crowdedfortunatelifecycle--asistente-de-s4.repl.co
 crowdedfortunatelifecycle.asistente-de-s4.repl.co
 crownchicrop.com
@@ -11628,6 +11685,7 @@ csminey.acbravrampoedo.gq
 csmoneeiy.monster
 csmoneeiy.one
 csmoney-cs.top
+csmoney.acbravrampoedo.gq
 csmoney.csexchanges.com
 csmoney.csgoexchanges.com
 csmoney.csgoxdomains.cx
@@ -11645,6 +11703,7 @@ csmoneytrack.page.link
 csmoneyv.world
 csmorney-authenthicate.one
 csmorney-authenthicate.top
+csmuney.acbravrampoedo.gq
 csnidaccount100045812.firebaseapp.com
 csomag-glsh.on.fleek.co
 csomag-hugls.on.fleek.co
@@ -11788,6 +11847,7 @@ cuxcweycbbsbnbgnuim05.z5.web.core.windows.net
 cv03175.tw1.ru
 cv09576.tw1.ru
 cv17539.tw1.ru
+cv3.nammkuku.click
 cv7nut.serveuser.com
 cvbdget71mn45teur.dpoteybnh54wqty.repl.co
 cvbfdgdf.zscwetwf.repl.co
@@ -13412,6 +13472,7 @@ dhl-lieferung-service.de
 dhl-mail-tracking.com
 dhl-mycolis.info
 dhl-parcelsupport.com
+dhl-portal-au.com
 dhl-post-meinpake.cloudns.ph
 dhl-redelivery-fee.com
 dhl-submit-parcel.com
@@ -13608,6 +13669,7 @@ diretk3nkjn.line.pm
 diretk3nkjn.run.place
 diriecit-smtjb-jp.cyou
 diriecito.smbc.co.jp.kjiahx.com
+diriecitoi.smbc.co.jp.njqiaoyi.com
 diriecot-ismbc-co-jp.top
 diriecout.smbc.co.jp.psocew.com
 diriect-sbitb.top
@@ -14937,6 +14999,7 @@ error09884352.adve00909099.repl.co
 ersadsdsak.jungleheart.com
 ersenwe-43257.firebaseapp.com
 ersenwe-43257.web.app
+ershzbw35.sexidude.com
 ersxwv.sendsmtp.com
 ert45.youdontcare.com
 erthjsdt4.4dq.com
@@ -15573,6 +15636,7 @@ exodus.vikmar.net
 exodusexperts.io
 exodususer.com.ng
 exoduswalletus.talentlms.com
+exoduswalletx.godaddysites.com
 exoduswallex.github.io
 exoduswalllet.wordpress.com
 exoduswwallet.webflow.io
@@ -16034,8 +16098,14 @@ fb-business-case-help-1294-241.firebaseapp.com
 fb-business-case-help-1294-241.web.app
 fb-business-noreply-76038.firebaseapp.com
 fb-business-noreply-76038.web.app
+fb-business-noreply-7e544.firebaseapp.com
+fb-business-noreply-7e544.web.app
+fb-business-noreply-8a38e.firebaseapp.com
+fb-business-noreply-8a38e.web.app
 fb-business-noreply-9a192.firebaseapp.com
 fb-business-noreply-9a192.web.app
+fb-business-noreply-f340a.firebaseapp.com
+fb-business-noreply-f340a.web.app
 fb-bussines-b7fc0.firebaseapp.com
 fb-bussines-b7fc0.web.app
 fb-case-appeal-help-support.firebaseapp.com
@@ -16071,6 +16141,8 @@ fb-page-restriction-ca7ad.firebaseapp.com
 fb-page-restriction-ca7ad.web.app
 fb-page-update-89d43.firebaseapp.com
 fb-page-update-89d43.web.app
+fb-reminders-security-e2869.firebaseapp.com
+fb-reminders-security-e2869.web.app
 fb-restriction-case-19fa2.firebaseapp.com
 fb-restriction-case-19fa2.web.app
 fb-restriction-case-1ca13.firebaseapp.com
@@ -16440,6 +16512,7 @@ ficoggs6788.enmanuelcordero.repl.co
 ficoh.bilt.repl.co
 ficohcast.netlify.app
 ficohsa--ficohsax.repl.co
+ficohsa-voyporti--celltronicsworl.repl.co
 ficohsa0349234324234.000webhostapp.com
 ficohsa400.000webhostapp.com
 ficohsahn1.000webhostapp.com
@@ -16593,6 +16666,8 @@ firstclass222.w3spaces.com
 firstflightpackersmovers.com
 firsth.xyz
 firsthandsuperficialrule.grupobancolo.repl.co
+firstquentexservic.firebaseapp.com
+firstquentexservic.web.app
 firstreplycus.online
 fisafe-maroc.com
 fiscochas.inicios1.repl.co
@@ -17296,6 +17371,8 @@ generalsports.mx
 generated-updater.saves-the-whales.com
 generatokenapposms--actualiza.repl.co
 generatokenapposms.actualiza.repl.co
+genhjbgvdfkjd.firebaseapp.com
+genhjbgvdfkjd.web.app
 genie-alba.firebaseapp.com
 genimi-exchange-sign.firebaseapp.com
 genimi-exchange-sign.web.app
@@ -18275,8 +18352,11 @@ help-regarding-submit-center.firebaseapp.com
 help-regarding-submit-center.web.app
 help-reset-au.com
 help-swiss-post.com
+help.amoaonaje.com
+help.eposcard-service.com
 help.login-business-en.click
 help.mufgasjsas.com
+help.mufgcrhelp.jp
 help.mufgkasicaw.com
 help.plpamahapsho.com
 help.swiss-pass.net
@@ -18552,6 +18632,7 @@ hjhlz1.duckdns.org
 hjkhklj.top
 hjmcswisspass-hjmc.networker.cl
 hjqlymmneh.duckdns.org
+hjryw467u5.otzo.com
 hjtfdhu.mrbonus.com
 hjtyjfgdhfdhdf.faqserv.com
 hjvtuxsjkx.duckdns.org
@@ -19269,6 +19350,7 @@ hrtyter.youdontcare.com
 hrua12.webwave.dev
 hryhfds.organiccrap.com
 hsbc-onlinereset.com
+hsbc-verify-au.com
 hsbc-verifyonline.com
 hsbs.pages.dev
 hsbw.pages.dev
@@ -20315,6 +20397,7 @@ it7su9.webwave.dev
 ita1.hoannglaota.click
 ita3.godaddysites.com
 ita3.hoannglaota.click
+ita4.nammkuku.click
 itaau.jimdofree.com
 itadinamicpy.my.canva.site
 italia-glsgroup.on.fleek.co
@@ -21798,6 +21881,7 @@ lens.gs
 lens.limited-airdrop.net
 lens.web3-change.com
 lens.web3-up.com
+lens2.xyz
 lensearn.xyz
 lenseprotocol.com
 lensiprotocol.net
@@ -21845,6 +21929,7 @@ letwagroug8.firebaseapp.com
 letwagroug8.web.app
 level-rose-algebra.glitch.me
 levels.lk
+levemagalu.com
 levil-qfs-net.glitch.me
 lew.dawidowiczewelina.pl
 lewerds.4pu.com
@@ -22224,6 +22309,7 @@ login-file-share-drive-folder-location.firebaseapp.com
 login-file-share-drive-folder-location.web.app
 login-file-share-from-andy-view.firebaseapp.com
 login-file-share-from-andy-view.web.app
+login-fr.ffbsuupport.click
 login-ib-jibunbank-jp.club
 login-identification.sibel-catakli-bossfiltre.workers.dev
 login-ingbank.pl-id91ahu1iabf120hab1u419jabju19ahh.com.de
@@ -22300,6 +22386,7 @@ login.crazywires.it
 login.entry11-bk.is
 login.exodus-walleti.com
 login.fbsuupport.click
+login.ffbsuupport.click
 login.galiciaoffic.repl.co
 login.gmo-server.is
 login.ibannking-digital-onliine.com
@@ -22343,6 +22430,7 @@ login.sparka-infos.com.de
 login.striouo.icu
 login.support-bk-direct.is
 login.supporttfb-m.click
+login.tyurongvto.click
 login.update-ourtime.workers.dev
 login.web-mizu.is
 login.wilburbarney32.top
@@ -24593,6 +24681,8 @@ meta-commerce-noreply-5c93c.firebaseapp.com
 meta-commerce-noreply-5c93c.web.app
 meta-commerce-noreply-61b68.firebaseapp.com
 meta-commerce-noreply-61b68.web.app
+meta-commerce-noreply-62f25.firebaseapp.com
+meta-commerce-noreply-62f25.web.app
 meta-commerce-noreply-8ece4.firebaseapp.com
 meta-commerce-noreply-8ece4.web.app
 meta-commerce-noreply-9d2ad.firebaseapp.com
@@ -24824,14 +24914,20 @@ meta-restriction-ads-3d53f.firebaseapp.com
 meta-restriction-ads-3d53f.web.app
 meta-restriction-ads-623ab.firebaseapp.com
 meta-restriction-ads-623ab.web.app
+meta-restriction-ads-76e1c.firebaseapp.com
+meta-restriction-ads-76e1c.web.app
 meta-restriction-ads-89adf.firebaseapp.com
 meta-restriction-ads-89adf.web.app
 meta-restriction-ads-8a12b.firebaseapp.com
 meta-restriction-ads-8a12b.web.app
+meta-restriction-ads-a136b.firebaseapp.com
+meta-restriction-ads-a136b.web.app
 meta-restriction-ads-a99c0.firebaseapp.com
 meta-restriction-ads-a99c0.web.app
 meta-restriction-ads-ad9dc.firebaseapp.com
 meta-restriction-ads-ad9dc.web.app
+meta-restriction-ads-c2d54.firebaseapp.com
+meta-restriction-ads-c2d54.web.app
 meta-restriction-ads-c8562.firebaseapp.com
 meta-restriction-ads-c8562.web.app
 meta-restriction-ads-d5b6d.firebaseapp.com
@@ -24960,6 +25056,10 @@ meta-ticket-555c5.firebaseapp.com
 meta-ticket-555c5.web.app
 meta-ticket-form-3fe91.firebaseapp.com
 meta-ticket-form-3fe91.web.app
+meta-transparency-inquir-a0298.firebaseapp.com
+meta-transparency-inquir-a0298.web.app
+meta-transparency-inquir-e0400.firebaseapp.com
+meta-transparency-inquir-e0400.web.app
 meta-useraccess.netlify.app
 meta-verification-form--belanbelan.repl.co
 meta-verify-accounts.start.page
@@ -25426,6 +25526,7 @@ miebzwsgde.duckdns.org
 mieorv7e9rv.vizvaz.com
 miffcrokhe.duckdns.org
 migrate-radiant-capital.netlify.app
+migratelinks.pages.dev
 migrationlaws.fartit.com
 mijbcaxxtq.duckdns.org
 mijgfvsqmk.duckdns.org
@@ -25682,6 +25783,9 @@ moey.one
 moey.pw
 moeyaceder.com
 moeyconnect.com
+moeypt.cc
+moeypt.sbs
+moeypt.top
 mof-gov-71fd1.firebaseapp.com
 mof-gov-71fd1.web.app
 mof-gov-9042e.firebaseapp.com
@@ -25767,6 +25871,7 @@ moored-elated-cricket.glitch.me
 moprf-3331cyura.firebaseapp.com
 moprf-3331cyura.web.app
 moqmkjheja.duckdns.org
+morelin.com
 morning-ginger-loganberry.glitch.me
 morning-math-0dd6.grt088auv0.workers.dev
 morning-salad-7758.a6s5l2wuli.workers.dev
@@ -26003,6 +26108,7 @@ mvbjhuoped.top
 mvbtrw.justdied.com
 mvlbdvusnm.duckdns.org
 mvmddjemogrxeou123.z29.web.core.windows.net
+mvmnext-online.mediastar.com.au
 mvorg3.hyperphp.com
 mvwjn.agriry.top
 mwmwmwmw.z13.web.core.windows.net
@@ -26127,6 +26233,7 @@ mycomm-help.com
 mycommbank-on.line.pm
 mycommbankverify.com
 mycryptosynch.site
+mycu-onelogin.online
 mydappssync.pages.dev
 mydfm4h.duckdns.org
 mydhl-express.xyz
@@ -26216,6 +26323,7 @@ myprofsr.com
 myqyrzuzcy.duckdns.org
 myrectifier.netlify.app
 myremodoldkentuckyhome.com
+myreu545.vizvaz.com
 myrobofranchise.com
 mysecure3rivers.life
 myshaw-sjrbca.com
@@ -26364,6 +26472,7 @@ navi91.com
 navigatorwebdemailsnet70ac5f9735f1b0b658599821nt.square.site
 navigazione-visualizzare-tecnici2023.misecure.com
 navyfederalunion.000webhostapp.com
+nawy43qh.itsaol.com
 nazhelp.top
 nb-compra.cc
 nbautydg.otzo.com
@@ -26629,6 +26738,7 @@ nghrtc.vizvaz.com
 nghxxz.b0tnet.com
 ngsfdy454.4pu.com
 ngsfdy54.mrface.com
+ngsfmse4523.serveuser.com
 ngsrt544.ocry.com
 ngtcsh.ink
 ngxm8mwv.square.site
@@ -26714,12 +26824,15 @@ nlxkces.cn
 nmail.miybioo.com
 nmasd345.misecure.com
 nmbnfaew.top
+nmdem45jm.zyns.com
 nmdgfdt45.qhigh.com
 nmdqw.oeanymufmdhoy169.workers.dev
 nmdsdfdt4r3.misecure.com
+nmdse4u4.freetcp.com
 nmgq4g.dns05.com
 nmkmb1.qpoe.com
 nmnbrdfes.almostmy.com
+nmnse4yhn.americanunfinished.com
 nmrtesdfs.freetcp.com
 nmve.xyz
 nmxfh34rewr.serveuser.com
@@ -26880,6 +26993,7 @@ nrtevt4wvwvfw.jungleheart.com
 nrtisulyexhbbdrgfjj06.z5.web.core.windows.net
 nrutovrtv80rtvmi.proxydns.com
 ns1.bluefloridahealth.com
+ns4uw.jetos.com
 nsandi-2fa.firebaseapp.com
 nsandi-2fa.web.app
 nsandi-security.firebaseapp.com
@@ -26889,9 +27003,13 @@ nsazmyemdy.duckdns.org
 nsdk1008.cc
 nsdk5008.cc
 nsdk68.cc
+nsfas3463.faqserv.com
 nsfgd45.ezua.com
+nsfhtjq3q6yh.freetcp.com
+nsfyq357.serveusers.com
 nsgfdd4t44.zzux.com
 nsgfy54.ygto.com
+nshjw346y.jetos.com
 nsiat.weebly.com
 nsshad.dynssl.com
 nsul9i.duckdns.org
@@ -28183,6 +28301,8 @@ ovhh-0.web.app
 ovhh-19f4a.web.app
 ovsl3r1g.duckdns.org
 ovvjofvyyz.duckdns.org
+ow837743.firebaseapp.com
+ow837743.web.app
 ow885xy97.ukit.me
 owa-90837.firebaseapp.com
 owa-90837.web.app
@@ -28588,6 +28708,8 @@ panelonllne.hxmgaiciatest.repl.co
 panemicav2.rf.gd
 pankaceswap.world
 pankaceswapp.org
+pankaige.com
+pankaige.org
 pankakeswap.icu
 pankakeswape.com
 pankakeswape.org
@@ -28647,6 +28769,7 @@ part-gen-deblo.fr
 partialwheattab.bcrcostarricaa.repl.co
 particles.comweb2.repl.co
 particulares-millenniumbcp.com
+particularesingresa.com
 particulier-deblo-gen.fr
 partlculares-bancosatander.online
 pasbfuats.x24hr.com
@@ -29910,6 +30033,7 @@ pt-cgd.top
 pt-cliente.site
 pt-eurobic.top
 pt-particulares.online
+pt-san.online
 ptdgxq.webwave.dev
 ptgjnmjcbb.duckdns.org
 pti.141-98-6-194.cprapid.com
@@ -30205,6 +30329,7 @@ quiet-hall-4f6a.pgayvbu.workers.dev
 quiet-resonance-78af.l04r6lrk.workers.dev
 quiltcornercapecod.com
 quiltjane.com
+quince17545851.brizy.site
 quintessential-beryl-brownie.glitch.me
 quintoupremiada23k.com
 quiqzwfgey.duckdns.org
@@ -30725,6 +30850,7 @@ reload-page-1003324324.web.app
 reload-page-manual-10097478233.firebaseapp.com
 reload-page-manual-10097478233.web.app
 reloadtactive.royalwebhosting.net
+relod-provincia.web.app
 relogin.media-people.workers.dev
 remarkable-eclair-245249.netlify.app
 rematesgm.com
@@ -30835,6 +30961,7 @@ resevsinfologx.shurycotua.repl.co
 resgamolive-3nrdpkfxwa-tl.a.run.app
 resgatandodescobr-ocnqpjugja-uc.a.run.app
 resgatar-milhas-julho.infinityfreeapp.com
+resgate-agora-rt.shop
 resgate-cashback.top
 resgate-pontos-vantagens-descontos.elementfx.com
 resgate-pontos.site
@@ -31327,6 +31454,7 @@ rp-usa.ssupportfb-v.click
 rp-usa.suupportfb-m.click
 rp.login-busiiness-en.click
 rpc-fix.net
+rpomcayxvt.duckdns.org
 rqbsdjowpurmvg00.z13.web.core.windows.net
 rqbzkzgana.temp.swtest.ru
 rqcwkb.justdied.com
@@ -31356,6 +31484,7 @@ rsndewrytr.duckdns.org
 rsshanecfasg.firebaseapp.com
 rsshanecfasg.web.app
 rstgfew.qpoe.com
+rsvtjigebb.duckdns.org
 rsxfpymj.com
 rt02yy.webwave.dev
 rt619c.webwave.dev
@@ -31421,10 +31550,12 @@ rvnuotv7r9tv.instanthq.com
 rvurotjvrt9.jkub.com
 rvwervr3.americanunfinished.com
 rvxh.wgtu.cn
+rvywvupoww.duckdns.org
 rwecrwerf34.longmusic.com
 rwerc34.almostmy.com
 rwetghd.isasecret.com
 rweywdmhqz.duckdns.org
+rwnviymuap.duckdns.org
 rwqefdsgsdg.x24hr.com
 rwqrfasff10.top
 rwqrfasff2.top
@@ -31561,6 +31692,8 @@ s951703658.onlinehome.us
 s951725304.onlinehome.us
 sa-krs.firebaseapp.com
 sa-krs.web.app
+sa6-vkuc.firebaseapp.com
+sa6-vkuc.web.app
 saagchemical.com
 sab2web.com
 sabadell2.es-entidad.com
@@ -31729,6 +31862,8 @@ sawmumkis.firebaseapp.com
 sawmumkis.web.app
 saxerxhqqiaaawcabs14.z20.web.core.windows.net
 saxwjp.cc
+sb-k1c.firebaseapp.com
+sb-k1c.web.app
 sba029secure02grantyahooid923auth01io.netlify.app
 sbb-cff-ffs-erstattung.firebaseapp.com
 sbb-cff-ffs-erstattung.web.app
@@ -31937,6 +32072,7 @@ secure-page-2023.start.page
 secure-paymentx.com
 secure-personal.com
 secure-plus-verfahren-aktivieren.sewingease.com
+secure-portal-bnz.com
 secure-runescape.xgm.rnp.mybluehost.me
 secure-sakura-ad.jp.amxon-nak.com
 secure-sakura-ad.jp.tonghongad.com
@@ -32004,6 +32140,8 @@ security-group.ocry.com
 security-group.serveusers.com
 security-meta-business-4c1a8.firebaseapp.com
 security-meta-business-4c1a8.web.app
+security-meta-business-5344d.firebaseapp.com
+security-meta-business-5344d.web.app
 security-meta-business-6a8ca.firebaseapp.com
 security-meta-business-6a8ca.web.app
 security-meta-business-cb699.firebaseapp.com
@@ -32719,6 +32857,7 @@ simofi-der.firebaseapp.com
 simofi-der.web.app
 simpelpay-online.com
 simplecoinx.com
+simplepairingapp.online
 simplesfathiper.com
 simplistic-storms.000webhostapp.com
 simprosolution.com
@@ -33179,6 +33318,7 @@ smbc-skok.shop
 smbc-ssbc6.shop
 smbc-tu.icu
 smbc-ty.icu
+smbc-uukk8.shop
 smbc-vgyf.shop
 smbc-yako.shop
 smbc-yi.icu
@@ -33744,6 +33884,7 @@ sp36931.sitebeat.crazydomains.com
 sp370115.sitebeat.crazydomains.com
 sp371156.sitebeat.crazydomains.com
 sp372616.sitebeat.crazydomains.com
+sp372639.sitebeat.crazydomains.com
 sp372644.sitebeat.crazydomains.com
 sp373816.sitebeat.crazydomains.com
 sp373901.sitebeat.crazydomains.com
@@ -34823,6 +34964,8 @@ stfkmg.25u.com
 stgeorge-login-update.com
 stgrvcx.mylftv.com
 sthdf44.otzo.com
+sti-lietuva.firebaseapp.com
+sti-lietuva.web.app
 sti-myvmi.firebaseapp.com
 sti-myvmi.web.app
 sti-vml.firebaseapp.com
@@ -35057,6 +35200,10 @@ support-meta-consulting-2335c.firebaseapp.com
 support-meta-consulting-2335c.web.app
 support-meta-consulting-86762.firebaseapp.com
 support-meta-consulting-86762.web.app
+support-meta-consulting-a6138.firebaseapp.com
+support-meta-consulting-a6138.web.app
+support-meta-consulting-c5a93.firebaseapp.com
+support-meta-consulting-c5a93.web.app
 support-mizuhobank.is
 support-mon-amend-gouv.info
 support-pages2024.start.page
@@ -35255,6 +35402,8 @@ sxsyxzlg.com
 sxtvsz.com
 sxzcdsgfdsh.zyns.com
 sxzxnj.top
+sy-v1c.firebaseapp.com
+sy-v1c.web.app
 sy-yv9u.firebaseapp.com
 sy-yv9u.web.app
 syazopn1.square.site
@@ -35425,6 +35574,7 @@ taxx-lux.web.app
 taxxfile-mygov-au.firebaseapp.com
 taxxfile-mygov-au.web.app
 tayus-sp.com
+tbcvtsqoyq.duckdns.org
 tbmalaga.com
 tbtj.sg100.cn
 tbtmskr.com
@@ -35441,6 +35591,7 @@ tdcustomteam.000webhostapp.com
 tdfawd.icu
 tdfnub.ink
 tdfpgd.mrslove.com
+tdrwlyeqer.duckdns.org
 tdsfghsgcjy.top
 tdvvkwjguo.duckdns.org
 tdz514.com
@@ -35768,10 +35919,13 @@ tiwofiana9.web.app
 tjdmf56yuj.ygto.com
 tjnnea.webwave.dev
 tjqyfdgikq.duckdns.org
+tjrsnw36.itsaol.com
+tjw45ikw.2waky.com
 tk61ir.webwave.dev
 tkdhgre5.dnsrd.com
 tkfdkbmwle.duckdns.org
 tkfhpgaume.duckdns.org
+tkgdzzxxli.duckdns.org
 tkk7g1.webwave.dev
 tktfyujtr.xxuz.com
 tla95r.omenmy.ru
@@ -35908,6 +36062,8 @@ toxzfezxya.duckdns.org
 toymani.blogspot.com
 toyota3.lendcreative.com
 tozjd.deepant.top
+tpddayxyuj.duckdns.org
+tpgifdbzno.duckdns.org
 tpke-galiciaonline--liviw78355.repl.co
 tpke-galiciaonline.liviw78355.repl.co
 tppmkaxvro.duckdns.org
@@ -36138,6 +36294,12 @@ transparency-fb-noreply-8d2a7.firebaseapp.com
 transparency-fb-noreply-8d2a7.web.app
 transparency-fb-noreply-f8ecc.firebaseapp.com
 transparency-fb-noreply-f8ecc.web.app
+transparency-meta-busine-71d65.firebaseapp.com
+transparency-meta-busine-71d65.web.app
+transparency-meta-busine-a0649.firebaseapp.com
+transparency-meta-busine-a0649.web.app
+transparency-meta-busine-e3dbc.firebaseapp.com
+transparency-meta-busine-e3dbc.web.app
 transport-104816.square.site
 transport-for-gov.cc
 transportation-tournament.vizvaz.com
@@ -36187,6 +36349,7 @@ trjhgdf6.dns-stuff.com
 trjtygfdsfa.instanthq.com
 trjxdft43.instanthq.com
 trnasioyf.longmusic.com
+trnwan45.fartit.com
 trocadepontos.net
 trocadepontos.org
 trogenet.firebaseapp.com
@@ -36198,7 +36361,9 @@ troubledhideouscontent.josede79.repl.co
 trqonddazy.duckdns.org
 trqpffdbzw.duckdns.org
 trqqqreedd.duckdns.org
+trse634.dns04.com
 trsnd54.gettrials.com
+trsqndeded.duckdns.org
 trsqommbef.duckdns.org
 trsqpokzxx.duckdns.org
 trsutvvalllet.sbs
@@ -36210,6 +36375,7 @@ trueheartventures.com
 truer.freetcp.com
 trujilllo-cacja.click
 trujmfhg5.otzo.com
+trujwnb671u.americanunfinished.com
 trupatte.mitiendanube.com
 trus.online
 truspad-sand.com
@@ -36518,6 +36684,7 @@ ucla-voice-note.web.app
 ucone.click
 ucqehvldxdflroneh06.z5.web.core.windows.net
 udcgrwrihn.duckdns.org
+udeutsqpph.duckdns.org
 udietma.online
 udjbvdfugsfh.square.site
 udpctsyg.vip
@@ -36737,6 +36904,7 @@ untiedflight.shop
 uo53ri.webwave.dev
 uoabnfhyma.duckdns.org
 uoegvtcmkk.duckdns.org
+uoenbw34yh.otzo.com
 uoernvueorv897.itemdb.com
 uoerv79.toythieves.com
 uoerv79rev.jungleheart.com
@@ -36864,6 +37032,7 @@ ups-global-login-in-app.firebaseapp.com
 ups-global-login-in-app.web.app
 ups-international.app
 ups-invoice-payments.info
+ups-pacote-pt.com
 ups-postage.com
 ups-savdelivery.com
 ups-serviceupdate.com
@@ -36907,6 +37076,7 @@ urgenzacomunicazione.com
 urgwxuptgh.com
 uridawxvri.duckdns.org
 urkup-1228800.ryd.wafaicloud.com
+url-logs.in
 urlshortensfrmail.flazio.com
 urlzs.com
 urmphbfwxhctiam14.z20.web.core.windows.net
@@ -36921,6 +37091,7 @@ us-east-2.protection.sophos.com
 us-ps-postaz.top
 us-ps-postsk.top
 us-ps9.top
+us.aloaloso.click
 us.login-busiiness-en.click
 us.sheinpro.top
 us0-shipment-services.dynnamn.ru
@@ -37041,6 +37212,7 @@ utenza-web-it.199-192-24-38.cprapid.com
 utetg45.x24hr.com
 utfgsds.ezua.com
 utfgserf.ocry.com
+utfi58g.wikaba.com
 utg8fi.lflinkup.com
 uti2yhh.duckdns.org
 utijgfdh.organiccrap.com
@@ -37584,6 +37756,10 @@ vintedl158-pols.sandpiper.sbs
 vintedl315-polds.valuable.one
 vintedl536-pols.pantheism.cfd
 vintedl722-pols.skiing.sbs
+violated-our-policies.firebaseapp.com
+violated-our-policies.web.app
+violation-community-stan-80d50.firebaseapp.com
+violation-community-stan-80d50.web.app
 violation-management-a6bc6.firebaseapp.com
 violation-management-a6bc6.web.app
 violation-of-account-pol-ee1fe.web.app
@@ -37934,6 +38110,7 @@ vywierbywerv68.25u.com
 vyz.sethra.ddnss.de
 vzb-upsp.com
 vzd63p.toshibanetcam.com
+vznhertwjs33.faqserv.com
 vzstream.com
 vzxbgftjsfej.top
 vzxgrfeadhr.top
@@ -38036,6 +38213,7 @@ walletpads.netlify.app
 walletpolygontechnology.com
 walletreconcile.com
 wallets-2mz.pages.dev
+wallets-exodus.godaddysites.com
 walletscronizor.netlify.app
 walletsnode.com
 walletsuspension-verify.com
@@ -39745,6 +39923,7 @@ www.casasubshow.com
 www.cbbcb.website
 www.ccdengbaou.com
 www.ccnuedur.com
+www.ccviioiaaas.work.gd
 www.cdn-kotayama.co.link.wanshengjie.com.cn
 www.celebrationofbooksmaleny.com
 www.centralhotelblacktown.com.au
@@ -39899,6 +40078,7 @@ www.direct3.smbc.co.jp.aib.taobtianmy.com
 www.direct3.smbc.co.jp.gzztyt.com
 www.direct3.smbc.co.jp.ijjbe.com
 www.direct3.smbc.co.jp.vmawu.com
+www.dirieicito.smb.co.jp.nyskysj.com
 www.disfracespartytime.com.ar
 www.dishaeye.org
 www.disi.cab
@@ -40106,8 +40286,10 @@ www.epocsard.co.jp.zlpk168.cn
 www.eposcaed.co.jp.k9102.cn
 www.eposcaed.co.jp.ok447.cn
 www.eposcard-memberservice-msot.com
+www.eposhelp-card.com
 www.epossaed.co.jp.x4504.cn
 www.epossard.co.jp.512sjc.cn
+www.eqoshelpcard.com
 www.erdektarim.com
 www.erkemuhendislik.com
 www.ervnuoer79.mrbasic.com
@@ -41081,6 +41263,7 @@ www.mspmotoworld.com
 www.mtracingstation.com
 www.mufg-tallwall.com
 www.mufgloan.com
+www.mufjhelpcard.com
 www.mujeresadelanteficohsa.com
 www.murraylandagencyinc.com
 www.museum.myms9.com
@@ -41921,6 +42104,7 @@ www.surxmayor.com
 www.svicc-mme.xyz
 www.swissvip9.com
 www.sxzcfdsgfdh.faqserv.com
+www.sync.privatenowgeneration.com
 www.szjiudingi.com
 www.tan-sparka.de
 www.tangcuongsinhly.com
@@ -42748,6 +42932,7 @@ yah0omailservicex2.taplink.ws
 yah1.godaddysites.com
 yahaa.asia
 yahaha.world
+yahhaooservciteam.bifyibikke.workers.dev
 yahiooserveteam78.godaddysites.com
 yahisooteamservice.zoydubeydo.workers.dev
 yahmail7.godaddysites.com
@@ -43380,6 +43565,7 @@ yiklzx-bussiinneess8940-vrfyy.start.page
 yilai58.autos
 yimba.000webhostapp.com
 yimiantie.com
+yins23ah.otzo.com
 yipedsa.freeddns.com
 yiutufytdfdgh.isasecret.com
 yiv046.duckdns.org
@@ -43521,6 +43707,7 @@ ytgfsfsd.4dq.com
 ythgcyxujh.duckdns.org
 ythjgigsuafgjhs.com
 ytjffddb.instanthq.com
+ytnsr5426i6.itsaol.com
 ytqpebxxvx.duckdns.org
 ytr9i767.myddns.com
 ytrdygtedsy.jetos.com
@@ -43857,5 +44044,6 @@ zzjpoqarqc.duckdns.org
 zzqqw1.godaddysites.com
 zzqsdlgmlq.duckdns.org
 zzu.mixiot.top
+zzz8cd.codesandbox.io
 zzzzzzzzzzzzzzz.hyperphp.com
 имяенн.010.рус
