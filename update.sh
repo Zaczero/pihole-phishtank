@@ -5,7 +5,27 @@ set -e
 cd "$(dirname "$0")"
 
 echo "Fetching latest data from phishtank..."
-data=$(curl -sL https://data.phishtank.com/data/online-valid.json)
+fetch_data() {
+  for _ in $(seq 1 10); do
+    data=$(curl -sL https://data.phishtank.com/data/online-valid.json)
+    if [[ $? -eq 0 && -n "$data" ]]; then
+      return 0
+    fi
+    sleep 60
+  done
+  return 1
+}
+
+if ! fetch_data; then
+  echo "Failed to fetch data after multiple attempts"
+  exit 1
+fi
+
+# check if the data is a valid JSON
+if ! echo "$data" | jq empty; then
+  echo "Received invalid JSON data"
+  exit 1
+fi
 
 echo "Extracting urls from json..."
 urls=$(echo "$data" | jq -r '.[].url')
