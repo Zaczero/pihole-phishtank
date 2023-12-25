@@ -68,7 +68,7 @@ for url in $urls; do
         continue
     fi
 
-    # skip if url is not specific enough
+    # skip if url is not simple
     # https?:\/\/[^\/]* - match protocol and domain
     # (\/([?#]([^h].*)?)?)? - match empty path, path with query, or path with fragment...
     # [^h] - ...but only if it doesn't start with h (to avoid matching http, some legitimate sites use this)
@@ -76,6 +76,11 @@ for url in $urls; do
         continue
     fi
 
+    # skip if url contains 2 or more https?:\/\/
+    if [[ $url =~ https?:\/\/.*https?:\/\/ ]]; then
+        continue
+    fi
+    
     # add to hosts and increment count
     hosts+="$domain\n"
     counts[$domain]=$(( ${counts[$domain]} + 1 ))
