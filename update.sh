@@ -80,6 +80,11 @@ for url in $urls; do
     if [[ $url =~ https?:\/\/.*https?:\/\/ ]]; then
         continue
     fi
+
+    # skip if url contains www in path or query or fragment
+    if [[ $url =~ ^https?:\/\/.*?\/.*[Ww]{3} ]]; then
+        continue
+    fi
     
     # add to hosts and increment count
     hosts+="$domain\n"
