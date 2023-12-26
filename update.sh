@@ -77,7 +77,7 @@ for url in $urls; do
     fi
 
     # skip if url contains 2 or more https?:\/\/
-    if [[ $url =~ https?:\/\/.*https?:\/\/ ]]; then
+    if [[ $url =~ ^https?:\/\/.*https?:\/\/ ]]; then
         continue
     fi
 
