@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sun Jan  7 20:04:08 UTC 2024
-# Number of unique domains: 18001
+# Date: Mon Jan  8 00:15:48 UTC 2024
+# Number of unique domains: 17998
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -87,7 +87,6 @@
 25usrs210ps.cc
 25usrs452ps.cc
 25usrs821ps.cc
-26usps415ps.cc
 26usrs541ps.cc
 26usrs874ps.cc
 27846128421-krupkpdsenklecwoy.start.page
@@ -716,12 +715,10 @@ amissia.com
 amnzcd.xyz
 amnzgv.xyz
 amnzhw.xyz
-amnzib.xyz
 amnzio.xyz
 amnzmg.xyz
 amnzpp.xyz
 amnzto.xyz
-amnzux.xyz
 amnzwh.xyz
 amnzwu.xyz
 amnzyz.xyz
@@ -1374,7 +1371,6 @@ att-102913-105330.weeblysite.com
 att-102917.weeblysite.com
 att-102956.weeblysite.com
 att-102975.weeblysite.com
-att-102982.square.site
 att-102985.weeblysite.com
 att-103022-106225.weeblysite.com
 att-103053.weeblysite.com
@@ -1835,7 +1831,6 @@ attinc7362829.pory.app
 attjvdfjvdfvjsdfs.boxmode.io
 attksjiiddioi23.weeblysite.com
 attlogin103733-106146.weeblysite.com
-attlogin106109.weeblysite.com
 attlogin107784-104185.weeblysite.com
 attlogin108423.weeblysite.com
 attlogin2109775.weeblysite.com
@@ -3137,6 +3132,9 @@ bafybeiccksuooxm2fbzg774fibbhc4kzp6kdrquaxqnmdjh5qliubj6dom.ipfs.cf-ipfs.com
 bafybeiccrf2y5p2h7o6ei5x4ohpjl4ssa6bohqoicq5b6szghj4x7louoy.ipfs.cf-ipfs.com
 bafybeicd3oizgpkeed3ygtumcifaeo6uzssztl2lymf42iwwx6zcvroxd4.ipfs.cf-ipfs.com
 bafybeicdcq3u5msx7szb5jqg25ollai7x2pcominabwmdf5vcxvqxkh534.ipfs.cf-ipfs.com
+bafybeicdd5na2rhbqt4fxgvwnuoquykrs3xfm7gql2k3ceu24nsz5aoj4i.ipfs.cf-ipfs.com
+bafybeicdd5na2rhbqt4fxgvwnuoquykrs3xfm7gql2k3ceu24nsz5aoj4i.ipfs.dweb.link
+bafybeicdd5na2rhbqt4fxgvwnuoquykrs3xfm7gql2k3ceu24nsz5aoj4i.ipfs.nftstorage.link
 bafybeicdfasghrx4jxkedyrf6nhrciv6giqk2x43ahnhiuhpnxx3xojn2e.ipfs.cf-ipfs.com
 bafybeicdghhwn2zlz75j2u5ril6fhjyma4w37g7j3z4ecm6utwj6fdp3bi.ipfs.cf-ipfs.com
 bafybeicdrkxnpdw43hjno5cdyc66nx7lqe2usshf6ve36gw2ivk5lsghjm.ipfs.cf-ipfs.com
@@ -3463,6 +3461,10 @@ bafybeieejvrbmqtnvukhi6imms5rkrlq4adeiyj5z6mzbkhow3qlvgo75y.ipfs.nftstorage.link
 bafybeieeuphvkse2dl6brxancprldnaajmdaxnhid4zoudsm2gijwcxo7i.ipfs.cf-ipfs.com
 bafybeieeyiw7vvgqpnn6i5p55dxrr5lvhf74jhag6gfjyadflfn3esz3hi.ipfs.cf-ipfs.com
 bafybeief2zlxni2hcbp5no5aaz6nftsyfk2tofpgwiq5bcbixgghmx6lwy.ipfs.cf-ipfs.com
+bafybeief442rdgdcjc7jckxbj2pqyxnemwylkbceocbazdkq2lpozpszim.ipfs.cf-ipfs.com
+bafybeief442rdgdcjc7jckxbj2pqyxnemwylkbceocbazdkq2lpozpszim.ipfs.dweb.link
+bafybeief442rdgdcjc7jckxbj2pqyxnemwylkbceocbazdkq2lpozpszim.ipfs.infura-ipfs.io
+bafybeief442rdgdcjc7jckxbj2pqyxnemwylkbceocbazdkq2lpozpszim.ipfs.nftstorage.link
 bafybeiefalwgo2dutlt3okjfwwj7rropuiufhwnf24nukew7fsdrekorwi.ipfs.cf-ipfs.com
 bafybeiefalwgo2dutlt3okjfwwj7rropuiufhwnf24nukew7fsdrekorwi.ipfs.nftstorage.link
 bafybeiefbr2pvr3zntgyh6h2nnjsugvpty6qssrz3lfdtd26bvb5citfri.ipfs.cf-ipfs.com
@@ -3700,6 +3702,8 @@ bafybeifstfxwf4ccvpin7wm2wgukh2em5johwrrzsdnwhxgk6thmzi2mly.ipfs.cf-ipfs.com
 bafybeifstfxwf4ccvpin7wm2wgukh2em5johwrrzsdnwhxgk6thmzi2mly.ipfs.nftstorage.link
 bafybeift5yfcbifmnh3rgqhcltm5pwpaiyzh2xnoalxxr25d7v64ui3igm.ipfs.cf-ipfs.com
 bafybeiftaicwvscgfooidxmkcmto3ajdgwotuhcnhzcohsnzpst7j2cgfi.ipfs.cf-ipfs.com
+bafybeiftbhhnmpwl4avyf4onwqh3tfuxs2bpwfnp5pkdirpxgof6lceony.ipfs.cf-ipfs.com
+bafybeiftbhhnmpwl4avyf4onwqh3tfuxs2bpwfnp5pkdirpxgof6lceony.ipfs.dweb.link
 bafybeiftinvvo5aywfg5jjdk7hzq6efo6itub2qak73kirlux33kui274m.ipfs.cf-ipfs.com
 bafybeifui35jwqdxklmjyaqr3uw7ovcc2u2liawucga4xcysp4gtzooeju.ipfs.cf-ipfs.com
 bafybeifuj5nalym5xn7biif3jhl3rdcdhnmpfinjmy6uhnllevyuqnbe3u.ipfs.w3s.link
@@ -4114,7 +4118,6 @@ bbmaconline.com
 bbshshbc.eshost.com.ar
 bbsystreanes.firebaseapp.com
 bbsystreanes.web.app
-bbvasdp55.xyz
 bc.tv.br
 bc000456r.webcindario.com
 bc020.odoo.com
@@ -4447,6 +4450,10 @@ bravauce-gold.firebaseapp.com
 bravauce-gold.web.app
 bravebrowser.filfar.eu
 brbcadastro.000webhostapp.com
+breach-account-policy-85fd7.firebaseapp.com
+breach-account-policy-85fd7.web.app
+breach-account-policy-e2665.firebaseapp.com
+breach-account-policy-e2665.web.app
 breakoutmanagement.net
 bredft.start.page
 brendaamellamed-rhlvx.sitebeat.crazydomains.com
@@ -6056,6 +6063,7 @@ dev-6byd9.web.app
 dev-868646553666754.pantheonsite.io
 dev-baccredo3922.pantheonsite.io
 dev-bamruwebapp.pantheonsite.io
+dev-bancavirtual-banruralgt00.pantheonsite.io
 dev-banconacional.pantheonsite.io
 dev-banrgral2023.pantheonsite.io
 dev-banrugt00ww.pantheonsite.io
@@ -6083,6 +6091,8 @@ dev-verify-banru.pantheonsite.io
 dev-wwbanr00gt.pantheonsite.io
 dev-www.orlenpaczka.ce5.pl
 dev.mysql.allegrolokalnie.pk
+devantaisecur.firebaseapp.com
+devantaisecur.web.app
 devapp.pages.dev
 devbr-7de68.firebaseapp.com
 devbr-7de68.web.app
@@ -6187,7 +6197,6 @@ dmarket.lc
 dmdbf.com
 dnf1n5.webwave.dev
 dnnever.weebly.com
-dnot807o.xyz
 dnv.pages.dev
 do.godaddysites.com
 do77plus.com
@@ -6565,6 +6574,7 @@ enter-layerzero.org
 entraorapt.54-160-234-223.cprapid.com
 entrar-usuario.webcindario.com
 entrarbanrurral.webcindario.com
+envolve-terra.clicketcloud.com
 enzofersfari.firebaseapp.com
 eoknglwe.an.r.appspot.com
 eoo5c9.webwave.dev
@@ -6584,6 +6594,7 @@ ersenwe-43257.firebaseapp.com
 ersenwe-43257.web.app
 ertkelemleret2.com
 es.bbva-cliente-inicio.com
+es.ing-inicio-clientes.com
 es.ingdirect-es-cliente.com
 es.ingdirect-verificaciones.co
 esaboterosce.firebaseapp.com
@@ -6771,7 +6782,6 @@ facebook.438453002.workers.dev
 facebook.accessoritop.com
 facebook.business-home-186615446.id.vn
 facebook.byethost31.com
-facebook.confirmationhelppage.io.vn
 facebook.haodechi1756.workers.dev
 facebook.help-meta-businessappealcase.com
 facebook.tcaip.com
@@ -7293,9 +7303,7 @@ girls-tube.mobi
 girnadvan.firebaseapp.com
 girnadvan.web.app
 give-twitch.com
-givesteam.com
 gladiatormind.com
-glamadz.com
 glen9a41.myportfolio.com
 global-kub-naoko.blogspot.com
 global_errors.sitebeat.crazydomains.com
@@ -7504,7 +7512,6 @@ hedefpanel.net
 hedgehogbabiesofincofr.firebaseapp.com
 hedgehogbabiesofincofr.web.app
 hedrajikko.systeme.io
-heeddcrnkh.duckdns.org
 heets-sun-8ff8.bethbess.workers.dev
 hegzyvsqnl.duckdns.org
 heinthu1.github.io
@@ -7703,7 +7710,6 @@ hmtiln.firebaseapp.com
 hmtiln.web.app
 hngom.com
 hnioyd.lkknnoh.workers.dev
-hogarcreativo.cam
 hokoth.melonwoodhomes.com
 holdenavecofc.com
 holdingservicefr.firebaseapp.com
@@ -8613,7 +8619,6 @@ key23456-698e6.web.app
 keyhoddspifadsordimp.tk
 kfkfjfirirjrjrj-20204.weeblysite.com
 kgdbuuspmk.duckdns.org
-kgdzvsphdz.duckdns.org
 kgedbqmifb.duckdns.org
 khiso.reettkwvjl.cfolks.pl
 khuyenmai.xn--napth-351b.vn
@@ -8755,7 +8760,6 @@ lclsettings-vxds.firebaseapp.com
 lclsettings-vxds.web.app
 lct0ss.webwave.dev
 lcvk5j.webwave.dev
-ldercajadlrecto.com
 ldztyfgxf.firebaseapp.com
 ldztyfgxf.web.app
 leaf-soft-rabbit.glitch.me
@@ -9045,7 +9049,6 @@ loginscreenmaail.weebly.com
 loginsupportmeta.start.page
 loginuphoolds.mystrikingly.com
 loginwebmailidentification.flazio.com
-logistic-mypkg.shop
 logn-aol-8a60.zi6.workers.dev
 logn-aol-932e.quer.workers.dev
 logn-aol-9b5a.team84.workers.dev
@@ -10021,7 +10024,6 @@ mjjihfgvml.duckdns.org
 mjke-1009-102568.weeblysite.com
 mk-1400.firebaseapp.com
 mk-1400.web.app
-mkabdaazpm.duckdns.org
 mkgdusokif.duckdns.org
 mkjnm.vercel.app
 mkjzzm.webwave.dev
@@ -10376,6 +10378,7 @@ n9pdlr.webwave.dev
 na1auc.webwave.dev
 na20raslou.firebaseapp.com
 na20raslou.web.app
+nab-au.com
 nacky.vercel.app
 nagtiacicha.tk
 naiveuae.firebaseapp.com
@@ -10397,7 +10400,6 @@ naturesflower.com
 natwak.com
 navi22.com
 navi32.com
-navi5.com
 navi50.com
 navi73.com
 navi74.com
@@ -10448,6 +10450,7 @@ neeshaplastic.com
 nekenearsten.firebaseapp.com
 nekenearsten.web.app
 neshastore-loja.fun
+neshastoreloja.org
 nespoltems.firebaseapp.com
 nespoltems.web.app
 net-105611.weeblysite.com
@@ -11032,7 +11035,6 @@ outlook-100289.weeblysite.com
 outlook-100360.weeblysite.com
 outlook-100374.weeblysite.com
 outlook-100548.weeblysite.com
-outlook-100571.weeblysite.com
 outlook-100630.weeblysite.com
 outlook-100637.weeblysite.com
 outlook-100800.weeblysite.com
@@ -11173,7 +11175,6 @@ packett-id.web.app
 packing-usops-track-tx.com
 packtrackers-address.shop
 pacotanesxc.vercel.app
-pagar-viaverde.com
 page-load-champion-1000546.firebaseapp.com
 page-load-champion-1000546.web.app
 page-loading-for-page.firebaseapp.com
@@ -11598,7 +11599,6 @@ predovicpathbuzz.myportfolio.com
 preference-centers.firebaseapp.com
 preference-centers.web.app
 pressurewashingnetworkllc.com
-prestamoinmediatolnterbankexclusivo-com.top
 prestamosfaistar.webcindario.com
 preventordecuentas.hstn.me
 preventsenior.site
@@ -11787,7 +11787,6 @@ qmjfurwwsp.duckdns.org
 qn0wcqpg1.supersurvey.com
 qn524rsu4.supersurvey.com
 qoguesbu.firebaseapp.com
-qonldcacay.duckdns.org
 qonmonkzfe.duckdns.org
 qontomsg01.firebaseapp.com
 qontomsg01.web.app
@@ -12098,7 +12097,6 @@ red-brook-1ca5.rakkuvipsi5624.workers.dev
 red-tree-7ce1.ageefeaernktdrnp6050.workers.dev
 red-union-1ce4.tiagnu.workers.dev
 redatofadesafe.blogspot.com
-redbysfrgroupebox.myfreesites.net
 redeliver-evri.com
 redelivery-evri.com
 redggjhvgh.firebaseapp.com
@@ -12327,10 +12325,10 @@ rjcxfd.xyz
 rjcxft.xyz
 rjcxfx.xyz
 rjcxgj.xyz
+rjcxgl.xyz
 rjcxgr.xyz
 rjcxgv.xyz
 rjcxhq.xyz
-rjcxhw.xyz
 rjcxhz.xyz
 rjcxib.xyz
 rjcxic.xyz
@@ -12548,7 +12546,6 @@ santailogistk.firebaseapp.com
 santailogistk.web.app
 santos-99117.firebaseapp.com
 santos-99117.web.app
-sapollorantie-webmail-doc-3493.swithunkumar.workers.dev
 saqvmyfdnw.duckdns.org
 sartoriaprincipemontalcino.com
 saseavifutiter.gq
@@ -12591,7 +12588,6 @@ savageohu24.web.app
 savageohu25.firebaseapp.com
 savageohu25.web.app
 savageohu26.firebaseapp.com
-savageohu26.web.app
 savageohu27.firebaseapp.com
 savageohu27.web.app
 savageohu28.firebaseapp.com
@@ -12717,7 +12713,6 @@ schweizerpaket.firebaseapp.com
 schweizerpaket.web.app
 scion-capitalllc.myportfolio.com
 scorealtosuper.com
-scotiabankcolpatria.validarinformacionintl.top
 scpostbg.firebaseapp.com
 scpostbg.web.app
 scr54-mttdx21.firebaseapp.com
@@ -12834,6 +12829,8 @@ sertyxese.myfreesites.net
 serv.lkamrosu028340.workers.dev
 servaler-f32ec.firebaseapp.com
 servaler-f32ec.web.app
+servantaiomp.firebaseapp.com
+servantaiomp.web.app
 serve-105392.square.site
 serve-usopos.com
 serve-uspos-co.com
@@ -14960,7 +14957,6 @@ swiss-federal-railways.web.app
 swiss-paine-magyar-ch.firebaseapp.com
 swiss-paine-magyar-ch.web.app
 swisspasserstattung53200474.site
-swisspasserstattung53200477.site
 swisspasshilfeid.sviluppo.host
 swisspassportal.firebaseapp.com
 swisspassportal.web.app
@@ -14985,6 +14981,8 @@ synchrfragri.firebaseapp.com
 synchwalletfix.com
 syncpod.firebaseapp.com
 syncpod.web.app
+syncprotocol-dev.firebaseapp.com
+syncprotocol-dev.web.app
 syneoshealthlondon.co.uk.admin-mcas.ms
 syneoshealthlondon.co.uk.mcas.ms
 syneragrisystem.firebaseapp.com
@@ -15465,6 +15463,7 @@ termistoclesere.firebaseapp.com
 termistoclesere.web.app
 terms-id-82525872092.firebaseapp.com
 terms-id-82525872092.web.app
+terramail-upgred.clicketcloud.com
 terryadamsinc.andgap717-69a.workers.dev
 test-pages-website-5cz.pages.dev
 test.webclient4.de
@@ -15911,7 +15910,6 @@ up-ac-za-uplogin-login-jspx-bm.firebaseapp.com
 up-ac-za-uplogin-login-jspx-bm.web.app
 up-nowservice.com
 upceshop.cn
-update-2024.weeblysite.com
 update-luxtrust.firebaseapp.com
 update-luxtrust.web.app
 update-my-info.com
@@ -16305,7 +16303,6 @@ usps.pcpostsale.top
 usps.pftion.top
 usps.phtion.top
 usps.pnpackege.top
-usps.posnis.com
 usps.post-helpcit.top
 usps.post-helpen.com
 usps.post-helpesa.top
@@ -17372,7 +17369,6 @@ www.ff-members.gaerna.io.vn
 www.ff.member.gaerna.io.vn
 www.ff.member.gareaa.io.vn
 www.ff.member.garenaa.id.vn
-www.ff.memberships-garena.io.vn
 www.ffredeem.com
 www.fixaphoneforlife.com
 www.flordeitabo.com
@@ -17701,6 +17697,8 @@ xccwv.xyz
 xerodilem.pt
 xeroxm32.firebaseapp.com
 xeroxm32.web.app
+xervicelox.firebaseapp.com
+xervicelox.web.app
 xetgdttyhatsxtyhms.weebly.com
 xfgf51.webwave.dev
 xfiboat-d955.nitola911.workers.dev
@@ -17756,7 +17754,6 @@ y10nej.webwave.dev
 y35dv7.webwave.dev
 y3gpy6.webwave.dev
 y5nwzo.webwave.dev
-y65s.com
 y98wr0.webwave.dev
 yah00secure84.taplink.ws
 yahhaooservciteam.bifyibikke.workers.dev
