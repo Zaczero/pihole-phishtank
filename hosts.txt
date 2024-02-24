@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sat Feb 24 12:04:51 UTC 2024
-# Number of unique domains: 21393
+# Date: Sat Feb 24 16:04:09 UTC 2024
+# Number of unique domains: 21358
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -697,7 +697,6 @@ aeon-ne-jp.lvhlmt8908003.com
 aeon-ne-jp.zhongfumcbnm.com
 aeonebank.com
 aeonpn.com
-aern-ne-jp.ahgdcy.com
 aern-ne-jp.alldm.cn
 aern-ne-jp.atokww.cn
 aern-ne-jp.bpwon.com
@@ -723,6 +722,7 @@ aern-ne-jp.gxzfgl.com
 aern-ne-jp.hhhaac.cn
 aern-ne-jp.hhhaaw.cn
 aern-ne-jp.hmmt598.cn
+aern-ne-jp.hzkyqg.com
 aern-ne-jp.hzxxyx.com
 aern-ne-jp.izhier.com
 aern-ne-jp.jmndl.cn
@@ -2286,7 +2286,6 @@ attcom-108960.weeblysite.com
 attcom-109838.weeblysite.com
 attcom-109881.weeblysite.com
 attcom-109907.weeblysite.com
-attcomunicate879.weebly.com
 attconfirm.attonlinesys.workers.dev
 attconnectiones.weebly.com
 attcostimercale.boxmode.io
@@ -3256,6 +3255,7 @@ bafkreignelgn4aavtxjoimkbim37b2zicotm2ryeq37im7v5ajooocwl6q.ipfs.cf-ipfs.com
 bafkreignfevpkb74nkudir74pnyfgi7dnxhs5kq6nhb5dtpjofhkxpios4.ipfs.cf-ipfs.com
 bafkreigng6kdwotmnkwvh5xhehsd6kluvruieuw4wrcfeuz3so6t3ih22u.ipfs.cf-ipfs.com
 bafkreigojuuqk5ofusxjqlqqk33hoxflfjn7o72sonvh2yqxq7fpq466vy.ipfs.nftstorage.link
+bafkreigokm4dzijwja5pdbdhvozhzn7v7h2n56l2svhysabofmydyp3tf4.ipfs.dweb.link
 bafkreigpgcebbznkszqsojhks6o7m6tmzylcbthrg4vku2j5f7lqq5bv3q.ipfs.cf-ipfs.com
 bafkreigpgcebbznkszqsojhks6o7m6tmzylcbthrg4vku2j5f7lqq5bv3q.ipfs.nftstorage.link
 bafkreigpx6pufigg73eu3k5lgeuz2jsksstd3mnat5m2i42diyosjvq4la.ipfs.cf-ipfs.com
@@ -4042,6 +4042,7 @@ bafybeie5f5zmnofaardfauktuutu6zxh6pju6itev6tgck7kdwezlbmvga.ipfs.dweb.link
 bafybeie5lin7nmqvouzzlepvzmjwlywyyabrlkpkcdal35yap2p5zxisg4.ipfs.cf-ipfs.com
 bafybeie5o5qf7ca5yg2blfneppioegbbfqf5lebl4o7thhz3pbnrfq67ye.ipfs.cf-ipfs.com
 bafybeie5stu26vr2svrmuz3kc6hpgpwjyj5asyn6e2ibwh35l5aou64e2q.ipfs.cf-ipfs.com
+bafybeie66agdbf5yslzx5wtuix3qfy5k65dtpf6kq7pdwendviqxqj2r3u.ipfs.dweb.link
 bafybeie6sbi5u6stjcimmdjvjonvoqnuysjxzzsp6tl3s62qvocgehk7rq.ipfs.cf-ipfs.com
 bafybeie7bvsya2c6un2fw3jdykou5pjs23vculuce3ro3jndr3652rnqa4.ipfs.cf-ipfs.com
 bafybeie7m4jjnwekmtcf4njuyoygeqhxlgwnvgsriprdzeaqvbq5e7xucm.ipfs.cf-ipfs.com
@@ -4283,7 +4284,6 @@ bafybeifjtcpttiviec2ddwksm45hfvy6wrma5mihbiodlkabbplykajz7i.ipfs.cf-ipfs.com
 bafybeifkelokepwtazzdqtycnnf6wasumquvyj2jeygz4hvvvpu5wsmmaq.ipfs.cf-ipfs.com
 bafybeifkelokepwtazzdqtycnnf6wasumquvyj2jeygz4hvvvpu5wsmmaq.ipfs.nftstorage.link
 bafybeifkh27c2b2hqmm2tte5jp6eq3uincyhmxxaukoespre46zjpexybe.ipfs.cf-ipfs.com
-bafybeifkikpgs352vie4efdcra7aodjh7t2siekj3ui5ezntw7zjskfcie.ipfs.dweb.link
 bafybeifknn5weppc5kpgrhkofs4finz4vxsexd2e6esjtwq2tnztycgscu.ipfs.cf-ipfs.com
 bafybeiflhnz4jgpvdszbev6mwzjwkc65gvdyzfmu7tu6rsdajqzbv2nqmq.ipfs.cf-ipfs.com
 bafybeiflj5denlouw5sg7ahz4d27vbsvxfjjjb7ymz7c47jmmcmisxj3cq.ipfs.cf-ipfs.com
@@ -4683,7 +4683,6 @@ balios-adso.web.app
 ballmos-versions.firebaseapp.com
 ballmos-versions.web.app
 baltteinfinity.com
-bambourie.com
 banbogveriff.webcindario.com
 banca-com-paginas-paravos-servicios0.atsnx.com
 banca-digitalweb.webcindario.com
@@ -4737,7 +4736,6 @@ banruracheckjpns.liveblog365.com
 banrural-en-linea.biz.site
 banrural-movilgt.webcindario.com
 banrural-sa-3.jimdosite.com
-banrural-sa-5.jimdosite.com
 banrural-virtual.biz.site
 banrural-web.vercel.app
 banrural.coitebanruralcorppersonas.zya.me
@@ -5690,7 +5688,6 @@ c45678ce34567.pages.dev
 c45985c9-0954-44fb-b265-f54c60a25d3c-00-gix30725uikk.picard.replit.dev
 c4uwqfxd.square.site
 c675ew.codesandbox.io
-c6grwfsdfr6n.xyz
 c6rfdyuxsijmk.firebaseapp.com
 c6rfdyuxsijmk.web.app
 c74m3dk93md74nd83kksj3ismf64bd.pages.dev
@@ -6723,6 +6720,7 @@ cuaguemoo.web.app
 cuahangquydoi.garena-lienquan.vn
 cubic-lean-ridge.glitch.me
 cuentasuspendidabanruralvalida.zya.me
+cuents-verify.com
 culturafocus.com.br
 cumnec-d22a.femjmrusdiae.workers.dev
 cun-up.000.pe
@@ -6919,7 +6917,6 @@ daviplatainf.odoo.com
 daviplataweg.eshost.com.ar
 daviseguridadon.webcindario.com
 dawdawdawd66.blogspot.com
-dawdawdsad666.blogspot.com
 dawn-dew-d54f.h245sd0jun.workers.dev
 dawn-glade-5e5e.graypiper90.workers.dev
 dawn-lab-2d7e.nenavase-afopepav3991.workers.dev
@@ -7050,7 +7047,6 @@ delivery-ups.ch
 deliverydhl-invoice.firebaseapp.com
 deliverydhl-invoice.web.app
 deliveryfailed.bizsolves.com
-delixi-qd.com
 dell-com-anglais.web.app
 dell-diversifiedmb.firebaseapp.com
 dell-ms365-serverone.firebaseapp.com
@@ -7093,7 +7089,6 @@ desenhesuafattura1.blogspot.com
 designelapas.lapassemarie.com
 desireddasd-dsoptissons.youdontcare.com
 desireddasdasd-asoptionshfg.wikaba.com
-desireddasdasd-asoptionshfg.yourtrap.com
 deskloni.firebaseapp.com
 deskloni.web.app
 desotohelpdeskpage.weebly.com
@@ -7167,7 +7162,6 @@ dgbneavensgco.web.app
 dgcommunity.de
 dgdasegdgh.weebly.com
 dgdvwhgedhevravc.weebly.com
-dgfipfinancesgouv.godaddysites.com
 dgfoodsnet.myportfolio.com
 dgpilnkhyp.duckdns.org
 dh-lstrack771.firebaseapp.com
@@ -7707,7 +7701,6 @@ emailadminsettingdomain.weebly.com
 emailbt-cpr2-corn.vercel.app
 emailcenterdepartment122.weebly.com
 emailld-att-mail.pory.app
-emailser02-bt-corn.vercel.app
 emailserviceorg.brizy.site
 emailsettings.webflow.io
 emailupdate.luknuyespi.workers.dev
@@ -8425,10 +8418,12 @@ funyouthclub.wlbl.xyz
 futsqpfett.duckdns.org
 future.mzy624.com
 futuremuseumdubai.sa.com
+fuuvtqogda.duckdns.org
 fvbgnhjm987y.square.site
 fvws90.webwave.dev
 fw94ma.webwave.dev
 fwgwz4.webwave.dev
+fwtspmlbxt.duckdns.org
 fwyywys.top
 fygykjjkmh.weebly.com
 fyi9qb.webwave.dev
@@ -8625,7 +8620,6 @@ gmxsupportcarewebly.weebly.com
 gmxuser-100007.weeblysite.com
 gmxworkspaces.weeblysite.com
 gn0xjk.webwave.dev
-gnbxbg.xyz
 gnbxmt.xyz
 gnigginnlohga.godaddysites.com
 gnl2c7.webwave.dev
@@ -10219,7 +10213,6 @@ kacastek24.free.nf
 kaderleconconlz.web.app
 kafkasariotel.com
 kaharaerad.web.app
-kaiyihongxing.com
 kakfaf5a.weebly.com
 kaliteiptvtr4.com
 kaliteserverip.com
@@ -11167,7 +11160,6 @@ mail-account-info-88abd4.webflow.io
 mail-admin-100033.weeblysite.com
 mail-admin-support.webflow.io
 mail-chhimekbnk.pages.dev
-mail-dgdpgovpk.servehalflife.com
 mail-ince.weeblysite.com
 mail-libero.endoftheinternet.org
 mail-libero.likescandy.com
@@ -11176,7 +11168,6 @@ mail-ongiga-globalterr.clicketcloud.com
 mail-oran.hubside.fr
 mail-orange6.godaddysites.com
 mail-ovhcloud.web.app
-mail-quota-meter-70621.netlify.app
 mail-security-check8877856556.web.app
 mail-service-102955.weeblysite.com
 mail-zimbra-613cea.webflow.io
@@ -11186,7 +11177,6 @@ mail.blackstonechamber.com.pk
 mail.captiv8axosinfluencer.com
 mail.dfp.qzx.mybluehost.me
 mail.ehazine415.com
-mail.ehazine572.com
 mail.ehazine712.com
 mail.elseref.com
 mail.g00ggle.workers.dev
@@ -11617,7 +11607,6 @@ metalcast.com.mx
 metamaaskkwaallet.webflow.io
 metamainnetfix.netlify.app
 metamaschrowettens.webflow.io
-metamask-auth.io
 metamask-dl.com
 metamask-extensions.pages.dev
 metamask-fix.pages.dev
@@ -11686,7 +11675,6 @@ metetmaskwallllet.godaddysites.com
 metis-xpubfix-io.pages.dev
 metmaskxchromextension.webflow.io
 metmaskxextension.webflow.io
-metramaskus.azurewebsites.net
 metrictrk.com
 metscklogin.webflow.io
 metsfghmaskus.azurewebsites.net
@@ -12578,7 +12566,6 @@ njfvrplkif.duckdns.org
 njfzi1.webwave.dev
 njgcaxthgc.duckdns.org
 njgvyxvrhe.duckdns.org
-njhgvspmig.duckdns.org
 njhytqmkhd.duckdns.org
 njuytih.nbhyniknhv.workers.dev
 njzxuqpoda.duckdns.org
@@ -12744,8 +12731,6 @@ nybep.myportfolio.com
 nypgkf.webwave.dev
 nyxsf7.webwave.dev
 nzjoy.com
-nzta-tollingonline.com
-nzxcrf.nntyc.xyz
 o13913513813f.one3k3298431.workers.dev
 o2-home-verify.firebaseapp.com
 o2-home-verify.web.app
@@ -12855,7 +12840,6 @@ olmljkhxxy.duckdns.org
 oluwarantinmialafia.godaddysites.com
 oluwasegun.weeblysite.com
 olwkw.weebly.com
-olx.safepay-online.fun
 om2343.hubside.fr
 omahedrop.top
 omavero-fi.firebaseapp.com
@@ -13037,7 +13021,6 @@ opuq.pages.dev
 oqcwakswkx.duckdns.org
 orabote.name
 oranailsh.hubside.fr
-orang11.hubside.fr
 orang458.hubside.fr
 orang55.hubside.fr
 orange-cloud-c86d.364354xl.workers.dev
@@ -14459,7 +14442,6 @@ requireddsa-dasinformation.yourtrap.com
 requiredeq-eqwnformation.longmusic.com
 requiredeq-eqwnformation.onedumb.com
 requiredeq-eqwnformation.youdontcare.com
-requiredwe-nformation.onedumb.com
 res-va.web.app
 reschedule-orderdelivery.com
 rescoeup.firebaseapp.com
@@ -14472,7 +14454,6 @@ resolve-sparkling-art-0d7a.cenatil882.workers.dev
 resolverhq.firebaseapp.com
 resolverhq.web.app
 resona.benk.djhshs.com
-resona.benk.jingxiuzhimei.com
 resona.benk.whsouxun.com
 respnstraben.firebaseapp.com
 restartmmberswebsite.uscreen.io
@@ -14859,7 +14840,6 @@ sarsnotify.weebly.com
 sartoriaprincipemontalcino.com
 sasktelconfirmserver.weebly.com
 sassari-allert.com
-satoshivm.network
 saudihejcards.pages.dev
 savageohu44.web.app
 savefity-pagges-2023.start.page
@@ -16122,7 +16102,6 @@ smbe-card.dingc16.cn
 smbe-card.tszxl.cn
 smbs-cazd.thethomashousebnb.com
 smdc-carb.com.cohuwxv.cn
-smdc.co-jp.pnfqqcy.cn
 smdc.co-jp.tcdpyyg.cn
 smdc.co-jp.tmrdakg.cn
 smdc.co-jp.txppbjy.cn
@@ -16747,7 +16726,6 @@ tacking-uspsot-ga.com
 tacking-uspsot-ia.com
 tacking-uspsot-ky.com
 tacking-uspsot-oh.com
-tacking-uspsot-ri.com
 tacking-uspst-ca.com
 tacking-uspst-ct.com
 tacking-uspst-hz.com
@@ -17225,7 +17203,6 @@ tgadminuser.jqrjob.com
 tgadminuser.teleg.men
 tgadminuser.vcnty.top
 tgadminuser.web-ap.cc
-tgadminuser.web-ap.xyz
 tgadminuser.web-cs.pw
 tgadminuser.web-cs.xyz
 tgadminuser.webapt.top
@@ -17483,7 +17460,6 @@ tracking-pack-uspn.com
 tracking-pack-uspsw.com
 tracking-usopt-bd.com
 tracking-usopt-cl.com
-tracking-usopt-cr.com
 tracking-usopt-kx.com
 tracking-usopt-my.com
 tracking-usopt-oi.com
@@ -17658,7 +17634,6 @@ u02lzh.webwave.dev
 u21oeo.webwave.dev
 u5wbsg.webwave.dev
 u6af41.webwave.dev
-u6ryuf.weebly.com
 u7bdo9.webwave.dev
 uaii-2br.pages.dev
 uajaka29aga.start.page
@@ -17867,7 +17842,6 @@ urypt5.webwave.dev
 us-ipso.com
 us-opss.com
 us-plks.cc
-us421944403.1u9zap7s.co
 usa.usspbc.top
 usa.usspbh.top
 usa.usspvf.top
@@ -18275,7 +18249,6 @@ usp.usspwv.top
 usp.usspwx.top
 usp.usspwy.top
 usp.usspwz.top
-usp.usspxt.top
 usp.usspxv.top
 usp.usspyb.top
 usp.usspyc.top
@@ -18831,7 +18804,6 @@ usps.searchtd.top
 usps.shipcheckservice.top
 usps.slcnvugaqr.top
 usps.speed-mypkg.shop
-usps.storeous.top
 usps.storeuus.top
 usps.swiftdelivery-postoffice.shop
 usps.tcsocqzpfh.top
@@ -18870,7 +18842,6 @@ usps.usspars.top
 usps.usspavs.top
 usps.vrdxvhhnon.top
 usps.wnxvxmuorb.top
-usps.wyyyqoegsxh.top
 usps.wzvylbyvhm.top
 usps.xl3s4f.com
 usps.xuqmcxfeiz.top
@@ -19051,8 +19022,6 @@ usreand.com
 usreaph.com
 usreapj.com
 usreapu.com
-usreatg.com
-usreatj.com
 usreatu.com
 usreaue.com
 usreauj.com
@@ -19143,6 +19112,7 @@ validarcard.webcindario.com
 validarcredencia.webcindario.com
 validarcuenta15.webcindario.com
 validarprocess.webcindario.com
+validartokenitau.webcindario.com
 validate.att0online.workers.dev
 validatezimbra6.weebly.com
 validation--schwab.web.app
@@ -19604,7 +19574,6 @@ wasffw423wef956rt.boxmode.io
 washingtonpostnow.com
 washingtonstateuniversityoffice365emailverificatio.ukit.me
 wayne-104109.square.site
-waywayswisspas.web.app
 wbc-r7.webcindario.com
 wbc1.webcindario.com
 wbip23provincia.webcindario.com
@@ -19645,7 +19614,6 @@ web.hoplus.cc
 web.pancake.run
 web.serv2.workers.dev
 web.telegrann-cn.com
-web.telegrann-yz.com
 web000digital007.webcindario.com
 web1-terrmalq567892.dynv6.net
 web3-portfolio.pro
@@ -20154,7 +20122,6 @@ wurgczyuso.duckdns.org
 wutsrhghgf.duckdns.org
 wvbancaspromericangtonlin.neslocksz.ru.com
 wvho7o.webwave.dev
-wvvvwwbancagprometicagtonlinegt.cdblocker.ru.com
 wvvwappmlbanco-cl.samfashioniz.com
 wvvwbanc0promerica0nlinesgt.shereinak.sa.com
 wvvwbancapromericaonlinegt.hamo5e5a.sa.com
@@ -20284,7 +20251,6 @@ www.amazom.qcdsz.com
 www.amazom.qpwmh.com
 www.amazom.rxxrw.com
 www.amazom.shenzms5367.com
-www.amazom.solarkombinat.com
 www.amazom.sspsz.com
 www.amazom.twzxk.com
 www.amazom.wjpdf.com
@@ -20330,7 +20296,6 @@ www.booking.mrityunjyatourism.com
 www.bookmarkindia.in
 www.bosswellair.cn
 www.bradenstoke.com
-www.brightlineled.com
 www.brookshoesfactoryoutlet.com
 www.brooksonlineuk.com
 www.brooksoutletsale.de
@@ -20488,7 +20453,6 @@ www.gno-aeroza.gzwalson.com
 www.gno-aeroza.hnyzswkj.com
 www.gno-aeroza.jlrealtor.com
 www.gno-aeroza.langshaqi.com
-www.gno-aeroza.nasilpara.com
 www.gno-aeroza.sysxlyjs.com
 www.gno-aeroza.uservapp.com
 www.gno-aeroza.whlanben.com
@@ -21262,6 +21226,7 @@ ytaaes.weeblysite.com
 ytcnwgjtfz.duckdns.org
 ytdkto.webwave.dev
 ytgdbfmggh.weebly.com
+ytrd-107530.weeblysite.com
 ytxghsn.square.site
 yuasaxdc-gd.com
 yui788989df.weeblysite.com
