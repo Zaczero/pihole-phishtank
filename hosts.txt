@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sat Jul 13 12:05:46 UTC 2024
-# Number of unique domains: 25491
+# Date: Sat Jul 13 16:05:20 UTC 2024
+# Number of unique domains: 25436
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -154,7 +154,6 @@
 18269c63.wiw81272193-ciex.pages.dev
 186237glade-fcbe.bardoglet.workers.dev
 18964-ups-assets-overview.pages.dev
-18ms3a.duckdns.org
 190854.8b.io
 19i0gw.duckdns.org
 19mwfllte0yzqtnjuwodk7ngy3n.webflow.io
@@ -229,7 +228,6 @@
 24ubo6fb.duckdns.org
 2522435086t78799bcg8uj.pages.dev
 254vkifm.duckdns.org
-25778hgfyeg878.weebly.com
 25978dzfzfzeqd.weebly.com
 25inifilie.firebaseapp.com
 25inifilie.web.app
@@ -329,6 +327,7 @@
 3qv9jmwbz.duckdns.org
 3qy3kl.duckdns.org
 3r2leyou.duckdns.org
+3rhc526h0.duckdns.org
 3ryo4vtm.duckdns.org
 3sr1b5y.duckdns.org
 3th-qc-e-i2-w4qj-i74-ol-td9wlkg-o.vercel.app
@@ -381,7 +380,9 @@
 4euj1m.duckdns.org
 4f4ez65f46ze54f35ez4f34ze.blogspot.com
 4hbja9lz.duckdns.org
+4hytm1yr.duckdns.org
 4j1b.glitch.me
+4jagya9bk.duckdns.org
 4o8bw1u.duckdns.org
 4olokacv.duckdns.org
 4os4cu.duckdns.org
@@ -401,7 +402,6 @@
 5-9kk.pages.dev
 50e26da1ab71eac331f91002184ca5d4.dashboard-pswt54887o2654y549833y3.pages.dev
 525ts3wz3ymyb9.pages.dev
-527tgus.duckdns.org
 52tnd4mkp.duckdns.org
 5342343542.hyperphp.com
 5367653454-665.start.page
@@ -614,6 +614,7 @@
 8.modtrmvivrb.workers.dev
 803ml.com
 80t0mj.xyz
+8126krf.duckdns.org
 8203239928320io30.hyperphp.com
 827lxj.duckdns.org
 82hkz304t.duckdns.org
@@ -666,12 +667,14 @@
 8ieh.ktt55.my.id
 8ipjx2e.duckdns.org
 8k87yhtgdi.pages.dev
+8kk77sf.duckdns.org
 8lab-d254.earherbat.workers.dev
 8mrssxhzo.duckdns.org
 8o1yah1e00-y0ma1-8ta1xb1rs-31rs2-00e.netlify.app
 8pse6ila8.duckdns.org
 8q3zqijk.duckdns.org
 8q9jfa.duckdns.org
+8qp3bi.duckdns.org
 8sktlfy.duckdns.org
 8sssnr.duckdns.org
 8towdxnv.duckdns.org
@@ -866,7 +869,6 @@ abv-100106.square.site
 abv-100136.weeblysite.com
 abv-100151.square.site
 abv-100155.weeblysite.com
-abv-100229.square.site
 abv-100256.square.site
 abv-100261.weeblysite.com
 abv-100398.weeblysite.com
@@ -1043,7 +1045,6 @@ abv-106014.weeblysite.com
 abv-106059.square.site
 abv-106148.weeblysite.com
 abv-106155.weeblysite.com
-abv-106165.weeblysite.com
 abv-106208.weeblysite.com
 abv-106214.square.site
 abv-106222.square.site
@@ -1729,6 +1730,7 @@ amnig-6a3f.neurqosleor.workers.dev
 amsilekosss.boxmode.io
 amueni-fdec.cllneifebrotliud.workers.dev
 amuso.satanbsd.org
+amwuedbgryehf.weebly.com
 amxservers.zonufafu.workers.dev
 amxupdates.zonufafu.workers.dev
 amzus9.wwelove3.workers.dev
@@ -2166,6 +2168,7 @@ app--cruxdecussata-standalone.pages.dev
 app--ssso--ai--metamask.webflow.io
 app--trzoor.webflow.io
 app-acending-owners2023.start.page
+app-auth-exoduswallet-sso.webflow.io
 app-bdb24hras.webcindario.com
 app-betterment-login.webflow.io
 app-bitbanlk-cc.weebly.com
@@ -2592,7 +2595,6 @@ att-101705.weeblysite.com
 att-1017373.weeblysite.com
 att-101753.weeblysite.com
 att-101765.weeblysite.com
-att-101798-107518.weeblysite.com
 att-101809.weeblysite.com
 att-102007.weeblysite.com
 att-102090.weeblysite.com
@@ -2865,7 +2867,6 @@ att-107437.weeblysite.com
 att-107443.weeblysite.com
 att-107447.weeblysite.com
 att-107497.weeblysite.com
-att-107499-109251.weeblysite.com
 att-107508-103966.weeblysite.com
 att-107534.weeblysite.com
 att-107550.weeblysite.com
@@ -2940,7 +2941,6 @@ att-109026.weeblysite.com
 att-109027.weeblysite.com
 att-109043.weeblysite.com
 att-109048-103243.weeblysite.com
-att-109050.weeblysite.com
 att-109064.weeblysite.com
 att-109076.weeblysite.com
 att-109084.weeblysite.com
@@ -3940,7 +3940,6 @@ bafkreicmkbfhig7zwnz2nsrw6ogvm2tsd35r2bnrnmfazmj6u73a2q4ls4.ipfs.cf-ipfs.com
 bafkreicml4upk6tlso46vtkp7tskn4yxpjtwm2e2vxp4ralk5vbussy2nq.ipfs.dweb.link
 bafkreicmsvssjr5ukre3blqdjt34adbwhcav6x64mweh2lt23iimtsol4i.ipfs.cf-ipfs.com
 bafkreicmsvssjr5ukre3blqdjt34adbwhcav6x64mweh2lt23iimtsol4i.ipfs.dweb.link
-bafkreicnm3jowwk7zvihyd6z5c2m5llg3c72kbmuvv5zqkexncfjbv3neu.ipfs.cf-ipfs.com
 bafkreicnm3jowwk7zvihyd6z5c2m5llg3c72kbmuvv5zqkexncfjbv3neu.ipfs.nftstorage.link
 bafkreico6t43ccqqutlqycyyv4fogv5ztshdum47yng74zknhiscqbhvym.ipfs.cf-ipfs.com
 bafkreicqpmpafhnz4axgg3wcapimvyq6uymcewvmm7z4hrwjaud4y2jwlm.ipfs.cf-ipfs.com
@@ -4361,7 +4360,6 @@ bafybeic2cadl3v2ljmfnlzmh3gcebt6x6rgsui5sl3y3x7uznchm5glpv4.ipfs.cf-ipfs.com
 bafybeic2dcyunteju5lcniglmedsfh6rcjmlu3xtzvo2ykeyuj3wcano7a.ipfs.dweb.link
 bafybeic2m7h64k65hsltnygicllkc5vdqhbtmh7z2brj7okszddhdrqeim.ipfs.cf-ipfs.com
 bafybeic2m7h64k65hsltnygicllkc5vdqhbtmh7z2brj7okszddhdrqeim.ipfs.nftstorage.link
-bafybeic2mizldwr4xcvnu4bxpilpn6tcetdplqvz43s6knqzlimkn56k2m.ipfs.cf-ipfs.com
 bafybeic4hgqpuwnjqcvzzhxwhzpnyflfd6ysq2gwtbqlqzn74oph7agtlu.ipfs.cf-ipfs.com
 bafybeic6xofhgzln7ecrselsi6ugpzqnyepatheuxiil362sgca4o5f6ei.ipfs.cf-ipfs.com
 bafybeica4hyfkwvrvskpuxt7herfz5oymnreu6idipakc2gvod4wfuh6pa.ipfs.dweb.link
@@ -4819,6 +4817,7 @@ bafybeihmftja2wnnyrlm2fv5vjqtu7b7z745kvfkjxr3zidc7x3wofppvi.ipfs.dweb.link
 bafybeihmwtc3dcvi7qsiv6hqq42gxfypnmawndi6tkm6wwuufxom4lphte.ipfs.cf-ipfs.com
 bafybeihmwtc3dcvi7qsiv6hqq42gxfypnmawndi6tkm6wwuufxom4lphte.ipfs.nftstorage.link
 bafybeihnw52rtunofx4zrfnwr6m7o4hhvn44xm6wj3dk5pb3pl7dvzlkqe.ipfs.cf-ipfs.com
+bafybeiho64sja4zr7vrj53bc6iwbw37uivkg7o6igkqui3migd5qb2awke.ipfs.dweb.link
 bafybeihocavcpnio7srx7zwckqdzui4uwsqtou6uihikn75yv3ojv2wvvi.ipfs.cf-ipfs.com
 bafybeihor5bdnkouc2gtnibceihhbxezpo4l3nn5n6i5fywb53eftzifzi.ipfs.cf-ipfs.com
 bafybeihpijansawlunyiter3zklfumqvbb7tmsv4shrfolsgyv4ej5mxg4.ipfs.dweb.link
@@ -5324,7 +5323,6 @@ boardband.univer.se
 bobc509.myportfolio.com
 bobodoumentsoigne.firebaseapp.com
 bobodoumentsoigne.web.app
-boc-helpline.com
 boc-update.firebaseapp.com
 boc-update.web.app
 boe.tyjs.workers.dev
@@ -5669,7 +5667,6 @@ bt-107881.weeblysite.com
 bt-107984.weeblysite.com
 bt-107991.weeblysite.com
 bt-108030.weeblysite.com
-bt-108077.weeblysite.com
 bt-108103.weeblysite.com
 bt-108109.weeblysite.com
 bt-108170.weeblysite.com
@@ -5744,7 +5741,6 @@ bt-community-5-23-2024.webflow.io
 bt-connect-b08664.webflow.io
 bt-email-index-x3r.vercel.app
 bt-group-49b0.booqable.shop
-bt-home-100005.weeblysite.com
 bt-home-100671.square.site
 bt-home-102383.weeblysite.com
 bt-home-105105.weeblysite.com
@@ -5813,6 +5809,7 @@ bt-service-58c16a.webflow.io
 bt-supp0rt.weeblysite.com
 bt-support-105117.weeblysite.com
 bt-support-d9f724.webflow.io
+bt-tregrvggf3235.weeblysite.com
 bt-update-108795.weeblysite.com
 bt-update247.weeblysite.com
 bt-voice-100638.weeblysite.com
@@ -6847,7 +6844,6 @@ cleapposter45.vastserve.com
 clears-step-reporteds2023.start.page
 clenoulobnsg.firebaseapp.com
 cleo-bc3.pages.dev
-clever-lamington-4be11f.netlify.app
 cliaols-twierds-gieunn.yolasite.com
 click-here-108291.weeblysite.com
 click-here-to-remove-violation.surge.sh
@@ -6995,7 +6991,6 @@ coinbase-wallett.weebly.com
 coinbasec-loginb-298bc5.webflow.io
 coinbasecom-sign-in.weebly.com
 coinbaseprolgn.weebly.com
-coinbaseproprologin.mystrikingly.com
 coinbasewalletlogin1.mystrikingly.com
 coinbasio-extens.webflow.io
 coinbexxetnsions.webflow.io
@@ -7049,7 +7044,6 @@ commn-auth0.web.app
 communigatepro.weebly.com
 communiition.weebly.com
 communities1272c0.myportfolio.com
-community-help-guideline.surge.sh
 community-help-line-for-voilation.surge.sh
 community-standards-1006436512.firebaseapp.com
 community-standards-1006436512.web.app
@@ -7194,7 +7188,6 @@ consultaparaempresas.com.br
 consultaspichlnchaperu.online
 conta-cgd.com
 contact-101107.weeblysite.com
-contact-for-remove-violation--pi.vercel.app
 contact-for-remove-violation2--puce.vercel.app
 contact-for-remove-violation8.vercel.app
 contact-remove-info-appeal.surge.sh
@@ -7287,7 +7280,6 @@ cp-esjkdjsakdsaujdk-com.pages.dev
 cp-serverdata393030.firebaseapp.com
 cp-serverdata393030.web.app
 cp00jx0.duckdns.org
-cp60410.tw1.ru
 cp69019.tw1.ru
 cpa-ftk.pages.dev
 cpanel-webmail-362bqp4s7i.pages.dev
@@ -7395,7 +7387,6 @@ cs--33129-view-mail-ups.web.app
 cs-drp.com
 cs.moneybrain.jphuahua.com
 cs2trader.net
-cs32400.tw1.ru
 cs6j4s17x.duckdns.org
 cs76854.tw1.ru
 cs7qss9d.duckdns.org
@@ -7434,7 +7425,6 @@ cttt-ptt.top
 cu19651.tw1.ru
 cu42341.tw1.ru
 cu8ot7.webwave.dev
-cu96133.tw1.ru
 cuadrosblangar.es
 cuaguemoo.firebaseapp.com
 cuaguemoo.web.app
@@ -7615,7 +7605,6 @@ d7dhv.ktt55.my.id
 d837589c.poczta.pages.dev
 d87lp0eas.duckdns.org
 d94u21.webwave.dev
-d9lvob.csb.app
 dabopsik.firebaseapp.com
 dabopsik.web.app
 dabrefololokiffe.firebaseapp.com
@@ -8143,6 +8132,7 @@ dk0fax.webwave.dev
 dkb-sicherheitsabteilung.site44.com
 dkbonline.authserviceservices.com
 dkdkdk322.cvcv.my.id
+dkdnetzil.com
 dkkcmsle.kbhoswao2982.workers.dev
 dkljdmdjkjhfdjjijoeiwugidjkiuhjed.pages.dev
 dknup7a.duckdns.org
@@ -8257,7 +8247,6 @@ domainbroadcastrealizationinternationalservice4.pages.dev
 domainemailserverauthinticationrequired1.pages.dev
 domainemailserverauthinticationrequired2.pages.dev
 domainemaivais.weebly.com
-domainemmsonline.weebly.com
 domaineprivatefort.firebaseapp.com
 domaineprivatefort.web.app
 domainfunctionfr.firebaseapp.com
@@ -8344,7 +8333,6 @@ dota2giveaway2017.weebly.com
 dotaplusgift.com
 doufatin.blogspot.com
 dowaba-s2dhl.blogspot.com
-down.dbsbesqmm.com
 down.dbsngesxxs.com
 down.zhuolin.workers.dev
 downfrs.hzq.workers.dev
@@ -8480,6 +8468,7 @@ e-wizink-online-es.com
 e00a.mylink1.workers.dev
 e01yah100-y0mai1-ta1xb1rs-31rs2-00a.netlify.app
 e0dry8.duckdns.org
+e0lpov.duckdns.org
 e1e6e4c7.e1e1de714f370d6f275a8fde.workers.dev
 e1ig1h8y.duckdns.org
 e2468c32926cda22fd7b3896ff709417.dashboard-postswiss-354887o2654y549833y3.pages.dev
@@ -8765,6 +8754,7 @@ eneeeetsowww.blogspot.com
 enfindieubenira.firebaseapp.com
 enfindieubenira.web.app
 eng-doc-shape-a7e8.ereoaeggnlscihkt.workers.dev
+eng-start-trezor.github.io
 engineersclubindia.com
 enimerosi-pliroforion.firebaseapp.com
 enimerosi-pliroforion.web.app
@@ -8802,6 +8792,7 @@ epistrofi-forou-app.firebaseapp.com
 epistrofi-forou-app.web.app
 epistrofis-chrimaton.firebaseapp.com
 eplaome.weebly.com
+eplwsmendfjg.weebly.com
 epocard.co.jp.qdzhuanli.net
 epoxsnjaf.com
 eppxqghubp.firebaseapp.com
@@ -8922,7 +8913,6 @@ evenementlesinfos.web.app
 everclear7898.holykaty7.workers.dev
 everestapplication.com
 evertigsvuigxjhjh378.weeblysite.com
-evg540.com
 evkbjsved.firebaseapp.com
 evkbjsved.web.app
 evmsresolution.pages.dev
@@ -8938,13 +8928,11 @@ evri-reschedule-package-gb.com
 evri-track-f2cfa.firebaseapp.com
 evri-track-f2cfa.web.app
 evri-tracking-help.web.app
-evri-uk-reschedule-depot.com
 evri.select-available-date.com
 evri.time-slot-new.com
 evri.time-slot-revise.com
 evri.time-slot-swap.com
 evri.uk-depot-gb.com
-evrotelegram.ru
 ewde43.duckdns.org
 ewfghjkj.weeblysite.com
 ewihz7z.duckdns.org
@@ -9822,6 +9810,7 @@ gbvfrcd2.pages.dev
 gcbf.rentthatboat.ca
 gcexvae.com
 gci.oco.mybluehost.me
+gckcijw2e.duckdns.org
 gd-bj9.pages.dev
 gdesigns.info
 gdffy.urest.org
@@ -9920,7 +9909,6 @@ gggggs.cn
 gggyxu77.pages.dev
 ggst563838.weebly.com
 ggtews.weebly.com
-ggxlllilhwpc.com
 ggzklqy22.njkirkorpwko86.dns-dynamic.net
 gh29qjgjm.duckdns.org
 ghd66.weebly.com
@@ -10284,7 +10272,6 @@ hbrilhobrazzz.blogspot.com
 hbxvlp.duckdns.org
 hccflhawk.ukit.me
 hch.mvv.mybluehost.me
-hd1ourtimeprivatephotos.weebly.com
 hd2o.ktt55.my.id
 hd8rg.ktt55.my.id
 hdbfgy77.hyperphp.com
@@ -10906,7 +10893,6 @@ home-100814.weeblysite.com
 home-100828.weeblysite.com
 home-100848.weeblysite.com
 home-100856.weeblysite.com
-home-100883.weeblysite.com
 home-100903.weeblysite.com
 home-100968.weeblysite.com
 home-101067.weeblysite.com
@@ -11001,7 +10987,6 @@ home-104473.weeblysite.com
 home-104486.weeblysite.com
 home-104523.weeblysite.com
 home-104546.weeblysite.com
-home-104557.weeblysite.com
 home-104588.weeblysite.com
 home-104605.weeblysite.com
 home-104657.weeblysite.com
@@ -11070,7 +11055,6 @@ home-106925.weeblysite.com
 home-106934.weeblysite.com
 home-106955.weeblysite.com
 home-106989.weeblysite.com
-home-107021.weeblysite.com
 home-107089.weeblysite.com
 home-107109.weeblysite.com
 home-107119.weeblysite.com
@@ -11492,7 +11476,6 @@ iconectsuport24horas.10001mb.com
 icp-gcv.sbs
 ictjur3g.duckdns.org
 ictts-nmsu.weebly.com
-icw0wzj.duckdns.org
 icy-boat-f94e.ninonlzeatleicw7551.workers.dev
 icy-mud-510b.joyoung3248.workers.dev
 icy-tooth-e247.share-pomen.workers.dev
@@ -11625,6 +11608,7 @@ ils37427456.firebaseapp.com
 ils37427456.web.app
 im36.app
 im47.app
+imapolwsasndf.weebly.com
 imgern-ee14.earyllofeprir.workers.dev
 immense-appointment-wide.on-fleek.app
 important39.weebly.com
@@ -11792,7 +11776,6 @@ instagrm.vercel.app
 install-bonus-72fc.redironinstall.workers.dev
 instant-submit-violation-review.surge.sh
 instantchainfix-c287b.firebaseapp.com
-instantranx-attached.firebaseapp.com
 instgram.azurewebsites.net
 inte-zim-updatey.weebly.com
 integrate-cl5.pages.dev
@@ -11855,6 +11838,7 @@ invvv-00dc.engenleeittreds.workers.dev
 inwayhosting.com
 inyfyagricoles.firebaseapp.com
 inzizi.com
+io-auth-trezor.github.io
 io-en-trezorr.webflow.io
 io-en-trezorst.webflow.io
 io-opensea-auth.webflow.io
@@ -11936,7 +11920,6 @@ islandhouse-470927714.phsafarilodge.co.zm
 islrealexnius.firebaseapp.com
 islrealexnius.web.app
 israel-hamas24newsclipsupdates.vercel.app
-issue-appeal-do-feedback.firebaseapp.com
 issue-appeal-do-feedback.web.app
 issue-for-meta-complete-in-the-form.surge.sh
 issuereportdesk-273a.firebaseapp.com
@@ -12188,7 +12171,6 @@ joshbystrom.com
 joug98jw9ofjj8gj3ooow4ou.pages.dev
 journalmalaysia.com
 journekdo-s.firebaseapp.com
-journekdo-s.web.app
 journeyquestor-stormtracker.blogspot.com
 journeyworld-glowdreamer.blogspot.com
 jouturez.firebaseapp.com
@@ -12504,6 +12486,7 @@ kjhgdgfhgj454675jfhghffgkjfh.pages.dev
 kjhggbn.weebly.com
 kjiu.pages.dev
 kjnbvfw16.pages.dev
+kjqwdbiwesc.weeblysite.com
 kjshapq.klhgkj325.com
 kjsijfgfgh.taplink.ws
 kk-1-allegro.pages.dev
@@ -12698,7 +12681,6 @@ launchdapp-connection.pages.dev
 launchpadlpxchainsfix.pages.dev
 lauras-superb-site-df1c99.webflow.io
 laurens-radical-site-0f1a-a46b5c73caf39.webflow.io
-lavender-camellia-kqh356.mystrikingly.com
 laverreriedugast.com
 laviedestar.com
 lavneusmagri.firebaseapp.com
@@ -12768,7 +12750,6 @@ lechefducartelle.web.app
 ledgeer--set-up.webflow.io
 ledger-live-web.pages.dev
 ledgerrr.pages.dev
-ledgerservice.org
 ledgerwellat.com
 ledgre-content-ledgre.webflow.io
 ledixslca.firebaseapp.com
@@ -13292,6 +13273,7 @@ lv-jeffries-stuart.pages.dev
 lv-vid-smartid.pages.dev
 lv0uhu.webwave.dev
 lvbqas.casro.workers.dev
+lvwf5wr.duckdns.org
 lwoasmneshdufkd.weebly.com
 lx-89f3.firebaseapp.com
 lx-89f3.web.app
@@ -13516,7 +13498,6 @@ mail-107765.weeblysite.com
 mail-107820.weeblysite.com
 mail-108017.weeblysite.com
 mail-108167.weeblysite.com
-mail-108344.weeblysite.com
 mail-108355.weeblysite.com
 mail-108582.weeblysite.com
 mail-108670.weeblysite.com
@@ -13951,7 +13932,6 @@ memonouveaufixe.webnode.fr
 memphisuniversityemailverification.ukit.me
 memrdan.pages.dev
 memstronics.cellusuedecooperation.store
-memtamcktesionnsxs.webflow.io
 mendhfjpl.weebly.com
 menschlich-c1b80.firebaseapp.com
 menschlich-c1b80.web.app
@@ -14177,13 +14157,11 @@ metakkstension.webflow.io
 metalcast.com.mx
 metaloginee.webflow.io
 metama-sklogin.webflow.io
-metamaakslognu.webflow.io
 metamaasklouginei.webflow.io
 metamaaskqwallewt.gitbook.io
 metamaaskwalleet.webflow.io
 metamaassilogg.gitbook.io
 metamacisklogin.webflow.io
-metamaeextiuxtension.webflow.io
 metamaeieklogin.webflow.io
 metamaeskelogi.webflow.io
 metamaeukelin.webflow.io
@@ -14255,7 +14233,6 @@ metamaskchextensions.webflow.io
 metamaskchrmsxtension.gitbook.io
 metamaskchrmxtensioni.gitbook.io
 metamaskchrom-extensiin.webflow.io
-metamaskchromekstension.webflow.io
 metamaskchromeupdate.webflow.io
 metamaskchromextan.gitbook.io
 metamaskchroomextension.gitbook.io
@@ -14448,7 +14425,6 @@ metamstextnsion.webflow.io
 metamuaskingghlohgin.godaddysites.com
 metamuastensn.webflow.io
 metamuastwension.webflow.io
-metamuasxte.webflow.io
 metamuisklogin.webflow.io
 metamuistension.webflow.io
 metamuixlogi.webflow.io
@@ -14602,7 +14578,6 @@ mettamaskelougine.webflow.io
 mettamasklleogn.webflow.io
 mettamaskluogien.webflow.io
 mettamasks--org.webflow.io
-mettamasskextenssion.webflow.io
 mettamaswallut.gitbook.io
 mettamsk-ex-tension.b12sites.com
 mettamsklognin.webflow.io
@@ -15325,7 +15300,6 @@ my-office365.webflow.io
 my-onlines-general.pages.dev
 my-school-document.webflow.io
 my-site-100156.weeblysite.com
-my-site-100188-100110.weeblysite.com
 my-site-100260.weeblysite.com
 my-site-100444-105078.weeblysite.com
 my-site-100576.weeblysite.com
@@ -15612,7 +15586,6 @@ net.elisabeth.be
 net24approva.sbs
 net24login.com
 netfliiix-9xj4kwyqs-itxpp.vercel.app
-netfliix-tilek.netlify.app
 netflix-92hj6ktqu-akash9284667895.vercel.app
 netflix-clone-eun.pages.dev
 netflix-clone-reps.000webhostapp.com
@@ -15757,7 +15730,6 @@ newprojectille.onepage.me
 news-1pb.pages.dev
 news-metamaskwallet.webflow.io
 newspolitiqueconf.flazio.com
-newsprobe.org
 newtest-8eu.pages.dev
 newucoffice.weebly.com
 newupdatedadmin.webflow.io
@@ -15805,19 +15777,18 @@ niuw93985-wor.pages.dev
 nivodoekmczoiaf.hikari-8.workers.dev
 nixtla-developer-portal-main.firebaseapp.com
 nixtla-developer-portal-main.web.app
+nj4ot2o3e.duckdns.org
 njawe223sww.blogspot.com
 njd.pages.dev
 njedxgh.romerodrashraf581.workers.dev
 njetdsy.reytnmx.workers.dev
 njnel.pages.dev
-njtlswgs.com
 njuhyhf.johnadams09.workers.dev
 njuytih.nbhyniknhv.workers.dev
 njzso.pages.dev
 nkaddilounjo.firebaseapp.com
 nkaddilounjo.web.app
 nke.pages.dev
-nksa.com.mx
 nl-c4d.firebaseapp.com
 nl-c4d.web.app
 nlb-racun.firebaseapp.com
@@ -16177,7 +16148,6 @@ ogkyby.webwave.dev
 ogxi9qb.duckdns.org
 ohbestdayever.com
 ohcp1v.webwave.dev
-ohd9w1tw0.duckdns.org
 ohigfdgfdzsfxhghb.weebly.com
 ohiohistory.myportfolio.com
 ohksxitservicefr.firebaseapp.com
@@ -16486,6 +16456,7 @@ other-108041.weeblysite.com
 other-108839.square.site
 other-108839.weeblysite.com
 otherside-publicmint-com.pages.dev
+otkf21s0.duckdns.org
 otllook365.webcindario.com
 ottos-telegrampage2.pages.dev
 otyoy.pages.dev
@@ -16713,7 +16684,6 @@ oyyw1hkv7.duckdns.org
 ozhgatib.square.site
 ozi-1od.pages.dev
 ozo.pages.dev
-p-sso-coinbase-auth-m-auth.webflow.io
 p0el7827.duckdns.org
 p0lygon-php.blogspot.com
 p0rtail-dgfip.ukit.me
@@ -16794,7 +16764,6 @@ pancake-alpha13.vercel.app
 pancake-alpha14.vercel.app
 pancake-alpha15.vercel.app
 pancake-alpha17.vercel.app
-pancake-alpha19.vercel.app
 pancake-alpha6.vercel.app
 pancake-alpha8.vercel.app
 pancake-alpha9.vercel.app
@@ -16854,7 +16823,6 @@ pancakefinances-swap.pages.dev
 pancakeprotectors.pages.dev
 pancakes-pools.pages.dev
 pancakesswap.pages.dev
-pancakestart.pages.dev
 pancakeswap-8at.pages.dev
 pancakeswap-aidropclaim40.vercel.app
 pancakeswap-airdrop34e.vercel.app
@@ -17409,7 +17377,6 @@ postroutespro.top
 postscan.top
 postscanners.top
 postsecurely.top
-postservice.top
 postsikai.top
 postsikei.top
 postsmart.top
@@ -17450,7 +17417,6 @@ posttrackrealm.top
 posttracksecure.top
 posttrackservices.top
 posttracksystem.top
-posttracktech.top
 posttracktechsolutions.top
 posttracktools.top
 posttrackupdate.top
@@ -17776,6 +17742,7 @@ purple-da6462.qqu4qswu.workers.dev
 purple-rain-920f.iceber.workers.dev
 purple-voice-ca96.paul1074.workers.dev
 purplethumbsng.com
+pushneu.info
 pushtan-i.web.app
 putzvneaumqi-bohfrgzkfexn.firebaseapp.com
 putzvneaumqi-bohfrgzkfexn.web.app
@@ -18375,18 +18342,15 @@ reregister3.firebaseapp.com
 reregister3.web.app
 reregister30.web.app
 reregister31.firebaseapp.com
-reregister31.web.app
 reregister32.firebaseapp.com
 reregister32.web.app
 reregister34.firebaseapp.com
-reregister35.web.app
 reregister36.web.app
 reregister37.web.app
 reregister38.firebaseapp.com
 reregister38.web.app
 reregister40.firebaseapp.com
 reregister42.web.app
-reregister44.firebaseapp.com
 reregister44.web.app
 reregister45.firebaseapp.com
 reregister45.web.app
@@ -18599,6 +18563,7 @@ rlispeu.cn
 rlpt7bs.duckdns.org
 rmailldeli.weebly.com
 rmdir.net
+rms73wb.duckdns.org
 rmuwabspleor.weebly.com
 rn8xrwprx.duckdns.org
 rnbuud1ba.duckdns.org
@@ -18814,6 +18779,7 @@ s-finanz.net
 s-idcenter.net
 s-metamask-wleet-ext.gitbook.io
 s-start-trrezor.gitbook.io
+s-verbessern.net
 s0482-comcqst-infini04-line.pages.dev
 s18902163.onlinehome-server.info
 s1mple-giveaways.de
@@ -19465,7 +19431,6 @@ sharepont.weebly.com
 shaw-104044.weeblysite.com
 shaw-webmail-info.weeblysite.com
 shawmail967.weebly.com
-shawn.tftpd.net
 shbdz.blogspot.com
 shddsjhxzmnxzmxzxnna.square.site
 shdmhnqeo.weebly.com
@@ -19879,7 +19844,6 @@ slovenianservice001.weebly.com
 slowburn-n0x184.pages.dev
 slpnzxh.cn
 slt-ik.weebly.com
-sm.txzzwsggnniuf.com
 small-art-19eb.casteolpopo.workers.dev
 small-recipe-2788.on.fleek.co
 small-surf-4f1c.reccoaadilu9.workers.dev
@@ -19904,7 +19868,6 @@ smb.utg79.com
 smbbcoasnf.com
 smbc.afyj111.com
 smbc.gzjcba8.com
-smbc.hciglobalmed.com
 smbc.jgkukj.top
 smbc.jtwy888.com
 smbc.mbmistaz.com
@@ -20044,6 +20007,7 @@ sp-access-window.web.app
 sp-act.pages.dev
 sp-aon.pages.dev
 sp-chip1.net
+sp-erneuerung.info
 sp-guillaumedennis.pages.dev
 sp-jeepwatkins2468.pages.dev
 sp-jetztcheck1.net
@@ -20058,6 +20022,7 @@ sp-noreply-k-in78509.pages.dev
 sp-noreply-k-in85987.pages.dev
 sp-noreply-k-sensetess86765.pages.dev
 sp-online1.net
+sp-push.app
 sp-s1.net
 sp-up2.net
 sp-weiter1.net
@@ -20138,6 +20103,8 @@ sparkass-sidcheck8.firebaseapp.com
 sparkass-sidcheck8.web.app
 sparkasse-reaktivierung55.xyz
 sparkasse-spush.de
+sparkasse-update.info
+sparkasse-verifizerungsprozess.net
 sparkasse.de-bestaetigung.de
 sparkasse.de-freigabencenter.de
 sparkassen-telefon.de
@@ -20307,6 +20274,7 @@ start---en-trezos.gitbook.io
 start-help-metamask.webflow.io
 start-suite-trezors.gitbook.io
 start-trrezori.webflow.io
+start-ttrezor.github.io
 start4vps.com
 start72.godaddysites.com
 startedetrweb.webflow.io
@@ -20412,7 +20380,6 @@ suaq.pages.dev
 subashinstitutions.in
 subb.id329086.com
 submit-additional-info-id-36.vercel.app
-submit-issues-here.surge.sh
 submit-meta-rew.vercel.app
 submit-metaa.vercel.app
 submitted.formspark.io
@@ -20546,6 +20513,7 @@ support-metimskext-org.webflow.io
 support-metmicxtenson.webflow.io
 support-metmsk.webflow.io
 support-metmsklugin.gitbook.io
+support-mettammask.gitbook.io
 support-mettmskext-org.webflow.io
 support-mymetamask.webflow.io
 support-notify0.firebaseapp.com
@@ -20943,7 +20911,6 @@ telegrmaw.club
 telegrmaw.work
 telegrmm.cc
 telegrmp.work
-telegrnal.work
 telegrnam.cc
 telegrnat.club
 telegroam.org
@@ -21810,7 +21777,6 @@ tvps-ymvt-vbd.webflow.io
 tvps-yntrnt-shl-tsvvt.webflow.io
 tvxihur.duckdns.org
 tw-dj0.pages.dev
-tw9dce.duckdns.org
 twalkerff31.myportfolio.com
 tweb.chatknow.com
 twebvfcuonlineinfo.weebly.com
@@ -21911,7 +21877,6 @@ ueen-5a0b.att0nlineserv.workers.dev
 uei398402-ws.pages.dev
 ueioskamjsnhdu47839409587shurytabnmkfiuesj7849ikldkeius4.pages.dev
 uejdfiudfujodlifodi.weeblysite.com
-ufjcard.icu
 ufyjvgghjbhkjbj.pages.dev
 ug5qxs8n4.duckdns.org
 uhasseltipbe.weebly.com
@@ -21926,7 +21891,6 @@ uhcthankyou.com
 uhefevmnbqp.weebly.com
 uhg6-prod.adobecqms.net
 uhjkjgffghjkhgfetryuuiijhgfdgjjkhgfdetryuyhk.pages.dev
-uhsf3i0rj.duckdns.org
 uhtyfreswdfghnmkzyuiokmn789t46shjduiklmnvydtgfdv2.pages.dev
 ui-cml.pages.dev
 uid-sienna-turvaville.pages.dev
@@ -22039,6 +22003,7 @@ update-55e5.dideto2686.workers.dev
 update-e626b9.webflow.io
 update-my-trendy-site.webflow.io
 update-payment.web.app
+update-sparkasse.info
 update-verif6786.pages.dev
 update-your-aolaccount.nlynn50.workers.dev
 update345.pages.dev
@@ -22171,7 +22136,6 @@ usbc.nyddmgpz.top
 usberkah.rf.gd
 usbjsoqwyi.top
 usbl.gvbazyrb.top
-usbp.itprxhof.top
 usbr.akegev.top
 usc-parcel.top
 uscrlkgbth.top
@@ -22514,7 +22478,6 @@ utehq.com
 utehw.com
 utejq.com
 utejr.com
-uteju.com
 utekc.com
 utekf.com
 utekx.com
@@ -22537,9 +22500,7 @@ uteun.com
 uteut.com
 uteuw.com
 utevp.com
-utevr.com
 utevw.com
-utevy.com
 utewd.com
 utewq.com
 utews.com
@@ -22578,7 +22539,6 @@ utryy.com
 utwbg.com
 utwbh.com
 utwbx.com
-utwbz.com
 utwdh.com
 utwdj.com
 utwdm.com
@@ -22596,7 +22556,6 @@ utwnp.com
 utwnq.com
 utwqj.com
 utwqy.com
-utwse.com
 utwtp.com
 utwxc.com
 utwzp.com
@@ -22728,7 +22687,6 @@ vconnect-5tj.pages.dev
 vcseeveattt.weebly.com
 vcvb.weeblysite.com
 vcvcvbhbcdtcvwcdutuvdcegvcdcvcgbg.pages.dev
-vcwtcp.duckdns.org
 vcxf-106093.weeblysite.com
 vczr4e.duckdns.org
 ve-lkjhgfdertyuijkhgfdwertyhnexecvbnmiuyrewrtyuiklrbose-wa.pages.dev
@@ -22976,7 +22934,6 @@ virgin-media-108499.weeblysite.com
 virgin-media-115983.webflow.io
 virginiacommunitycollegesystem365.ukit.me
 virginmoney-online.com
-virginmoneyweb.com
 viridischemical.ferreracademy.com
 virtual-banrural.webcindario.com
 virtual.labdigbdbqapb.com
@@ -23148,7 +23105,6 @@ vvu1ga.webwave.dev
 vw0yolck.duckdns.org
 vwbhuvz.cn
 vwebmaillibero66.istmein.de
-vws3ai.webwave.dev
 vwx.ewgwrag.workers.dev
 vx4nn9.webwave.dev
 vx5be6.webwave.dev
@@ -23332,6 +23288,7 @@ web--metsmk--logiiei.webflow.io
 web--support-wab-crypto.webflow.io
 web--traizor-suitte.gitbook.io
 web--wellta--metasmk.gitbook.io
+web-106542.weeblysite.com
 web-107403.weeblysite.com
 web-109039.weeblysite.com
 web-ac-maj.boxmode.io
@@ -23600,7 +23557,6 @@ webmailaruba.webmaiilterra.me
 webmailclient098.weebly.com
 webmaileducactiongoucher.weebly.com
 webmailfree3.ukit.me
-webmailgrec.is-uberleet.com
 webmailgwtcnet-108694.square.site
 webmailinformationaltransmional.weebly.com
 webmailito.is-gone.com
@@ -23742,7 +23698,6 @@ wf1mko.webwave.dev
 wf3g81.webwave.dev
 wfalerts-srp.firebaseapp.com
 wfalerts-srp.web.app
-wfegtju.cn
 wfow-8ab44.firebaseapp.com
 wfow-8ab44.web.app
 wfyhsdhjhahfhksdjgjhfsgg63.weebly.com
@@ -23751,7 +23706,6 @@ wgy-df.web.app
 wh284c.webwave.dev
 whatsaap-wy.com
 whatsappuu.cc
-whbysnlfaa.duckdns.org
 whemjy.webwave.dev
 whimsical-dragon-846c53.netlify.app
 whispering-knife-howling.on-fleek.app
@@ -24158,7 +24112,6 @@ wps-dev.com
 wpsbancodebogota.webcindario.com
 wptda.pages.dev
 wq.mofytdmobiznvd2240.workers.dev
-wq66ig.duckdns.org
 wqibvy3m.duckdns.org
 wqy9dysqd.duckdns.org
 wr5xi4.duckdns.org
@@ -24291,7 +24244,6 @@ www.aeon.co.jo.irutryt.com
 www.aeon.co.jo.itgjvnf.com
 www.aeon.co.jo.ituyvh.com
 www.aeon.co.jo.oizhseotbhobzte.cn
-www.aixnwsuaoallegro.top
 www.aktualisieren-swisspass.online
 www.alamcahaya.com
 www.allegro-buy.com
@@ -24346,7 +24298,6 @@ www.bacfinancial.biz
 www.bankovnictvi-george.cz
 www.barphis.e6hdx.my.id
 www.bbsjoil.top
-www.bczqw.cn
 www.bdhjjx.com
 www.be-mypayco-niq.com
 www.beiyunqi.cn
@@ -24543,7 +24494,6 @@ www.kucoin.cloud
 www.kudsapu.cn
 www.laestrelladeljamon.com
 www.lalacez.cn
-www.lamod.cn
 www.languagexperience.it
 www.lazubi.dhkrt.my.id
 www.lazyapeyachtclub.com
@@ -24751,6 +24701,7 @@ www.usps.securepackagepro.top
 www.usps.secureparcelhandling.top
 www.uudcqnh.cn
 www.uverdnes.cz
+www.v-pess-ne.com
 www.va.permata.bankslemansyariah.co.id
 www.validacionesprestramillasenlinea.headliners.co.za
 www.vdfaqyd.cn
@@ -24770,7 +24721,6 @@ www.wjxhuq1t.duckdns.org
 www.wkmobi.com
 www.wlllkj.com
 www.wtzqxs.cn
-www.wvw.solicitud-inmediata.webcanles.bcp.com.baranta.net
 www.xdlkjkc.cn
 www.xjflcx.com
 www.xjk158.com
@@ -24824,7 +24774,6 @@ www2.qallegro.pl
 www3.authe.workers.dev
 www3.coso.workers.dev
 www3.manl.workers.dev
-www3_iac_mufg_jp.h745gew.com
 www3acessonlin-app.blogspot.com
 www81.consultando-web.com
 wwwaaatxhdt.pages.dev
@@ -25012,7 +24961,6 @@ y35dv7.webwave.dev
 y3g3j.ktt55.my.id
 y3gpy6.webwave.dev
 y4j7iinld.duckdns.org
-y5d1dkp.duckdns.org
 y6y5vzt.duckdns.org
 y7gstv.duckdns.org
 y7pea0aoy.duckdns.org
@@ -25051,7 +24999,6 @@ yahoo-106258.weeblysite.com
 yahoo-106360.weeblysite.com
 yahoo-106902.weeblysite.com
 yahoo-107181.weeblysite.com
-yahoo-107535.weeblysite.com
 yahoo-108290.weeblysite.com
 yahoo-108620.weeblysite.com
 yahoo-108764.weeblysite.com
@@ -25216,7 +25163,6 @@ ykaxa83.duckdns.org
 ykhualitai.com
 ykoef.pages.dev
 yky8yq.duckdns.org
-yldta6q.duckdns.org
 ylerp0.webwave.dev
 ylgas.com
 ylkjmhvgtg2.pages.dev
@@ -25225,7 +25171,6 @@ ymail-102329.weeblysite.com
 ymail.closingcd.workers.dev
 ymaildeskpage.weebly.com
 ymailn.weebly.com
-ymailnn1.weebly.com
 ymhklga.zdf5g.my.id
 ymshg.cn
 ync3fgc6.duckdns.org
