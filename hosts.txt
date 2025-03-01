@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Fri Feb 28 20:05:59 UTC 2025
-# Number of unique domains: 25997
+# Date: Sat Mar  1 00:21:38 UTC 2025
+# Number of unique domains: 25928
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -38,7 +38,9 @@
 0ix.5900434.xyz
 0izz.465094325.xyz
 0lx.14537653.xyz
+0lx.2850943.xyz
 0lx.690535422.xyz
+0lz.4850943.xyz
 0lzz.9053262.xyz
 0nlinehrcu.weebly.com
 0nlinenterpriseandtrust.weebly.com
@@ -128,6 +130,7 @@
 1150d8f.wcomhost.com
 11511df.wcomhost.com
 1151297.wcomhost.com
+11528ad.wcomhost.com
 12345678b.weebly.com
 12428461842-gskantmbsuknbnus.start.page
 1291823.weebly.com
@@ -702,7 +705,6 @@ adminrequire.weebly.com
 adminserver009-105336.weeblysite.com
 adminserver356.weebly.com
 adminsupportteam8.weeblysite.com
-adminuser.hlntqr.cn
 adminuser.teleegam.art
 admionosservicalert.weebly.com
 admirable-truffle-5d3475.netlify.app
@@ -934,6 +936,7 @@ allegro.pl-oferta941273.sbs
 allegro.pl-oferta9413154.click
 allegro.pl-ofertaid539002814572.shop
 allegro.pl-ofertaid7163015713057.icu
+allegro.pl-ofertaid7752917466125.sbs
 allegro.pl-ofertaid923923492323.cfd
 allegro.pl-ofertaid9283162221156.sbs
 allegro.pl-ofertaid951725558125.sbs
@@ -1014,6 +1017,7 @@ allegrolokalnie.listing-98410.shop
 allegrolokalnie.listing77.shop
 allegrolokalnie.oferta-124125.icu
 allegrolokalnie.oferta-1573991.cfd
+allegrolokalnie.oferta-1951823.icu
 allegrolokalnie.oferta-1985627.shop
 allegrolokalnie.oferta-2490966.shop
 allegrolokalnie.oferta-321452.icu
@@ -1025,6 +1029,7 @@ allegrolokalnie.oferta-472846.icu
 allegrolokalnie.oferta-4952804.shop
 allegrolokalnie.oferta-5219677.shop
 allegrolokalnie.oferta-6693847.shop
+allegrolokalnie.oferta-6831971.icu
 allegrolokalnie.oferta-7277642.shop
 allegrolokalnie.oferta-764315.icu
 allegrolokalnie.oferta-8633912.cfd
@@ -1064,7 +1069,6 @@ allegrolokalnie.pl-47389763468934.cyou
 allegrolokalnie.pl-4g5g34f34f.shop
 allegrolokalnie.pl-534634634.shop
 allegrolokalnie.pl-543076.icu
-allegrolokalnie.pl-564.cfd
 allegrolokalnie.pl-564534.shop
 allegrolokalnie.pl-56978f3748.shop
 allegrolokalnie.pl-6172934.rest
@@ -1082,7 +1086,6 @@ allegrolokalnie.pl-7896786.shop
 allegrolokalnie.pl-79352fh2837ve87gh24gds.cyou
 allegrolokalnie.pl-79352fh2837ve87gh24gds.icu
 allegrolokalnie.pl-798678658.shop
-allegrolokalnie.pl-8173911.icu
 allegrolokalnie.pl-8214912.shop
 allegrolokalnie.pl-847634.rest
 allegrolokalnie.pl-88834493.shop
@@ -1113,6 +1116,7 @@ allegrolokalnie.pl-oferta-382279.rest
 allegrolokalnie.pl-oferta-521456.shop
 allegrolokalnie.pl-oferta-979328.shop
 allegrolokalnie.pl-oferta-9847331.shop
+allegrolokalnie.pl-oferta-bilety-93820.shop
 allegrolokalnie.pl-oferta-firmowa-id88394.shop
 allegrolokalnie.pl-oferta-id2387942371.top
 allegrolokalnie.pl-oferta-zweryfikowana.cfd
@@ -1202,6 +1206,7 @@ allegrolokalnie.pl-oferta9413154.click
 allegrolokalnie.pl-oferta9982422.cfd
 allegrolokalnie.pl-ofertaid52355235.top
 allegrolokalnie.pl-ofertaid742395128519.icu
+allegrolokalnie.pl-ofertaid7752917466125.sbs
 allegrolokalnie.pl-ofertaid923923492323.cfd
 allegrolokalnie.pl-ofertaid9283162221156.sbs
 allegrolokalnie.pl-ofertaid95172147123451234.sbs
@@ -2756,7 +2761,6 @@ auth--ledgercom--cdn---suppor.webflow.io
 auth--ledgerdownload--auth.webflow.io
 auth--ledgere---app.webflow.io
 auth--ledgerlogunn.webflow.io
-auth--ledgestatrweb--io.webflow.io
 auth--ledgr-com--start.webflow.io
 auth--ledsupot--service.webflow.io
 auth--legar--dextopstop.webflow.io
@@ -2809,7 +2813,6 @@ auth-ao-ttrezor.webflow.io
 auth-app---cryptocom-sso-m-cdn.webflow.io
 auth-app--cryptocom-sso-m-cdn.webflow.io
 auth-app-crypto--sso--cz---cdn.webflow.io
-auth-app-crypto--sso-cdnn.webflow.io
 auth-app-crypto--sso-en-cdn.webflow.io
 auth-app-crypto--sso-web---cdn.webflow.io
 auth-app-crypto--web---cdn.webflow.io
@@ -2917,7 +2920,6 @@ auth-start---trezorr.webflow.io
 auth-start--triezor--app.webflow.io
 auth-start-ledgr.webflow.io
 auth-start-s-trrezor.webflow.io
-auth-start-teor.webflow.io
 auth-start-trezore.webflow.io
 auth-start-triizzor-cdx.webflow.io
 auth-start-trizuri.webflow.io
@@ -3082,6 +3084,7 @@ babeauwinnaxel.firebaseapp.com
 babooundefinedzfyvdi.blogspot.com
 babyliss-project.firebaseapp.com
 babyliss-project.web.app
+babyshopvip.com
 bac-cred0matic9.webcindario.com
 baccredot.webcindario.com
 bacpayee.contactin.bio
@@ -3199,7 +3202,6 @@ bafkreihnitfm4rdtcpkimgygzyz4jtmpjxjpvsamlxeqyjltlmka3m6z7u.ipfs.dweb.link
 bafkreihovuvacztwwtyeuhasyvrytopdbia7ibfjbrrexx5camb6zebs2i.ipfs.flk-ipfs.xyz
 bafkreihpvn2wkpofobf4ctonbmzty24fr73fzf4jbyiydn3qvke55kywdi.ipfs.dweb.link
 bafkreihszn57npdvge56h6nftx6td6hfmuv2i4vpolmnepbtmpsvna2a7u.ipfs.dweb.link
-bafkreihwd4mcbephnzz3rornr6jmbmlo6nazfooy6hz245xeasotks2ss4.ipfs.dweb.link
 bafkreihwmdqtthfsuaejhcx7izfsyojywzwwc5fo25z4bki6uswimqr65q.ipfs.dweb.link
 bafkreihxieobcsxnhlcdlhqet3nd6o5jyotdpaxnsvcurvhcxbexsg767e.ipfs.flk-ipfs.xyz
 bafkreihyl2c2teciovyc5fr24ivn2pfkkjrwvsnr2r6qaejdodd2w25lf4.ipfs.nftstorage.link
@@ -3212,7 +3214,6 @@ bafybeia6pa2stquojkauqbrk7ymggry24fwg4eb3hmhwplfhnjnyzgwvy4.ipfs.fleek.cool
 bafybeiaamq7qrezzm7cbko4e6hl5c3fcjqntup4343z5as3j2jnxs7s4p4.ipfs.dweb.link
 bafybeiacpiatauyp65ew4gook4cwdbk52z522ucxz2yi6wvymc6x4rlid4.ipfs.dweb.link
 bafybeiaerdkpcisu56i2mbek5qcsb7sxy6bcvh6xht4mrb2u4czj7zjboq.ipfs.fleek.cool
-bafybeiag2ckxwgsuzi453m4jvan4lpr6oyl3p23zw5b5k7vtrqco6kw6em.ipfs.dweb.link
 bafybeiagcaumcbxzhzbnicq6h5smmwwxt63aidgsadojwdlyoueggyfjki.ipfs.dweb.link
 bafybeialkpqeia6qffe47filztf62ql3i7fytkok4iqxs66kdovcw6ypmy.ipfs.dweb.link
 bafybeian3aan6wwbactd4laaojfllykee6h5pclk3qjxblr7h2ewyffrai.ipfs.w3s.link
@@ -3655,7 +3656,6 @@ binance.com.179-43-172-131.cprapid.com
 binance.uk.net
 binancevcxq.firebaseapp.com
 binancevcxq.web.app
-bing-kucoin-log-ca.webflow.io
 bing-kucoin-log.webflow.io
 bing-ladger-live-wallt.webflow.io
 bingkas2025-program-bantuan-ewallet.offi-ciall.com
@@ -4075,7 +4075,6 @@ bt-server-104707.square.site
 bt-update-108795.weeblysite.com
 bt-verify.web.app
 bt-voice-109318.weeblysite.com
-bt-voice-ejejeje.weeblysite.com
 bt-voice-eyjdeug.weeblysite.com
 bt-voice-nquiwshksd.weeblysite.com
 bt-voice-qoskjwskq.weeblysite.com
@@ -4321,7 +4320,6 @@ business-supports-center.pages.dev
 business-supports-centers.pages.dev
 business-team-416516841.firebaseapp.com
 business-team-416516841.web.app
-business-top.cfd
 business.postegon.top
 business01872961.firebaseapp.com
 business01872961.web.app
@@ -4361,6 +4359,7 @@ bvgftryehdnxju.web.app
 by-belpost.top
 byfhnjwmzpvrl.ink
 byrissbitt-login.webflow.io
+bytedancegtgt.shop
 byycrctyaa.firebaseapp.com
 byycrctyaa.web.app
 bzdsklou.firebaseapp.com
@@ -4995,7 +4994,6 @@ coinbase-auth-log-in.webflow.io
 coinbase-e4i.pages.dev
 coinbase-pro-official.webflow.io
 coinbase-rpcdebug.pages.dev
-coinbase-wallot.webflow.io
 coinbaseprolesogin.webflow.io
 coinbaseproologin.webflow.io
 coinbaseprroloygin.webflow.io
@@ -5022,6 +5020,7 @@ colis-livraison-mondial-relay.com
 colis-malivraison.com
 colis-mondiai-relay.com
 colis-reprogrammer.com
+colisgestion-mondialrelay.com
 colismondial.com
 colissimo.cs-suivi.org
 coljines-3e09f.firebaseapp.com
@@ -5199,7 +5198,6 @@ com-tracking-xxxae.cc
 com-tracking-xxxan.cc
 com-tracking-xxxav.cc
 com-tracking-xxxaz.cc
-com-tracking-xxxb.cc
 com-tracking-xxxbe.cc
 com-tracking-xxxbn.cc
 com-tracking-xxxbv.cc
@@ -5359,7 +5357,6 @@ com-vnqbu.xin
 com-vnqbw.xin
 com-vnqby.xin
 com-vvho.top
-com-wjpbr.top
 com-wypupe.top
 com-wypuph.top
 com-xaxbz.vip
@@ -5380,7 +5377,6 @@ com-xiieaj.vip
 com-xiiet.vip
 com-xiifaa.vip
 com-xiifab.vip
-com-xiifac.vip
 com-xiifad.vip
 com-xiifaf.vip
 com-xiifag.vip
@@ -6627,7 +6623,6 @@ delivery-dhlswitzerland.firebaseapp.com
 delivery-dhlswitzerland.web.app
 delivery-website.pages.dev
 delivery.helpmi.shop
-delivery.helpmq.shop
 delivery.helpmt.shop
 delivery.helpmw.shop
 delivery.helpqt.xin
@@ -6722,7 +6717,6 @@ dev-4120363987850231545.pantheonsite.io
 dev-6byd9.firebaseapp.com
 dev-6byd9.web.app
 dev-id006520317001.pantheonsite.io
-dev-iowadot-gov.pantheonsite.io
 dev.casaderincon.com
 devbr-7de68.firebaseapp.com
 devbr-7de68.web.app
@@ -6829,6 +6823,7 @@ disq.us
 distrib-fr.com
 distrib-pbrs.com
 distrib-prbs.com
+distribution-echec.com
 distribution-eco.com
 distribution-jours.com
 distribution-mondiairelay.com
@@ -6929,7 +6924,6 @@ docs-blockfi-cdn.webflow.io
 docs-bridge-trezur--help.webflow.io
 docs-bridge-trizr--cdn.webflow.io
 docs-bridge-trrzyor--cdn.webflow.io
-docs-bridge-trzyore--cdn.webflow.io
 docs-bridge-trzzr-cdn.webflow.io
 docs-brigetrzre.webflow.io
 docs-brldge-trizr-cdn.webflow.io
@@ -7271,7 +7265,6 @@ dzxcawv.blogspot.de
 e-ctt.com
 e-document-banque-et-assurance.firebaseapp.com
 e-document-banque-et-assurance.web.app
-e-link-setupactivationspot9ie446qxxuj6lcnbo6k9shkaab2ivel9fjjv.weeblysite.com
 e-link-supporteditor-attmail-hplp9bfoizaaabjm74ygww52xwaiywkmp.weeblysite.com
 e-mail-survey.weeblysite.com
 e-mail-wvxvp.daftpage.com
@@ -7395,7 +7388,6 @@ e-zpassiag.com-jiuzhecc.xin
 e-zpassiag.com-jiuzhedd.xin
 e-zpassiag.com-jiuzheee.xin
 e-zpassiag.com-jiuzheff.xin
-e-zpassiag.com-jiuzhegg.xin
 e-zpassiag.com-jiuzhehh.xin
 e-zpassiag.com-jiuzhekk.xin
 e-zpassiag.com-jiuzheoo.xin
@@ -7424,7 +7416,6 @@ e-zpassiag.com-xindianc.xin
 e-zpassiag.com-xindiane.xin
 e-zpassiag.com-xindians.xin
 e-zpassiag.com-xindianx.xin
-e-zpassiiv.top
 e-zpassjiw.top
 e-zpassjzb.top
 e-zpasskgr.top
@@ -7503,7 +7494,6 @@ e-zpassvap.top
 e-zpassvcf.top
 e-zpassvcp.top
 e-zpassvf.top
-e-zpassvfl.top
 e-zpassvgr.top
 e-zpassvlfg.top
 e-zpassvsf.top
@@ -8142,7 +8132,6 @@ ez-drivemakfqx.top
 ez-drivemamzhl.top
 ez-drivemaqddz.top
 ez-drivemasqbq.top
-ez-drivematwya.top
 ez-drivemavlha.top
 ezKKG26-f4d777af882c6452cf8f08055cfe63e1.jarrodchong.com
 ezdrivad-com.top
@@ -8291,7 +8280,6 @@ ezdrive.com-fset.xin
 ezdrive.com-ftxl.top
 ezdrive.com-fvbu.xin
 ezdrive.com-fzvf.xin
-ezdrive.com-gabg.xin
 ezdrive.com-gfqx.top
 ezdrive.com-gkbq.top
 ezdrive.com-gmwe.top
@@ -8339,7 +8327,6 @@ ezdrive.com-iypl.xin
 ezdrive.com-izgf.xin
 ezdrive.com-jboj.xin
 ezdrive.com-jfmze.top
-ezdrive.com-jhww.xin
 ezdrive.com-jiyc.top
 ezdrive.com-jjoz.xin
 ezdrive.com-jjyc.xin
@@ -8389,7 +8376,6 @@ ezdrive.com-muqb.xin
 ezdrive.com-mxio.top
 ezdrive.com-mxza.xin
 ezdrive.com-mzat.top
-ezdrive.com-n6ms.xin
 ezdrive.com-n7fe.xin
 ezdrive.com-ndaa.xin
 ezdrive.com-ndgd.xin
@@ -8401,7 +8387,6 @@ ezdrive.com-nlhs.top
 ezdrive.com-nlzu.top
 ezdrive.com-nplj.top
 ezdrive.com-nrdb.top
-ezdrive.com-nryv.xin
 ezdrive.com-nrzq.xin
 ezdrive.com-nuiu.xin
 ezdrive.com-nvro.xin
@@ -8481,7 +8466,6 @@ ezdrive.com-s6ze.xin
 ezdrive.com-sawq.top
 ezdrive.com-sbezt.xin
 ezdrive.com-seev.xin
-ezdrive.com-sglj.xin
 ezdrive.com-sjka.top
 ezdrive.com-skvt.top
 ezdrive.com-snzk.top
@@ -8717,7 +8701,6 @@ ezdrivema.com-eltf.top
 ezdrivema.com-esnagde.top
 ezdrivema.com-etavh.top
 ezdrivema.com-etazzd.top
-ezdrivema.com-etcadg.top
 ezdrivema.com-etcadh.top
 ezdrivema.com-etcag.top
 ezdrivema.com-etcatcdm.top
@@ -8881,7 +8864,6 @@ ezdrivema.com-jqfbk.top
 ezdrivema.com-jrti.top
 ezdrivema.com-jyrute.top
 ezdrivema.com-kakux.vip
-ezdrivema.com-kalox.vip
 ezdrivema.com-kasux.vip
 ezdrivema.com-kdlv.top
 ezdrivema.com-kdlvj.top
@@ -8929,7 +8911,6 @@ ezdrivema.com-lywm.top
 ezdrivema.com-lzy.xin
 ezdrivema.com-maaox.vip
 ezdrivema.com-maiox.vip
-ezdrivema.com-massfkip.top
 ezdrivema.com-mc.xin
 ezdrivema.com-me.xin
 ezdrivema.com-mg.xin
@@ -8997,7 +8978,6 @@ ezdrivema.com-pvey.top
 ezdrivema.com-pzjn.top
 ezdrivema.com-pzop.top
 ezdrivema.com-qaisdgb.top
-ezdrivema.com-qas1.vip
 ezdrivema.com-qiytnhda.top
 ezdrivema.com-qjs.xin
 ezdrivema.com-qndngdlo.top
@@ -9823,7 +9803,6 @@ fordingsusumushinohrm.blogspot.com
 forecobatservicefr.firebaseapp.com
 forecobatservicefr.web.app
 forestguardian-leafseeker.blogspot.com
-forestlife.sbs
 form.asana.com
 formidablehoopetit.firebaseapp.com
 formidablehoopetit.web.app
@@ -9939,7 +9918,6 @@ free-5553277.webadorsite.com
 free-5555167.webadorsite.com
 free-5560588.webadorsite.com
 free-5561331.webadorsite.com
-free-5570727.webadorsite.com
 free-5573726.webadorsite.com
 free-5581819.webadorsite.com
 free-5595666.webadorsite.com
@@ -10020,6 +9998,7 @@ fuisryajsdtuoi-oe68w57q46we57d6io.teemill.com
 fulltermsservicefr.firebaseapp.com
 fulltermsservicefr.web.app
 funeralescuscatlan.com
+funtoysclub.com
 future-mouse-small.on-fleek.app
 futureatt.weebly.com
 fuyhjif90evlpjd0ef.weebly.com
@@ -10617,7 +10596,6 @@ help--trersuite.webflow.io
 help--trezoresuite.webflow.io
 help--trezorhelps.webflow.io
 help--trezorsuiite.webflow.io
-help--trezorwltt--web.webflow.io
 help--trezr----wllet--cdn.webflow.io
 help--trezrei--strt.webflow.io
 help--trezrr--sstart.webflow.io
@@ -11388,7 +11366,6 @@ htashihchaebyou.web.app
 htlollstt.top
 htmlonlinloes.firebaseapp.com
 htmrsdre.firebaseapp.com
-htollm.top
 htpts.wef-telegram.com
 htrefsgenrale.firebaseapp.com
 htrefsgenrale.web.app
@@ -11642,7 +11619,6 @@ impts-gou-recouvrement.web.app
 imusicantibavaresi.de
 imvailblesg.firebaseapp.com
 imvailblesg.web.app
-in-c1f4.cajat50079.workers.dev
 in-public-trezor.webflow.io
 inboxpeople.square.site
 inc-100031.weeblysite.com
@@ -11759,7 +11735,6 @@ inlinkedup.weebly.com
 innovation-evotik.web.app
 innovationchainde.firebaseapp.com
 innternetbt.weebly.com
-inp0zt.01902632.xyz
 inpoot-pl.com
 inpoot-pl.top
 inpoot-pla.top
@@ -12305,7 +12280,6 @@ juno-107603.weeblysite.com
 juno-108586.weeblysite.com
 juno-108647.weeblysite.com
 juno-108752.weeblysite.com
-juno-109168.square.site
 juno-109168.weeblysite.com
 juno-109208.weeblysite.com
 juno-109442.weeblysite.com
@@ -12480,7 +12454,6 @@ kjdjhdf.weebly.com
 kjdjjkdour.weebly.com
 kjdloi.weebly.com
 kjdtpsgxwoc.link
-kjghdsfas.top
 kjghfghuyyfrdtfyguhuuuutrds.weebly.com
 kjgyuhuikgyuhlid.weebly.com
 kjhgfae5ysrydtuf1yidtuy-ufyidtusryzerjtukfgkytr.teemill.com
@@ -12615,7 +12588,6 @@ kuchuglogin.webflow.io
 kucinknowlogine.webflow.io
 kucionlogina.webflow.io
 kucionloginenn.webflow.io
-kucionlogtnn.webflow.io
 kuciun-logiiun.webflow.io
 kuckineloginus.webflow.io
 kuckoinkilogin.webflow.io
@@ -12659,7 +12631,6 @@ kucoinyloginb.webflow.io
 kucoinzkilogin.webflow.io
 kucoiysenlogin.webflow.io
 kuconeselogin.webflow.io
-kuconlogon.webflow.io
 kucooienloeigin.webflow.io
 kucooninlogons.webflow.io
 kucouinlogen.webflow.io
@@ -12883,7 +12854,6 @@ learn--ledger----orghub.webflow.io
 learn--live--i-ledger.webflow.io
 learn--sso--kucoin-t-cdn.webflow.io
 learn--staat---ttrezor.webflow.io
-learn--staret-ttrezor.webflow.io
 learn--start-en-cdn-trzr.webflow.io
 learn--start-triezor.webflow.io
 learn--starttrezor.webflow.io
@@ -12915,7 +12885,6 @@ learn-estart-trezor.webflow.io
 learn-faq-trezoriostart.webflow.io
 learn-help-ledgar-hub.webflow.io
 learn-io-start-ttrezor.webflow.io
-learn-ledgeer--apps.webflow.io
 learn-ledger-live-auth.webflow.io
 learn-ledgrehub.webflow.io
 learn-logen-ledger.webflow.io
@@ -12980,7 +12949,6 @@ ledgderwallet-live.webflow.io
 ledgduer-lgoin.webflow.io
 ledgecomr-started.webflow.io
 ledgee--apps.webflow.io
-ledgee-live----desktop.webflow.io
 ledgeer--apps--web-app.webflow.io
 ledgeer--cdn-apps.webflow.io
 ledgeer--com-starts.webflow.io
@@ -13294,6 +13262,7 @@ livraison-colis-mondialrelay.com
 livraison-moncolisrelay.com
 livraison-mondialrelay-info.com
 livraison-monsuivi.com
+livraison-relay.fr
 livraison-reprogrammationcolis.com
 livraison-suivi-info.com
 ljabsd.webwave.dev
@@ -13972,7 +13941,6 @@ management-coinpros-secure.webflow.io
 managementbusinessrequiredaza.weebly.com
 managerinmanagerinarun.weebly.com
 managerwebespace.revesnetwork.eu
-managesafety.zem.gjb.mybluehost.me
 mancning.cc
 manening.cc
 manening.vip
@@ -14034,7 +14002,6 @@ mass.org-payyourbills.life
 mass.org-payyourbillu.life
 mass.org-payyourbillv.life
 mass.tracking-xxmkkkc.cc
-masscvt.top
 masses.lol
 masses.my
 masses.quest
@@ -14710,6 +14677,7 @@ mondialrelay-livreur-colis.com
 mondialrelay-lockers-fr.com
 mondialrelay-portail.com
 mondialrelay-programmer.com
+mondialrelay-relayeur.com
 mondialrelay-reprogrammer.com
 mondialrelay-site.com
 mondialrelay-suivi-de-colis.com
@@ -14738,6 +14706,7 @@ monrelaycolis.com
 monrelaycolisinfo.com
 monroeville.myportfolio.com
 monservicesoscarte.com
+monster-energy.mikelher.com
 moonlightproshop.com
 mooskkkioy.weebly.com
 moprf-3331cyura.firebaseapp.com
@@ -14881,7 +14850,6 @@ mutcoup.firebaseapp.com
 mutcoup.web.app
 muutt.weebly.com
 mvsud.weebly.com
-mvtamaskwallet.godaddysites.com
 mwaiy79373hjiif940k.pages.dev
 mweb.datalinks.cfd
 mwebconnectservice.weebly.com
@@ -14894,9 +14862,7 @@ mwiqoal.weebly.com
 mwsiekdnfjrdufs.weebly.com
 mwtwnet.weebly.com
 mwxoq1840.ukit.me
-mxestafetaa.cc
 mxestafetaq.top
-mxestafetay.shop
 mxestafets.cc
 mxfr6f.webwave.dev
 mxgefer.cc
@@ -15142,6 +15108,7 @@ myself-six.vercel.app
 myshaawinccc.weebly.com
 mysite4809.weebly.com
 mysite664646.weebly.com
+myskincaregoal.com
 myspostsjteress.cc
 mystablefundconnect.pages.dev
 mystart-start-ldgor--aauth-ledd.webflow.io
@@ -15180,7 +15147,6 @@ na20raslou.firebaseapp.com
 na20raslou.web.app
 nab-enterprises.com
 nab-webapp-dev-aue-primary.azurewebsites.net
-nabfixedterms.com
 nachrichteninfos-krankenhauser-9732be.webflow.io
 nachxm.com
 naemn-50ef.neanjalyanocsi.workers.dev
@@ -15941,7 +15907,6 @@ org-txtagstorefrontcae.world
 org-txtagstorefrontcah.world
 org-txtagstorefrontcam.world
 org-txtagstorefrontcan.world
-org-txtagstorefrontcao.world
 org-txtagstorefrontcba.world
 org-txtagstorefrontcbc.world
 org-txtagstorefrontcbh.world
@@ -16003,7 +15968,6 @@ org-txtagstorefrontqab.world
 org-txtagstorefrontqad.world
 org-txtagstorefrontqae.world
 org-txtagstorefrontqaf.world
-org-txtagstorefrontqag.world
 org-txtagstorefrontqah.world
 org-txtagstorefrontqai.world
 org-txtagstorefrontqaj.world
@@ -16294,7 +16258,6 @@ paytollaml.vip
 paytollaph.vip
 paytollaqa.vip
 paytollaqi.vip
-paytollaqo.vip
 paytollaqp.vip
 paytollaqr.vip
 paytollaqw.vip
@@ -16373,14 +16336,12 @@ paytolleyf.vip
 paytolleyj.vip
 paytolleyx.vip
 paytollfpa.vip
-paytollfpd.vip
 paytollfpe.vip
 paytollfpf.vip
 paytollfpg.vip
 paytollfph.vip
 paytollfua.vip
 paytollfud.vip
-paytollfuh.vip
 paytollfui.vip
 paytollfuj.vip
 paytollhan.vip
@@ -16429,7 +16390,6 @@ paytollmiu.vip
 paytollmiw.vip
 paytollmjb.vip
 paytollmjd.vip
-paytollmje.vip
 paytollmjf.vip
 paytollmjg.vip
 paytollmqa.vip
@@ -16443,7 +16403,6 @@ paytollnbca.vip
 paytollnbcr.vip
 paytollnbcw.vip
 paytollnbva.vip
-paytollnbvb.vip
 paytollnbvd.vip
 paytollnbve.vip
 paytollngfk.vip
@@ -16634,7 +16593,6 @@ paytollybcb.vip
 paytollybcc.vip
 paytollybcd.vip
 paytollybce.vip
-paytollytvf.vip
 paytollytvi.vip
 paytollytvj.vip
 paytollytvk.vip
@@ -16694,7 +16652,6 @@ peeldsb.weebly.com
 pekao-24-llogowanie.com
 pekersemih9.com
 pemepk.com
-pen9rimaan2025resm1dana10jtt.pages.dev
 pencabcetelem.firebaseapp.com
 pencabcetelem.web.app
 pencairan-cashback-dana-id.pages.dev
@@ -17774,7 +17731,9 @@ res-va.web.app
 resanobnak.com
 rescoeup.firebaseapp.com
 rescoeup.web.app
+reservation-creneau-mondialrelay.com
 reservation-creneau2025.com
+reserver-creneau-mondialrelay.com
 resgatepontosnr.com
 resolveddappas.pages.dev
 resolvepc.net
@@ -17803,6 +17762,7 @@ retinahanselgeneralissimo.web.app
 retojsbronfrs02.pages.dev
 retracez.firebaseapp.com
 retracez.web.app
+retraitlockermondial.fr
 retrieve-2d6f3.firebaseapp.com
 retrieve-2d6f3.web.app
 retrieve-online-networking.vercel.app
@@ -18059,7 +18019,6 @@ s.shope-my.cc
 s.shope-my.top
 s.team-asi.com
 s.team-invlte.team-pww.com
-s.team.powwered.team-nw.com
 s1.onkeldonshop.de
 s2w3wc.firebaseapp.com
 s2w3wc.web.app
@@ -18467,7 +18426,6 @@ secure.paymentxma.top
 secure.paymentxmz.top
 secure.paymentxoc.top
 secure.paymentxod.top
-secure.paymentxof.top
 secure.paymentxog.top
 secure.paymentxom.top
 secure.paymentxoq.top
@@ -18488,7 +18446,6 @@ secure.paymentxwz.top
 secure.paymentxyq.top
 secure.secureficohsa.com
 secure.txtagan.xin
-secure.txtagbb.xin
 secure.txtagbm.xin
 secure.txtagea.xin
 secure.txtagfi.xin
@@ -20009,7 +19966,6 @@ suiite--orgtrezoorwltt.webflow.io
 suiite-trexuuerio.webflow.io
 suiitee--trrexuur-io.webflow.io
 suite----trezor-net.webflow.io
-suite--hellp--trezor.webflow.io
 suite--orgtrezoorwltt.webflow.io
 suite--r-docs--trezur.webflow.io
 suite--trezreii.webflow.io
@@ -20512,7 +20468,6 @@ telegrby.icu
 telegrbz.icu
 telegrc.icu
 telegrca.icu
-telegrcc.icu
 telegrcf.icu
 telegrci.icu
 telegrcj.icu
@@ -20988,7 +20943,6 @@ thetollroad.com-izby.xin
 thetollroad.com-jkakj.top
 thetollroad.com-jpur.xin
 thetollroad.com-jqry.xin
-thetollroad.com-jsga.xin
 thetollroad.com-juman.top
 thetollroad.com-jzaa.top
 thetollroad.com-koryg.top
@@ -21035,7 +20989,6 @@ thetollroad.com-ptusy.top
 thetollroad.com-pvwh.xin
 thetollroad.com-qaee.xin
 thetollroad.com-qhhg.xin
-thetollroad.com-qhwd.xin
 thetollroad.com-qnkh.xin
 thetollroad.com-qopkix.xin
 thetollroad.com-rcda.xin
@@ -21159,7 +21112,6 @@ thetollroads-paytollawm.xin
 thetollroads-paytollawn.xin
 thetollroads-paytollawo.xin
 thetollroads-paytollawp.xin
-thetollroads-paytollawq.xin
 thetollroads-paytollaws.xin
 thetollroads-paytollawu.xin
 thetollroads-paytollaww.xin
@@ -21258,7 +21210,6 @@ thetollroads-paytollcqb.world
 thetollroads-paytollcua.world
 thetollroads-paytollcub.world
 thetollroads-paytollcuf.world
-thetollroads-paytollcug.world
 thetollroads-paytollcuh.world
 thetollroads-paytollcui.world
 thetollroads-paytollcuj.world
@@ -21269,7 +21220,6 @@ thetollroads-paytollcuo.world
 thetollroads-paytollcxf.xin
 thetollroads-paytolld.world
 thetollroads-paytolldbq.world
-thetollroads-paytolldck.world
 thetollroads-paytolldetlwp.xin
 thetollroads-paytolldni.xin
 thetollroads-paytolldxb.world
@@ -21370,7 +21320,6 @@ thetollroads-paytolljla.world
 thetollroads-paytolljmg.xin
 thetollroads-paytolljqscly.xin
 thetollroads-paytolljwz.xin
-thetollroads-paytollk.world
 thetollroads-paytollkbu.xin
 thetollroads-paytollkdv.world
 thetollroads-paytollkdz.xin
@@ -21382,7 +21331,6 @@ thetollroads-paytollkyd.world
 thetollroads-paytollkye.world
 thetollroads-paytollkyf.world
 thetollroads-paytollkyg.world
-thetollroads-paytollkyh.world
 thetollroads-paytollkyi.world
 thetollroads-paytollkyj.world
 thetollroads-paytollkyp.world
@@ -21403,7 +21351,6 @@ thetollroads-paytollmvb.world
 thetollroads-paytollmwr.world
 thetollroads-paytolln.world
 thetollroads-paytollnad.world
-thetollroads-paytollnan.world
 thetollroads-paytollncr.world
 thetollroads-paytollngf.xin
 thetollroads-paytollnrc.world
@@ -21540,7 +21487,6 @@ thetollroads-paytollqpd.world
 thetollroads-paytollqpe.world
 thetollroads-paytollqph.vip
 thetollroads-paytollqpj.vip
-thetollroads-paytollqpk.world
 thetollroads-paytollqpl.world
 thetollroads-paytollqpm.world
 thetollroads-paytollqps.xin
@@ -21563,7 +21509,6 @@ thetollroads-paytollqyd.vip
 thetollroads-paytollqye.vip
 thetollroads-paytollqyf.vip
 thetollroads-paytollqyh.vip
-thetollroads-paytollqyi.vip
 thetollroads-paytollqyj.vip
 thetollroads-paytollqyn.world
 thetollroads-paytollqz.help
@@ -21726,7 +21671,6 @@ thetollroads-paytollsypf.xin
 thetollroads-paytollsypzbs.xin
 thetollroads-paytollsyur.xin
 thetollroads-paytollszdicd.xin
-thetollroads-paytollszk.world
 thetollroads-paytollszqb.xin
 thetollroads-paytollszsu.xin
 thetollroads-paytollt.world
@@ -21900,7 +21844,6 @@ thetollroads-tollevasioncfn.xin
 thetollroads-tollevasioncfo.xin
 thetollroads-tollevasioncgb.xin
 thetollroads-tollevasioncgc.xin
-thetollroads-tollevasioncgd.xin
 thetollroads-tollevasioncge.xin
 thetollroads-tollevasioncgf.xin
 thetollroads-tollevasioncgg.xin
@@ -22024,15 +21967,12 @@ thetollroads-tollevasionww.xin
 thetollroads-tollevasionwx.xin
 thetollroads-tollevasionwy.xin
 thetollroads-tollevasionwz.xin
-thetollroads-tollevasionxab.world
-thetollroads-tollevasionxac.world
 thetollroads-tollevasionxaf.world
 thetollroads-tollevasionxaj.world
 thetollroads-tollevasionxak.world
 thetollroads-tollevasionxam.world
 thetollroads-tollevasionxan.world
 thetollroads-tollevasionxbb.world
-thetollroads-tollevasionxbd.world
 thetollroads-tollevasionxbe.world
 thetollroads-tollevasionxbf.world
 thetollroads-tollevasionxbg.world
@@ -22089,7 +22029,6 @@ thetollroads-tollevasionyxc.xin
 thetollroads-tollevasionyxd.xin
 thetollroads-tollevasionyxe.xin
 thetollroads-tollevasionyxf.xin
-thetollroads-tollevasionyxg.xin
 thetollroads-tollevasionyxh.xin
 thetollroads-tollevasionyxj.xin
 thetollroads-tollevasionyxk.xin
@@ -22391,7 +22330,6 @@ thetollroads.com-rmuib.top
 thetollroads.com-rofxa.top
 thetollroads.com-rsvie.top
 thetollroads.com-scseq.top
-thetollroads.com-slrc.top
 thetollroads.com-tfvha.top
 thetollroads.com-vixoz.top
 thetollroads.com-wcrmx.top
@@ -22647,7 +22585,6 @@ treezhardywltryeu.webflow.io
 treezorewllet.webflow.io
 treezorioosrtrt.webflow.io
 treezorr-wallett.webflow.io
-treezorwaellet.webflow.io
 trehard--ware-wlet.webflow.io
 treijaorlogin.webflow.io
 treijuriosrutf.webflow.io
@@ -22757,7 +22694,6 @@ trezor-help--docs--start.webflow.io
 trezor-i-iostart.webflow.io
 trezor-io---docs----strt.webflow.io
 trezor-io--digital-aap.webflow.io
-trezor-io--hardware.webflow.io
 trezor-io--start--sos.webflow.io
 trezor-io-start-it.webflow.io
 trezor-io-start-r-startin-n.webflow.io
@@ -23143,7 +23079,6 @@ txtag.com-pjbr.xin
 txtag.com-pjde.xin
 txtag.com-poex.xin
 txtag.com-qbog.xin
-txtag.com-qkqp.xin
 txtag.com-qzbz.xin
 txtag.com-rhdg.xin
 txtag.com-rkia.xin
@@ -23459,7 +23394,6 @@ txtag.org-txtagstorefrontqae.world
 txtag.org-txtagstorefrontqaf.world
 txtag.org-txtagstorefrontqag.world
 txtag.org-txtagstorefrontqah.world
-txtag.org-txtagstorefrontqaj.world
 txtag.org-txtagstorefrontqal.world
 txtag.org-txtagstorefrontqam.world
 txtag.org-txtagstorefrontqap.world
@@ -23482,7 +23416,6 @@ txtag.org-txtagstorefrontqwh.world
 txtag.org-txtagstorefrontqwi.world
 txtag.org-txtagstorefrontqwk.world
 txtag.org-txtagstorefrontqwl.world
-txtag.org-txtagstorefrontqwo.world
 txtag.org-txtagstorefrontqwp.world
 txtag.org-txtagstorefrontqwr.world
 txtag.org-txtagstorefrontqws.world
@@ -24067,6 +24000,7 @@ usps.com-tracking-xxxfs.cc
 usps.com-tracking-xxxg.cc
 usps.com-tracking-xxxge.cc
 usps.com-tracking-xxxgn.cc
+usps.com-tracking-xxxgs.cc
 usps.com-tracking-xxxh.cc
 usps.com-tracking-xxxhe.cc
 usps.com-tracking-xxxhn.cc
@@ -24460,7 +24394,6 @@ verifyadsaccountv1.vercel.app
 verifydata-gt.hstn.me
 verifydevice-uk.firebaseapp.com
 verifydevice-uk.web.app
-verifyeddnownow.weebly.com
 verifying.vercel.app
 verifypageinformations.free.nf
 verifypichincha.webcindario.com
@@ -24779,7 +24712,6 @@ walletsxtrizzo.webflow.io
 wallettconnects.github.io
 walletvalidator.pages.dev
 walletxmetamask.webflow.io
-walllet-connect-com.webflow.io
 wallletsync.vercel.app
 wallrt--trzor---browser.webflow.io
 wallt---help-ledgr-cdn.webflow.io
@@ -24916,7 +24848,6 @@ webbip.webcindario.com
 webbmailacparisfr.weebly.com
 webbuckeye.weebly.com
 webchain.pages.dev
-webchainresolver.firebaseapp.com
 webchainresolver.web.app
 webconnexion-id.ukit.me
 webdappwallet.firebaseapp.com
@@ -25388,6 +25319,7 @@ www.granadoespada.in.th
 www.gwenet.org
 www.habbocreditosparati.blogspot.com
 www.hptennis.com.au
+www.ifexcapital.com
 www.igacon.com.br
 www.iiyout.cn
 www.ing-appmovil-inicio.com
@@ -25488,7 +25420,6 @@ www.my-loyola.com
 www.mygov-security.com
 www.mygovaus-inbox.com
 www.mypos.misecure.com
-www.nab.com.au.d4d.one
 www.napatablets.com
 www.nasdaqbus.com
 www.netlify.app
