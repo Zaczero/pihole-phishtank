@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Mon Apr  7 16:05:36 UTC 2025
-# Number of unique domains: 29561
+# Date: Mon Apr  7 20:05:35 UTC 2025
+# Number of unique domains: 29453
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -9,6 +9,7 @@
 0-1-x.15170956.xyz
 0-1-x.86215785.xyz
 0-1-xx.37154872.xyz
+0-lx.2709321.xyz
 00-ird.weebly.com
 000000-reagan-login.weebly.com
 00007771011.weebly.com
@@ -183,7 +184,6 @@
 1nbmt23.weebly.com
 1nf0fr3eyui564.start.page
 1nfo-b4ntuan-mystr.vercel.app
-1ov.cc
 1qonzsst.square.site
 1typaaep.odoo.com
 1uccbal.weebly.com
@@ -765,7 +765,6 @@ adobe-knwrgjnwghnwhrkfnejwnfkje.pages.dev
 adonaidigitals.com
 adrescotargo.firebaseapp.com
 adrescotargo.web.app
-adrtgrstgsrtgsrgrtg.onepage.me
 adscampaign.managebilling.doubleclick.googleads.pagead.152-42-165-106.cprapid.com
 adsecofilstrabe.firebaseapp.com
 adsecofilstrabe.web.app
@@ -969,6 +968,7 @@ allegro.pl-938596.rest
 allegro.pl-9402394.shop
 allegro.pl-95450329.sbs
 allegro.pl-9812444.icu
+allegro.pl-9821441.icu
 allegro.pl-firmowe31462.icu
 allegro.pl-firmowe74122.icu
 allegro.pl-firmowe754462.icu
@@ -1104,8 +1104,8 @@ allegrolokainie.pl-854.cyou
 allegrolokainie.pl-8712444.icu
 allegrolokainie.pl-9455645786.icu
 allegrolokainie.pl-9812444.icu
+allegrolokainie.pl-9821441.icu
 allegrolokainie.pl-garaze-blaszane-120.icu
-allegrolokainie.pl-kategoria-inne-1722.icu
 allegrolokainie.pl-kategoria-ponton-1.icu
 allegrolokainie.pl-kategoria-propozycje-12.icu
 allegrolokainie.pl-kategoria-szklarnie-13.icu
@@ -1115,6 +1115,7 @@ allegrolokainie.pl-kategorie-inne-85612422.cfd
 allegrolokainie.pl-kategorie-inne-982.icu
 allegrolokainie.pl-kategorie-pozostale-24.icu
 allegrolokainie.pl-kategorie-pozostale-912.icu
+allegrolokainie.pl-kategorie-pozostale-917.qpon
 allegrolokainie.pl-ogloszenie-firmowe-812735.icu
 allegrolokainie.pl-okazja-13.icu
 allegrolokainie.pl-okazje-weekendowe-9313.rest
@@ -1123,6 +1124,7 @@ allegrolokainie.pl-propozycje-inne-14.icu
 allegrolokainie.pl-propozycje-inne-17.icu
 allegrolokainie.pl-propozycje-pozostale-13.icu
 allegrolokainie.pl-uzywane-inne-42333.cfd
+allegrolokainie.pl-wyprzedaz-rozne-15.icu
 allegrolokainie.pl4x5y8.icu
 allegrolokalne.oferta-64565234.icu
 allegrolokalne.pl-7124444.icu
@@ -1145,6 +1147,7 @@ allegrolokalne.pl-promowane-artykuly-481.cfd
 allegrolokalne.pl-propozycje-inne-14.icu
 allegrolokalne.pl-propozycje-inne-17.icu
 allegrolokalne.pl-propozycje-pozostale-13.icu
+allegrolokalne.pl-wyprzedaz-rozne-15.icu
 allegrolokalne.pl42069.cfd
 allegrolokalne.pl42849.cfd
 allegrolokalne.pl43853.cfd
@@ -1180,6 +1183,7 @@ allegrolokalnie.604532030.shop
 allegrolokalnie.659312.shop
 allegrolokalnie.6832543.pro
 allegrolokalnie.73632.top
+allegrolokalnie.74646.top
 allegrolokalnie.746465.top
 allegrolokalnie.76574.top
 allegrolokalnie.784325.shop
@@ -1239,6 +1243,7 @@ allegrolokalnie.kategorie-promowane-id031.shop
 allegrolokalnie.kategorie-proponowane-id214.shop
 allegrolokalnie.kategorie-urzadzenia-34h98f32342.shop
 allegrolokalnie.kosiarki-traktorki-19639.click
+allegrolokalnie.kosiarki-traktorki-53821.click
 allegrolokalnie.listing-98410.shop
 allegrolokalnie.listing77.shop
 allegrolokalnie.oferta-048262.shop
@@ -1345,7 +1350,6 @@ allegrolokalnie.pl-78643252.rest
 allegrolokalnie.pl-7896786.shop
 allegrolokalnie.pl-79391802.rest
 allegrolokalnie.pl-798678658.shop
-allegrolokalnie.pl-812234778845.cfd
 allegrolokalnie.pl-8214912.shop
 allegrolokalnie.pl-84382019.rest
 allegrolokalnie.pl-871421.top
@@ -1553,6 +1557,7 @@ allegrolokalnie.pl-propozycje-123515.icu
 allegrolokalnie.pl-propozycje-inne-14.icu
 allegrolokalnie.pl-propozycje-inne-17.icu
 allegrolokalnie.pl-rezerwacja9112893.shop
+allegrolokalnie.pl-wyprzedaz-rozne-15.icu
 allegrolokalnie.pl491002.cfd
 allegrolokalnie.pl827236739.shop
 allegrolokalnie.pl8843952.shop
@@ -1920,7 +1925,6 @@ argprovin07.vastserve.com
 arhived.weebly.com
 aricomsemmrvicess.weebly.com
 arizona.com-etceaa.xin
-arizona.com-etceab.xin
 arizona.com-etceac.xin
 arizona.com-etcead.xin
 arizona.com-etceae.xin
@@ -2049,7 +2053,6 @@ arkaskinclinic.com
 arliamentarianis.flcw5.com
 armourersandbrasiers.co.uk
 arnaldolanches.blogspot.com
-arnd0.weebly.com
 arohiglobal.com
 aromatic-enormous-clavicle.glitch.me
 arpg-b000d.firebaseapp.com
@@ -2076,7 +2079,6 @@ aruukidy.xin
 arvestwebmailnotice.studio.site
 arvignjhjkjkjk.weebly.com
 arwasump.hosted.phplist.com
-as2na87nethop.today
 asacanelbrazzz.blogspot.com
 asanatt.weebly.com
 asdasaasadadadsd.start.page
@@ -2168,7 +2170,6 @@ at-tnotce2.pory.app
 at-tyahoo.pory.app
 at2tsupport.weebly.com
 at767uyjhb.square.site
-at7t.univer.se
 at7tpluseupdate.ulcraft.com
 at879service.weebly.com
 at87uijnm.weebly.com
@@ -2613,7 +2614,6 @@ att-mail-109008.weeblysite.com
 att-mail-109487.weeblysite.com
 att-mail-109849.weeblysite.com
 att-mail-236711.webflow.io
-att-mail-987654.weebly.com
 att-mail-support-100878.weeblysite.com
 att-mail-upadte.weebly.com
 att-mail.link.cam
@@ -2649,7 +2649,6 @@ att-services-102732.weeblysite.com
 att-services-109640.weeblysite.com
 att-sign-in-100074.weeblysite.com
 att-sign-in-101837.weeblysite.com
-att-sign-in-101996.weebly.com
 att-sign-in-101996.weeblysite.com
 att-sign-in-102949.weeblysite.com
 att-sign-in-103205.weeblysite.com
@@ -3888,6 +3887,7 @@ bellnetworkingserver.weebly.com
 bellollovetcomm8765435678.weebly.com
 bellrushhoursbills.weebly.com
 bellsouth-102776.weeblysite.com
+bellsouth-att-signin-023358.webflow.io
 bellsouth-mail-verifier-15561f.webflow.io
 bellsouth-swbell-activite.weebly.com
 bellsouthaccountservices.weebly.com
@@ -4360,7 +4360,6 @@ bt-102481.weeblysite.com
 bt-102538.weeblysite.com
 bt-102676.weeblysite.com
 bt-102768.weeblysite.com
-bt-102894.weeblysite.com
 bt-102907.weeblysite.com
 bt-103160.weeblysite.com
 bt-103187.weeblysite.com
@@ -5573,7 +5572,6 @@ com-emzwnhrefr.xin
 com-emzwnhreft.xin
 com-emzwnhrefy.xin
 com-emzwnhremhe.xin
-com-emzwnhremhr.xin
 com-emzwnhremhw.xin
 com-emzwnhrese.xin
 com-emzwnhresi.xin
@@ -5635,7 +5633,6 @@ com-etcikm.vip
 com-etcikv.vip
 com-etciky.vip
 com-etcmea.vip
-com-etcppm.top
 com-etcqsz.top
 com-etcxaaaf.vip
 com-etcxaaag.vip
@@ -5807,7 +5804,6 @@ com-jgvch.xin
 com-jhge.xin
 com-jhrt.xin
 com-jyruta.top
-com-kae.xin
 com-kbq.xin
 com-kdge.top
 com-kgft.xin
@@ -6040,7 +6036,6 @@ com-tracklqn.xin
 com-tracklqt.xin
 com-tracklqw.xin
 com-trackxxa.cc
-com-trackxxb.cc
 com-trackxxc.cc
 com-trackxxe.cc
 com-trackxxi.cc
@@ -6128,7 +6123,6 @@ com-xiiixt.vip
 com-xiiixu.vip
 com-xiiiyk.vip
 com-xiiiza.vip
-com-xiiizb.vip
 com-xiiize.vip
 com-xiiizg.vip
 com-xiiizh.vip
@@ -7041,6 +7035,7 @@ cxqzplmi.vip
 cxtyzrxkul2kcxfhrtyikt-ctkl2xrfy2jkjlhtglgukfymh.teemill.com
 cxvxmcxnx3.daftpage.com
 cxyuimerdas.weebly.com
+cyber-awareness.pages.dev
 cyhkfvtgdxjhjk.weebly.com
 cyprusposta.xin
 cytosculptor-structurekeeper.blogspot.com
@@ -7480,7 +7475,6 @@ djssicej.top
 djx.xbtuykrn.top
 dk-103652.weeblysite.com
 dkb-sicherheitsabteilung.site44.com
-dkb.reactive-konto.com
 dkkdswwjsw.weebly.com
 dkklorus.top
 dkneous.top
@@ -7511,7 +7505,6 @@ dmvonline.gvo-ffixxr.vip
 dmvonline.gvo-hghoho.vip
 dmvonline.gvo-jekoss.vip
 dmvonline.gvo-wemsqy.vip
-dmvonline.gvo-wudqqw.vip
 dmvonline.gvo-xassbj.vip
 dmvonline.itd-idahoac.xin
 dmvonline.itd-idahoah.xin
@@ -7761,7 +7754,6 @@ drivedocumentsecure.weebly.com
 driveezmd.com-etcdz.xin
 driveezmd.com-iwdm.xin
 driveezmd.com-iwdn.xin
-driveezmd.com-iwdp.xin
 driveezmd.com-iwdq.xin
 driveezmd.com-nyy.xin
 driveezmd.com-oce.xin
@@ -7791,7 +7783,6 @@ driveezmd.com-servicetis.xin
 driveezmd.com-servicetiu.xin
 driveezmd.com-servicetix.xin
 driveezmd.com-servicetiy.xin
-driveezmd.com-serviceuna.xin
 driveezmd.com-serviceund.xin
 driveezmd.com-serviceung.xin
 driveezmd.com-serviceunk.xin
@@ -7993,7 +7984,6 @@ e-zpass.com-douaxm.top
 e-zpass.com-douaxo.top
 e-zpass.com-douaxr.top
 e-zpass.com-douaxu.top
-e-zpass.com-douaxv.top
 e-zpass.com-douaxw.top
 e-zpass.com-dtr.xin
 e-zpass.com-dzxzlpz.xin
@@ -8132,7 +8122,6 @@ e-zpass.com-etccpd.xin
 e-zpass.com-etccpi.xin
 e-zpass.com-etccpj.xin
 e-zpass.com-etccpm.xin
-e-zpass.com-etccpw.xin
 e-zpass.com-etccpy.xin
 e-zpass.com-etccr.xin
 e-zpass.com-etccte.xin
@@ -8149,7 +8138,6 @@ e-zpass.com-etccue.xin
 e-zpass.com-etccul.xin
 e-zpass.com-etccuv.xin
 e-zpass.com-etccux.xin
-e-zpass.com-etccw.xin
 e-zpass.com-etcczq.xin
 e-zpass.com-etcczr.xin
 e-zpass.com-etcczt.xin
@@ -8228,7 +8216,6 @@ e-zpass.com-etcxaaau.vip
 e-zpass.com-etcxag.vip
 e-zpass.com-etcxox.top
 e-zpass.com-etcxqi.top
-e-zpass.com-etcye.xin
 e-zpass.com-etcyf.xin
 e-zpass.com-etcyitkz.xin
 e-zpass.com-etcyn.xin
@@ -8444,7 +8431,6 @@ e-zpass.com-qji.xin
 e-zpass.com-qjl.xin
 e-zpass.com-qjm.xin
 e-zpass.com-qjo.xin
-e-zpass.com-qjz.xin
 e-zpass.com-qkb.xin
 e-zpass.com-qkf.xin
 e-zpass.com-qkm.xin
@@ -8579,7 +8565,6 @@ e-zpass.com-roadiox.xin
 e-zpass.com-roadoit.xin
 e-zpass.com-roadpot.xin
 e-zpass.com-sakg.xin
-e-zpass.com-saki.xin
 e-zpass.com-sakp.xin
 e-zpass.com-sayf.xin
 e-zpass.com-sayo.xin
@@ -8781,7 +8766,6 @@ e-zpass.com-vipoh.xin
 e-zpass.com-vipot.xin
 e-zpass.com-vipou.xin
 e-zpass.com-vipow.xin
-e-zpass.com-vipoy.xin
 e-zpass.com-vipsa.xin
 e-zpass.com-vipse.xin
 e-zpass.com-vipsf.xin
@@ -8817,7 +8801,6 @@ e-zpass.com-xfx.xin
 e-zpass.com-xiiav.vip
 e-zpass.com-xiitv.vip
 e-zpass.com-xiizv.vip
-e-zpass.com-xkt.xin
 e-zpass.com-xpw.xin
 e-zpass.com-xre.xin
 e-zpass.com-xxb.xin
@@ -8836,7 +8819,6 @@ e-zpass.com-xxuxz.vip
 e-zpass.com-yig.xin
 e-zpass.com-yih.xin
 e-zpass.com-yip.xin
-e-zpass.com-ysw.xin
 e-zpass.com-yzvj.xin
 e-zpass.com.bvcjiuek.cc
 e-zpass.com.jknhbla.win
@@ -9208,7 +9190,6 @@ e-zpassny.com-handois.xin
 e-zpassny.com-handwrqg.xin
 e-zpassny.com-havt.vip
 e-zpassny.com-hchp.xin
-e-zpassny.com-hcks.xin
 e-zpassny.com-hjda.top
 e-zpassny.com-hjdi.top
 e-zpassny.com-hmbbc.xin
@@ -9312,7 +9293,6 @@ e-zpassny.com-lcs.vip
 e-zpassny.com-lcx.vip
 e-zpassny.com-lff.vip
 e-zpassny.com-lgg.vip
-e-zpassny.com-lgx.vip
 e-zpassny.com-lja.vip
 e-zpassny.com-ljps.top
 e-zpassny.com-lnn.vip
@@ -9554,7 +9534,6 @@ e-zpassny.com-ticketyez.xin
 e-zpassny.com-ticketymc.xin
 e-zpassny.com-ticketymd.xin
 e-zpassny.com-ticketymh.xin
-e-zpassny.com-ticketymj.xin
 e-zpassny.com-ticketymk.xin
 e-zpassny.com-ticketymm.xin
 e-zpassny.com-ticketymn.xin
@@ -9753,7 +9732,6 @@ e-zpassny.com-wnq.top
 e-zpassny.com-wnt.top
 e-zpassny.com-wnx.top
 e-zpassny.com-wny.top
-e-zpassny.com-wnz.top
 e-zpassny.com-wum.vip
 e-zpassny.com-wwzq.xin
 e-zpassny.com-wxl.vip
@@ -9824,7 +9802,6 @@ e-zpassny.com-zmhsye.cc
 e-zpassny.com-zmhsyf.cc
 e-zpassny.com-zmhsyg.cc
 e-zpassny.com-zmhsyh.cc
-e-zpassny.com-zmhsym.cc
 e-zpassny.com-zmhsyq.cc
 e-zpassny.com-zmhsyr.cc
 e-zpassny.com-zmhsyt.cc
@@ -9861,7 +9838,6 @@ e-zpassny.com.jedlb.xin
 e-zpassny.com.jedli.xin
 e-zpassny.com.jedlm.xin
 e-zpassny.com.jedlo.xin
-e-zpassny.com.jedlr.xin
 e-zpassny.com.jedlt.xin
 e-zpassny.com.jedlu.xin
 e-zpassny.com.jedlw.xin
@@ -9903,7 +9879,6 @@ e-zpassny.uetil.xin
 e-zpassny.uetsi.top
 e-zpassny.vip
 e-zpassnyamm.com
-e-zpassnybhj.com
 e-zpassnybqu.com
 e-zpassnybts.com
 e-zpassnyce.xin
@@ -10337,6 +10312,7 @@ emailcht.weebly.com
 emailgrccedu.ukit.me
 emailld-att-mail.pory.app
 emailnoticeie.weebly.com
+emailreproducer.weebly.com
 emailshdsjhxhxxhxxgxnxjjxjxx.weebly.com
 emailupdateaai.weebly.com
 emailupgradeadmin.godaddysites.com
@@ -10443,7 +10419,6 @@ ensdtcpsgn.web.app
 ensparis-saclay-fr.weebly.com
 ensytablectlem.firebaseapp.com
 ensytablectlem.web.app
-entradalivre.icu
 entrar-ctt.com
 entrarbanrurral.webcindario.com
 entrepots-livraisons.com
@@ -10657,7 +10632,6 @@ evri.psocysdxo.xin
 evri.psocysdxr.xin
 evri.psocysdxs.xin
 evri.psocysdxy.xin
-evri.psocysdzd.xin
 evri.psocysdze.xin
 evri.psocysdzp.xin
 evri.psocysdzq.xin
@@ -10761,7 +10735,6 @@ evrimail.servicecenteroowe.xin
 evrimail.servicecenteropka.xin
 evrimail.servicecenteropou.xin
 evrimail.servicecenteroqp.xin
-evrimail.servicecenterorj.xin
 evrimail.servicecenterorw.xin
 evrimail.servicecenterosv.xin
 evrimail.servicecenterotsm.xin
@@ -10835,7 +10808,6 @@ ex0dus-wollet-t.godaddysites.com
 exactaassessoria.com
 exchange-smoky-tau.vercel.app
 exchangnetwork.org
-excodeuswlt12emano.azurewebsites.net
 executive.ae
 exiloste.firebaseapp.com
 exiloste.web.app
@@ -11147,7 +11119,6 @@ ezdrivema.com-xnxxx.vip
 ezdrivema.com-xrwao.life
 ezdrivema.com-xsxxx.vip
 ezdrivema.com-xtk.vip
-ezdrivema.com-xxiea.vip
 ezdrivema.com-xxvx.vip
 ezdrivema.com-yuyx.xin
 ezdrivema.com-ziandjt.top
@@ -11161,7 +11132,6 @@ ezdrivema.paymentmqsg.xin
 ezdrivema.paymentne.xin
 ezdrivema.paymentni.xin
 ezdrivema.paymentnv.xin
-ezdrivema.paymentqwh.xin
 ezdrivema.paymentqws.xin
 ezdrivema.paymentqwsi.xin
 ezdrivema.paymentqwsy.xin
@@ -11230,7 +11200,6 @@ ezpass.com-bcdse.xin
 ezpass.com-bfgde.xin
 ezpass.com-bgbh.xin
 ezpass.com-bgvh.xin
-ezpass.com-bieiw.xin
 ezpass.com-billingn.xin
 ezpass.com-billingr.xin
 ezpass.com-billingz.xin
@@ -11254,7 +11223,6 @@ ezpass.com-bvcsq.xin
 ezpass.com-bvcxs.xin
 ezpass.com-bvdwq.xin
 ezpass.com-bwaqa.xin
-ezpass.com-bwbp.xin
 ezpass.com-bwert.xin
 ezpass.com-bwqas.xin
 ezpass.com-bxgh.xin
@@ -11292,7 +11260,6 @@ ezpass.com-dlib.xin
 ezpass.com-dmhtf.xin
 ezpass.com-dnhf.xin
 ezpass.com-doqq.vip
-ezpass.com-drsi.vip
 ezpass.com-dsqvz.top
 ezpass.com-dsvbr.xin
 ezpass.com-dvdwq.xin
@@ -11378,7 +11345,6 @@ ezpass.com-etcikt.vip
 ezpass.com-etcipn.xin
 ezpass.com-etckf.xin
 ezpass.com-etckz.xin
-ezpass.com-etclaf.xin
 ezpass.com-etclag.xin
 ezpass.com-etclah.xin
 ezpass.com-etclai.xin
@@ -11487,7 +11453,6 @@ ezpass.com-etcsrv.xin
 ezpass.com-etcsrx.xin
 ezpass.com-etcsry.xin
 ezpass.com-etcsrz.xin
-ezpass.com-etcstb.xin
 ezpass.com-etcstc.xin
 ezpass.com-etcsti.xin
 ezpass.com-etcstm.xin
@@ -11500,7 +11465,6 @@ ezpass.com-etcto.xin
 ezpass.com-etctvd.xin
 ezpass.com-etcva.vip
 ezpass.com-etcvb.vip
-ezpass.com-etcvc.vip
 ezpass.com-etcvm.xin
 ezpass.com-etcvva.xin
 ezpass.com-etcvw.xin
@@ -11531,7 +11495,6 @@ ezpass.com-etdgk.xin
 ezpass.com-euioae.xin
 ezpass.com-eusx.xin
 ezpass.com-eusxd.xin
-ezpass.com-eusxf.xin
 ezpass.com-eusxfa.xin
 ezpass.com-eusxfi.xin
 ezpass.com-eusxfisqt.xin
@@ -11669,7 +11632,6 @@ ezpass.com-jqtn.xin
 ezpass.com-jqwd.xin
 ezpass.com-jrsz.xin
 ezpass.com-jtbo.xin
-ezpass.com-judp.xin
 ezpass.com-jyffd.xin
 ezpass.com-kcjh.vip
 ezpass.com-kfhh.vip
@@ -11834,7 +11796,6 @@ ezpass.com-rgfde.xin
 ezpass.com-rheg.vip
 ezpass.com-rhjs.xin
 ezpass.com-rinz.xin
-ezpass.com-rjii.xin
 ezpass.com-rjxo.vip
 ezpass.com-rmwx.xin
 ezpass.com-rnlx.vip
@@ -12007,7 +11968,6 @@ ezpass.com-xpgc.xin
 ezpass.com-xpma.xin
 ezpass.com-xqoq.xin
 ezpass.com-xsawf.xin
-ezpass.com-ycfr.xin
 ezpass.com-ycnd.vip
 ezpass.com-ycyu.vip
 ezpass.com-ydrc.xin
@@ -12069,12 +12029,10 @@ ezpass.csc.paturnpike.com.roadiy.xin
 ezpass.csc.paturnpike.world
 ezpass.csc.paturnpikea.world
 ezpass.csc.turnpike.world
-ezpass.csc.turnpike.xin
 ezpass.csc.turnpikes.xin
 ezpass.eputra.xin
 ezpass.org-ivqv.xin
 ezpass.secnot.xin
-ezpass.secnrs.xin
 ezpass.spusnlce.xin
 ezpass.sucilo.xin
 ezpass.sumceo.xin
@@ -12163,7 +12121,6 @@ ezpassmn.com-tollbillmnp.xin
 ezpassmn.com-tollbillmnr.xin
 ezpassmn.com-tollbillmnv.xin
 ezpassmn.com-tollbillmnx.xin
-ezpassmn.com-tollbillmnz.xin
 ezpassmn.com-tollbillmqe.xin
 ezpassmn.com-tollbillmqq.xin
 ezpassmn.com-tollbillmqu.xin
@@ -12202,7 +12159,6 @@ ezrivemag.xyz
 ezrivemal.xyz
 ezriveman.xyz
 ezrivemaoo.xyz
-ezrivemasz.xyz
 ezrivemo.vip
 ezrivemqa.xyz
 ezrivemqc.xyz
@@ -12426,7 +12382,6 @@ fedex.com-ikgf.xin
 fedex.com-ikyi.xin
 fedex.com-itkx.xin
 fedex.com-iyl.top
-fedex.com-jekw.xin
 fedex.com-jeuz.xin
 fedex.com-jquh.xin
 fedex.com-kbkc.xin
@@ -12444,7 +12399,6 @@ fedex.com-lrtb.xin
 fedex.com-lszw.xin
 fedex.com-mder.xin
 fedex.com-mdkx.xin
-fedex.com-mflf.xin
 fedex.com-mhuc.xin
 fedex.com-mmyj.xin
 fedex.com-moks.xin
@@ -12532,7 +12486,6 @@ fedex.com-vkmw.xin
 fedex.com-vpdl.xin
 fedex.com-vpmi.xin
 fedex.com-vtvf.xin
-fedex.com-wbtz.xin
 fedex.com-wjzy.xin
 fedex.com-wmtq.xin
 fedex.com-woau.xin
@@ -12989,7 +12942,6 @@ fwgwz4.webwave.dev
 fxrmainrpc-pages.xyz
 fxtkbahm.top
 fxtkbaxv.top
-fxtkbbca.top
 fxtkbbia.top
 fxtkbbvt.top
 fxtkbcbw.top
@@ -13019,11 +12971,9 @@ fxtkbnal.top
 fxtkbnde.top
 fxtkbnff.top
 fxtkbnsn.top
-fxtkbnts.top
 fxtkbnxz.top
 fxtkbogd.top
 fxtkbose.top
-fxtkbosu.top
 fxtkbpbd.top
 fxtkbpdw.top
 fxtkbpqj.top
@@ -13099,7 +13049,6 @@ galic-ar.webcindario.com
 galicia-ar.webcindario.com
 galiciaseguridad.myportfolio.com
 gamaenyelogin.webflow.io
-gamenelognes.webflow.io
 games-project-1dbe9.firebaseapp.com
 games-project-1dbe9.web.app
 gamesps4forfree.weebly.com
@@ -13116,7 +13065,6 @@ gargpje62.ukit.me
 garlic-f1qa-lvbq.td8ll4.workers.dev
 garrena.vn
 gasevoj859.systeme.io
-gateio-metamask.marketmaking.pro
 gatewaypackersandmovers.com
 gatewaytechnicalcollege.ukit.me
 gawhybnoc.firebaseapp.com
@@ -13161,7 +13109,6 @@ geminelgnyiog.webflow.io
 geminelogiine.webflow.io
 geminelogini.webflow.io
 gemini-com-credit-card.webflow.io
-gemini-login-authz.webflow.io
 gemini-login-cdn.webflow.io
 gemini-login-logi-cdn.webflow.io
 gemini-loginh.webflow.io
@@ -13184,7 +13131,6 @@ geminivlogi.webflow.io
 geminuilogin.mystrikingly.com
 gemjadl.weebly.com
 gemniloginei.webflow.io
-gemunilaginc.webflow.io
 genbexcnre.firebaseapp.com
 genbexcnre.web.app
 gencatgeneralitatdecatalunya.weebly.com
@@ -13538,7 +13484,6 @@ goodtogo.com-tollbillqwq.xin
 goodtogo.com-tollbillqwr.xin
 goodtogo.com-tollbillqww.xin
 goodtogo.com-tollbillsda.xin
-goodtogo.com-tollbillsdc.xin
 goodtogo.com-tollbillsde.xin
 goodtogo.com-tollbillsdt.xin
 goodtogo.com-tollbillsdu.xin
@@ -13764,7 +13709,6 @@ hargraymailupdate2022.weebly.com
 harper-construcution.myportfolio.com
 harrhedc.vip
 harrhqal.vip
-harrhqam.vip
 harrhqau.vip
 harrhqay.vip
 harrhrde.vip
@@ -13837,7 +13781,6 @@ hedrajikko.systeme.io
 heheheddjdke.weebly.com
 heilpdessk.weebly.com
 heinthu1.github.io
-hekgm.buzz
 helen-template.webflow.io
 helio-dash-81tu3r1u4-heliofi.vercel.app
 helio-dash-b78b28red-heliofi.vercel.app
@@ -13991,7 +13934,6 @@ help-live-lwegerr.webflow.io
 help-live-sso----ledge.webflow.io
 help-liveedallet-aauth.webflow.io
 help-livelearllet--web.webflow.io
-help-livelearllet--webb.webflow.io
 help-liveledawrllet--web.webflow.io
 help-liveledawrllet--webb.webflow.io
 help-livelederdownload.webflow.io
@@ -14134,7 +14076,6 @@ helpmicrosoftmx.webcindario.com
 helpmr.shop
 helpnow-trezorvoul.webflow.io
 helpp-ledger-comstart.webflow.io
-helpp-trezorsuite.webflow.io
 helppadrestricteed.web.app
 helppage-policysercurity.pages.dev
 helps--ledger-dektop.webflow.io
@@ -14198,7 +14139,6 @@ hfhteuutitit.weebly.com
 hfjdhddh893.weebly.com
 hfjjd.weeblysite.com
 hfjskss.weebly.com
-hfjyuriusersonliine.weebly.com
 hftrqazxc.vip
 hgabaaljanak.blogspot.com
 hgbhjkljh.weebly.com
@@ -14508,7 +14448,6 @@ home-108732.weeblysite.com
 home-108735.weeblysite.com
 home-108819.weeblysite.com
 home-108845.weeblysite.com
-home-108879.weeblysite.com
 home-109321.weeblysite.com
 home-109598.weeblysite.com
 home-109630.weeblysite.com
@@ -15742,7 +15681,6 @@ kjfgfg.weebly.com
 kjgggdome.weebly.com
 kjghfghuyyfrdtfyguhuuuutrds.weebly.com
 kjgyuhuikgyuhlid.weebly.com
-kjhgbvcx.vip
 kjhgf-105873.weeblysite.com
 kjhgfae5ysrydtuf1yidtuy-ufyidtusryzerjtukfgkytr.teemill.com
 kjhgfdfghjkjh.weebly.com
@@ -16528,7 +16466,6 @@ lemodksb.xin
 lemodksc.xin
 lemodksn.xin
 lemodkso.xin
-lemodksr.xin
 lemodkst.xin
 lemodksu.xin
 lemodksv.xin
@@ -16713,6 +16650,7 @@ llwqiamxcbcbdhf.weebly.com
 llzaix.webwave.dev
 lmmcnncncbc.weebly.com
 lmmfrntier.weebly.com
+lmpost.9730932.xyz
 lms.jyoratech.com
 lnc-103495.weeblysite.com
 lnc-107315.weeblysite.com
@@ -17747,7 +17685,6 @@ metakloginmsk.webflow.io
 metal-hawk-5211.typedream.app
 metamaaskloginc.webflow.io
 metamaaskloiguni.webflow.io
-metamaeasskelog.webflow.io
 metamakknlloiun.webflow.io
 metamakslogins.webflow.io
 metamaouseiuslgins.webflow.io
@@ -17938,7 +17875,6 @@ metuskiextoin.webflow.io
 metymskloginui.webflow.io
 metytamsk-login.webflow.io
 meufundo.vercel.app
-meulogin.org
 mevku9hq.square.site
 mewitend-weboutcheck.vercel.app
 mexfinite.weebly.com
@@ -18215,7 +18151,6 @@ mndot-etznpj.xin
 mndot-etznqg.xin
 mndot-etznyt.xin
 mndot-etzoab.xin
-mndot-etzocd.xin
 mndot-etzodr.xin
 mndot-etzodv.xin
 mndot-etzohf.xin
@@ -18252,7 +18187,6 @@ mndot-etzron.xin
 mndot-etzrsb.xin
 mndot-etzrxq.xin
 mndot-etzsgo.xin
-mndot-etzskp.xin
 mndot-etzsmo.xin
 mndot-etzsmr.xin
 mndot-etzsmy.xin
@@ -18449,7 +18383,6 @@ mndot.us-etcqi.xin
 mndot.us-etcql.xin
 mndot.us-etcqp.xin
 mndot.us-etcqs.xin
-mndot.us-etcqx.xin
 mndot.us-etcqy.xin
 mndot.us-etcra.xin
 mndot.us-etcrc.xin
@@ -18816,7 +18749,6 @@ muskingumcounty.myportfolio.com
 mustunivrsity.firebaseapp.com
 mustunivrsity.web.app
 mutamaskchrmeextension.webflow.io
-mutamcktqsions.webflow.io
 mutamhrotensionz.webflow.io
 mutamusklogrn.webflow.io
 mutcoup.firebaseapp.com
@@ -19206,7 +19138,6 @@ mypeachpass.com-ticketusa.cfd
 mypeachpass.com-tit.xin
 mypeachpass.com-ttwg.xin
 mypeachpass.com-usng.xin
-mypeachpass.com-uud.xin
 mypeachpass.com-vc.shop
 mypeachpass.com-xd.xin
 mypeachpass.com-xqeq.xin
@@ -19358,7 +19289,6 @@ ncquickpassmk.top
 ncquickpassml.top
 ncquickpassmn.top
 ncquickpassmo.top
-ncquickpassmq.top
 ncquickpassmr.top
 ncquickpassmu.top
 ncquickpassmw.top
@@ -19891,10 +19821,8 @@ ohioturnpike.com-zpoq.xin
 ohioturnpike.org-331ud.xin
 ohioturnpike.org-dy.xin
 ohioturnpike.org-fh.xin
-ohioturnpike.org-jgkk.top
 ohioturnpike.org-qqk.xin
 ohioturnpike.org-rx.xin
-ohioturnpike.org-ticketot.shop
 ohioturnpike.org-ticketqw.xin
 ohioturnpike.org-ticketraccpk.xin
 ohioturnpike.org-ticketradnd.xin
@@ -19959,7 +19887,6 @@ ollkuccoin.webflow.io
 ollucollegsnap.weebly.com
 ollx.13872967.xyz
 ollx.17091826.xyz
-ollx.5649832.xyz
 olsekumcnbshajwsd.weebly.com
 oluwarantinmialafia.godaddysites.com
 olwkw.weebly.com
@@ -20313,7 +20240,6 @@ outlook40394343.web.app
 outlookbrschools.weebly.com
 outlooknotifica1.webcindario.com
 outlookoffice365-pdf.myportfolio.com
-outlookstudentshipportal.weebly.com
 outlookturkeywebmailaccess.weebly.com
 outlookyamsday.weebly.com
 outloomanagement.weebly.com
@@ -20358,7 +20284,6 @@ owashdy.web.app
 owawebee.weebly.com
 oxpainexecu.weebly.com
 oyuiuytu6787686734.pages.dev
-oywagfge.top
 ozhgatib.square.site
 ozii.pages.dev
 ozo.pages.dev
@@ -20625,7 +20550,6 @@ paytolljsjn.vip
 paytolljt.vip
 paytolljtgv.vip
 paytolljxrq.vip
-paytolljzcv.vip
 paytollkaul.vip
 paytollkfcg.vip
 paytollkfck.vip
@@ -20694,7 +20618,6 @@ paytollncxm.xin
 paytollnhes.vip
 paytollnhqy.vip
 paytollnkc.xin
-paytollnkpq.vip
 paytollnqa.xin
 paytollnrye.world
 paytollnzgg.xin
@@ -20702,7 +20625,6 @@ paytollnzgh.xin
 paytollnzrn.xin
 paytollnzth.vip
 paytollnztl.xin
-paytollnzzf.xin
 paytollofa.vip
 paytollogsp.vip
 paytolloic.vip
@@ -20712,7 +20634,6 @@ paytollolif.vip
 paytollomht.xin
 paytollop.vip
 paytollopd.vip
-paytollospj.vip
 paytollotd.vip
 paytollovg.vip
 paytollovj.vip
@@ -20725,13 +20646,11 @@ paytollqafv.vip
 paytollqase.vip
 paytollqbnc.world
 paytollqex.xin
-paytollqkd.vip
 paytollqohd.vip
 paytollqpmh.vip
 paytollqst.xin
 paytollqtab.vip
 paytollqwpm.vip
-paytollrbil.xin
 paytollrccg.xin
 paytollrcco.vip
 paytollrdpm.vip
@@ -20785,9 +20704,7 @@ paytollwerv.xin
 paytollwfvt.vip
 paytollwykx.world
 paytollwyne.vip
-paytollxbol.vip
 paytollxtfg.xin
-paytollxzue.vip
 paytollybvl.vip
 paytollyefd.vip
 paytollykcl.vip
@@ -21185,7 +21102,6 @@ post.maurituiosn.top
 post.maurituirsn.top
 post.maurituison.top
 post.maurituisrn.top
-post.maurituisuan.top
 post.maurituisusn.top
 post.maurituiusn.top
 post.mauriturin.top
@@ -21253,7 +21169,6 @@ povrat-poreza.firebaseapp.com
 povrat-poreza.web.app
 poweroutputinfo.weebly.com
 powersafeenergia.blogspot.com
-powiadomienieaktualizacja.win
 poytunnnnnrhyr.blogspot.com
 ppczzg.webwave.dev
 ppectrum.weebly.com
@@ -22065,7 +21980,6 @@ reward-ff.garenaind.com
 rewhg-mtt3.firebaseapp.com
 rewhg-mtt3.web.app
 rewsdhjkkjfd.weebly.com
-rewsg.vip
 rewsghty.vip
 rewshjuo.vip
 rewsvfd.weeblysite.com
@@ -22128,7 +22042,6 @@ roadida.xin
 roadigl.xin
 roadiy.xin
 roadspectrumsmtp.weebly.com
-roan-sunset-rise.glitch.me
 robbiiiinnhoodloginn.webflow.io
 robbinhoodlogine.webflow.io
 robenhoodelogin.imweb.me
@@ -22281,7 +22194,6 @@ rwequfcn.vip
 rwinvvqioq.vip
 rxfinityfile.weebly.com
 rymcxzkc.top
-rysjkglz.vip
 rytsffaw.weebly.com
 rytui-106138.weeblysite.com
 rzetsd57687iguyicuyiu-sd7g9oifyuthrdjufigku.teemill.com
@@ -23742,7 +23654,6 @@ sp-access-window.web.app
 sp.haloskins.shop
 sp0bn34zimbra.weebly.com
 sp0rtybetcheat.weebly.com
-sp111430.sitebeat.crazydomains.com
 sp120-btte.weebly.com
 sp139746.sitebeat.crazydomains.com
 sp172319.sitebeat.crazydomains.com
@@ -24034,7 +23945,6 @@ start---ledggercom--secure.webflow.io
 start--com--leidgarr.webflow.io
 start--docs-ttrezor.webflow.io
 start--help--learn--trezorzor--kiu.webflow.io
-start--help--ledger---cdn.webflow.io
 start--home--trizor.webflow.io
 start--leadrre--auths.webflow.io
 start--learn--ledger----cdn.webflow.io
@@ -24295,7 +24205,6 @@ sumpogaes.firebaseapp.com
 sumpogaes.web.app
 suncoastcreditunionlogin.weebly.com
 sunpass.com-billingcnd.xin
-sunpass.com-chargeine.xin
 sunpass.com-chargeins.xin
 sunpass.com-chargeinu.xin
 sunpass.com-cisane.xin
@@ -24383,7 +24292,6 @@ sunpass.com-ktw.vip
 sunpass.com-nmp.vip
 sunpass.com-papt.vip
 sunpass.com-passo.xin
-sunpass.com-passp.xin
 sunpass.com-passu.xin
 sunpass.com-passy.xin
 sunpass.com-poy.vip
@@ -24573,7 +24481,6 @@ sunpass.com.ngkljw.top
 sunpass.com.pachhfgsksfs.top
 sunpass.com.pnvke.top
 sunpass.com.pnvki.top
-sunpass.com.pnvko.top
 sunpass.com.pnvkr.top
 sunpass.com.pnvkw.top
 sunpass.com.rtiapo.win
@@ -24744,6 +24651,7 @@ surprovincia.webcindario.com
 survey3.medallia.com
 suryapi.de
 suscripcion-suspendida-2025.com
+suscripciones.webcindario.com
 sushiswaps.github.io
 susp3nd3d7456.rf.gd
 suspensiones0011.webcindario.com
@@ -25283,6 +25191,7 @@ test.webclient4.de
 test2258-f1945.firebaseapp.com
 test2258-f1945.web.app
 testtbv.weebly.com
+tetrachloroethyle.oji61.com
 tevoisg.com
 tevomuhendislik.com.tr
 tex-ttt.weebly.com
@@ -25431,7 +25340,6 @@ thetollroads-paytollzm.icu
 thetollroads-paytollzmj.world
 thetollroads-paytollzsf.xin
 thetollroads-paytollzy.icu
-thetollroads-paytotzf.world
 thetollroads-tollevasion.world
 thetollroads-tollevasionah.xin
 thetollroads-tollevasioncbc.xin
@@ -25659,7 +25567,6 @@ tools.packages-trwep.xin
 tools.packages-trzsa.xin
 tools.packages-trzsd.xin
 tools.shangnvbuzhiwangguoheng.cc
-tools.taohuatangshuishengqianci.xyz
 tools.turanjiujuedemanqilai.cc
 tools.yehuosaobujingcunfeng.cc
 topambernames.com
@@ -25754,7 +25661,6 @@ travel-guardians.web.app
 trazeer-en-usdoc-9ad1f3.webflow.io
 trazerwalletui.webflow.io
 trazorhardwwalet.webflow.io
-trazorp-walletq.webflow.io
 trazorwalletus.webflow.io
 trcrtzor-ssite.webflow.io
 trdespstbnk.firebaseapp.com
@@ -25779,6 +25685,7 @@ treeezr--start-auth.webflow.io
 treegizorbrigdeweb.webflow.io
 treeizoraasallet.webflow.io
 treezorewllet.webflow.io
+treezorhardwarwallet.gitbook.io
 treezorioosrtrt.webflow.io
 treezriostars.webflow.io
 treezrrwalletre.webflow.io
@@ -25929,7 +25836,6 @@ trezorogiin.webflow.io
 trezorohardwarrewallet.webflow.io
 trezoroistartgle.webflow.io
 trezorqiostarz.webflow.io
-trezorr-hardware-wallet.webflow.io
 trezorr-startio.webflow.io
 trezorrewebriidge.webflow.io
 trezorrio-auth.webflow.io
@@ -26303,7 +26209,6 @@ txtag.org-inz.xin
 txtag.org-irv.vip
 txtag.org-ixx.xin
 txtag.org-jbt.vip
-txtag.org-jre.vip
 txtag.org-jtb.vip
 txtag.org-jws.vip
 txtag.org-jyj.vip
@@ -26381,7 +26286,6 @@ txtag.org-txtagstorefrontcgc.xin
 txtag.org-txtagstorefrontcge.xin
 txtag.org-txtagstorefrontchj.xin
 txtag.org-txtagstorefrontchl.xin
-txtag.org-txtagstorefrontcom.xin
 txtag.org-txtagstorefrontcqf.world
 txtag.org-txtagstorefrontcqh.world
 txtag.org-txtagstorefrontcqn.world
@@ -26444,7 +26348,6 @@ txtag.org-txtagstorefrontygp.xin
 txtag.org-txtagstorefrontzkq.xin
 txtag.org-txtagstorefroxs.xin
 txtag.org-txtagstorefroxv.xin
-txtag.org-tyg.xin
 txtag.org-uaw.vip
 txtag.org-ud.xin
 txtag.org-uel.xin
@@ -26755,7 +26658,6 @@ ups.com-gmtp.xin
 ups.com-gxqh.xin
 ups.com-hcnf.xin
 ups.com-hqhq.xin
-ups.com-jauu.xin
 ups.com-jhhr.xin
 ups.com-juks.xin
 ups.com-lyqc.xin
@@ -26813,7 +26715,6 @@ us-265ui.xyz
 us-285tri.xin
 us-285ui.xin
 us-325nue.top
-us-325nue.xin
 us-325nux.top
 us-325uve.xin
 us-325yuk.top
@@ -26868,7 +26769,6 @@ us-etcuf.xin
 us-etcug.xin
 us-etcuk.xin
 us-etcut.vip
-us-etcwn.xin
 us-etcwp.xin
 us-etcws.xin
 us-etcwt.vip
@@ -26946,7 +26846,6 @@ usdz.uxhcdlf.shop
 useaglefcu-acc-sec.weebly.com
 usealezpasscom.xin
 usecgezpasscom.cc
-usemqezpasscom.xin
 usenjezpasscom.xin
 user.swiftecosystemexplorer.com
 user1605.weebly.com
@@ -27054,7 +26953,6 @@ usnczzpasscom.xin
 usnegezpasscom.xin
 usneszpasscom.xin
 usnfnezpasscom.xin
-usnnaezpasscom.xin
 usnpeezpasscom.xin
 usnqtezpasscom.xin
 usnsuezpasscom.xin
@@ -27099,7 +26997,6 @@ usps.com-etdgo.xin
 usps.com-etdgr.xin
 usps.com-etdgs.xin
 usps.com-etdgw.xin
-usps.com-fklop.xin
 usps.com-fkloy.xin
 usps.com-ghgte.xin
 usps.com-ghlei.xin
@@ -27273,8 +27170,6 @@ usps.com-tracking-xxxez.cc
 usps.com-tracking-xxxf.cc
 usps.com-tracking-xxxfn.cc
 usps.com-tracking-xxxg.cc
-usps.com-tracking-xxxgn.cc
-usps.com-tracking-xxxgs.cc
 usps.com-tracking-xxxh.cc
 usps.com-tracking-xxxhn.cc
 usps.com-tracking-xxxin.cc
@@ -28861,6 +28756,7 @@ www.jobbertechnology.com
 www.juliasvoice.org
 www.justflyme.com
 www.kalemalanyerler.com
+www.kampanie-allegro-pl.com
 www.khjkklhonfcs.top
 www.kivoprkpass.top
 www.kucoin.cloud
@@ -28924,7 +28820,6 @@ www.pisocks.com
 www.polkadot.network
 www.ponostonehawaii.com
 www.postafvg.eu
-www.raksuten.cfd
 www.recovery.fb-business.com
 www.renouveler-ma-livraison.com
 www.rihabpc.com
@@ -28941,7 +28836,6 @@ www.shwru.xyz
 www.signin-ehay-uk-login-secures-5f8twghw.manushmanusherjonnobd.com
 www.sisterhoodmint.com
 www.sitesgpt.com
-www.soriano.cn
 www.sqkufy.com
 www.steamcommunity.comprofiles76561199164738635.l1ve709.com
 www.surxmayor.com
@@ -29516,7 +29410,6 @@ zpetccro.vip
 zpetccrp.vip
 zpetcdrd.vip
 zpetcdre.vip
-zpetcdrg.vip
 zpetcdro.vip
 zpetciea.vip
 zpetcieb.vip
@@ -29537,7 +29430,6 @@ zpetcstc.vip
 zpetcstd.vip
 zpetcstj.vip
 zpetcstp.vip
-zpetczjj.vip
 zpetczjo.vip
 zq3q5twry4545x5y4t4wgq3fww2g43yh324653g4etrwvikb.teemill.com
 zqwplokes.firebaseapp.com
