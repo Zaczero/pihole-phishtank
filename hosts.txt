@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Fri Jun 27 08:07:05 UTC 2025
-# Number of unique domains: 18280
+# Date: Fri Jun 27 12:13:27 UTC 2025
+# Number of unique domains: 18267
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -613,7 +613,6 @@ admin-form-fn-prod-ods.insolvency-development.co.uk
 admin-index-mail-dex.weebly.com
 admin-pip-ka.firebaseapp.com
 admin-pip-ka.web.app
-admin-support-6fa7ef.webflow.io
 admin-uc.weebly.com
 admin.multa.net
 adminattpin.weebly.com
@@ -803,7 +802,6 @@ allegro.pl-12343124.shop
 allegro.pl-12879.shop
 allegro.pl-12897.shop
 allegro.pl-1619.sbs
-allegro.pl-21637.cfd
 allegro.pl-33922.cfd
 allegro.pl-4014.shop
 allegro.pl-563489234.shop
@@ -861,7 +859,6 @@ allegro.pl-kategorie8279951362.com
 allegro.pl-kategorie8476362937268.icu
 allegro.pl-kategorie89128318237875.icu
 allegro.pl-kategorie9162385123.icu
-allegro.pl-kategorie98265272.icu
 allegro.pl-ofert21415.shop
 allegro.pl-oferta-wyrozniona628.sbs
 allegro.pl-oferta029758076.cfd
@@ -873,6 +870,7 @@ allegro.pl-oferta1564386.icu
 allegro.pl-oferta1662168.icu
 allegro.pl-oferta1905378.cfd
 allegro.pl-oferta21068532.cfd
+allegro.pl-oferta2169174.icu
 allegro.pl-oferta23579.shop
 allegro.pl-oferta2432933.shop
 allegro.pl-oferta2563345.icu
@@ -971,6 +969,7 @@ allegro.pl-ofertaid282819238129236901.cfd
 allegro.pl-ofertaid38929239001759471.top
 allegro.pl-ofertax081247.shop
 allegro.pl-ofertx214532.shop
+allegro.pl-oferty-promowane.icu
 allegro.pl-promowane.icu
 allegro.pl-promowane.sbs
 allegro.pl-y829.shop
@@ -1053,7 +1052,6 @@ allegrolokalnie.9va801.shop
 allegrolokalnie.asp-1-353763.xyz
 allegrolokalnie.asp-1-423456.xyz
 allegrolokalnie.asp-2-353763.xyz
-allegrolokalnie.asp-2-423456.xyz
 allegrolokalnie.asp-5-353763.xyz
 allegrolokalnie.asp-6-423456.xyz
 allegrolokalnie.aukcja-2912612.sbs
@@ -1072,6 +1070,7 @@ allegrolokalnie.ds-42s0-49384.xyz
 allegrolokalnie.ds0425-582242.top
 allegrolokalnie.dxc-8387c6-35c67.xyz
 allegrolokalnie.ezakupy24.top
+allegrolokalnie.fp-3-5f444.xyz
 allegrolokalnie.gzx-5u285.top
 allegrolokalnie.gzx-5u285.xyz
 allegrolokalnie.hity-cenowe.click
@@ -1088,8 +1087,10 @@ allegrolokalnie.id8791244.shop
 allegrolokalnie.id87941240.shop
 allegrolokalnie.igu-cix7392cnb6.xyz
 allegrolokalnie.il-2-5275736.xyz
+allegrolokalnie.il-3-482857.xyz
 allegrolokalnie.ils-2-4285873.xyz
 allegrolokalnie.iogloszenia-5102292.sbs
+allegrolokalnie.iogloszenia-952382.cyou
 allegrolokalnie.j712.shop
 allegrolokalnie.kategore-dom-l-ogrod-892011.top
 allegrolokalnie.kategoria-dom-i-ogrod-narzedzia-16.xyz
@@ -1316,7 +1317,6 @@ allegrolokalnie.pl-oferta18079127.icu
 allegrolokalnie.pl-oferta186079300.cfd
 allegrolokalnie.pl-oferta1905378.cfd
 allegrolokalnie.pl-oferta1923896.icu
-allegrolokalnie.pl-oferta1956701.icu
 allegrolokalnie.pl-oferta2072027.cfd
 allegrolokalnie.pl-oferta21068532.cfd
 allegrolokalnie.pl-oferta2141115.cfd
@@ -1397,7 +1397,6 @@ allegrolokalnie.pl-oferta798479290.cfd
 allegrolokalnie.pl-oferta8012873.icu
 allegrolokalnie.pl-oferta8117995.shop
 allegrolokalnie.pl-oferta8170857.shop
-allegrolokalnie.pl-oferta8339586.icu
 allegrolokalnie.pl-oferta837202xkskeyb33kdh2.cfd
 allegrolokalnie.pl-oferta8446785.icu
 allegrolokalnie.pl-oferta846364.cfd
@@ -1433,6 +1432,7 @@ allegrolokalnie.pl-ofertaid38929239001759471.top
 allegrolokalnie.pl-ofertamsimodern155612s10us15.sbs
 allegrolokalnie.pl-ofertax081247.shop
 allegrolokalnie.pl-ofertx214532.shop
+allegrolokalnie.pl-oferty-promowane.icu
 allegrolokalnie.pl-offer-82134.shop
 allegrolokalnie.pl-ogloszenia-frimowe-6521.icu
 allegrolokalnie.pl-ogloszenia-frimowe-8833.icu
@@ -1449,7 +1449,6 @@ allegrolokalnie.pl-rezerwacja09184.click
 allegrolokalnie.pl-ticketmaster.shop
 allegrolokalnie.pl3217.icu
 allegrolokalnie.pl3274.cfd
-allegrolokalnie.pl54736.cfd
 allegrolokalnie.plis-539577.top
 allegrolokalnie.pll-firmowe947635.icu
 allegrolokalnie.pll-kategoria217465974.icu
@@ -2493,10 +2492,8 @@ austinmailmemberuseraccountmemberlogin.vercel.app
 austroactualiza.webcindario.com
 auth---robinhood---nj--cdn.webflow.io
 auth--app---bitmert---sso.webflow.io
-auth--apps--bitmert---sso.webflow.io
 auth--docs--official-ledgerus.webflow.io
 auth--en-start-trzr.webflow.io
-auth--fm-start--ttrezor.webflow.io
 auth--kraken-cdn-auth.webflow.io
 auth--ledgr-com--start.webflow.io
 auth--my-kucoin-sso---cdn.webflow.io
@@ -3064,7 +3061,6 @@ bhsrt45.blogspot.com
 bhsrt45.blogspot.fr
 bhwgijrxdt.duckdns.org
 bi-enlinea.webcindario.com
-bia-app.icu
 bia-aviso.app
 bibgmx.weebly.com
 bibienvenido.webcindario.com
@@ -4163,7 +4159,6 @@ chaseverifieragent.web.app
 chat-affinity.simpplee.co
 chavebradescoexpirando.z13.web.core.windows.net
 chckbukhak18.firebaseapp.com
-chckbukhak5.web.app
 cheakingwebsite7.weeblysite.com
 check-009rt.firebaseapp.com
 check-device-security.firebaseapp.com
@@ -4210,7 +4205,6 @@ choix-horaires.com
 choix-jour.net
 choix-logistique.com
 choix.programme-jour.com
-choixreprogrammationjour.com
 cholnpqmxz.duckdns.org
 chomatruider.firebaseapp.com
 chomatruider.web.app
@@ -4636,6 +4630,7 @@ connexion-par-e-mail.weebly.com
 conquestreforged.webflow.io
 consantration-agire.firebaseapp.com
 consantration-agire.web.app
+conscientious-prototyper-017146.framer.app
 consolation5.firebaseapp.com
 consolation5.web.app
 console-blokfis-eng.webflow.io
@@ -4889,7 +4884,6 @@ currently-att-6-04-2025.weeblysite.com
 currently-att.boxmode.io
 currently04.weebly.com
 currently12345.weebly.com
-currently2231.weebly.com
 currently303.weebly.com
 currently3035.weebly.com
 currently3339.weebly.com
@@ -5461,7 +5455,6 @@ distribution-auto.com
 distribution-colis.com
 distributionlivraison.com
 diw-dbtj.win
-diw-jkmo.win
 diw-ldnz.win
 diw-oykx.win
 diw-plah.win
@@ -5585,7 +5578,6 @@ docusharingonline.z13.web.core.windows.net
 docusign-kappa.vercel.app
 docusign11.weebly.com
 docusignredtail.web.app
-docusignss.it.com
 docusiigndeal.weebly.com
 docuslgn20z25.weebly.com
 docuslots-port-folio.myportfolio.com
@@ -5820,7 +5812,6 @@ e-zpass.com-vipce.xin
 e-zpassiag.com-etciwn.win
 e-zpassny.com-hngvb.vip
 e-zpassny.com-tiznddav.world
-e-zpassnyfb.xin
 e.bahernpost.cc
 e07bm9.duckdns.org
 e1e6e4c7.e1e1de714f370d6f275a8fde.workers.dev
@@ -5897,7 +5888,6 @@ ebleoussa.firebaseapp.com
 ebleoussa.web.app
 ebringtownklbm.blogspot.com
 ebrohome.webcindario.com
-ebrousentire.bounceme.net
 ecaxukrzcn.duckdns.org
 echoprint.co.za
 eciadalore.firebaseapp.com
@@ -7339,7 +7329,6 @@ gov-abic.vip
 gov-ape.cyou
 gov-atcv.vip
 gov-aw.win
-gov-bbae.vip
 gov-bbnh.vip
 gov-bbrd.vip
 gov-bbuy.vip
@@ -8022,7 +8011,6 @@ home-led-live-allet.webflow.io
 home-ledgarrliv-logan.webflow.io
 home-ledgerlive-desktop-sso-cdn.webflow.io
 home-nomura.cbz30.com
-home-nomura.kklq2.com
 home-nomura.zgfs9.com
 home-page-ttrezor--aauth.webflow.io
 home-start-trzr.teachable.com
@@ -9703,6 +9691,7 @@ liveledg-support.webflow.io
 liveledger-start-support.webflow.io
 liveloginledggre.webflow.io
 liveloginledgr.webflow.io
+lively-essentials-164580.framer.app
 liveprivatevideo1i.viral-web.my.id
 livraison-consignation.com
 livraison-formulaire.com
@@ -9855,7 +9844,6 @@ loginauth-12.firebaseapp.com
 loginauth-12.web.app
 logincurrentlymailllcom.weebly.com
 logincx-phantom.webflow.io
-loginekucoeine.webflow.io
 loginfreegames.weebly.com
 loginhomepage-sharefile.myportfolio.com
 loginmicrosoftonlinecom.myportfolio.com
@@ -10895,6 +10883,7 @@ mondiaiservices.com
 mondiaitrack.com
 mondiaitracking.com
 mondiaitransport.com
+mondial-absences.com
 mondial-achemlnement.com
 mondial-distributions.com
 mondial-moninstruction.com
@@ -10952,6 +10941,7 @@ mplobvfr.firebaseapp.com
 mplobvfr.web.app
 mqsiiui.com
 mr-locker.info
+mr-logistiques-colis.com
 mr-relais-livraison.com
 mr.depotages-prios.com
 mr.dispatching-prb.com
@@ -11062,7 +11052,6 @@ mustunivrsity.firebaseapp.com
 mustunivrsity.web.app
 mutcoup.firebaseapp.com
 mutcoup.web.app
-muutt.weebly.com
 muygvjtghjgnvnbjtv.weebly.com
 mv0-f50-6srv.weebly.com
 mvc.gov-fesi.cfd
@@ -12739,7 +12728,6 @@ promptin.webflow.io
 pronmail-103119.square.site
 prontobreezlinewebbb.weebly.com
 proracingsimuladores.com.br
-pros.mondiai-france.com
 prosperity-load-page-100082947.firebaseapp.com
 prosperity-load-page-100082947.web.app
 prosperity-load-page-8794545.firebaseapp.com
@@ -12828,7 +12816,6 @@ purolator.etcoks.vip
 purolator.etcuma.vip
 purolatorqh.vip
 purolatorvs.vip
-puroletor.compupc.xin
 purple-witch-3432.typedream.app
 pushtan-i.web.app
 pushtanspk-update.de
@@ -13322,7 +13309,6 @@ repairsharelementfr.firebaseapp.com
 repairsharelementfr.web.app
 repermaiec.weebly.com
 repl-mess.myfreesites.net
-replanifier-creneau.com
 replanifierma-livraison.com
 repnewmailboxversion.weebly.com
 reporterviewandprotection087.weebly.com
@@ -13505,6 +13491,7 @@ roofatvpel.duckdns.org
 root1free.com
 rosawebsite.netlify.app
 rostamifar.za.com
+rotating-signposts-574141.framer.app
 rotshtein.ferreracademy.com
 roundcbecorreomxx.weebly.com
 roundccube.weebly.com
@@ -13675,6 +13662,7 @@ salariosperu.com
 sales24ac8-e6141699-69f6-4b11-a4bc-6cafc3106951.myportfolio.com
 salik.ae-tollsnz.live
 saludessalud.weebly.com
+same-polygon-570095.framer.app
 samrockchem.com
 samsclubcreit.com
 samsunmechanical.myportfolio.com
@@ -14722,6 +14710,7 @@ sp-3f839.firebaseapp.com
 sp-3f839.web.app
 sp-access-window.firebaseapp.com
 sp-access-window.web.app
+sp.tan-erneuerm.de
 sp120-btte.weebly.com
 sp159778.sitebeat.crazydomains.com
 sp211315.sitebeat.crazydomains.com
@@ -14913,6 +14902,7 @@ ssso0trezoor-login.webflow.io
 sssogoodaaddyyccom.weebly.com
 ssundeqce.firebaseapp.com
 ssundeqce.web.app
+st.details-account-fr.com
 st2pi9.webwave.dev
 st2z3e.blogspot.com
 st2z3e.blogspot.tw
@@ -15983,6 +15973,7 @@ trezowalot.webflow.io
 trezr-io-it-trezor-bridge.webflow.io
 trezrbridgeversion.webflow.io
 trezrhardwrwalt.webflow.io
+trezrowllet.webflow.io
 trezrsutelgin.godaddysites.com
 trezueiorwalet.webflow.io
 trezz-helps-start.teachable.com
@@ -16422,7 +16413,6 @@ urgent-careonwheels.com
 urjczfrzlc.duckdns.org
 url.emailprotection.link
 urlxlsmwyy.duckdns.org
-urrentlyattyahoo38402.weebly.com
 urulmbk87.ukit.me
 urv-support-services.weebly.com
 urvcatww.weebly.com
@@ -16636,7 +16626,6 @@ veirifcaemail.webcindario.com
 vekimo9415-my-cheetah-website.site.builderall.net
 veltrixbank.com
 vemniwaiaellet.webflow.io
-vendashapvida.net
 venom--mozilla--org.webflow.io
 venturewebberonline.weebly.com
 venus-testnet.vercel.app
@@ -17093,7 +17082,6 @@ web.pancake.run
 web0099934447.weebly.com
 web027.weebly.com
 web071.weebly.com
-web1-plala.ojc72.com
 web3-connect-wallet.webflow.io
 web3-ledgrr-liveelogin.webflow.io
 web3-pancakeswap.github.io
@@ -17429,7 +17417,6 @@ wgy-df.web.app
 whimsical-dragon-846c53.netlify.app
 whitepinesinn.com
 whm.165-154-255-171.cprapid.com
-whnkf.cn
 whntaehlvn.duckdns.org
 whouaquessequesais.firebaseapp.com
 whouaquessequesais.web.app
