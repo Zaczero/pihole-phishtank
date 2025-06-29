@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sun Jun 29 16:07:07 UTC 2025
-# Number of unique domains: 18193
+# Date: Sun Jun 29 20:06:09 UTC 2025
+# Number of unique domains: 18242
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -910,6 +910,7 @@ allegro.pl-oferta5847850.cfd
 allegro.pl-oferta5874507.cfd
 allegro.pl-oferta5966505.shop
 allegro.pl-oferta6274875.icu
+allegro.pl-oferta62901628.icu
 allegro.pl-oferta6291420.icu
 allegro.pl-oferta6291923.icu
 allegro.pl-oferta6314.top
@@ -931,12 +932,14 @@ allegro.pl-oferta76026.top
 allegro.pl-oferta7684825.icu
 allegro.pl-oferta77231.icu
 allegro.pl-oferta7750259.icu
+allegro.pl-oferta781240.cfd
 allegro.pl-oferta7837363.icu
 allegro.pl-oferta789456.icu
 allegro.pl-oferta7983724.shop
 allegro.pl-oferta798479290.cfd
 allegro.pl-oferta8170857.shop
 allegro.pl-oferta825265312.shop
+allegro.pl-oferta8290284.icu
 allegro.pl-oferta8432233.cfd
 allegro.pl-oferta846364.cfd
 allegro.pl-oferta8477980.cfd
@@ -970,6 +973,7 @@ allegro.pl-ofertax081247.shop
 allegro.pl-ofertx214532.shop
 allegro.pl-ofertx5326411.shop
 allegro.pl-oferty-promowane.icu
+allegro.pl-oferty-promowane.sbs
 allegro.pl-promowane.icu
 allegro.pl-promowane.sbs
 allegro.pl-y829.shop
@@ -991,6 +995,7 @@ allegrolokainie.pl-conformation97.shop
 allegrolokainie.pl-kategoria-prasy-hydrauliczne-2.sbs
 allegrolokainie.pl-kategorie-inne-1023.icu
 allegrolokainie.pl-oferty-promowane.icu
+allegrolokainie.pl-oferty-promowane.sbs
 allegrolokainie.pl-paczki.shop
 allegrolokainie.pl131.icu
 allegrolokalne.pl-conformation103.shop
@@ -1030,6 +1035,7 @@ allegrolokalnie.76324.top
 allegrolokalnie.76848.top
 allegrolokalnie.76862.top
 allegrolokalnie.7861294u.shop
+allegrolokalnie.78614.top
 allegrolokalnie.7x8c-3578o2.xyz
 allegrolokalnie.812y.rest
 allegrolokalnie.8293783.shop
@@ -1061,6 +1067,7 @@ allegrolokalnie.asp-4-572365.xyz
 allegrolokalnie.asp-5-353763.xyz
 allegrolokalnie.asp-6-423456.xyz
 allegrolokalnie.aukcja02912872.cfd
+allegrolokalnie.azp-3-385924.xyz
 allegrolokalnie.b903-2956vn7.xyz
 allegrolokalnie.bilety-pl-resale.cfd
 allegrolokalnie.c0v9a0418va.top
@@ -1097,6 +1104,7 @@ allegrolokalnie.id87941240.shop
 allegrolokalnie.igu-cix7392cnb6.xyz
 allegrolokalnie.il-1-5275736.xyz
 allegrolokalnie.il-3-482857.xyz
+allegrolokalnie.il-4-482857.xyz
 allegrolokalnie.il-5-482857.xyz
 allegrolokalnie.ils-1-4285873.xyz
 allegrolokalnie.ils-2-4285873.xyz
@@ -1153,6 +1161,7 @@ allegrolokalnie.oferta-861481.shop
 allegrolokalnie.oferta-883773.shop
 allegrolokalnie.oferta-95645.cfd
 allegrolokalnie.oferta-95732.cfd
+allegrolokalnie.oferta-promowana-23182749.icu
 allegrolokalnie.oferta-promowana-strona1.icu
 allegrolokalnie.oferta0181514.shop
 allegrolokalnie.oferta0529212.cfd
@@ -1399,6 +1408,7 @@ allegrolokalnie.pl-oferta7412457.icu
 allegrolokalnie.pl-oferta76926.top
 allegrolokalnie.pl-oferta77231.icu
 allegrolokalnie.pl-oferta7750259.icu
+allegrolokalnie.pl-oferta781240.cfd
 allegrolokalnie.pl-oferta7837363.icu
 allegrolokalnie.pl-oferta7842497.shop
 allegrolokalnie.pl-oferta7857848.icu
@@ -1408,6 +1418,7 @@ allegrolokalnie.pl-oferta8012873.icu
 allegrolokalnie.pl-oferta8117995.shop
 allegrolokalnie.pl-oferta8170857.shop
 allegrolokalnie.pl-oferta825265312.shop
+allegrolokalnie.pl-oferta8290284.icu
 allegrolokalnie.pl-oferta837202xkskeyb33kdh2.cfd
 allegrolokalnie.pl-oferta8432233.cfd
 allegrolokalnie.pl-oferta8446785.icu
@@ -1437,6 +1448,7 @@ allegrolokalnie.pl-oferta96349.icu
 allegrolokalnie.pl-oferta96491.cfd
 allegrolokalnie.pl-oferta97828978921089154213t231.icu
 allegrolokalnie.pl-oferta9833.icu
+allegrolokalnie.pl-oferta985612.icu
 allegrolokalnie.pl-ofertaid3847283-iphone15pro256gb.icu
 allegrolokalnie.pl-ofertaid38929239001759471.top
 allegrolokalnie.pl-ofertamsimodern155612s10us15.sbs
@@ -1444,6 +1456,7 @@ allegrolokalnie.pl-ofertax081247.shop
 allegrolokalnie.pl-ofertx214532.shop
 allegrolokalnie.pl-ofertx5326411.shop
 allegrolokalnie.pl-oferty-promowane.icu
+allegrolokalnie.pl-oferty-promowane.sbs
 allegrolokalnie.pl-offer-82134.shop
 allegrolokalnie.pl-ogloszenia-frimowe-6521.icu
 allegrolokalnie.pl-ogloszenia-frimowe-8833.icu
@@ -1464,7 +1477,6 @@ allegrolokalnie.plis-539577.top
 allegrolokalnie.pll-firmowe947635.icu
 allegrolokalnie.pll-kategoria217465974.icu
 allegrolokalnie.plslgjp1jlfia01ghk.shop
-allegrolokalnie.plss5ljjrltda59gjk.icu
 allegrolokalnie.polecane-dzis.shop
 allegrolokalnie.polecany-sprzedawca.shop
 allegrolokalnie.pp-1-45423.xyz
@@ -1730,7 +1742,6 @@ aproccessing.firebaseapp.com
 aproccessing.web.app
 aproveder.start.page
 aproveiteseupontos.site
-apsldkdmaman.square.site
 apwcentralrecove.start.page
 aq7vv9fc.square.site
 aqqee6k8.square.site
@@ -1851,7 +1862,6 @@ at-t-login-screen.daftpage.com
 at-t-mail-a52gy.daftpage.com
 at-t-mail-update.pory.app
 at-t-mail-zw3e7.daftpage.com
-at-t-management-upgrade-pg.webflow.io
 at-t-r2fgp.daftpage.com
 at-t-revnv.daftpage.com
 at-t-service0.pory.app
@@ -2206,7 +2216,6 @@ att7363682773.weebly.com
 att737728.boxmode.io
 att808.weebly.com
 att92w8928.weebly.com
-att9732187.weebly.com
 attachednotefile-log.myportfolio.com
 attadmiin.weebly.com
 attadmin.boxmode.io
@@ -2671,72 +2680,119 @@ bacsv.webcindario.com
 bactualizatubuzondecorreo.weebly.com
 baeumer.duckdns.org
 bafkreia3egjqelxfm2e364mf57stvap4nfqdbnxrpeshujrlprrz6hkxjy.ipfs.dweb.link
+bafkreia7idfpvzdfgm3he3xzvp6jn2jprhsrezp7oc6yizcdq7lw6qo7ni.ipfs.dweb.link
+bafkreiaarl2cbkkqwcgd3csqb3khqvribumw22jdmpkequidzbb32oefzy.ipfs.dweb.link
 bafkreiabebcjgv7kbgxw3nojefpa5pv4pllmslghj5ycotybpx63oa5exu.ipfs.nftstorage.link
 bafkreiabf4tr62cpdhuxjn5xxfljx66utkfxyfruiu4xq2xjyn2saxj3sy.ipfs.dweb.link
+bafkreiadxxipkfvnuf7p5wq7etjanq6e2g6xqamq6ixd4tz5spql62t3sy.ipfs.dweb.link
 bafkreiaemiaoe3s6gn6xior5tuy3i2ovsp5yplgbhggt2durufnotoj52i.ipfs.dweb.link
+bafkreiafsattndk6geedqydv357dn4tgwxl3xjxwindxg7od2xmce3tceq.ipfs.dweb.link
+bafkreiafsrq52gkphdvlilutzes7i3nilgsthdkf6msghd5ygo7c2jwqwe.ipfs.dweb.link
 bafkreiahdqdhkajmuquwywuqeemuw4iwqm46d3ishwwrhawsxua2ljvoqu.ipfs.dweb.link
 bafkreiaj3re3z4vwsjzdsepngnywk4624jizydc4tnfchn2k3dfz5vlvi4.ipfs.dweb.link
 bafkreiajmvttg4jizeuazgzoammwmcmmftjkw7q3at7uea7a7nyyqippmm.ipfs.dweb.link
 bafkreialzcdg5xttzbev2x2rcx7s5mjxomdmft3og2xwhyvxn3pvvmelda.ipfs.dweb.link
+bafkreiapmt62zneqlyj7ihn7lobj3ogf7sla5n6oojqffm7npgqab4dsc4.ipfs.dweb.link
+bafkreiaqktlfuvm67hof5l3uxqqre2b64zpfu67haw37j3nav6vihxidwi.ipfs.dweb.link
 bafkreiauovt77u5bnu4oun62722twfxsaw3l37ji3aqeh3fg6ackly5c5i.ipfs.dweb.link
+bafkreiauzyf5bn6r2xdsv77xhqnpsmzkls4ukhdzlgfmlcpooev2mymby4.ipfs.dweb.link
 bafkreiayiljydkvk4ucb5vwphdtlv55awpxiqncc5gxgc4tmwda4mwzgxm.ipfs.nftstorage.link
 bafkreib24vgv52m5ysam2cyz62dpww6hgcpgjamzilhljhmquzp2uh66iu.ipfs.dweb.link
 bafkreib4gdcih2kip3cjzly6zq2manimhza7yhdipeembfp762wjl6jlsq.ipfs.dweb.link
+bafkreib6gnpet4kfavjajfwuwnodf62t2hsmwsxrts4r46egwz6omp3hom.ipfs.dweb.link
+bafkreib6th244cpolhiqxeqoqft2dy4v66u7bemjfyqwnf5a74b2qhx7tm.ipfs.dweb.link
 bafkreibb5ewosi3qvmmeg77f2tg6j5d2zhfgjqnxygwwhu5nnv7tjsk5uu.ipfs.nftstorage.link
+bafkreibgghajopzqhuzkmnyuu7h43x7zpx5vzuiuxztmf223ufhqkarc6q.ipfs.dweb.link
+bafkreibi4lvzb5rjsilihxke6waszy4besmdxn6rradoecxnhjbxoicd5i.ipfs.dweb.link
 bafkreibmnxfj3xubrgelaqcfc45pk4oo35hrgwy3vd5tl5yolgacts2fyu.ipfs.w3s.link
 bafkreibpr7nmoeq7zbqa4kppcpnr35lwmge7rqsdqwoeu5f4ournzfd77e.ipfs.nftstorage.link
 bafkreibqlt64p46un4j4iwrcfycg6wu3uy7dc3hqlq25goexwyvzltgx7m.ipfs.w3s.link
 bafkreibu3dzwhleoi5jqw5xyy4lriufi4kc7pig4sm5tjd6ildeiptvlzu.ipfs.dweb.link
 bafkreibuhs6eyjnkxrqsyltqvon6sqekn3vb46t2fggbhjmbfgvdptcit4.ipfs.nftstorage.link
+bafkreic2ebywotcwh7vbcpygot534rqf24rtayj3vin4afwg7rkvmfclti.ipfs.dweb.link
+bafkreic7pmrpvm26f6fbunbph5zfyb6q6mv3koa4hxm74jqzw23q6tsaya.ipfs.dweb.link
 bafkreic7xfjfncb2jy25ig3fsxgospecw3uu32cbh7opg23gwzli3ndrgy.ipfs.nftstorage.link
+bafkreicc2m2mgo5ffsefmrzo674lt4tevqygc7d37bqmg3bllqqkc6bdiy.ipfs.dweb.link
+bafkreiccfbk2sglry7kvnfsv3yrexcqav3h6svmf2qnxi4pmzk4lnxq5ve.ipfs.dweb.link
 bafkreiccpbu46e3u7vhvh4y6d3sf2ksbau2mw4q2ipxncaqybyx35b76ly.ipfs.dweb.link
+bafkreicez7i5vqegt7g64kdgvi5wrosuyp5pnnbqk2ziznckupu6pjgug4.ipfs.dweb.link
 bafkreicfrwn33pdkvrvmby4reulv7pmjfa2tesufmokc7hirlgzty7dziu.ipfs.nftstorage.link
 bafkreickndlj47y6qu7hwup4nrdmfopeykor54lmxbz46mkpxihlle7t5y.ipfs.dweb.link
+bafkreickpjoz3fuyemmofmnr2g3ad4v5whmymldhmrwmorifjh245pfsqi.ipfs.dweb.link
+bafkreicojtnb6hxnd24722edkg5mgiint32kvarw642g22zoeqkqtjk4de.ipfs.dweb.link
 bafkreicotfc2r7jyg4zyyud67heqjubjn6wydrkrzyxv5roasq5htcgwym.ipfs.nftstorage.link
+bafkreicpyq4p7j2misuobwzizvjb33oojpey72634pmv5msort3dfognea.ipfs.dweb.link
+bafkreicr7pirntactnmxecmhfq6xkjjt2hfcsgor3zscscpv45i7duz7hy.ipfs.dweb.link
+bafkreict25ck2ag7rrsdkzwsrbt72t5cwayj3a24n2ypfvbllhaphjsa5i.ipfs.dweb.link
+bafkreid423lsmd3nczcbiloslkoyi4odpisaitjf2e2criv56lk4frgg6m.ipfs.dweb.link
+bafkreid4hll25ckab4g7a4rscxdxih34jto22mwb4jshfmqfsugmomjkqu.ipfs.dweb.link
 bafkreid63yginh4e2dg2ohw72rtr63bv7q6bqgmfj2wkliz2zefra6duym.ipfs.dweb.link
+bafkreid6e5r3plyhlqmwtngtifipwtsx4fghtpejc7p2owy63ahbojp42e.ipfs.dweb.link
+bafkreidawpakrz6eihgnotbh2d3w2ygcvn2i5k674ok4a2ln4sm4me2bdm.ipfs.dweb.link
+bafkreidbkskdhdfh7u2ybdajdg6x7a5wcb2whykkpjpsij4watz2ino6se.ipfs.dweb.link
+bafkreidcbmwrk2xsxzsk7ezy3vpy72lmlisuynnqgezb6uj7p4fx46osqi.ipfs.dweb.link
 bafkreidcmjakbmhakyqtwitwwyfdmhcpif3xabmjiangvwrjhnxhxt73oq.ipfs.dweb.link
 bafkreidcvro46yq6o6fxfrvnnpbqahpdvsgungsgjcpk45xmh7oz5xjz7m.ipfs.dweb.link
 bafkreidr7q4icdrmqy7swwz2tk5dzjhamv6dptge634lrrpknou4wz6leq.ipfs.nftstorage.link
 bafkreidur2dpezcnekkwha5kv74acmmhvvgnpk7qdinqpyglztndum55hq.ipfs.dweb.link
 bafkreidwlpfeinbwihnvusuuvrtlbjbudkeioqgeut6kyx2aymuepqlxca.ipfs.dweb.link
+bafkreie6va7cr3jncfgyyhdrseco7ggfd5g3e5a57amhs3h5xr4tcwtvo4.ipfs.dweb.link
+bafkreiea4dihvxccmbdfs4y2vbypstzp5e5hcirq4oli3rbpqkw7xivhi4.ipfs.dweb.link
 bafkreieabbam4px65fdysyaxvilhn7viqnuda5oe4qgnqkwqwysqxlyugi.ipfs.dweb.link
 bafkreieakxtagg5tlojjgnwkzqozjhhy6thm3kocdnzxvaksxxe4motbv4.ipfs.dweb.link
 bafkreied7pp6e5x2myujigverxvcdsq4ts7xfv65bu2j526fixseocfpti.ipfs.dweb.link
+bafkreiedglq4jgcgqoxjap7rswpqoxaepcv6szm47h6koe6uhzhxnrfqhy.ipfs.dweb.link
 bafkreiehiic7vmtq6nf4k7f4fp2fdutb5vdzw2nokhg73awu6yu6bggni4.ipfs.dweb.link
 bafkreiehjatmkhv5y2zkeaj2idmdb5w5mhl6mljeo34tmuhgam2vjzh6ya.ipfs.nftstorage.link
 bafkreieig2ltvpxnwlh6vrcbzxa4nc7chnr3wkezbewpxrbzpsybbqgs3y.ipfs.dweb.link
 bafkreiek54ci7oxpcjmpah5hl6zsya4vl2lxsv76fhfmwy7izz5wt5rg3m.ipfs.dweb.link
+bafkreielhj5f5xqd3iqaxod4eg263xb4osa4fyx25mbvvm3f6nc4cpfewi.ipfs.dweb.link
 bafkreielkq7bv6myw26b7zkww3gyzagez5hr4rz6ul7wcg7xxuxoj73mhi.ipfs.dweb.link
 bafkreiepterbx5k6ecozv4uyidfhbish47uuiqg7btcjdxw7nzm2mgwium.ipfs.dweb.link
 bafkreiesbr2q4k5uop64rzjrnfnfu7ikzfbyc3xfp4lwowv6dmddcyq67e.ipfs.dweb.link
+bafkreietfe6beevv2wigkiq34qgmyzw7ekblzwnprjbb2u2axy4joj65jq.ipfs.dweb.link
 bafkreieti7yk7oz2gq3vobxm7wbe42wtgqtkv6ibai4xjudeaisp6neysa.ipfs.dweb.link
 bafkreiez5fruf76wbn4zuz2mrdg5rbop7ws5qj5zv47vf4325scrvya6by.ipfs.dweb.link
+bafkreif4iu32fy2pr6hlebnry2ibicvhsththxfip34fgxda6fl3jvn3y4.ipfs.dweb.link
 bafkreif5k7m3u4tlonk2z3a2duabbsce4qrjbz4l7o4xxhooe3piyxueq4.ipfs.dweb.link
+bafkreif6i5qojweovhkt4jzb6djucwi5uinqkyccevzvzmirhx5kgfwtba.ipfs.dweb.link
+bafkreif77enq33y6kdlw5mmbds2l2rd3gm3ii76kq4kuhyjaww5forx6mq.ipfs.dweb.link
 bafkreif7t2wga5odwbiypt6eyz5nu4l7tqn4ozu3hbj2jdllldmjj4xote.ipfs.nftstorage.link
 bafkreifadqmb2z7nmzzdjhfklljpznmudwq6icy5ex7xj5oelsooa47tea.ipfs.dweb.link
+bafkreifatofkjxs4qhppxo7kr542qqlucs5lnblhsjq7e5bn3fcahs36lu.ipfs.dweb.link
 bafkreifboouw4pecx3v2v6wldkrbkaywjpzmwts3juhhn54dvai6esmlma.ipfs.dweb.link
 bafkreifejxksjerptlvfkrcafjwu64wxuld7gvmewiukrgd4bkvx5lexna.ipfs.nftstorage.link
 bafkreiffkjyh4zcuxvlvael47ta54k3mlwdh3xg7ydi3wryfxowvxc3zbe.ipfs.nftstorage.link
 bafkreiffveyog6pvehqzwdopu7uomwoyfixrz6lw2d5nld3qlxepi6yhre.ipfs.dweb.link
 bafkreifnflauzytu3bb2ddiup6q2kwlv23g7wr4gj7wcrzvna23yazrbsq.ipfs.dweb.link
 bafkreifp7yfxo4ctt3m7lbnllhfos7oh2lqdo4li26advdrlicn7he5uoe.ipfs.dweb.link
+bafkreifpapevdzp7gpzcez3unij2ituag7yuxethrc5277bwe2tze3kbca.ipfs.dweb.link
 bafkreifqovm3zngywconbiptw7fhw54cinx6usdzmaljod7qomfaqpcbjq.ipfs.dweb.link
 bafkreifqwj3sxcv2abyyfhjdnjvww7p3wymw4plx2fvypedamszka3c2gy.ipfs.w3s.link
 bafkreifu2w6plm4vtvrkjo5rkxmer7gmwpuagwbhkpfs2kkftsyf277xva.ipfs.dweb.link
 bafkreifvx4d4ehx2yniyutozremm4yacccs5zm6lf724rvo43hzrcswetu.ipfs.dweb.link
+bafkreifwf6vy3i4qnhmd6a63v4c6qcm5xopb2vkudowkz3lh5kdnkq5saq.ipfs.dweb.link
 bafkreig34sfpnxjl4pxx4yjm3r6sp6ae52adzvqz5zvfsuctwmdhar2vru.ipfs.dweb.link
 bafkreig4vnpyifrq76ruguk5rzjv3cbfdu7mnlkqxqtwmydpqmbqdzbyjy.ipfs.w3s.link
 bafkreig4xdpdhfitgxv2jfifjak5ctkaeqdldf4m6m6chu2vvhc2x3txnu.ipfs.nftstorage.link
 bafkreig7j4sqnc7347jtcb63re7y7cnh2yoc6rbdnypr7gxpdhd7vhfoqm.ipfs.dweb.link
+bafkreigbyjoyszui46pvvnuluwnrqdbxuvinnni54rar7plf7xvhclpioy.ipfs.dweb.link
+bafkreige6dxmti4ps537f44rsqtpbsfsyywcc3u72m7v32y6buj4hsypsa.ipfs.dweb.link
+bafkreighiqxrsjy5f2oekblhvdghqjykfjfpcfsli5kvnbosic5y53mfjq.ipfs.dweb.link
 bafkreigk4evjuyk5v6myv6dzfaocqqwbzm7ucmbing2yse4jrplxvdulmy.ipfs.dweb.link
 bafkreiglayzjd26w6kfylo6bxuhxcvzgwwowgocu5ueakexopkf5rkje6a.ipfs.dweb.link
+bafkreigpkmjxfjomhlppkwnzer2eo5z5364eivptc6znvm2nkhsolbvcjm.ipfs.dweb.link
 bafkreigqilnby5tewusfvvorclgipxb3mvb6r5visvbtg73jcifjp6w2aa.ipfs.nftstorage.link
+bafkreigx337topjjnlnmy6cuz7376hx2regd56m4dqqzehe7zthz3dr5eq.ipfs.dweb.link
 bafkreigy2qknhgyjvbq226tm65jj57ayyzmhvdlcs337z3fjf33xboxbqy.ipfs.dweb.link
 bafkreigydfmhypvnhhgnz4to3jfe4s572r7ljk5dob5ppv4dp3ohko3u6e.ipfs.dweb.link
 bafkreih63peuw5v7v4poiqdc4mkbdohei2tpyiasosy5m5ksz3u7mc7avy.ipfs.dweb.link
+bafkreih7uvybroqnttryxb6j4g6y2b3an5qfhvbb5zkdcsqv2tiaxur4xy.ipfs.dweb.link
+bafkreihb3jftzvlmmuusv6jew5ytvjkj72jqj5rybhfciclrelky5phlwi.ipfs.dweb.link
 bafkreihbuaki4ahvu2skacwydrjhqr2sjknwxevwj7rbx7mvs2xk3lelcm.ipfs.dweb.link
 bafkreihbvrdzotm6ue2z5qq7keyf65jkqzzff2dsv5vxu4qwrthu3fkve4.ipfs.dweb.link
 bafkreihe4kyf3rh33rfefga5xaygeccu5pkjj43c72kygn4lk572drszla.ipfs.dweb.link
+bafkreihecxy33rxtuzmhvo4bi4ngpjvia3d2t5dle3y6yxk3ufxnan253y.ipfs.dweb.link
 bafkreihfcomnplalaeyii4lnu7heg45aqntjwl52jjzcpvvaj4l3z5yiua.ipfs.dweb.link
 bafkreihgxgb6d6blqe3zbdhh4aju44f45g3465rdfg27aj6e7exiqc4exi.ipfs.dweb.link
 bafkreihhctl6thjm5w7xk52xiyiaffkoi3ardg6atcp6rpdiiqkk27kcdi.ipfs.dweb.link
@@ -2744,8 +2800,10 @@ bafkreihhlziqsdgjfm4ntdogsifpdg7g2xibdskgj5lvyxcuo4n5x3kasu.ipfs.dweb.link
 bafkreihitaduxmdqk3n72qdzcqjuds2jbl3zahhib6kdp233tm35zkxl34.ipfs.dweb.link
 bafkreihkcnnngvl4ovkkskab3y2o2rcl4qqy5ynu4sg3j6v5sk2gldr2nq.ipfs.nftstorage.link
 bafkreihoncx735fuumihtpr5e6ngzvoiv7gs4jc63i4fpmiuqp5nqoqx5q.ipfs.dweb.link
+bafkreihrkutam2cipashokqe3enhh35m6jvjtztwrmrje5kzlhilklpio4.ipfs.dweb.link
 bafkreihyl2c2teciovyc5fr24ivn2pfkkjrwvsnr2r6qaejdodd2w25lf4.ipfs.nftstorage.link
 bafkreihyt2rngmu565ljbttn4rosturbj3wlaalibztxwhz6gsd62j5nle.ipfs.dweb.link
+bafkreihzui5frrqnguzjv6uc6ielg26hkaznom3znkyz3gunoxmfvozbau.ipfs.dweb.link
 bafybeia563xhfbbu4k7zmo4n44rrqwnvv7yc2lqye34ieif43aafaq7ojy.ipfs.nftstorage.link
 bafybeiaamq7qrezzm7cbko4e6hl5c3fcjqntup4343z5as3j2jnxs7s4p4.ipfs.dweb.link
 bafybeialkpqeia6qffe47filztf62ql3i7fytkok4iqxs66kdovcw6ypmy.ipfs.dweb.link
@@ -2758,6 +2816,7 @@ bafybeiaus6ftks7oxi26q7aqbcbea6btn37oadipitadxrqegkt2xufb64.ipfs.dweb.link
 bafybeiav3ejl3tczlxwvqtgi7ntaqbf7rmi7adwsldqty53q4u5ohloulm.ipfs.dweb.link
 bafybeiawvbxwvvxt5ua3jkio2njx2m4jgkfihoiorfx4detu2pjlqj3o7a.ipfs.dweb.link
 bafybeiaxjrlto3yzomskqf2m46rcdtfrbdoenkft5z3zevrputjfyzbj7u.ipfs.dweb.link
+bafybeib3luzjqeg3vtc6itizc72ppqqkndo6hkzmkldbaqhv34lcfydyee.ipfs.dweb.link
 bafybeib43dvjrbjsgjiqbl5gl732xm2cx3lktjdd4sifjla4ccl5wpp7zq.ipfs.dweb.link
 bafybeib5z4bugvpud5oeiesdap5ppqgabwdelqigxpe6qwpru5nnq2u4uq.ipfs.w3s.link
 bafybeib7qftc7bgvhkdew2purmpqalnn2knkwefxjdgeuskqd5spht4jym.ipfs.w3s.link
@@ -2793,12 +2852,15 @@ bafybeifbn4xkpxrne3vf6yoixeykqxog3cbqa7ujxffs3zc4g6xitl7qgu.ipfs.dweb.link
 bafybeifcfe5xorgq2rm5cwebwgksa72gyifrf3tmfjqrwcnwpr5qpglvb4.ipfs.dweb.link
 bafybeiffx4fk44zo3yioqawh67wppchd4gllevta5kbunbzd4b56iw5ok4.ipfs.dweb.link
 bafybeifgzx4io3dzbvis5ts2t24kltun72lzv7l37zroel7prg5wfg352i.ipfs.dweb.link
+bafybeifi2nbphz4qlowwtenud2b6irf5ps5vq6bqwefmlzxfe546ji37by.ipfs.dweb.link
 bafybeifoukyxrhibquut5yzljqhfexp2j5qeukyqpntnnvb4jvmtvpma5m.ipfs.dweb.link
+bafybeifoypwpobovkolw4veavfcu3laxps4wu4fbxsczeeo7ev3uet7ibm.ipfs.dweb.link
 bafybeifrqdfze3piomesklwvzgfkuljsspb2tp6m4llmsjm2fztl6yua3u.ipfs.dweb.link
 bafybeifsag3hijhe3grhhe4ajduoyifxoxjo3aqdheggbf3ha4t6rptl7i.ipfs.dweb.link
 bafybeifsag3hijhe3grhhe4ajduoyifxoxjo3aqdheggbf3ha4t6rptl7i.ipfs.w3s.link
 bafybeiftgpyuirng3leh5qtbcuoidmwr5trcpeo6a6qfzct5g2yqaqbj64.ipfs.dweb.link
 bafybeifuj5nalym5xn7biif3jhl3rdcdhnmpfinjmy6uhnllevyuqnbe3u.ipfs.w3s.link
+bafybeigcfh45ff3mwv57hhh5jondj5vn3nwnm5fejbcb4krijzdcsmiawe.ipfs.dweb.link
 bafybeigdth7dqvhh2nlemvnq5nidddpe2p37hbhtc3abgse6mrfdmhyi5i.ipfs.dweb.link
 bafybeight5dmd2w3tp5upk367tortr3qlxdrx6ykl6yeci3j3m6vam6r7u.ipfs.dweb.link
 bafybeigmtnio5oqn4jiccbgwgara5lhzl56jgh7x7ly7jctu4rsvxijsby.ipfs.dweb.link
@@ -3336,6 +3398,7 @@ bravera-t1.firebaseapp.com
 bravera-t1.web.app
 bravera-w1.firebaseapp.com
 bravera-w1.web.app
+brazen-foregoing-raincoat.glitch.me
 brc365phs.weebly.com
 breakforthebestonline.com
 bredft.start.page
@@ -3448,12 +3511,10 @@ bt-106861.weeblysite.com
 bt-107258.weeblysite.com
 bt-107537.weeblysite.com
 bt-107681-103036.weeblysite.com
-bt-108283.weeblysite.com
 bt-108315.weeblysite.com
 bt-108441.weeblysite.com
 bt-108703.weeblysite.com
 bt-108810.weeblysite.com
-bt-108920.weeblysite.com
 bt-109368.weeblysite.com
 bt-109423.weeblysite.com
 bt-109549.weeblysite.com
@@ -3860,6 +3921,7 @@ cardprodubanco.webcindario.com
 cardservices-fmbnc.firebaseapp.com
 cardservices-fmbnc.web.app
 careerskillsprofr.firebaseapp.com
+careful-agate-sword.glitch.me
 careprotecttalk.square.site
 carhost-e6d05c1c-875b-44a8-8308-f83eef7f99be.myportfolio.com
 caribefacturaonline.vercel.app
@@ -4334,6 +4396,7 @@ clinquant-buttercream-d4fa95.netlify.app
 clmknhuyt.firebaseapp.com
 clmknhuyt.web.app
 clnpcfpntr.duckdns.org
+cloakform-2739-datainput-2f3g4h5j-forms-7b8c9d0e.pages.dev
 clogskdolu-site.webflow.io
 cloud-23526.firebaseapp.com
 cloud-23526.web.app
@@ -4462,7 +4525,6 @@ com-etcgxz.vip
 com-etcgyo.vip
 com-etcqmi.vip
 com-itrustcapital-com-auth.webflow.io
-com-jhbv.win
 com-mkc.win
 com-mkhd.win
 com-mrzh.win
@@ -4795,7 +4857,6 @@ creencerater.firebaseapp.com
 cremdsuels.firebaseapp.com
 creneau-choisir-mondial.com
 creneau-de-mon-colis.com
-creneau-gestion.com
 creneau-horaires.com
 creneau-livraison.com
 creneau-relay.com
@@ -4817,6 +4878,7 @@ crtscpewxi.web.app
 cruiseplanners231.weebly.com
 crwxxkllpk.duckdns.org
 crypptocomloogn.webflow.io
+crypticalert-1927-datapost-4e5f6g7h-resources-8i9j0k1l.pages.dev
 crypto-ledgerlive-app.webflow.io
 cryptoaccessverify.firebaseapp.com
 cryptoaccessverify.web.app
@@ -4874,9 +4936,7 @@ currentiyattyahoocom.boxmode.io
 currentkeijkjuxux.weebly.com
 currently-101519.weeblysite.com
 currently-104118.square.site
-currently-107687.weeblysite.com
 currently-att-01-27-2025.weeblysite.com
-currently-att-05-22-2025.weeblysite.com
 currently-att-06-25-2025.weeblysite.com
 currently-att-06-27-2025.weeblysite.com
 currently-att-3-31-2025.weebly.com
@@ -5651,6 +5711,7 @@ donotreplywaaqq.weebly.com
 donweb.com
 dooncastood.firebaseapp.com
 dooncastood.web.app
+dorian-vagabond-condition.glitch.me
 dorothymcginlley-my-cheetah-website.site.builderall.net
 dorvoinsvetaiiu.blogspot.com
 dot-nm.gov-baxv.vip
@@ -6272,11 +6333,9 @@ etafetaapp.cc
 etaxinetcy.firebaseapp.com
 etaxinetcy.web.app
 etcaew.top
-etcazc.xin
 etciyu.vip
 eth-x91831-exodus.firebaseapp.com
 eth-x91831-exodus.web.app
-ethereal-happy-answer.glitch.me
 etherwallet.mobilelab.vn
 etracking-cttpt.com
 etrgjnrethdkjnjekfv.firebaseapp.com
@@ -6329,7 +6388,6 @@ evriserves4.today
 evriserves6.today
 evriserves8.today
 evritrack1.today
-evritrack2.today
 evritrack5.today
 evritrack6.today
 evritrack8.today
@@ -7337,7 +7395,6 @@ gov-bbnh.vip
 gov-bbuy.vip
 gov-bvcx.vip
 gov-bvui.vip
-gov-bvzx.vip
 gov-ccfdre.icu
 gov-ctxe.cfd
 gov-dertg.win
@@ -7526,7 +7583,6 @@ hanmmaidf.weebly.com
 happy-lovelace.5-100-224-131.plesk.page
 hapvidaaracaju.net.br.segurocuritiba.com
 hapvidacaruaru.imperiocorretora.com.br
-hardware-tezoer-cdn.webflow.io
 hardware-trezor-cdn-sso.webflow.io
 hardwaretrzorwallet.webflow.io
 hargarymailer.weebly.com
@@ -8102,6 +8158,7 @@ hth920mx.weebly.com
 htmlonlinloes.firebaseapp.com
 htmrsdre.firebaseapp.com
 htpsshaw.weebly.com
+htthgpgusd.duckdns.org
 http-101511.weeblysite.com
 https-fastweb.weebly.com
 https-mail-tiscali-it-tiscali-it.weebly.com
@@ -8585,6 +8642,7 @@ ireflou32.firebaseapp.com
 ireflou32.web.app
 irhduqzsrd.duckdns.org
 iridescent-platypus-pjshxq.mystrikingly.com
+iridescent-sprite-db1c4e.netlify.app
 irphmbtqqv.duckdns.org
 irs-department.com
 irs-gov.com
@@ -8838,7 +8896,6 @@ jkl-gqja.win
 jkl-gxch.win
 jkl-rwhe.win
 jkl-szkm.win
-jkl-woat.win
 jkl-yfeo.win
 jklhj-3f968.firebaseapp.com
 jklhj-3f968.web.app
@@ -8977,7 +9034,6 @@ junowebmail01.weebly.com
 junowebmailupgradeversion.weebly.com
 jup-drop.com
 jup-gifts.com
-jupagxc.pages.dev
 jupnftvoucher.com
 jurioma6-9.weebly.com
 jurunensebrazz.blogspot.com
@@ -9548,7 +9604,6 @@ ledixslca.web.app
 ledsgrhardwarwalet.webflow.io
 ledssdaer-ceem-strt.webflow.io
 ledsupportsb.webflow.io
-leedgaer-live--app.webflow.io
 legdrelive--logan---docs.webflow.io
 legdrrlivv-app.webflow.io
 legedreloivelogine.webflow.io
@@ -9760,7 +9815,6 @@ logicorreo.weebly.com
 logie--livledgrees.webflow.io
 logii-ledgarlive--us.webflow.io
 logiie--io--ledgre.webflow.io
-logiie--ledgre--lvei.webflow.io
 login--start-ledger-docs.webflow.io
 login-147b02bc-konsoleh-com.ordinationfestenburg.at
 login-147d02bf-konsoleh-com.ordinationfestenburg.at
@@ -9979,6 +10033,7 @@ magnoliafcumember.weebly.com
 mahanews18.com
 mahendrachemicals.com
 mahlazkikadyalo.blogspot.com
+mahogany-leaf-guarantee.glitch.me
 mai1bez801396.weebly.com
 maialjp.weebly.com
 maiiliaaattt.weebly.com
@@ -10193,7 +10248,6 @@ mailreaganweb.weebly.com
 mailregensburgg.weebly.com
 mailsecurecontentalert.weebly.com
 mailserveheye.weebly.com
-mailserver02.weebly.com
 mailserverreservoir.weebly.com
 mailservice0973.weebly.com
 mailservice289.weebly.com
@@ -10242,6 +10296,7 @@ manageaccountreactivepymnttgwsenbogwekbegje.jasidmweglrperw.biz.id
 managehosting-aruba.sintonizziamoci.it
 managerenewsystempymntauthwoedogvkwemgkow.caureasdkwelwegeia.biz.id
 managerinmanagerinarun.weebly.com
+managesecure.login.information-reactivate-statement.primebilling.th7nvwk.lqf.dlr.mybluehost.me
 mangmaenter-serviso-de.blogspot.ca
 mangmaenter-serviso-de.blogspot.com
 mango-odut-5bxb.345fq3e7.workers.dev
@@ -10966,6 +11021,7 @@ msmvoice.blogspot.com
 msn-2025-v3ri-ficaci0n.glitch.me
 msn-azure-portal.firebaseapp.com
 msn-azure-portal.web.app
+msnooutlook2025.glitch.me
 msnsupline.webcindario.com
 msportbonus201bus.weebly.com
 msportfreefund.weebly.com
@@ -11367,6 +11423,7 @@ net-oauth-ledgor.webflow.io
 net-zfa.win
 netbanking.gbbankinvest.com
 netcoins---ca----auth.webflow.io
+netfilxco-registre.com
 netfl-x.vercel.app
 netflix-online.webcindario.com
 netflix-pk.vercel.app
@@ -11438,7 +11495,6 @@ netzerolinkwebcommunicationservice.weebly.com
 netzeromaghghytrgedtyddy.weebly.com
 netzeromailghj.weebly.com
 netzeromallfhgyytu.weebly.com
-netzeromaserosfstribhdfdgfyy.weebly.com
 netzerowebmail723.weebly.com
 netzerowebsevicecooperationdomain.weebly.com
 nevergoastray.weebly.com
@@ -11720,7 +11776,6 @@ nzfd4n.csb.app
 nzvjgjaxkh.duckdns.org
 nzx4bn.weebly.com
 o10lkw.webwave.dev
-o1x.63281547.xyz
 o2-billing-recovery.firebaseapp.com
 o2-billing-recovery.web.app
 o2clzc8lt.duckdns.org
@@ -12632,7 +12687,6 @@ prio-routage.com
 prio-transitaire.com
 priolpducpro.firebaseapp.com
 priority-data-teamreportsd2023.start.page
-prismcore.click
 private-user-support-center.io.vn
 privatevideocallsesionfree.weebly.com
 priyankasandokar1606.github.io
@@ -13489,6 +13543,7 @@ router-chef.web.app
 routiere-circul.info
 routiere-circulation.info
 roy-saywell-my-cheetah-website.site.builderall.net
+royal-awesome-fruit.glitch.me
 royalmail-delivery-help.firebaseapp.com
 royalmail-delivery-help.web.app
 royalmail-delivery-issue.firebaseapp.com
@@ -13601,7 +13656,6 @@ safecloudwebapp.web.app
 safecuberedesigned-octo-carnival.pages.dev
 safelinks05.reipays.cfd
 safelinks57.reijshirt.cfd
-safelinks88.reijshirt.cfd
 safemoon-17aca.firebaseapp.com
 safemoon-17aca.web.app
 safeshare.myportfolio.com
@@ -13798,7 +13852,6 @@ securbellwetherdecu.weebly.com
 securbulgaria.weebly.com
 secure---blockfi-app--cdn-cdn.webflow.io
 secure--app--eng--blockfi-cdn.webflow.io
-secure--app-blockfi---cdn.webflow.io
 secure--atuh-kucoin--service.webflow.io
 secure--blockfi--sso--cdn---bni.webflow.io
 secure--blockfi--sso--cdn-x.webflow.io
@@ -14658,7 +14711,6 @@ sonic999.weebly.com
 sonicalerexzm.weebly.com
 sonicnet-webmail-logon.weeblysite.com
 sonnoao.it
-soovw6crn.duckdns.org
 sopkzuqlwd.duckdns.org
 soport1deusuario.webcindario.com
 soportedeserviciodecorreo098312.weebly.com
@@ -15599,7 +15651,6 @@ terrtofr.firebaseapp.com
 terrtofr.web.app
 terzeer-iostartt.webflow.io
 terzor-suit-it.webflow.io
-terzorlogi-auths.webflow.io
 terzorssiohlp.webflow.io
 terzoyrywallete.webflow.io
 tesakom.com
@@ -15795,10 +15846,10 @@ topambernames.com
 topical-tadpole.10web.site
 topshawmail.weebly.com
 torccolborrachas.blogspot.com
+torpid-northern-aluminum.glitch.me
 totalmedicaltourism.com
 totiamigo.blogspot.com
 totofeladdd.weebly.com
-touai.vip
 touesquestiondossier.firebaseapp.com
 touesquestiondossier.web.app
 tough-partners-390013.framer.app
@@ -15936,7 +15987,6 @@ trezrsutelgin.godaddysites.com
 trezueiorwalet.webflow.io
 trezxorwallett.webflow.io
 trezz-helps-start.teachable.com
-trezzuorwaalt.webflow.io
 trfgswcv.vip
 triage-prio.com
 trial-memory-3601.hlni6zme9.workers.dev
@@ -15967,6 +16017,7 @@ trueizoraasallet.webflow.io
 trustmklog.weebly.com
 trustnwallet.cc
 trustwalet.com.co
+truthful-fallacious-donut.glitch.me
 trxycujvkacdstujkavsdutyjh-aqduyacsitduyqsatq.teemill.com
 tryjhytyjctfhdrxtse46ysxfgjxfyjfyjxdthtrterrthfhhhfff.weebly.com
 tryuityu8.weebly.com
@@ -16037,6 +16088,7 @@ tunahrtjanzak8.firebaseapp.com
 tunahrtjanzak8.web.app
 tunahrtjanzak9.firebaseapp.com
 tunahrtjanzak9.web.app
+tundra-stone-liquid.glitch.me
 tuni-sunmelk.blogspot.com
 tunmagakunesine.firebaseapp.com
 tunmagakunesine.web.app
@@ -16378,7 +16430,6 @@ us.flhsmvnd.top
 us.flhsmvtx.win
 us.flhsmvwb.win
 us.flhsmvwj.top
-us.flhsmvws.top
 us.sunqosln.top
 usaccv-d8f30.web.app
 usaconferencing.com
@@ -16850,6 +16901,7 @@ vqettxkzi.web.app
 vqfzeezvzf.duckdns.org
 vqnszieuxc.duckdns.org
 vqqznoqjxh.charliec-glenn.workers.dev
+vqsjnchlkf.duckdns.org
 vr2yzll95.ukit.me
 vrfycntidty.weebly.com
 vrtq.e-scurefiles.net
@@ -16879,7 +16931,6 @@ vvrygeinbu.duckdns.org
 vvtimobil.weebly.com
 vvu1ga.webwave.dev
 vvverificatiionn_mailll.godaddysites.com
-vvxjtzllig.duckdns.org
 vwebmail.weebly.com
 vwyuiu.weebly.com
 vxcvngfdthfdxzwe.weebly.com
@@ -17139,6 +17190,7 @@ webmail-telkomsa-net-mail1-co-za.weebly.com
 webmail-telkomsa-netmai2.weebly.com
 webmail-telkomsa-netmail-1.weebly.com
 webmail-telkomsa-netmaill2.weebly.com
+webmail-verification-5np7.vercel.app
 webmail.sfr-inc.com
 webmail.sfr.ayu.mybluehost.me
 webmail.sfr.lvm.mybluehost.me
@@ -17464,6 +17516,7 @@ ww25.cic-sfr-credit-mutuel-espace-client.direct-ing-online.site
 ww25.ww25.redmine-sfr-mobile.circet.net
 ww2mtbonline.firebaseapp.com
 ww2mtbonline.web.app
+ww38.cic-sfr-credit-mutuel-espace-client.direct-ing-online.site
 wwacessorapido-portalcliente.blogspot.com
 wwdza1.blogspot.com
 wwe.liberar-pontos.click
@@ -17477,7 +17530,6 @@ www-ipva-sp-online-2023.blogspot.com
 www-itrustcapital-com.webflow.io
 www-lbpiaccess-com-update.visacorner.asia
 www-lbpiaccess-com.knowyourlabel.ph
-www-ledgerrcomstrt.webflow.io
 www-lger-costart.webflow.io
 www-mondiai-locker.com
 www-nomura.lyl24.com
@@ -17849,7 +17901,6 @@ xx3417px.odoo.com
 xxccounnntue.blogspot.com
 xxcidqrqay.duckdns.org
 xxcompxxx.weebly.com
-xxconnections.weebly.com
 xxinealonbd.webcindario.com
 xxjaoppylc.duckdns.org
 xxlineaaleonn.webcindario.com
@@ -17897,7 +17948,6 @@ yape-1.webcindario.com
 yape-3.webcindario.com
 yape-seguridad.webcindario.com
 yapebolivia.webcindario.com
-yaraasescont.com
 yarezpo.firebaseapp.com
 yaroucerv.firebaseapp.com
 yaroucerv.web.app
@@ -17918,7 +17968,6 @@ yesmoibo.weebly.com
 yetiskarristerrasgenralsi.firebaseapp.com
 yetiskarristerrasgenralsi.web.app
 yeurulbenagri.firebaseapp.com
-yews.weebly.com
 yfbeknavbk.duckdns.org
 yfrrdufhso.duckdns.org
 yftyrw623weuscswstury-tqadfk723we98ugjws.teemill.com
