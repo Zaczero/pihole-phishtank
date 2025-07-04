@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Fri Jul  4 08:06:44 UTC 2025
-# Number of unique domains: 18165
+# Date: Fri Jul  4 12:08:31 UTC 2025
+# Number of unique domains: 18131
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -26,7 +26,6 @@
 059c-cm5.weebly.com
 066ee.com
 0688921722a.weebly.com
-078yv897685rfbjtre536900tr3ws.weebly.com
 07wprp.duckdns.org
 090029323.weebly.com
 09474br.weebly.com
@@ -190,7 +189,6 @@
 4rtwebrtr.weebly.com
 4rwebr.weebly.com
 4ti1x3g90.urest.org
-4u00jd.duckdns.org
 4u8vsz517.ukit.me
 4yh4hrffg.weebly.com
 52-58-139-35.cprapid.com
@@ -837,6 +835,7 @@ allegro.pl-kategorie7272682973.icu
 allegro.pl-kategorie727268341832.icu
 allegro.pl-kategorie781247621782.icu
 allegro.pl-kategorie8123717237831.icu
+allegro.pl-kategorie812375126.com
 allegro.pl-kategorie8123759128321317.icu
 allegro.pl-kategorie81237817627412.icu
 allegro.pl-kategorie812737151283.icu
@@ -850,6 +849,7 @@ allegro.pl-kategorie8174751828485.icu
 allegro.pl-kategorie818317535.com
 allegro.pl-kategorie81837915365.com
 allegro.pl-kategorie819128381237415.icu
+allegro.pl-kategorie8236491238.com
 allegro.pl-kategorie8279951362.com
 allegro.pl-kategorie8372696256.com
 allegro.pl-kategorie8476362937268.icu
@@ -867,8 +867,10 @@ allegro.pl-oferta0783529.cfd
 allegro.pl-oferta107035073.cfd
 allegro.pl-oferta1564386.icu
 allegro.pl-oferta1662168.icu
+allegro.pl-oferta1837439.sbs
 allegro.pl-oferta1905378.cfd
 allegro.pl-oferta2091638.cfd
+allegro.pl-oferta2105027027.cfd
 allegro.pl-oferta23579.shop
 allegro.pl-oferta2432933.shop
 allegro.pl-oferta2563345.icu
@@ -937,7 +939,6 @@ allegro.pl-oferta76026.top
 allegro.pl-oferta7684825.icu
 allegro.pl-oferta770340572.cfd
 allegro.pl-oferta77231.icu
-allegro.pl-oferta7812719.cfd
 allegro.pl-oferta7837363.icu
 allegro.pl-oferta789456.icu
 allegro.pl-oferta7983724.shop
@@ -974,7 +975,6 @@ allegro.pl-oferta928267145.icu
 allegro.pl-oferta932853.cfd
 allegro.pl-oferta936363.cfd
 allegro.pl-oferta9376305.cfd
-allegro.pl-oferta9402181.cfd
 allegro.pl-oferta97331.cfd
 allegro.pl-oferta9739406.icu
 allegro.pl-oferta99492.cfd
@@ -986,7 +986,6 @@ allegro.pl-ofertx53647511.shop
 allegro.pl-ofertx9678473.shop
 allegro.pl-oferty-promowane.icu
 allegro.pl-oferty-promowane.sbs
-allegro.pl-promowane.sbs
 allegro.pl-przedmiot126959105.icu
 allegro.pl-przedmiot17695910.icu
 allegro.pl-przedmiot1850651.icu
@@ -1078,7 +1077,6 @@ allegrolokalnie.9va801.shop
 allegrolokalnie.asp-1-353763.xyz
 allegrolokalnie.asp-1-423456.xyz
 allegrolokalnie.asp-2-353763.xyz
-allegrolokalnie.asp-4-423456.xyz
 allegrolokalnie.asp-4-572365.xyz
 allegrolokalnie.asp-5-353763.xyz
 allegrolokalnie.asp-6-423456.xyz
@@ -1101,7 +1099,6 @@ allegrolokalnie.fp-3-5f444.xyz
 allegrolokalnie.fs-11d-sa.xyz
 allegrolokalnie.fs-31d-sa.xyz
 allegrolokalnie.gzx-5u285.top
-allegrolokalnie.gzx-5u285.xyz
 allegrolokalnie.hity-cenowe.click
 allegrolokalnie.id-81792481.shop
 allegrolokalnie.id-891242.sbs
@@ -1129,7 +1126,6 @@ allegrolokalnie.ip-1-443456.xyz
 allegrolokalnie.ip-2-443456.xyz
 allegrolokalnie.ip-3-443456.xyz
 allegrolokalnie.ip-6-443456.xyz
-allegrolokalnie.is1-3-583175.xyz
 allegrolokalnie.kategore-dom-l-ogrod-892011.top
 allegrolokalnie.kategoria-ogrodowe-szklarnie-2462.top
 allegrolokalnie.kategoria-ogrodowe-wszystko-143.top
@@ -1320,6 +1316,7 @@ allegrolokalnie.pl-kategorie7255972657398.icu
 allegrolokalnie.pl-kategorie7262688367242.icu
 allegrolokalnie.pl-kategorie8123717237831.icu
 allegrolokalnie.pl-kategorie8123717624726.icu
+allegrolokalnie.pl-kategorie812375126.com
 allegrolokalnie.pl-kategorie81237712412.icu
 allegrolokalnie.pl-kategorie81237817627412.icu
 allegrolokalnie.pl-kategorie81247175129512.icu
@@ -1335,6 +1332,7 @@ allegrolokalnie.pl-kategorie8174751828485.icu
 allegrolokalnie.pl-kategorie818317535.com
 allegrolokalnie.pl-kategorie81837915365.com
 allegrolokalnie.pl-kategorie819128381237415.icu
+allegrolokalnie.pl-kategorie8236491238.com
 allegrolokalnie.pl-kategorie8279951362.com
 allegrolokalnie.pl-kategorie8317274019.icu
 allegrolokalnie.pl-kategorie8372696256.com
@@ -1360,11 +1358,13 @@ allegrolokalnie.pl-oferta1408350.cfd
 allegrolokalnie.pl-oferta1483682.top
 allegrolokalnie.pl-oferta1737073.sbs
 allegrolokalnie.pl-oferta18079127.icu
+allegrolokalnie.pl-oferta1837439.sbs
 allegrolokalnie.pl-oferta186079300.cfd
 allegrolokalnie.pl-oferta1905378.cfd
 allegrolokalnie.pl-oferta1923896.icu
 allegrolokalnie.pl-oferta2072027.cfd
 allegrolokalnie.pl-oferta2091638.cfd
+allegrolokalnie.pl-oferta2105027027.cfd
 allegrolokalnie.pl-oferta2141115.cfd
 allegrolokalnie.pl-oferta2341.shop
 allegrolokalnie.pl-oferta23451.top
@@ -1398,6 +1398,7 @@ allegrolokalnie.pl-oferta4618665.top
 allegrolokalnie.pl-oferta4813832.cfd
 allegrolokalnie.pl-oferta4832671.icu
 allegrolokalnie.pl-oferta5333525.icu
+allegrolokalnie.pl-oferta5342.top
 allegrolokalnie.pl-oferta5563272.cfd
 allegrolokalnie.pl-oferta5598893.shop
 allegrolokalnie.pl-oferta5705203.icu
@@ -1428,6 +1429,7 @@ allegrolokalnie.pl-oferta7587464.icu
 allegrolokalnie.pl-oferta76926.top
 allegrolokalnie.pl-oferta770340572.cfd
 allegrolokalnie.pl-oferta77231.icu
+allegrolokalnie.pl-oferta773428.cfd
 allegrolokalnie.pl-oferta7750259.icu
 allegrolokalnie.pl-oferta781240.cfd
 allegrolokalnie.pl-oferta7812719.cfd
@@ -1444,7 +1446,6 @@ allegrolokalnie.pl-oferta837202xkskeyb33kdh2.cfd
 allegrolokalnie.pl-oferta8432233.cfd
 allegrolokalnie.pl-oferta847368.cfd
 allegrolokalnie.pl-oferta8528457362.com
-allegrolokalnie.pl-oferta862543094.icu
 allegrolokalnie.pl-oferta862543094.shop
 allegrolokalnie.pl-oferta8633723.icu
 allegrolokalnie.pl-oferta8667462.cfd
@@ -1506,7 +1507,6 @@ allegrolokalnie.pl3217.icu
 allegrolokalnie.pl3274.cfd
 allegrolokalnie.plis-539577.top
 allegrolokalnie.pll-kategoria217465974.icu
-allegrolokalnie.plslgjp1jlfia01ghk.shop
 allegrolokalnie.polecane-dzis.shop
 allegrolokalnie.polecany-sprzedawca.shop
 allegrolokalnie.pp-1-45423.xyz
@@ -1841,7 +1841,6 @@ asmpa1net001.weebly.com
 asoplrtevcuinme.weebly.com
 aspasyjtfv.duckdns.org
 aspfjoqqa.firebaseapp.com
-asrksfog.click
 assault-fire-free-guns-and-avatars-2016.weebly.com
 assaultfiredomain-ph.weebly.com
 assenhard.firebaseapp.com
@@ -1898,7 +1897,6 @@ at-tyahoo.pory.app
 at1-alpha.vercel.app
 at767uyjhb.square.site
 at7tpluseupdate.ulcraft.com
-at87uijnm.weebly.com
 at90.pory.app
 atbaamisr.com
 atbells576.square.site
@@ -2016,7 +2014,6 @@ att-104447.weeblysite.com
 att-104470.weeblysite.com
 att-104511-102687.weeblysite.com
 att-104518.weeblysite.com
-att-104532-1021.weeblysite.com
 att-104617.weeblysite.com
 att-104671.weeblysite.com
 att-104688.weeblysite.com
@@ -2268,7 +2265,6 @@ attconnectiones.weebly.com
 attconsultant.weebly.com
 attcostimercale.boxmode.io
 attcurently04-03-2025.weeblysite.com
-attcurently1-07-2025.weeblysite.com
 attcurently17-04-2025.weeblysite.com
 attcurently30-06-2025.weeblysite.com
 attcurrently.urest.org
@@ -3306,7 +3302,6 @@ bnrurabetegt.biz.site
 bnruralsecurit.myportfolio.com
 bnshop.bncr-fi.live
 bnshop.bncr-fl.cc
-bntaxvfjoq.duckdns.org
 bnubfvjmqs.duckdns.org
 bnvcsadfghhjgfgh.weeblysite.com
 bnvftfhfgfcfg.weebly.com
@@ -3391,7 +3386,6 @@ bqyjxdrxsq.web.app
 br-2421-e33d1fb574e7ab7ede884f69e0b147de-p4rfo63nt-acq-ui-eng.vercel.app
 br-2441-02ced9604df3a000f4dfe50e3a1d1e06-qfq8dcdsu-acq-ui-eng.vercel.app
 brabra-trocadepontos.shop
-brades-card.shop
 bradesco.pfnovachaveprime.com
 brain-builders.com
 brandee6f94.myportfolio.com
@@ -3415,7 +3409,6 @@ breezelinepront2w.weebly.com
 breezy-boundless-verbena.glitch.me
 breezy-shiny-poet.glitch.me
 breitband.weebly.com
-brejmtrtt.top
 bretatia.firebaseapp.com
 bretatia.web.app
 bretatib.firebaseapp.com
@@ -3498,7 +3491,6 @@ bt-102676.weeblysite.com
 bt-102768.weeblysite.com
 bt-103449.weeblysite.com
 bt-103520.weeblysite.com
-bt-103583.weeblysite.com
 bt-103816.square.site
 bt-103816.weeblysite.com
 bt-104462.weeblysite.com
@@ -4511,7 +4503,6 @@ colors-generator.webflow.io
 colostateedu.ukit.me
 colsstrikehs9898.weeblysite.com
 com--strt--us-ledgr.webflow.io
-com-bqyg.win
 com-enyz.vip
 com-etcgkt.vip
 com-etcgur.vip
@@ -4534,7 +4525,6 @@ com-wul.win
 com-xjr.win
 com-ybfo.win
 com-ygcd.win
-com-yhfd.win
 comandnmoro.firebaseapp.com
 comandnmoro.web.app
 comasporium.weebly.com
@@ -4841,7 +4831,6 @@ credit-agricole6.web.app
 credit-bdv03.webcindario.com
 credit-extension-johnstone.firebaseapp.com
 credit-extension-johnstone.web.app
-creditagricole-espace.com
 creditdunord-session.firebaseapp.com
 credithaolk32.blogspot.com
 creditosbdv2024.webcindario.com
@@ -4942,7 +4931,6 @@ currently432567.weebly.com
 currently52140.weebly.com
 currently5541.weebly.com
 currently561.weebly.com
-currently56324.weebly.com
 currently564321.weebly.com
 currently56798.weebly.com
 currently64372.weebly.com
@@ -4989,7 +4977,6 @@ currentlyatt52.weebly.com
 currentlyatt551.weebly.com
 currentlyatt561.weebly.com
 currentlyatt57update.weebly.com
-currentlyatt65login.weebly.com
 currentlyatt711.weebly.com
 currentlyatt7610.weebly.com
 currentlyatt765.weebly.com
@@ -5325,6 +5312,7 @@ deploy-preview-266--substrate-website.netlify.app
 deploy-preview-2773--yellowcard-webapp.netlify.app
 deploy.pfesy.com
 depot-creneau.com
+depot-lockers.com
 depot-mondiai.com
 depot-tentative.com
 depotage-prio.com
@@ -5522,7 +5510,6 @@ dmaerket.click
 dmaraket.cc
 dmarekete.com
 dmarket.energytech-sarl.com
-dmarketv.com
 dmarkiet.cc
 dmgpropertygroupot.weebly.com
 dmounaze.firebaseapp.com
@@ -5583,7 +5570,6 @@ docs-ledgar-io.webflow.io
 docs-ledgr--com--sso-cdn.webflow.io
 docs-ledgxr-coms.webflow.io
 docs-secure-trazor-sso-auth.webflow.io
-docs-sso-ledger-com-cdn.webflow.io
 docs-suiite-trazr-cdnn-us.webflow.io
 docs-suite---trezr.webflow.io
 docs-trezor-learn-wallet.webflow.io
@@ -5824,7 +5810,6 @@ e-tax-nta.web.app
 e-zpass.com-chargeis.men
 e-zpass.com-emznj.xin
 e-zpass.com-etcioh.icu
-e-zpass.com-etciy.win
 e-zpass.com-etcpr.win
 e-zpass.com-ioser.cc
 e-zpass.com-ioset.cc
@@ -6022,7 +6007,6 @@ eebroadbandbtinternet.weebly.com
 eebt-101317.weeblysite.com
 eebt-108629.weeblysite.com
 eeee-106603.weeblysite.com
-eenewvoicealert.weebly.com
 eepy-appl.surge.sh
 eertgyr.weebly.com
 eerwqaafsssw.square.site
@@ -6300,7 +6284,6 @@ etableshbnp.firebaseapp.com
 etableshbnp.web.app
 etafetaapp.cc
 etaidataseverlease.weebly.com
-etaxinetcy.web.app
 etcaew.top
 etciyu.vip
 eth-x91831-exodus.firebaseapp.com
@@ -6334,6 +6317,7 @@ evri-delivery3.today
 evri-hub.firebaseapp.com
 evri-hub.web.app
 evri-parcelsqt.life
+evri.423807.today
 evricourier-notified.top
 evrigdgb.xyz
 evrimail.servicecenteradhr.xin
@@ -6399,7 +6383,6 @@ expresslane.org-gopy.win
 expresslane.org-igqb.win
 expresstoll.com-kdj.xin
 expresstoll.com-pofc.win
-extended-travel-340662.framer.app
 exteriorprueba23.webcindario.com
 exteriorve.webcindario.com
 externexoenlineaa.space
@@ -6417,7 +6400,6 @@ ezpass.com-egi.win
 ezpass.com-ezbx.vip
 ezpass.com-ezvy.vip
 ezpass.com-gagt.vip
-ezpass.com-ppuv.xin
 ezpass.com-sani.xin
 ezpass.com-sib.top
 ezpassva.com-fpaz.win
@@ -6535,7 +6517,6 @@ fcrplsexww.firebaseapp.com
 fcrplsexww.web.app
 fcs-aero.com
 fcsedfrdfr.duckdns.org
-fcxpr.cn
 fcywrunwji.cc
 fdfsfhdfshaw.weebly.com
 fdhyjngt8teffdo8kjfydwetrttyhbcvvsdtthegh6hefgggu7hf.weebly.com
@@ -6723,6 +6704,7 @@ floridainternationaluniversal.ukit.me
 floridainternationaluniversit.ukit.me
 floridainternationaluniversity.ukit.me
 floridainternationaluniversityin.ukit.me
+flourished-number-352816.framer.app
 floutlobrom.webcindario.com
 flower-iguana-7574.typedream.app
 flowing-imagine-886845.framer.app
@@ -7285,7 +7267,6 @@ gmxxxbv.weebly.com
 gmzzx.weebly.com
 gn0.fd8.mytemp.website
 gneeralverfy.weebly.com
-gngdybssnt.duckdns.org
 gnmhnfgnffd.boxmode.io
 gnmznbck.firebaseapp.com
 gnmznbck.web.app
@@ -7889,7 +7870,6 @@ home-100833.weeblysite.com
 home-100903.weeblysite.com
 home-101041.weeblysite.com
 home-101105.weeblysite.com
-home-101364.weeblysite.com
 home-101376.weeblysite.com
 home-101430.weeblysite.com
 home-101731.weeblysite.com
@@ -8336,7 +8316,6 @@ illinois-aap.org
 ilotbetzipeg1li2itch.weebly.com
 ils37427456.firebaseapp.com
 ils37427456.web.app
-iltldclqoz.duckdns.org
 im47.app
 imanclaro.com
 imlqcbvfmz.duckdns.org
@@ -8786,7 +8765,6 @@ jhsaruei.weebly.com
 jhucgajukrvhauskjvuweyi-wgsxjyhjhwcs.teemill.com
 jhugyfdxzsxfcgvhbjn.weebly.com
 jhzhit.weebly.com
-jhziwnkizi.duckdns.org
 jinlandlngshenggroup.vercel.app
 jiophones.epizy.com
 jiuytgatt.weebly.com
@@ -8843,7 +8821,6 @@ jorrnalisblast.weebly.com
 joshbystrom.com
 jour.mondiai-france.com
 jour.relay-programmation.com
-jour.replanification-mondial.com
 jouturez.firebaseapp.com
 jouturez.web.app
 jovial-interface-838657.framer.app
@@ -8948,6 +8925,7 @@ junowebmaiiler.weebly.com
 junowebmail01.weebly.com
 jup-drop.com
 jup-gifts.com
+jup-retrodrop.netlify.app
 jupnftvoucher.com
 jurioma6-9.weebly.com
 jurunensebrazz.blogspot.com
@@ -9192,7 +9170,6 @@ kuccoinloginni.webflow.io
 kuccoinmlogin.webflow.io
 kuceeriqinlgen.webflow.io
 kuceoinloogiin.webflow.io
-kucernilogin.webflow.io
 kucinknowlogine.webflow.io
 kuckoinlogin-sso.webflow.io
 kucoeanlogein.webflow.io
@@ -9312,7 +9289,6 @@ ladmcu.web.app
 laedgrolivlogin.webflow.io
 lahka-f50cf.firebaseapp.com
 lahka-f50cf.web.app
-lahkffbczp.duckdns.org
 lakdjdyd.weebly.com
 lallhavdec.firebaseapp.com
 lallhavdec.web.app
@@ -9417,7 +9393,6 @@ ledgeerlive--securee.webflow.io
 ledgelivawllet.webflow.io
 ledger--secure--login.webflow.io
 ledger--support--start-ledgerlve.webflow.io
-ledger-com--startt.webflow.io
 ledger-comstartt.webflow.io
 ledger-ive-app-us.webflow.io
 ledger-kyc-authentication-secure-check.glitch.me
@@ -9702,6 +9677,7 @@ locker-espace.com
 locker-livraison-colis.com
 locker-pointrelais.com
 lockers-coursier.com
+lockers-creneau.com
 lockers-livraison-colis.com
 lockers-livraison.com
 lodbandbfr.firebaseapp.com
@@ -9801,6 +9777,7 @@ loginsupportmeta.start.page
 loginswebmailstelstrarespaceacquire.weebly.com
 loginwebmailsredirectcleanaction.weebly.com
 loginyourwebmail.weebly.com
+logistique-lockers.com
 logistique-prio.com
 logistique-relais.com
 logistique-transit.com
@@ -10049,7 +10026,6 @@ mail-107456-100017.weeblysite.com
 mail-107494.weeblysite.com
 mail-107573.weeblysite.com
 mail-107620.weeblysite.com
-mail-107765.weeblysite.com
 mail-107820.weeblysite.com
 mail-108017.weeblysite.com
 mail-108167.weeblysite.com
@@ -10534,6 +10510,7 @@ metamasdkloginaxc.webflow.io
 metamasdkloginaz.webflow.io
 metamasesklogiin.webflow.io
 metamask-extension-blockchain.webflow.io
+metamask-log.teachable.com
 metamask-uswallet.godaddysites.com
 metamask-verify.vercel.app
 metamask-wallet.ru
@@ -10669,6 +10646,7 @@ millerpoolandspaservicellc.godaddysites.com
 millions-apple-echoing.on-fleek.app
 mimecast.weebly.com
 mina-y4lv6k4woehwpkp4.builder-preview.com
+mindeer.it.com
 minecasthtmlng.weebly.com
 minedfc.pory.app
 mingming20160152.github.io
@@ -10715,6 +10693,7 @@ mlbvtrea.web.app
 mlfuksqkbc.duckdns.org
 mloujnkdrta.firebaseapp.com
 mloujnkdrta.web.app
+mlr.pbr-dispatcher.com
 mlr.prbs-dispatcher.com
 mlr.prios-reprog.com
 mlv465778p0.firebaseapp.com
@@ -10897,7 +10876,6 @@ mplobvfr.web.app
 mqsiiui.com
 mr-locker-client.info
 mr-locker.info
-mr-logistiques-colis.com
 mr-relais-livraison.com
 mr.depotages-prios.com
 mr.dispatching-prb.com
@@ -10913,6 +10891,7 @@ mrelay-servicefr.com
 mriafhpvzf.duckdns.org
 mrl.depotages-prios.com
 mrl.dispatching-prb.com
+mrl.pbr-dispatcher.com
 mrl.pbs-transitaire.com
 mrl.prbs-dispatcher.com
 mrl.prio-dispatch.com
@@ -10981,7 +10960,6 @@ mttbz-b8491.web.app
 mufeed.com
 mufflate.firebaseapp.com
 mufflate.web.app
-mufg.mlserver.jp
 mugyluso.systeme.io
 multi-chainsolution.web.app
 multi-xchange.firebaseapp.com
@@ -11210,7 +11188,6 @@ mypeachpass.com-kllak.vip
 mypeachpass.com-ollao.vip
 mypeachpass.com-qczv.vip
 mypeachpass.com-shd.win
-mypeachpass.com-ugfe.win
 mypioneeralert.weebly.com
 mypioneersecure.weebly.com
 mypluast.weebly.com
@@ -11308,7 +11285,6 @@ ncparis-dcb32.firebaseapp.com
 ncparis-dcb32.web.app
 ncquickpass.com-iogr.win
 ncquickpass.com-johl.win
-ncquickpass.com-sxxu.win
 ncquickpass.com-vjiy.win
 ncquickpass.com-xjtv.win
 nctcwebmaillogin.weebly.com
@@ -11613,7 +11589,6 @@ notificationstelkomm.weebly.com
 notrpp.weebly.com
 nottificattionn.weebly.com
 notuoeojhzejjue.blogspot.com
-notyetaeasteluserverifynow.weebly.com
 notyetaverifiedkosuserloginhere.weebly.com
 noumanouvellexa.firebaseapp.com
 noumanouvellexa.web.app
@@ -11945,6 +11920,7 @@ openaverification-ac.weebly.com
 openbtbroadban.weebly.com
 openfixepr0.ukit.me
 openmarkt-sea.com
+openprocesscloud.com
 operativerservernotification16677.weebly.com
 opfin-caaf9.firebaseapp.com
 opfin-caaf9.web.app
@@ -12170,6 +12146,7 @@ paginas.site
 pagoscuscatlan.firebaseapp.com
 pagoscuscatlan.web.app
 paiements-autoroute.com
+paimentautoroute.dyndns-web.com
 paint3490.myportfolio.com
 paintenaver.weebly.com
 palrmfra.firebaseapp.com
@@ -12592,6 +12569,7 @@ prio-depotage.com
 prio-dispatchers.com
 prio-routage.com
 prio-transitaire.com
+prio.pbr-dispatcher.com
 prio.prbs-dispatcher.com
 priolpducpro.firebaseapp.com
 priority-data-teamreportsd2023.start.page
@@ -12778,7 +12756,6 @@ qmpzgalf.weebly.com
 qnunouaukk.duckdns.org
 qoguesbu.firebaseapp.com
 qoinbasseprologiusaaa.godaddysites.com
-qoiuionokm.duckdns.org
 qojktsnoua.duckdns.org
 qontomsg01.firebaseapp.com
 qontomsg01.web.app
@@ -13747,7 +13724,6 @@ secur531tye.start.page
 securbellwetherdecu.weebly.com
 securbulgaria.weebly.com
 secure---blockfi-app--cdn-cdn.webflow.io
-secure--app--eng--blockfi-cdn.webflow.io
 secure--atuh-kucoin--service.webflow.io
 secure--blockfi--sso--cdn---bni.webflow.io
 secure--blockfi--sso--cdn-x.webflow.io
@@ -14566,7 +14542,6 @@ snetmailsecure.weebly.com
 sniply.app
 snoopdogundefinedhfujb.blogspot.com
 snpgifvosb.duckdns.org
-snqvqmyrea.duckdns.org
 snsnnswwjhfy8374.weebly.com
 sntqvf.com
 snwardbn24dec4.weebly.com
@@ -14822,7 +14797,6 @@ sso-coinledger-sso-cdn.webflow.io
 sso-en--kraken---cdn---auth.webflow.io
 sso-i---trustcapital---comm---auth.webflow.io
 sso-i---trustcapital---comm--auth.webflow.io
-sso-io--ndax--cdn--autth.webflow.io
 sso-itrussttcapital-com-cdn.webflow.io
 sso-itrust-capital-com-auth-sso.webflow.io
 sso-itrustcepital-aauth.webflow.io
@@ -15075,7 +15049,6 @@ support-inter.webcindario.com
 support-ledeger--curees.webflow.io
 support-ledegerlive-home.webflow.io
 support-ledger-start-sttart.webflow.io
-support-logistique.com
 support-metabusiness-centers.pages.dev
 support-metamaskline.webflow.io
 support-notify0.firebaseapp.com
@@ -15159,6 +15132,7 @@ sweepstakes956.godaddysites.com
 sweepstakess19.godaddysites.com
 sweepstakeswinner.godaddysites.com
 sweeptakes298.godaddysites.com
+sweet-items-085695.framer.app
 sweetebakeryandfood.godaddysites.com
 swgethdydbh.weebly.com
 swiceth-cim0-redir.pages.dev
@@ -16036,7 +16010,6 @@ tvnewsjdapp.web.app
 tw.gonewest.topmoto.pl
 twalkerff31.myportfolio.com
 twaxorxvxz.duckdns.org
-twayyxaift.duckdns.org
 twccvsmailsser84u4onliena.weebly.com
 twciudhdjhdwdd.weebly.com
 twcspectrumroadrunner.weebly.com
@@ -16388,7 +16361,6 @@ usss.xsfourf.shop
 ustm.jyneaee.shop
 usuariocorreoelectr.weebly.com
 uswh.ruzwlmzo.top
-uszi.pzmowclu.top
 uszu.vnfmvaez.top
 ut6jga.webwave.dev
 utahcommunitycu.weebly.com
@@ -16436,18 +16408,14 @@ uxcurrentlyteye.weebly.com
 uxfcjhvkw62wxjhsn72wutht-udtjywrjtyj8wyeg.teemill.com
 uxtjkhjlfhdgytytufyiguoq-k6turdgfh2gtzytu34ti.teemill.com
 uxvhjhjv.weebly.com
-uyaghcqgkn.duckdns.org
 uydfut.weebly.com
-uyfykmlpgh.duckdns.org
 uyjcvwlraekctukxghfdfqegkjwdyldjhm.teemill.com
 uyjf89klfpkdmie9.weebly.com
 uysd6qagdscfxhjhma-cuaydfi876qewy97qwesdjvy.teemill.com
 uysishhsjs.w3spaces.com
-uyt7a22k.dora.run
 uzalptkroc.duckdns.org
 uzliyzzktf.duckdns.org
 v-vpass-jp.12378uk.com
-v-vpass-jp.12396gr.com
 v0wt7q.webwave.dev
 v1and1-ionos-info-2hyeo.ondigitalocean.app
 v1odka1.weebly.com
@@ -16487,6 +16455,7 @@ validation-authen.ukit.me
 validez-online.webcindario.com
 validvienda.webcindario.com
 valleymushrooms.co.nz
+valuable-professionals-893123.framer.app
 vanderbilt-edu-12321.weebly.com
 vaneldangueldase.firebaseapp.com
 vaneldangueldase.web.app
@@ -17380,7 +17349,6 @@ wlpiiunhmv.duckdns.org
 wm1fghviw78v4ht3u453453b4563v4636b.tmb105.workers.dev
 wmailverifcationx.weebly.com
 wmesedlpuv.duckdns.org
-wmptw.cn
 wn.app-bradesco.com
 wnctxpqwly.duckdns.org
 wnlvkehdgm.duckdns.org
@@ -17666,7 +17634,6 @@ wwxhajudjgwjklckvzgs8.firebaseapp.com
 wwxhajudjgwjklckvzgs8.web.app
 wwxhajudjgwjklckvzgs9.firebaseapp.com
 wwxhajudjgwjklckvzgs9.web.app
-wxcyzalamx.duckdns.org
 wxooontreonr.blogspot.com
 wzhjslilww.duckdns.org
 wzkehdfkya.duckdns.org
@@ -17686,7 +17653,6 @@ xcvxcvxcvxc234234234nmvb.pages.dev
 xcweoutlook.weebly.com
 xdefi--wallet.webflow.io
 xdhbzxvdfj.duckdns.org
-xdqkkdyzaz.duckdns.org
 xebptzptaw.duckdns.org
 xeoduswalletc.godaddysites.com
 xerodilem.pt
