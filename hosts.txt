@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Mon Aug  4 04:28:09 UTC 2025
-# Number of unique domains: 17971
+# Date: Mon Aug  4 08:13:53 UTC 2025
+# Number of unique domains: 17960
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -810,6 +810,7 @@ allegro.pl-324335264.icu
 allegro.pl-352463.shop
 allegro.pl-4014.shop
 allegro.pl-51273.icu
+allegro.pl-52148.icu
 allegro.pl-52748.icu
 allegro.pl-52798.icu
 allegro.pl-52873.icu
@@ -925,7 +926,6 @@ allegro.pl-kategorie9927436873634.icu
 allegro.pl-ofera10344.icu
 allegro.pl-ofert21415.shop
 allegro.pl-ofert526437.shop
-allegro.pl-oferta0173619.icu
 allegro.pl-oferta0175291.icu
 allegro.pl-oferta01953728942.cfd
 allegro.pl-oferta0783529.cfd
@@ -1020,7 +1020,6 @@ allegro.pl-oferta5715082.cfd
 allegro.pl-oferta57392.sbs
 allegro.pl-oferta5832610.cfd
 allegro.pl-oferta58485383.sbs
-allegro.pl-oferta5853728.sbs
 allegro.pl-oferta5966505.shop
 allegro.pl-oferta627424.icu
 allegro.pl-oferta6274827.shop
@@ -1110,6 +1109,7 @@ allegro.pl-przedmiot195910.icu
 allegro.pl-rezerwacja5273430.cfd
 allegro.pl-rezerwacja622754.sbs
 allegro.pl-rezerwacja627854.sbs
+allegro.pl-rezerwacja721380.sbs
 allegro.pl-rezerwacja732380.icu
 allegro.pl-rezerwacja9123672.sbs
 allegro.pl-rezerwacja9148272.sbs
@@ -1414,6 +1414,7 @@ allegrolokalnie.pl-8883449993.shop
 allegrolokalnie.pl-8927373oferta.sbs
 allegrolokalnie.pl-912082.shop
 allegrolokalnie.pl-912306.cfd
+allegrolokalnie.pl-914406.cfd
 allegrolokalnie.pl-919012.cfd
 allegrolokalnie.pl-92745835.cfd
 allegrolokalnie.pl-9274825.cfd
@@ -1551,6 +1552,7 @@ allegrolokalnie.pl-oferta27494290.sbs
 allegrolokalnie.pl-oferta2750120.icu
 allegrolokalnie.pl-oferta28362950.sbs
 allegrolokalnie.pl-oferta2837296.sbs
+allegrolokalnie.pl-oferta2842987.sbs
 allegrolokalnie.pl-oferta2844029.sbs
 allegrolokalnie.pl-oferta28472979.sbs
 allegrolokalnie.pl-oferta2849407.sbs
@@ -1605,6 +1607,7 @@ allegrolokalnie.pl-oferta5342.top
 allegrolokalnie.pl-oferta548295.shop
 allegrolokalnie.pl-oferta5517236.sbs
 allegrolokalnie.pl-oferta5598893.shop
+allegrolokalnie.pl-oferta562113.icu
 allegrolokalnie.pl-oferta563213.icu
 allegrolokalnie.pl-oferta564353.icu
 allegrolokalnie.pl-oferta565353.icu
@@ -1687,7 +1690,6 @@ allegrolokalnie.pl-oferta8701749.cfd
 allegrolokalnie.pl-oferta8737291.com
 allegrolokalnie.pl-oferta89634248347.shop
 allegrolokalnie.pl-oferta89756.com
-allegrolokalnie.pl-oferta9034.icu
 allegrolokalnie.pl-oferta9150535.icu
 allegrolokalnie.pl-oferta9160361.icu
 allegrolokalnie.pl-oferta9180575.cfd
@@ -1732,6 +1734,7 @@ allegrolokalnie.pl-rezerwacja292751.sbs
 allegrolokalnie.pl-rezerwacja31609.cfd
 allegrolokalnie.pl-rezerwacja622754.sbs
 allegrolokalnie.pl-rezerwacja627854.sbs
+allegrolokalnie.pl-rezerwacja721380.sbs
 allegrolokalnie.pl-rezerwacja732380.icu
 allegrolokalnie.pl-rezerwacja9120172.sbs
 allegrolokalnie.pl-ticketmaster.shop
@@ -2779,6 +2782,7 @@ auth-sso-kucon-web3.webflow.io
 auth-start-ledger-auuth.webflow.io
 auth-start-liveledgerio.webflow.io
 auth-swisborgwallet.webflow.io
+auth-trezorlogin-auth.webflow.io
 auth-trezzr.webflow.io
 auth-trzor-ioi-starts.webflow.io
 auth-us-treazor--auth.webflow.io
@@ -3444,7 +3448,6 @@ bcnetbraempresa.site
 bcode-wallet.firebaseapp.com
 bcode-wallet.web.app
 bcq3bc.webcindario.com
-bcrndtisc.z13.web.core.windows.net
 bcrpmcrs.vercel.app
 bcrxxsistema.eshost.com.ar
 bcvkjhgfhjk.weebly.com
@@ -3716,7 +3719,6 @@ bncpos.firebaseapp.com
 bncpos.web.app
 bncpromrc.z13.web.core.windows.net
 bncr1.webcindario.com
-bncr8a6fc69dee25b3a2e1c64dd658438d22.grdrgdfsse.xyz
 bncrd5c1ae6e6b64.uijopmhk.icu
 bnditonabs.firebaseapp.com
 bnditonabs.web.app
@@ -3911,7 +3913,6 @@ bt-101850.weeblysite.com
 bt-101988.weeblysite.com
 bt-102124.weeblysite.com
 bt-102184.weeblysite.com
-bt-102368.weeblysite.com
 bt-102538.weeblysite.com
 bt-102676.weeblysite.com
 bt-102768.weeblysite.com
@@ -5848,7 +5849,6 @@ docfactor-be6bd.web.app
 docfile07172023.myportfolio.com
 docrelogin.weebly.com
 docs--wallet------ledger.webflow.io
-docs-bridge-trezr-en.webflow.io
 docs-briidge-trrezr-cdnn.webflow.io
 docs-btimart-auth-sure.webflow.io
 docs-ledgar-io.webflow.io
@@ -7024,6 +7024,7 @@ fr-shumy.firebaseapp.com
 fr-shumy.web.app
 fr-suivi-mondialrelais.com
 fr-telepeage-ulys.com
+fr-ulys-peages.com
 fr-ulys-telepeages.com
 fr.swissquote.cn
 fr.wix.com
@@ -7259,6 +7260,7 @@ gerhjturetrwqfgwrhretsae-qwthrq34retdsawqes.teemill.com
 geromazugade.weebly.com
 geroplaservuin.weebly.com
 geroplmertunerd.weebly.com
+gerrminilogin.webflow.io
 gertiopmertindsrer.weebly.com
 gestion-colisrelais.info
 gestionale.wlse-growth.it
@@ -7576,7 +7578,6 @@ govpcnsxv.live
 govpcnsz.live
 govpcnvg.live
 govpcnvs.live
-govpcnvx.live
 govpcnwm.icu
 govuk-apply-subsidies.beer
 govuk-apply-subsidies.cyou
@@ -9096,7 +9097,6 @@ jvfcu3.weebly.com
 jwllogic.com
 jx7a9ile.duckdns.org
 jx8m7.carrote-orange.network
-jxylmufa.aero.tt
 jxz7jsf07.ukit.me
 jyhukuh.komi.io
 jzehalkmalna.blogspot.com
@@ -10885,7 +10885,6 @@ monservicelivraison.com
 monservicemaladie.com
 monsuivi-finalisation92746.com
 montant-du.com
-monuralenton.com
 monurdermoi.com
 monureorgiao.com
 monurexandro.com
@@ -11143,7 +11142,6 @@ my-itrustcapital---com-auth.webflow.io
 my-itrustcapital--authh.webflow.io
 my-logn-itrustcapital-authh.webflow.io
 my-myatt-net-securelink.pory.app
-my-new-secure-itrustcpital-com.webflow.io
 my-office-bt.weebly.com
 my-own-git-main-interservers-projects.vercel.app
 my-page566565.weebly.com
@@ -13760,7 +13758,6 @@ screfkdjkdd689.godaddysites.com
 scrtc.weebly.com
 scrtcc.weebly.com
 scsfsx56e76fdc98df.weebly.com
-scwd-100244.weeblysite.com
 sd0z5d4.blogspot.com
 sd5hup4yo5vj7p5g35l36m843brzhpj.pages.dev
 sdcfvgfbvcxzcvfvccc.weebly.com
@@ -14217,7 +14214,6 @@ shipment324.vercel.app
 shipping023.weebly.com
 shipping383.weebly.com
 shipping532.weebly.com
-shlb-airdrop.com
 shlb-network.com
 shopee.menglar.com
 shopeecoins.blogspot.com
@@ -14390,6 +14386,7 @@ site-y51gs4r0r.godaddysites.com
 site-y7fsaozb4.godaddysites.com
 site-ziircghzt.godaddysites.com
 site-zknrqnvan.godaddysites.com
+site4-sbisec.bghui.com
 site9610157.92.webydo.com
 site9610755.92.webydo.com
 site9610776.92.webydo.com
@@ -14813,7 +14810,6 @@ sso--ledger--start.webflow.io
 sso--m--bybit--login--index.webflow.io
 sso--ndax--cdn--crpto.webflow.io
 sso--ndax--opp---authd.webflow.io
-sso--ndax-cdn-auth-s.webflow.io
 sso--ndaxx-login.webflow.io
 sso--qucoinn--aauth.webflow.io
 sso--solflare-com-auth.webflow.io
@@ -15227,7 +15223,6 @@ tapiljhooker02-online.web.app
 taqibraz.blogspot.com
 tar-nama.com
 taredinmonakal.blogspot.com
-targvq.icu
 tari-dot-com-2025.pages.dev
 tarimorman-gov.weebly.com
 tarjetasbdv.site
@@ -15302,7 +15297,6 @@ telekomloginbenutzernameeingeben.weebly.com
 telekomloginweiter.weebly.com
 telekomtlk.com
 telepeage-facture.com
-telepeage-ulys-fr.com
 telepeages-fr-ulys.com
 telepeages-ulys.com
 teleperformancerabota.ru
@@ -15665,7 +15659,6 @@ tnlfinacialvoicesms-online.firebaseapp.com
 tnlfinacialvoicesms-online.web.app
 to.nifesnet.com
 to1qnd7m.dora.run
-today-currently-3-20-2024.weeblysite.com
 toddb007.myportfolio.com
 toeicreviewserfr.firebaseapp.com
 toeicreviewserfr.web.app
@@ -16075,7 +16068,6 @@ ultrawinnaxelfr.web.app
 ulu.so
 uludaghurdacisi.com
 ulys-autoroute.com
-ulys-client.com
 ulys-debitpeage.com
 ulys-espace.com
 ulys-fr-telepeages.com
@@ -16088,7 +16080,6 @@ ulys-reglerpeage.com
 ulys-telepeage-france.com
 ulys-versement.com
 ulys-vinci-abonement.com
-ulys-vinci-paiement.com
 ulystrack-infolivraison.com
 umarktch.weebly.com
 umb-pl-help.weebly.com
@@ -16680,7 +16671,6 @@ volny-107068.weeblysite.com
 volny-107397.weeblysite.com
 volny-109555.weeblysite.com
 volny33344.weebly.com
-volny3343.weebly.com
 volnymail.weebly.com
 volnyx.weebly.com
 volshebreekbbrhcia.blogspot.com
@@ -17347,7 +17337,6 @@ www.100responsible.com
 www.172635-coinbase.com
 www.247loanpros.com
 www.33cvww.duckdns.org
-www.39uk8drh.duckdns.org
 www.6441056b613c32a9.6441056b613c32a9.6441056b613c32a9.rm9lot.duckdns.org
 www.6441056b613c32a9.fmouuldkql.057axh.duckdns.org
 www.6441056b613c32a9.m.mlwx12fx.duckdns.org
