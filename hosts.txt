@@ -1,12 +1,11 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sun Aug 17 16:06:09 UTC 2025
-# Number of unique domains: 18222
+# Date: Sun Aug 17 20:05:16 UTC 2025
+# Number of unique domains: 18192
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
 
-&
 00-ird.weebly.com
 00003.godaddysites.com
 00007771011.weebly.com
@@ -78,7 +77,6 @@
 1919102.weebly.com
 1919182.weebly.com
 19983d.weebly.com
-1ajdbiaudonajd.vercel.app
 1and1customer.b4a.app
 1anddomailef.weebly.com
 1bankofbluegrass5.weebly.com
@@ -296,6 +294,7 @@
 7txhjdncdblxdco3c.square.site
 7zmail.weebly.com
 82190-coinbase.com
+823paymentsaccoun-updatexfny.freeadcity.com
 832a1f5a.6e6248522346e7b34cdee839.workers.dev
 8331202-coinbase.com
 851047871365687745.weebly.com
@@ -928,6 +927,7 @@ allegro.pl-oferta2253351.sbs
 allegro.pl-oferta2312890.icu
 allegro.pl-oferta23817647555.icu
 allegro.pl-oferta23842498087.sbs
+allegro.pl-oferta238489293470.sbs
 allegro.pl-oferta2394730275.sbs
 allegro.pl-oferta2397739.sbs
 allegro.pl-oferta24945820809.sbs
@@ -946,6 +946,7 @@ allegro.pl-oferta29373036.sbs
 allegro.pl-oferta29383048009.sbs
 allegro.pl-oferta2987265.icu
 allegro.pl-oferta2987538.icu
+allegro.pl-oferta3031675.pl
 allegro.pl-oferta30442394909.sbs
 allegro.pl-oferta3094816.icu
 allegro.pl-oferta3137228.icu
@@ -958,7 +959,6 @@ allegro.pl-oferta3477213.shop
 allegro.pl-oferta3642127.shop
 allegro.pl-oferta36712.icu
 allegro.pl-oferta3912846789142.icu
-allegro.pl-oferta39294048808.sbs
 allegro.pl-oferta3946163.shop
 allegro.pl-oferta395628.icu
 allegro.pl-oferta396092.sbs
@@ -1047,6 +1047,7 @@ allegro.pl-oferta8527439251.com
 allegro.pl-oferta8529356385.com
 allegro.pl-oferta85373465234.shop
 allegro.pl-oferta8544191.cfd
+allegro.pl-oferta8552869.icu
 allegro.pl-oferta862543094.shop
 allegro.pl-oferta86391240.cfd
 allegro.pl-oferta8680686.icu
@@ -1064,8 +1065,8 @@ allegro.pl-oferta918519.icu
 allegro.pl-oferta928267145.icu
 allegro.pl-oferta928458.cfd
 allegro.pl-oferta9326467.sbs
-allegro.pl-oferta9351995.icu
 allegro.pl-oferta93853.cfd
+allegro.pl-oferta9436542.cfd
 allegro.pl-oferta9504960.icu
 allegro.pl-oferta9563717.shop
 allegro.pl-oferta9577689.pl
@@ -1113,7 +1114,6 @@ allegrolokalnie.508554.shop
 allegrolokalnie.52341231235123.icu
 allegrolokalnie.5277654.rest
 allegrolokalnie.532254-3.sbs
-allegrolokalnie.53354225.sbs
 allegrolokalnie.542412421.sbs
 allegrolokalnie.5432945.sbs
 allegrolokalnie.5483o23-3828n12.rest
@@ -1178,8 +1178,11 @@ allegrolokalnie.kategorie-promowane-id95430.rest
 allegrolokalnie.kategorie-promowane-id95430.shop
 allegrolokalnie.kategorie-proponowane-id214.shop
 allegrolokalnie.katlegoria-dom-i-ogrod-cbv52365.rest
+allegrolokalnie.katlegoria-meble-kuchenne-29cx877.rest
 allegrolokalnie.katlegoria-reszta-329c8b7.rest
 allegrolokalnie.katlegorie-ogrodovec8-3c9vbz6.rest
+allegrolokalnie.katlegovia-ogrodowe-83c9x86y.rest
+allegrolokalnie.kupteraz.cfd
 allegrolokalnie.kupteraz.icu
 allegrolokalnie.listing-18832.rest
 allegrolokalnie.listing-98410.shop
@@ -1498,11 +1501,11 @@ allegrolokalnie.pl-oferta2315044.icu
 allegrolokalnie.pl-oferta2341.shop
 allegrolokalnie.pl-oferta23817647555.icu
 allegrolokalnie.pl-oferta23842498087.sbs
+allegrolokalnie.pl-oferta238489293470.sbs
 allegrolokalnie.pl-oferta2394730275.sbs
 allegrolokalnie.pl-oferta2432933.shop
 allegrolokalnie.pl-oferta2454925.icu
 allegrolokalnie.pl-oferta24945820809.sbs
-allegrolokalnie.pl-oferta2580035.icu
 allegrolokalnie.pl-oferta2652367.pl
 allegrolokalnie.pl-oferta2719472.cfd
 allegrolokalnie.pl-oferta2738292.sbs
@@ -1513,7 +1516,6 @@ allegrolokalnie.pl-oferta2832902.sbs
 allegrolokalnie.pl-oferta28362950.sbs
 allegrolokalnie.pl-oferta283632394.sbs
 allegrolokalnie.pl-oferta2837296.sbs
-allegrolokalnie.pl-oferta28374394953.sbs
 allegrolokalnie.pl-oferta2842987.sbs
 allegrolokalnie.pl-oferta2844029.sbs
 allegrolokalnie.pl-oferta29034.sbs
@@ -1522,6 +1524,7 @@ allegrolokalnie.pl-oferta29373036.sbs
 allegrolokalnie.pl-oferta29383048009.sbs
 allegrolokalnie.pl-oferta2987265.icu
 allegrolokalnie.pl-oferta2987538.icu
+allegrolokalnie.pl-oferta3031675.pl
 allegrolokalnie.pl-oferta3037218.sbs
 allegrolokalnie.pl-oferta30442394909.sbs
 allegrolokalnie.pl-oferta3094816.icu
@@ -1601,6 +1604,7 @@ allegrolokalnie.pl-oferta7072993.icu
 allegrolokalnie.pl-oferta7151922.com
 allegrolokalnie.pl-oferta7204918.sbs
 allegrolokalnie.pl-oferta7222555.icu
+allegrolokalnie.pl-oferta7290275.icu
 allegrolokalnie.pl-oferta7327685.icu
 allegrolokalnie.pl-oferta7362894.cfd
 allegrolokalnie.pl-oferta73689014.cfd
@@ -1620,7 +1624,6 @@ allegrolokalnie.pl-oferta7983724.shop
 allegrolokalnie.pl-oferta8167087.icu
 allegrolokalnie.pl-oferta8170857.shop
 allegrolokalnie.pl-oferta8192628.icu
-allegrolokalnie.pl-oferta82348.cfd
 allegrolokalnie.pl-oferta825265312.shop
 allegrolokalnie.pl-oferta825372639.com
 allegrolokalnie.pl-oferta8259016.icu
@@ -1642,8 +1645,10 @@ allegrolokalnie.pl-oferta8529356385.com
 allegrolokalnie.pl-oferta8531072.pl
 allegrolokalnie.pl-oferta85373465234.shop
 allegrolokalnie.pl-oferta8544191.cfd
+allegrolokalnie.pl-oferta8552869.icu
 allegrolokalnie.pl-oferta862543094.shop
 allegrolokalnie.pl-oferta86391240.cfd
+allegrolokalnie.pl-oferta8677549.icu
 allegrolokalnie.pl-oferta8701749.cfd
 allegrolokalnie.pl-oferta873491.cfd
 allegrolokalnie.pl-oferta87362341783.shop
@@ -1661,6 +1666,7 @@ allegrolokalnie.pl-oferta921523.icu
 allegrolokalnie.pl-oferta932417.com
 allegrolokalnie.pl-oferta9351995.icu
 allegrolokalnie.pl-oferta9365292.icu
+allegrolokalnie.pl-oferta9436542.cfd
 allegrolokalnie.pl-oferta9504960.icu
 allegrolokalnie.pl-oferta9577689.pl
 allegrolokalnie.pl-oferta9802431.pl
@@ -1883,7 +1889,6 @@ app-mtapps-prod-wu2.azurewebsites.net
 app-pancake.firebaseapp.com
 app-poly-g0nwebsite.blogspot.com
 app-raiin.pages.dev
-app-shib.net
 app-shlbinu.com
 app-sparkprotocol-io.ipns.dweb.link
 app-start-ledger-auths.webflow.io
@@ -1953,7 +1958,6 @@ app.bonus-cliqueajuda.digital
 app.bonus-cliqueajuda.life
 app.bonus-cliqueajuda.live
 app.bonus-cliqueajuda.top
-app.bonus-facilresgate.life
 app.bonus-facilresgate.live
 app.bonus-facilresgate.top
 app.bonus-meuresgate.live
@@ -2085,7 +2089,6 @@ app.netresgatclick.shop
 app.notifclickbia.digital
 app.notifclickresgat.digital
 app.notiffonefacilnet.digital
-app.notificacaofonefacilnet.live
 app.notificacaoresgatclick.top
 app.notificampanhabeneficio.click
 app.notificaratendresgate.click
@@ -2301,7 +2304,6 @@ athentonline.weebly.com
 athmee.weebly.com
 athome-101248.weeblysite.com
 athome-102588.weeblysite.com
-atikoattlog.framer.ai
 atineddikkom.firebaseapp.com
 atineddikkom.web.app
 atisorkanpol.firebaseapp.com
@@ -3326,7 +3328,6 @@ bafkreidfssgn7d5g646h7tblbvxrp2gfjlejramrnlyvyoxlo2mcwocp24.ipfs.dweb.link
 bafkreidft452hz4wxb73l2c7gobxongfa5cgh4oezsafaluzrfpapyznhu.ipfs.dweb.link
 bafkreidftiisrjzff3scwmog45slokerdyjvvc4ew27fwbz2momr3g3dky.ipfs.dweb.link
 bafkreidg6vpo6624o2bglu4dblcvqe3jnmx6dxoi5zbgyrnc3iiapgpj7e.ipfs.dweb.link
-bafkreidggja2nfaoqmswlvlybvjbjeto6b265fkofvxcuymvibmf4nc6bq.ipfs.dweb.link
 bafkreidgii7fmjl2li35bg6hg6mvxmnrd5jy67bd3go6od4c7wcjhpzdsm.ipfs.dweb.link
 bafkreidgjajr7ovcyo6lxcou5civ5nanlymq5havpm2yj2kxqwwy4fkoia.ipfs.dweb.link
 bafkreidgjmz6ar3aukkrpg3sdndzuq7uzyel5y33lrkwzg7b3rfe36w4dm.ipfs.dweb.link
@@ -3523,7 +3524,6 @@ bafkreifdp5a7ng52febkqk7u3fu7fahvnqk6lolowwqfbzh4cghuqz75ji.ipfs.dweb.link
 bafkreifeaozzdbyfqvuj3spa3qe54sljeroglgzvkoaiyokh4y775pfqcm.ipfs.dweb.link
 bafkreifeddf4q6knpfyuxu2newmiwqscbyt36u5bfqmkunb3gp3h43mjpy.ipfs.dweb.link
 bafkreifejxksjerptlvfkrcafjwu64wxuld7gvmewiukrgd4bkvx5lexna.ipfs.nftstorage.link
-bafkreifelrlvjychzimiewflmxfphkrszj73lmlnhsbskdpjlymetx33xq.ipfs.dweb.link
 bafkreifeoimiarevgld3lpav2czzj22v5yoww2gsazw6qbyyiolvfehdfi.ipfs.dweb.link
 bafkreiff7qbkpxadp3rjdalrlpxu3mf6ml3xg3vwrsa2ar5j24ppxom4rm.ipfs.dweb.link
 bafkreiffqiym6he6kqj5suzhe7jkypsk4zjyujoj7f46ek5dwlv5tmezy4.ipfs.dweb.link
@@ -3757,7 +3757,6 @@ bafkreihrvemfxvqtmnw6gjmkvafjwt3b7i5zwdzsvvlu7dmylzmxeqn3ly.ipfs.dweb.link
 bafkreihuo3mtxpsqixpxgz7vfezqu5jjlb26l7n2w7iydemy2i77jbcjqq.ipfs.dweb.link
 bafkreihuzd7plvpd36kk3se2d7qyb6hjwe3gev4itwveza242t75b5dfwm.ipfs.dweb.link
 bafkreihvctxlw4m5jiydwdl4go7dq5mczgxgkwhdjodrcfsxbf6epkqdqe.ipfs.dweb.link
-bafkreihvgay2bus5e4olcbailliqov2tjotnvnllbn5qwbmzke3onglhlm.ipfs.dweb.link
 bafkreihw35frrlnbanv4melvlmnhomeeqfkmfeg45o7hm7ucarfknjqlxi.ipfs.dweb.link
 bafkreihwee7jp6vj63o4w6okszrmf3idupufbajnnoftlls7fet45qxo2y.ipfs.dweb.link
 bafkreihwxjc5smgeg7lpfwlkwepv23vqeyz3faomgcjhirplsepb7vct44.ipfs.dweb.link
@@ -3795,7 +3794,6 @@ bafybeibrvatnu4rhs5rrzv5xmyipb2yl62rxbkpb23t7trhq6ljn7uc3hm.ipfs.w3s.link
 bafybeibucwomwhuava46rcskf7vp56lb2eekoqbg636t3nkfmizzysgrye.ipfs.w3s.link
 bafybeibzkqukq26eelwvcna2gnl2nhxhlbrizj6s7rupo7bqimxp7chice.ipfs.dweb.link
 bafybeiceojgbicdguxgpmtf77js5qn5leyq2u25m6ilufdpecc3miaakum.ipfs.dweb.link
-bafybeicgn5gmf6xmb227cx4yaq7zocu3wu7j65msigbh6x7mei3sh2ibsq.ipfs.w3s.link
 bafybeicjl6pg4wp4nvwtm2akg4vzgzu5s7cbi5kqnu4bi6z7l3k4p3f3by.ipfs.w3s.link
 bafybeicmyst2plbqaru4fbrkm6jivmyly7tbf5jzrvdtv5lvqirdtspdoq.ipfs.w3s.link
 bafybeicocbclefmwvz7dssczg34mmpgwjp3g4u2yo3ld33624e6ml3uvb4.ipfs.dweb.link
@@ -3895,7 +3893,6 @@ bangbet.weebly.com
 bangente-94fc0d.webflow.io
 bangkokposttie.weebly.com
 bank-of-usa.vercel.app
-bank.1250708.top
 bank.250708.top
 bank.250803.top
 bank.250814.top
@@ -4494,7 +4491,6 @@ bt-update-108795.weeblysite.com
 bt-v-ina-u28-shop.fourthwall.com
 bt-voice-109318.weeblysite.com
 bt-voicemail.weebly.com
-bt.cliexes.live
 bt.daftpage.com
 bt2ndlink.weebly.com
 bt664.fitbudd.com
@@ -5099,7 +5095,6 @@ championlog.com.br
 chance-a-checkmark.vercel.app
 chandind.com
 changeexpert.io
-changewebinterface.firebaseapp.com
 chaniago10342.start.page
 chanjcamsdri.firebaseapp.com
 charaf1.durablesites.com
@@ -5790,7 +5785,6 @@ currentlyattyahoologinservice.boxmode.io
 currentlyattyahooserver.weebly.com
 currentlybelattsouthnetcome0000000000.weebly.com
 currentlyfoldservencenter00009000.weebly.com
-currentlyhomefolderstoreslenth000000000.weebly.com
 currentlyhomesjklm.weebly.com
 currentlyinloginscressn.weebly.com
 currentlymail0.weebly.com
@@ -6781,7 +6775,6 @@ emta-ee-authst.firebaseapp.com
 emta-ee-authst.web.app
 emtwd.e-scurefiles.net
 emxfeldanetmy.weebly.com
-en---sso-blockfi-cdnn.webflow.io
 en-chainfix.pages.dev
 en-coinbasee-wallet.typedream.app
 en-exodeswallet.pages.dev
@@ -6968,7 +6961,6 @@ evri.trackszm.live
 evri.trackszp.live
 evri.trackszv.live
 evri.trackszy.live
-evriab.sbs
 evriaf.sbs
 evrial.sbs
 evribq.sbs
@@ -7931,13 +7923,11 @@ govpcnan.live
 govpcndk.live
 govpcndq.live
 govpcnem.icu
-govpcnff.live
 govpcnfl.live
 govpcnfn.live
 govpcnfp.live
 govpcnmw.live
 govpcnni.live
-govpcnnj.live
 govpcnnl.live
 govpcnre.icu
 govpcnrg.icu
@@ -8509,9 +8499,7 @@ hometrade-nomura.11930.top
 hometrade-nomura.24u82.com
 hometrade-nomura.2hebmz.top
 hometrade-nomura.30nizm.top
-hometrade-nomura.3llut8.top
 hometrade-nomura.3na9g4.top
-hometrade-nomura.567q08.top
 hometrade-nomura.59omyy.top
 hometrade-nomura.5fn2l4.top
 hometrade-nomura.5mhqk9.top
@@ -8520,7 +8508,6 @@ hometrade-nomura.6459ad.top
 hometrade-nomura.6jcloi.top
 hometrade-nomura.6njpa3.top
 hometrade-nomura.7g6nk2.top
-hometrade-nomura.7ysed7.top
 hometrade-nomura.8rhcnd.top
 hometrade-nomura.9dtmzo.top
 hometrade-nomura.9p95z0.top
@@ -8975,7 +8962,6 @@ interiakastliveresbrhkeers.com
 interiakastliversbroxkeers.com
 interiakastlivxresbrokeers.com
 interiapl-104828.weeblysite.com
-interleak4.byethost7.com
 interlock-devsite.webflow.io
 internabradesco.digital
 internal-ledger.com
@@ -10287,7 +10273,6 @@ m40842errorcode9022ssdw.w3spaces.com
 m76387ht.firebaseapp.com
 m76387ht.web.app
 m85wyt.webwave.dev
-m9u.547.mytemp.website
 m9ylrfb11.ukit.me
 ma1gicmailup4ate.weebly.com
 maasikas-emta-ee-ariklient.web.app
@@ -10895,7 +10880,6 @@ metamaskklogiinz.webflow.io
 metamaskklogind.webflow.io
 metamasklloginn.onepage.website
 metamasklo-giin.godaddysites.com
-metamasklogiinu.webflow.io
 metamaskqextensions.webflow.io
 metamasksignin.teachable.com
 metamaskxx1.webcindario.com
@@ -11834,7 +11818,6 @@ nomruajapanoik.com
 nomruajapanoil.com
 nomruajapanrd.com
 nomruajapanrn.com
-nomruajapanz6.com
 nomruajapanz7.com
 nomuaarentei.com
 nomuaawrenci.com
@@ -12266,7 +12249,6 @@ optimumnmzb.weebly.com
 optimumservering.weebly.com
 opttttthv.weebly.com
 optus4e1233.pory.app
-optusnetwebinc.weebly.com
 oq197.hp.peraichi.com
 oqeuzaf88.ukit.me
 orange-connexion38.godaddysites.com
@@ -12594,7 +12576,6 @@ phantomm-waleth.webflow.io
 phantommjwallet.webflow.io
 phantomus.firebaseapp.com
 phantomus.web.app
-phantomwollt.webflow.io
 phantomwralletc.webflow.io
 phantomxwalletm.webflow.io
 phantvomwallet.webflow.io
@@ -12712,10 +12693,8 @@ polymtlca1.weebly.com
 polyqon-technology-connect-wallet.blogspot.com
 pontenyo.firebaseapp.com
 pontenyo.web.app
-pontobradesco.ru
 pontoeresgatemilhas.ru.com
 pontosaol.co.ua
-pontoslive.ru
 pontosliveloobrades-card.com
 poocoin-appx1.blogspot.com
 poocoin-connect-app-bnb.blogspot.com
@@ -13135,7 +13114,6 @@ rackspacesoulmate.weebly.com
 rackspacewebmailaccount.weebly.com
 rackspacexi.weebly.com
 racspace12.weebly.com
-radar-circulation.info
 radar-routier.info
 radheshyamrsm5.blogspot.com
 radios-app.firebaseapp.com
@@ -14337,7 +14315,6 @@ shentelnetsing.weebly.com
 shentelnewupdatlogo.weebly.com
 shhawrwcab.weebly.com
 shhawwcable.weebly.com
-shibprotocol-swap.com
 shibtoken-portal.org
 shinedupa.weebly.com
 shipment324.vercel.app
@@ -14766,7 +14743,6 @@ smcbnokkioscaiu.com
 smcbnokkiosteri.com
 smcbnokkiousmi.com
 smcbnokkioveab.com
-smcbnokkipence.com
 smcbnokkipenco.com
 smcbnokkipende.com
 smcbnokkipeoria.com
@@ -16095,7 +16071,6 @@ trezore-walllet.pages.dev
 trezoreharedwglet-login.webflow.io
 trezorenabled.com
 trezoreuwallet.webflow.io
-trezorherdware.webflow.io
 trezorkostart.webflow.io
 trezorrdtiostartt.webflow.io
 trezorstaking.sbs
@@ -16181,7 +16156,6 @@ tt-109187.weeblysite.com
 ttaaa-103564.weeblysite.com
 ttelstrrra.weebly.com
 ttiillserrrss.weebly.com
-ttrezorwalltee.webflow.io
 tttttggggggggg.square.site
 tttttmaillll00000.weebly.com
 ttttttccccc12.pages.dev
@@ -16554,7 +16528,6 @@ usproadvisor.net
 usps.com-trackingvku.vip
 uspz.egkhsjy.shop
 ussoa-1313.vercel.app
-usuario-app-ingresar.iceiy.com
 usuariocorreoelectr.weebly.com
 ut6jga.webwave.dev
 utangpilipinas.weebly.com
@@ -16973,7 +16946,6 @@ vsergsud4.webcindario.com
 vsm-dana-co-id.pages.dev
 vtbnx.weebly.com
 vtrsucxpz904.weebly.com
-vtuyk.weebly.com
 vtxmail2018.myfreesites.net
 vtxmailch.weebly.com
 vtyrebny.pages.dev
@@ -17620,7 +17592,6 @@ www.apteka-sadivnyka.ua
 www.aptosgaminglabs.com
 www.art.com
 www.asisa.com.co
-www.assistance-ulys.com
 www.astropanvi.com
 www.at.every.sign.on.bendigodeliade.com
 www.ayniplast.pe
@@ -17748,7 +17719,6 @@ www.smcbnokkiemailerz4.com
 www.smcbnokkiemailerz5.com
 www.smvacctsa.com
 www.smvvatesa.com
-www.solicitudesfd.com
 www.sqkufy.com
 www.suivi-bp401650303be.com
 www.surxmayor.com
