@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Thu Oct  2 20:12:09 UTC 2025
-# Number of unique domains: 16376
+# Date: Fri Oct  3 00:20:03 UTC 2025
+# Number of unique domains: 16354
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -768,7 +768,6 @@ allegro.pl-65678734.shop
 allegro.pl-657237.cfd
 allegro.pl-657237.icu
 allegro.pl-68034785234.shop
-allegro.pl-6865580.cfd
 allegro.pl-751310565.sbs
 allegro.pl-756765765.shop
 allegro.pl-7745967345.shop
@@ -980,6 +979,7 @@ allegro.pl-oferta7225378.cc
 allegro.pl-oferta7291150749.xyz
 allegro.pl-oferta736194.icu
 allegro.pl-oferta7375611.shop
+allegro.pl-oferta73863494614190.shop
 allegro.pl-oferta7389949.sbs
 allegro.pl-oferta7471978.shop
 allegro.pl-oferta7500952.cfd
@@ -1114,6 +1114,7 @@ allegrolokalne.pl-doswaw.shop
 allegrolokalnie.012512.shop
 allegrolokalnie.022-oferta5928121.sbs
 allegrolokalnie.022402.shop
+allegrolokalnie.0273737.sbs
 allegrolokalnie.03284903.shop
 allegrolokalnie.039571.shop
 allegrolokalnie.0812407.shop
@@ -1136,8 +1137,10 @@ allegrolokalnie.4945386343.sbs
 allegrolokalnie.508554.shop
 allegrolokalnie.5277654.rest
 allegrolokalnie.536721.shop
+allegrolokalnie.53922349678.sbs
 allegrolokalnie.5412867278.sbs
 allegrolokalnie.5483o23-3828n12.rest
+allegrolokalnie.587371242.xyz
 allegrolokalnie.63771574.pl
 allegrolokalnie.64127864.shop
 allegrolokalnie.684353.shop
@@ -1177,7 +1180,6 @@ allegrolokalnie.id87941240.shop
 allegrolokalnie.iogloszenia-9281737.cfd
 allegrolokalnie.iomn538723.cfd
 allegrolokalnie.ixp-4fds4f-3g-dfsd4.top
-allegrolokalnie.kat-9287472.sbs
 allegrolokalnie.kat-9287473.sbs
 allegrolokalnie.kat-inne298273.sbs
 allegrolokalnie.kat-inne298274.sbs
@@ -1185,7 +1187,6 @@ allegrolokalnie.kat-inne9381828.sbs
 allegrolokalnie.kat-inne9381829.sbs
 allegrolokalnie.katefgoria-dom-i-ogrvod-032c6.rest
 allegrolokalnie.kategoria-dom-i-ogcvod-u9347c.rest
-allegrolokalnie.kategoria-oferty-propozycje-dla-ciebie-14.icu
 allegrolokalnie.kategoria-oferty-propozycje-wszystkie-3.icu
 allegrolokalnie.kategoria-promowane-ogloszenia-24.sbs
 allegrolokalnie.kategorie-inne-23423423.rest
@@ -1256,6 +1257,7 @@ allegrolokalnie.oferta-883773.shop
 allegrolokalnie.oferta-892173.shop
 allegrolokalnie.oferta-9774323.icu
 allegrolokalnie.oferta-9923050.shop
+allegrolokalnie.oferta-kategoria-wszystko-dla-ciebie-17.icu
 allegrolokalnie.oferta-pl-wozek-narzedziowy-snap-on-z-resztka-narzedzi.cfd
 allegrolokalnie.oferta-promowana-582275.sbs
 allegrolokalnie.oferta0181514.shop
@@ -1630,7 +1632,6 @@ allegrolokalnie.pl-oferta4614510.shop
 allegrolokalnie.pl-oferta479196.icu
 allegrolokalnie.pl-oferta48239145.shop
 allegrolokalnie.pl-oferta49373294.cfd
-allegrolokalnie.pl-oferta4950097.sbs
 allegrolokalnie.pl-oferta4969472.shop
 allegrolokalnie.pl-oferta5119370.shop
 allegrolokalnie.pl-oferta5132814551.shop
@@ -1667,6 +1668,7 @@ allegrolokalnie.pl-oferta6312781.sbs
 allegrolokalnie.pl-oferta6398202.icu
 allegrolokalnie.pl-oferta6433579.sbs
 allegrolokalnie.pl-oferta64376.top
+allegrolokalnie.pl-oferta65285393672.shop
 allegrolokalnie.pl-oferta655600067812-rtx-3080-ti.shop
 allegrolokalnie.pl-oferta6556889.icu
 allegrolokalnie.pl-oferta66622.icu
@@ -1681,7 +1683,6 @@ allegrolokalnie.pl-oferta7151922.com
 allegrolokalnie.pl-oferta7225378.cc
 allegrolokalnie.pl-oferta7225378.link
 allegrolokalnie.pl-oferta7291150749.xyz
-allegrolokalnie.pl-oferta7331457.icu
 allegrolokalnie.pl-oferta7375611.shop
 allegrolokalnie.pl-oferta7389949.sbs
 allegrolokalnie.pl-oferta7419810.icu
@@ -1711,7 +1712,6 @@ allegrolokalnie.pl-oferta7983724.shop
 allegrolokalnie.pl-oferta79964615678213-monitor-dell-alienware-32.cfd
 allegrolokalnie.pl-oferta79964615678213-monitor-dell.cfd
 allegrolokalnie.pl-oferta8131269.icu
-allegrolokalnie.pl-oferta815311.icu
 allegrolokalnie.pl-oferta817311.icu
 allegrolokalnie.pl-oferta8182521.shop
 allegrolokalnie.pl-oferta819011.icu
@@ -1813,6 +1813,7 @@ allegrolokalnie.pl-ogloszenia-elektronika-appie-185810.cfd
 allegrolokalnie.pl-ogloszenia-elektronika-urzadzenia-apple.sbs
 allegrolokalnie.pl-ogloszenia-elektronika.icu
 allegrolokalnie.pl-ogloszenia-firmowe-884235235.icu
+allegrolokalnie.pl-ogloszenia-firmowe-88883934.icu
 allegrolokalnie.pl-ogloszenie-02103994.rest
 allegrolokalnie.pl-ogloszenie-02940492.rest
 allegrolokalnie.pl-ogloszenie-0702958.rest
@@ -1842,11 +1843,11 @@ allegrolokalnie.pl-ogloszenie-firmowe-88839993.shop
 allegrolokalnie.pl-oglosznie-960392.sbs
 allegrolokalnie.pl-promowaneid89013779.icu
 allegrolokalnie.pl-prywatne-475.sbs
+allegrolokalnie.pl-prywatne-825.sbs
 allegrolokalnie.pl-ticketmaster.shop
 allegrolokalnie.pl-uzywana-oferta93204.cfd
 allegrolokalnie.pl-ver2196-id70456-cfi849u-cid71062.shop
 allegrolokalnie.pl3892.shop
-allegrolokalnie.pl636378oferta.cfd
 allegrolokalnie.pl7363638oferta.icu
 allegrolokalnie.pl9474638oferta.icu
 allegrolokalnie.pl9483268przedmiot.icu
@@ -2525,14 +2526,12 @@ auth-ledger-live-eng-us.pages.dev
 auth-ledger-live-log.pages.dev
 auth-ledgr-live-secure.pages.dev
 auth-ledgr-strt.pages.dev
-auth-ledgrr-login.pages.dev
 auth-login-uphold.pages.dev
 auth-login-user.firebaseapp.com
 auth-login-user.web.app
 auth-metamsk-log.pages.dev
 auth-midrivers.netlify.app
 auth-mtamask-feq.pages.dev
-auth-ndax-io-log-sso.pages.dev
 auth-production-4a4bc.firebaseapp.com
 auth-production-4a4bc.web.app
 auth-robinhood-us.pages.dev
@@ -4898,7 +4897,6 @@ connect-captcha.pages.dev
 connect-ledger-login.pages.dev
 connect-mail-th-com.weebly.com
 connect-poocoin-login-tokens.blogspot.com
-connect-trezor--bridge.pages.dev
 connect-trezor-enn.pages.dev
 connect-trezorlogi-eng.pages.dev
 connect-us-trezor-wallet.pages.dev
@@ -5009,6 +5007,7 @@ courrielwebvide0tron.weebly.com
 coursier-aprem.com
 coursier-fr-espace.com
 coursier-fr-lockers.com
+coursier-fr-relay.com
 coursier-fr-suivi.com
 coursier-prio.com
 coursier-transit.com
@@ -5436,6 +5435,7 @@ devbr-7de68.web.app
 devdocptdsugn.weebly.com
 device.mysign-mircrosoft.com
 devomats.com
+dextool.netlify.app
 dexwalletchain.web.app
 df787.weebly.com
 dfconalep.weebly.com
@@ -5916,7 +5916,6 @@ ee-net-billing.web.app
 ee-network.web.app
 ee-new-payment.web.app
 ee-notices-ref.web.app
-ee-online-bill.web.app
 ee-payment-error.web.app
 ee-payment-help.firebaseapp.com
 ee-payment-help.web.app
@@ -6049,6 +6048,7 @@ emta-ee-authst.web.app
 emtwd.e-scurefiles.net
 en-app-uphold-com-auth.pages.dev
 en-chainfix.pages.dev
+en-exodus.pages.dev
 en-exxdus-web3.pages.dev
 en-ledger-livee-login.pages.dev
 en-ledgerlivewallet.pages.dev
@@ -6060,7 +6060,6 @@ en-trezor-iostart-web.pages.dev
 en-trezor-suite-io.vercel.app
 en-uphold-us.pages.dev
 en-us-lezr-support.pages.dev
-en-us-secure-kucion.pages.dev
 en-us-web3--exods.pages.dev
 en-us-web3-exods.pages.dev
 en-web3-exods-en-us.pages.dev
@@ -7439,7 +7438,6 @@ helpmicrosoftmx.webcindario.com
 helppadrestricteed.web.app
 helppage-policysercurity.pages.dev
 helps--ledger-dektop.webflow.io
-helps--ledgsupport.webflow.io
 helps-bridge-support.pages.dev
 helps-business.pages.dev
 helps-businesscenters.pages.dev
@@ -7600,7 +7598,6 @@ home-ledge-en-usaa.pages.dev
 home-ledger-com-strt.pages.dev
 home-ledger-log-in-web-faq.pages.dev
 home-trezologin.pages.dev
-home-trezor-loginn.pages.dev
 home-trezor-suite-app-eng.pages.dev
 home-trezor-usa.pages.dev
 home-trezor-wallet-faq.pages.dev
@@ -7639,7 +7636,6 @@ hommbt4465.weeblysite.com
 honestanne300.myportfolio.com
 hopee12.weebly.com
 hopeful-pare-3a8880.netlify.app
-horalka.net
 hordeweb.weebly.com
 hording.weebly.com
 horizonfcu.weebly.com
@@ -8053,7 +8049,6 @@ inzizi.com
 io-bridge-trezor.dora.run
 io-en-trezor-start.pages.dev
 io-ledgrr-logiin-auth.pages.dev
-io-ledgrrr-loginn.pages.dev
 io-start-support.pages.dev
 io-strt-web-trezor.pages.dev
 io-trezor-start-app.webflow.io
@@ -8228,7 +8223,6 @@ jeremyroberts8e31.myportfolio.com
 jerome-burrke-my-cheetah-website.site.builderall.net
 jerrybeers.com
 jessegray.co.nz
-jessicas-stellar-site-8ec253.webflow.io
 jetletusderickwellatouching.weebly.com
 jeudiunjour.firebaseapp.com
 jeudiunjour.web.app
@@ -9251,7 +9245,6 @@ mailorange6.godaddysites.com
 mailorange7.godaddysites.com
 mailrat.weebly.com
 mailsecurecontentalert.weebly.com
-mailservice-jp-authenticate-trem.netlify.app
 mailservice0973.weebly.com
 mailteam767485.weebly.com
 mailtelstatnjdu4.weebly.com
@@ -9627,7 +9620,6 @@ metalfinishing-sc.com
 metalinkk.weebly.com
 metamaesk-en.pages.dev
 metaman.webflow.io
-metamask-login-app-drb.pages.dev
 metamask-login-ask.pages.dev
 metamask-login-doc.pages.dev
 metamask-uswallet.godaddysites.com
@@ -9868,7 +9860,6 @@ mondial-relay.info
 mondial.relaysign.in
 mondialrelais-fr-livraison.com
 mondialrelay-colis-livraisons.com
-mondialrelay-livraison-colis.info
 mondialrelay-livreur-colis.com
 mondialrelay-programmer.com
 mondialrelay-reprogrammer.com
@@ -10218,7 +10209,6 @@ ncparis-dcb32.web.app
 nctcwebmaillogin.weebly.com
 ndax-en-x-cdn-authd.pages.dev
 ndax-login-eng.pages.dev
-ndax-login-get.pages.dev
 ndax-login-people.pages.dev
 ndax-login-start-kis.pages.dev
 ndax-secure.pages.dev
@@ -10422,7 +10412,6 @@ nomuroa.rviciousu.com
 noreply-avisosd3.dynalias.com
 noreply-avisosd5.dynalias.com
 noreply-pedidob5.dynalias.com
-normanthinks7.firebaseapp.com
 norpesaunaservicefr.firebaseapp.com
 norpesaunaservicefr.web.app
 norrydc.weebly.com
@@ -12306,7 +12295,6 @@ santos-99117.web.app
 sanybank.15e00f.top
 sanybank.2nycnx.top
 sanybank.5jb2mf.top
-sanybank.5rwnsl.top
 sanybank.5u1zsw.top
 sanybank.6ic6fh.top
 sanybank.7xnw0v.top
@@ -13065,7 +13053,6 @@ smbc-cardhaz.club
 smbc-cardhvw.club
 smbc-cardiih.club
 smbc-cardj7s.club
-smbc-cardjbq.club
 smbc-cardjmr.club
 smbc-cardjqm.club
 smbc-cardk97.club
@@ -13521,7 +13508,6 @@ suite-app-trezor-cdn.pages.dev
 suite-en--trezor.pages.dev
 suite-trezor--co.pages.dev
 suite-trezor-app.pages.dev
-suite-trezor-cloud-acw.pages.dev
 suite-trezor-co.pages.dev
 suite-trezorapp.netlify.app
 suite-trezors-web.pages.dev
@@ -13584,7 +13570,6 @@ support-ledger-esc.pages.dev
 support-ledger-io-1ex.pages.dev
 support-ledger-live-app-en-us.pages.dev
 support-ledger-live-cdn.pages.dev
-support-ledger-live-us.pages.dev
 support-ledger-live-wallet-en.pages.dev
 support-ledger-sso-liv.pages.dev
 support-ledgr-com-help.pages.dev
@@ -13916,7 +13901,6 @@ telstra-107221.weeblysite.com
 telstra-107483.weeblysite.com
 telstra-107618.weeblysite.com
 telstra-107788.weeblysite.com
-telstra-107857.weeblysite.com
 telstra-107958.weeblysite.com
 telstra-108179.weeblysite.com
 telstra-108351.weeblysite.com
@@ -14205,7 +14189,6 @@ trackion.netlify.app
 trade-iq-option-2021.blogspot.com
 tradequestint.com
 tradesafe-info.webflow.io
-traditional-studies-444223.framer.app
 trafcomfioy.info
 traffic-signal-manufacturers.com
 trahabacidihsyuei.es
@@ -14263,7 +14246,6 @@ trezor-io-start-cws.pages.dev
 trezor-io-start-io-us.pages.dev
 trezor-io-start-strt-us-learn.pages.dev
 trezor-io-strt-s.pages.dev
-trezor-io-strt-us.pages.dev
 trezor-io-sute.pages.dev
 trezor-iostart-faq.pages.dev
 trezor-log-in-co.pages.dev
@@ -14387,7 +14369,6 @@ tunahrtjanzak2.firebaseapp.com
 tunahrtjanzak2.web.app
 tunahrtjanzak4.firebaseapp.com
 tunahrtjanzak5.firebaseapp.com
-tunahrtjanzak5.web.app
 tunahrtjanzak6.firebaseapp.com
 tunahrtjanzak6.web.app
 tunahrtjanzak8.firebaseapp.com
@@ -14745,7 +14726,6 @@ uwclubingrules.weebly.com
 uwclubwarehouse.weebly.com
 uwmfix.ukit.me
 uxfcjhvkw62wxjhsn72wutht-udtjywrjtyj8wyeg.teemill.com
-uxhold-login-account.pages.dev
 uxtjkhjlfhdgytytufyiguoq-k6turdgfh2gtzytu34ti.teemill.com
 uyjcvwlraekctukxghfdfqegkjwdyldjhm.teemill.com
 uysd6qagdscfxhjhma-cuaydfi876qewy97qwesdjvy.teemill.com
@@ -15084,7 +15064,6 @@ volshebreekbbrhcia.blogspot.com
 voprtipol12.start.page
 votecontest.pages.dev
 voto-site.free.nf
-votre-acheminement.com
 votre-colis-reunion.com
 votre-pass.com
 votre-pickup-fr.com
@@ -15891,7 +15870,6 @@ www.regler-ulys.com
 www.remotecall-assemblev2.com
 www.renouv-centre.info
 www.renouv-vitalis.com
-www.renouv-vitalis.info
 www.renouveler-ma-livraison.com
 www.reunion-colissimo-douane.com
 www.rihabpc.com
