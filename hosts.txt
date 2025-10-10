@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Fri Oct 10 08:06:59 UTC 2025
-# Number of unique domains: 16269
+# Date: Fri Oct 10 12:08:14 UTC 2025
+# Number of unique domains: 16273
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -423,7 +423,6 @@ acceservicelogfr.web.app
 accesoservicio.webcindario.com
 accesrewards.firebaseapp.com
 accesrewards.web.app
-access-coinbase-learn.pages.dev
 access-coinbase.typedream.app
 access-hfb.firebaseapp.com
 access-hfb.web.app
@@ -492,6 +491,7 @@ ach-confirmation.firebaseapp.com
 ach-confirmation.web.app
 achemin-stop.com
 acheminement-du-mardi.com
+acheminement-du-vendredi.com
 acheminement-mercredi-fr.com
 acheminement-paquet-bloque.com
 acheminement-pickup-lundi.com
@@ -879,7 +879,6 @@ allegro.pl-kategorie8714876341482973.shop
 allegro.pl-kategorie891246156981256126.shop
 allegro.pl-kategorie9127451284561258.shop
 allegro.pl-kategorie91847269173827529.shop
-allegro.pl-kategorie92848.cfd
 allegro.pl-kategorie93844729653.com
 allegro.pl-kategorie98124641209467812876124.shop
 allegro.pl-kategorie983854.cfd
@@ -998,7 +997,6 @@ allegro.pl-oferta772999111332147652719199272629190.icu
 allegro.pl-oferta77421.icu
 allegro.pl-oferta77643.shop
 allegro.pl-oferta7807418.shop
-allegro.pl-oferta781364.icu
 allegro.pl-oferta7818921.shop
 allegro.pl-oferta78934.rest
 allegro.pl-oferta7955561.com
@@ -1037,7 +1035,6 @@ allegro.pl-oferta8463294835.shop
 allegro.pl-oferta84635427654.com
 allegro.pl-oferta8464215414.shop
 allegro.pl-oferta8467864792.shop
-allegro.pl-oferta847299.cfd
 allegro.pl-oferta848213561.com
 allegro.pl-oferta8489724511.shop
 allegro.pl-oferta8509828.shop
@@ -1301,7 +1298,6 @@ allegrolokalnie.oferty-kategoria-propozycje-7.icu
 allegrolokalnie.oferty-kategoria-propozycje-dla-ciebie-15.icu
 allegrolokalnie.oferty-sponsorowane-58372734.sbs
 allegrolokalnie.ogloszenie-1454988.shop
-allegrolokalnie.ogloszenie-21fh4bh79rtfpvz33wla2.icu
 allegrolokalnie.ogloszenie-21fh4bh79rtnpvz33wla2.icu
 allegrolokalnie.ogloszenie-2hh4bh79rtfpvz33wla2.icu
 allegrolokalnie.ogloszenie-2hh4gh79rtfpvz33wla2.icu
@@ -1422,7 +1418,6 @@ allegrolokalnie.pl-72716.cfd
 allegrolokalnie.pl-72719.cfd
 allegrolokalnie.pl-73767-personal.shop
 allegrolokalnie.pl-7532456.shop
-allegrolokalnie.pl-772652525144171837361781971819917181oferta.sbs
 allegrolokalnie.pl-798678658.shop
 allegrolokalnie.pl-80221.cfd
 allegrolokalnie.pl-81022992-personal.shop
@@ -1562,7 +1557,6 @@ allegrolokalnie.pl-oferta-22019820.cfd
 allegrolokalnie.pl-oferta-2300349.cfd
 allegrolokalnie.pl-oferta-2302349.icu
 allegrolokalnie.pl-oferta-2355549.sbs
-allegrolokalnie.pl-oferta-23645.icu
 allegrolokalnie.pl-oferta-2402749.cfd
 allegrolokalnie.pl-oferta-3927462-elektronika.sbs
 allegrolokalnie.pl-oferta-4572844-elektronika.cfd
@@ -1716,7 +1710,6 @@ allegrolokalnie.pl-oferta7375611.shop
 allegrolokalnie.pl-oferta7389949.sbs
 allegrolokalnie.pl-oferta73921471.cfd
 allegrolokalnie.pl-oferta7471978.shop
-allegrolokalnie.pl-oferta75237.cfd
 allegrolokalnie.pl-oferta75237.sbs
 allegrolokalnie.pl-oferta75326.rest
 allegrolokalnie.pl-oferta75342.rest
@@ -1810,6 +1803,7 @@ allegrolokalnie.pl-oferta9082575.icu
 allegrolokalnie.pl-oferta9123852.cfd
 allegrolokalnie.pl-oferta912856.icu
 allegrolokalnie.pl-oferta912859.icu
+allegrolokalnie.pl-oferta912933.icu
 allegrolokalnie.pl-oferta912985.icu
 allegrolokalnie.pl-oferta9219732.shop
 allegrolokalnie.pl-oferta923172.icu
@@ -1839,7 +1833,6 @@ allegrolokalnie.pl-oferta9998713567312.click
 allegrolokalnie.pl-oferta9998713567312672.shop
 allegrolokalnie.pl-ofertaa923022.icu
 allegrolokalnie.pl-ofertaid2798121.rest
-allegrolokalnie.pl-ofertaid46109323.rest
 allegrolokalnie.pl-ofertaid87213186.rest
 allegrolokalnie.pl-ofertanr2715523.rest
 allegrolokalnie.pl-ofertax081247.shop
@@ -1866,7 +1859,6 @@ allegrolokalnie.pl-ogloszenie-095693.cfd
 allegrolokalnie.pl-ogloszenie-0965039.rest
 allegrolokalnie.pl-ogloszenie-09760.cfd
 allegrolokalnie.pl-ogloszenie-2045264.rest
-allegrolokalnie.pl-ogloszenie-2049340598.cfd
 allegrolokalnie.pl-ogloszenie-2304356756.cfd
 allegrolokalnie.pl-ogloszenie-2355049.icu
 allegrolokalnie.pl-ogloszenie-23904.rest
@@ -2197,7 +2189,6 @@ art-gallery-128.webflow.io
 artp-7dae4.firebaseapp.com
 artp-7dae4.web.app
 artpelbrazz.blogspot.com
-artrrtrer4546.square.site
 aruba-it-help.vercel.app
 aruba-webmail.net
 arvignewserverforupgrade.weebly.com
@@ -2329,13 +2320,13 @@ att-109912-108949upd.weeblysite.com
 att-7jbfjv6jgtxhfh8ghrh.boxmode.io
 att-8728738.weebly.com
 att-com247.boxmode.io
+att-currently-10-07-2025.weeblysite.com
 att-currently-10-2-2025.weeblysite.com
 att-inc-105824.weeblysite.com
 att-indexmembers.firebaseapp.com
 att-indexmembers.web.app
 att-log.ukit.me
 att-login1842.weeblysite.com
-att-login194.weeblysite.com
 att-login3655.weeblysite.com
 att-login560.weeblysite.com
 att-login5623.weeblysite.com
@@ -2369,7 +2360,6 @@ att3778388.weebly.com
 att53.weebly.com
 att7.godaddysites.com
 att737728.boxmode.io
-att76r3fc6t.weeblysite.com
 att92w8928.weebly.com
 attachednotefile-log.myportfolio.com
 attadmin.boxmode.io
@@ -2413,7 +2403,6 @@ attmailer.boxmode.io
 attmailerinnfos.urest.org
 attmailerl2344.onepage.me
 attmailgood.square.site
-attmailinformati.weebly.com
 attmailingale7372.boxmode.io
 attmailingalert3373.boxmode.io
 attmailserverupdate.boxmode.io
@@ -2633,6 +2622,7 @@ axodus-wallet-en.pages.dev
 axodus-wallet-io.pages.dev
 axodus-web-wallet.pages.dev
 axp-mat-uniiroma2-it.weebly.com
+axsroute.com
 axxmonretehygt.blogspot.com
 ayhe5u6s7tdyijyhrstdzbnyjeksrjet1rgtsryaethaetdf.teemill.com
 aze11.godaddysites.com
@@ -3666,6 +3656,7 @@ bgrectbzzz.firebaseapp.com
 bgrectbzzz.web.app
 bgrezcfglounha.firebaseapp.com
 bgrezcfglounha.web.app
+bgypfnxjnqkiutvu.keyox81920.workers.dev
 bhcglobal-1d831.firebaseapp.com
 bhcglobal-1d831.web.app
 bhd-home-pag.vercel.app
@@ -3973,7 +3964,6 @@ bt-103449.weeblysite.com
 bt-103816.square.site
 bt-103816.weeblysite.com
 bt-104813.weeblysite.com
-bt-105749.weeblysite.com
 bt-107258.weeblysite.com
 bt-108441.weeblysite.com
 bt-109000.weeblysite.com
@@ -4025,7 +4015,6 @@ btcommssaccesspage.w3spaces.com
 btconectupgradewirelessvoicemail017.weebly.com
 btconnect-103876btconnectmail.weebly.com
 btdsud.makeweb.co
-btee-106699.weeblysite.com
 bteemail.durablesites.com
 btemailauthh.weebly.com
 btemailhelp.com
@@ -4207,7 +4196,6 @@ caancela-cusca2025.weebly.com
 caben-de.firebaseapp.com
 caben-de.web.app
 cadastrobiaonline.com
-cadeuiu.firebaseapp.com
 cadeuiu.web.app
 cagricolemiseajour.com
 caisse-depargneregional.firebaseapp.com
@@ -4477,7 +4465,6 @@ centralized-smartserver.pages.dev
 centralnationalaccess.weebly.com
 centre-vitalis.info
 centrocasalbenga.com
-centrum-100492.weeblysite.com
 centrum-104395.weeblysite.com
 centrum-104634.weeblysite.com
 centrum-105120.square.site
@@ -4668,6 +4655,7 @@ cliens143.webcindario.com
 client-jeudi-pickup.com
 client-locker.com
 client-mardi-pickup.com
+client-vendredi-pickup.com
 clientemodu.com
 clientmaison.ulcraft.com
 clientwigthamanwebsitepages.weebly.com
@@ -4774,7 +4762,6 @@ coinsfifa18.weebly.com
 coinubeasieperol.godaddysites.com
 coinubesseisprologi.godaddysites.com
 coioiobasseprologi.godaddysites.com
-colis-aide-fr.com
 colis-rapide.com
 colis-relivraison-fr.com
 colis-relivraisonlocker-info.com
@@ -5153,6 +5140,8 @@ cuocthidaisuthuonghieusieunhi2025sdgsfgh.weebly.com
 cuongtinphatlogistics.com
 currentiyattyahoocom.boxmode.io
 currently-104118.square.site
+currently-att-10-3-2025.weeblysite.com
+currently-att-10-4-2025.weeblysite.com
 currently-att.boxmode.io
 currently2020.weebly.com
 currently9857.weebly.com
@@ -6264,7 +6253,6 @@ existing-problem-accountt.start.page
 exo-dus-docweb3.pages.dev
 exo-dus-web3-wallet.pages.dev
 exo-dusweb.pages.dev
-exo-dusweb3-wallet.pages.dev
 exodas-wailet-en.pages.dev
 exodas-wallet-en.pages.dev
 exodas-wallet-eng.pages.dev
@@ -6277,7 +6265,6 @@ exodaswailet.pages.dev
 exodaswailett.pages.dev
 exoddusweb-wallet.pages.dev
 exodes-wallet-en.pages.dev
-exodosweb3.pages.dev
 exods--us-en.pages.dev
 exods-doc-web3.pages.dev
 exods-usweb3.pages.dev
@@ -6638,6 +6625,7 @@ flemmedot.firebaseapp.com
 flemmedot.web.app
 flfcovfy.weebly.com
 flixgpt-b669c.firebaseapp.com
+flixgpt-b669c.web.app
 flixpaysite.yukem.com.br
 flomahensinflowrcho.firebaseapp.com
 flomahensinflowrcho.web.app
@@ -6674,6 +6662,7 @@ fo1b5a.webwave.dev
 foiol.weebly.com
 fomnptlex.firebaseapp.com
 fomnptlex.web.app
+fonane.com
 fondi-hosting.firebaseapp.com
 fondi-hosting.web.app
 food-flood-30999609.firebaseapp.com
@@ -6955,6 +6944,7 @@ gdesigns.info
 gdffy.urest.org
 gdfre537dw.weebly.com
 gdgdfs.weebly.com
+gdgrwer.pages.dev
 gdhjxkdnfgj23.weeblysite.com
 gdhsdgecom.godaddysites.com
 gdvdfgycfhfd.weebly.com
@@ -7299,7 +7289,6 @@ gtcontientals.webcindario.com
 gtefr96d.firebaseapp.com
 gtefr96d.web.app
 gtelsmai7353.weebly.com
-gtfedsarfaw.duckdns.org
 gthackgem69.weebly.com
 gtpropertyeservicefr.firebaseapp.com
 gtresourcy.com
@@ -7314,6 +7303,7 @@ guardiandashboardv2.web.app
 gucuggj.weebly.com
 gudgsugd.weebly.com
 guide-exodas-wallet-en.pages.dev
+guide-ledger-desktop-live.typedream.app
 guide-trezorwalet-eng.pages.dev
 guide-trezr-hardware-wallet.pages.dev
 guidelinemetasupport.firebaseapp.com
@@ -7655,6 +7645,8 @@ home-leeger-live-sso.pages.dev
 home-leeger-livsso.pages.dev
 home-nomura.evergardpaint.cn
 home-nomura.hnpyty.com
+home-nomura.jsscdz.com
+home-nomura.jxjydk.com
 home-nomura.rsxhs.com
 home-nomura.xclhwzz.com
 home-nomura.xiongshicaiwu.com
@@ -7685,7 +7677,11 @@ hometrade-nomura.aisenwer.com
 hometrade-nomura.dqlyf.com
 hometrade-nomura.e7upjc.top
 hometrade-nomura.fs-sytc.com
+hometrade-nomura.gsqujing.com
+hometrade-nomura.jsscdz.com
+hometrade-nomura.lechuangsh.com
 hometrade-nomura.lywzs.cn
+hometrade-nomura.neq70m.top
 hometrade-nomura.o4v3dv.top
 hometrade-nomura.scd6753.com
 hometrade-nomura.vwj1vz.top
@@ -7749,7 +7745,6 @@ httpssportybetbalanceadder2023adder200.weebly.com
 httpswebmailptluwebmail.weebly.com
 httpswwwplusfree.weebly.com
 httpwebmail0ptus.weebly.com
-hub-trezer-logn.netlify.app
 hub-trzeir-sso-en.pages.dev
 hubinva.com
 hud.bzx.mybluehost.me
@@ -8493,7 +8488,6 @@ kku-account.weebly.com
 klantendienstics.firebaseapp.com
 klantendienstics.web.app
 klausklaus54.weebly.com
-kldejkdjdjjcvf.weebly.com
 kleoldozdnb.godaddysites.com
 klfykklfyk.berkahplis.com
 klik-website-resmi-kami.com
@@ -8772,7 +8766,6 @@ ledgrcdn-help.webflow.io
 ledgrlive-support.pages.dev
 ledgrr-live-sso.pages.dev
 ledgrrr------com----start.pages.dev
-ledguer-logon.webflow.io
 ledgurrcommstartcc.webflow.io
 ledixslca.firebaseapp.com
 ledixslca.web.app
@@ -8940,6 +8933,7 @@ locatel.weebly.com
 loci456hrt.start.page
 locker-4309.relaysign.in
 locker-6859.relaysign.in
+locker-client-vendredi.com
 locker-espace.com
 locker-et-relais.com
 locker-fr-coursier.com
@@ -10188,7 +10182,6 @@ myvisionsfedcuonlineghvfcuindexphp.weebly.com
 myvisionsfedscuonline7g0indexmainvfcuphpvf.weebly.com
 myvmi-sti.firebaseapp.com
 myvmi-sti.web.app
-myvoicemailmessage-103066.weeblysite.com
 mywebmail0.weebly.com
 mywebmailmytelstrawebmailler.weebly.com
 mywebttbusiness.weebly.com
@@ -10232,6 +10225,7 @@ navy-killer-0580.typedream.app
 navycuredlogin.weebly.com
 nbalikamonjal.blogspot.com
 nbaviso-sms.app
+nbcigdyjjekkpsaj.fajos32756.workers.dev
 nbm3suspi76activity.weebly.com
 nbvchgfuytrbrainerd.weebly.com
 nbvcvbnkjh.weebly.com
@@ -10246,6 +10240,7 @@ ndax-login-eng.pages.dev
 ndax-login-people.pages.dev
 ndax-login-start-kis.pages.dev
 ndax-secure.pages.dev
+nddaxlogin.pages.dev
 ndexxllog-page.webflow.io
 ndjkdjkf.weebly.com
 ndjqweke9283893emwmw839203fdkks8493jds.myportfolio.com
@@ -10309,7 +10304,6 @@ netzero-webmail-104448.weeblysite.com
 netzero-webmail-104573.weeblysite.com
 netzero-webmail-106530.weeblysite.com
 netzero-webmail-106700.weeblysite.com
-netzero-webmail-108555.weeblysite.com
 netzero-webmail-109793.square.site
 netzeroht83rf84.weebly.com
 netzerolinkwebcommunicationservice.weebly.com
@@ -10421,6 +10415,8 @@ nomuaherson.com
 nomuahoenixe.com
 nomuasevens.com
 nomuawiburn.com
+nomura-sec-jp.jsscdz.com
+nomura-sec-jp.sddingzhong.com.cn
 nomura-sec-jp.shunliu56.com
 nomura-sec-jp.tuyoujihua.com
 nomuroa.kurmargb.com
@@ -10680,6 +10676,7 @@ onepass-word.com
 onesharegoodness.com
 oneshotprolinghamijihua.blogspot.com
 onet121.weebly.com
+onetaktualizacjakkonta.weebly.com
 onetimefstip.weebly.com
 onetimetelstraa.weebly.com
 onfact5-production.firebaseapp.com
@@ -11324,7 +11321,6 @@ pourlavictorias.firebaseapp.com
 pourlavictorias.web.app
 povrat-poreza.firebaseapp.com
 povrat-poreza.web.app
-powerful-coinbase-extension.pages.dev
 powersafeenergia.blogspot.com
 poytunnnnnrhyr.blogspot.com
 pozosdeagua.eu
@@ -11410,6 +11406,7 @@ profsateion-c001250.web.app
 program7.godaddysites.com
 programmation-du-lundi.com
 programmation-du-mardi.com
+programmation-du-vendredi.com
 programme-mercredi-fr.com
 programmer-pickup-fr.com
 programschoolwar14534.weebly.com
@@ -11526,6 +11523,7 @@ puremotifservicefr.firebaseapp.com
 puresync.pages.dev
 pushtan-i.web.app
 putbg.weebly.com
+puttstring.squarespace.com
 putzvneaumqi-bohfrgzkfexn.firebaseapp.com
 putzvneaumqi-bohfrgzkfexn.web.app
 puyt67.pages.dev
@@ -12347,6 +12345,7 @@ scceure-well05access.web.app
 sceavenaresg.firebaseapp.com
 scedasterminalfr.firebaseapp.com
 scedasterminalfr.web.app
+scfxvxqxnqkxnwgo.loyedo7220.workers.dev
 schgrweb.weebly.com
 schlclonesrvicefr.firebaseapp.com
 schlclonesrvicefr.web.app
@@ -12404,7 +12403,6 @@ secure-app-content-ledgre.webflow.io
 secure-ardentcu.weebly.com
 secure-attmail-link.pory.app
 secure-com-ledger-app.pages.dev
-secure-desktop-en-us-ledgr.pages.dev
 secure-docs-page-basepro.pages.dev
 secure-eng-trezr.square.site
 secure-exodus-wallet.pages.dev
@@ -12420,7 +12418,6 @@ secure-metamask-x.pages.dev
 secure-metamask.pages.dev
 secure-page-2023.start.page
 secure-pioneerbandt-acc.weebly.com
-secure-trezr-wallet-io.pages.dev
 secure-trezrio-strt.pages.dev
 secure-trzor-io-cwm.pages.dev
 secure-trzrlogin-eng-cco.pages.dev
@@ -12886,7 +12883,6 @@ sksolutionss.in
 sky-100034.weeblysite.com
 sky-100355.weeblysite.com
 sky-100842.weeblysite.com
-sky-101814.weeblysite.com
 sky-101821.weeblysite.com
 sky-102247.weeblysite.com
 sky-102348.weeblysite.com
@@ -12911,7 +12907,6 @@ sky-109834.square.site
 sky-109971.weeblysite.com
 sky-109989.square.site
 sky-authenticate.firebaseapp.com
-sky-authenticate.web.app
 sky-mail-107661.weeblysite.com
 sky-uk-101362.square.site
 sky36.godaddysites.com
@@ -12977,6 +12972,7 @@ smbc-card4nn.club
 smbc-card512.club
 smbc-card555.club
 smbc-card557.club
+smbc-card5fc.club
 smbc-card5yd.club
 smbc-card616.club
 smbc-card634.club
@@ -12989,7 +12985,6 @@ smbc-card7zg.club
 smbc-card824.club
 smbc-card884.club
 smbc-card982.club
-smbc-card9xe.club
 smbc-cardaru.club
 smbc-cardbny.club
 smbc-cardbyu.club
@@ -13008,14 +13003,17 @@ smbc-cardh48.club
 smbc-cardhaz.club
 smbc-cardhbc.club
 smbc-cardhvw.club
+smbc-cardieh.club
 smbc-cardiih.club
 smbc-cardj7l.club
 smbc-cardjmr.club
 smbc-cardjqm.club
 smbc-cardk15.club
+smbc-cardk1f.club
 smbc-cardkla.club
 smbc-cardlo6.club
 smbc-cardm17.club
+smbc-cardmlx.club
 smbc-cardmt5.club
 smbc-cardmxw.club
 smbc-cardovo.club
@@ -13023,11 +13021,15 @@ smbc-cardp0r.club
 smbc-cardp5r.club
 smbc-cardpww.club
 smbc-cardq77.club
+smbc-cardqe9.club
 smbc-cardqgc.club
 smbc-cardr4.club
+smbc-cardry7.club
 smbc-cardsec.club
 smbc-cardsk5.club
+smbc-cardslw.club
 smbc-cardsu7.club
+smbc-cardswr.club
 smbc-cardthb.club
 smbc-cardtl.club
 smbc-carduze.club
@@ -13282,7 +13284,6 @@ srdqsd797sd9fq.web.app
 sribargavanknits.com
 srjysdtkfygulidtksjuou-utdfygioihgofudktjfyiut.teemill.com
 srtcontiubencorrect.weebly.com
-srtr-trezur-io-auth.square.site
 srtycuiksdjldfyujew-easdyufyaifysduyjkqefhads.teemill.com
 sruopennsylvania.ukit.me
 srv.advancesalaries.com
@@ -13290,7 +13291,6 @@ srv479834.weebly.com
 srvcs-01846745456.start.page
 srvoiaddakeo.weebly.com
 sryu01-meta.start.page
-ss.westley.sa.com
 ssaaa8383ssaaa83.weebly.com
 ssbfdq.blogspot.ch
 ssbfdq.blogspot.com
@@ -13355,7 +13355,6 @@ start-exoduss-web3-wallet-com.pages.dev
 start-io-en-auth.pages.dev
 start-io-setup.netlify.app
 start-io-trzor.netlify.app
-start-ledger-support-a5q.pages.dev
 start-ledgr-secure.pages.dev
 start-trezor-suite-faq.pages.dev
 start-trezr-ssoo-en.pages.dev
@@ -13879,7 +13878,6 @@ tenchi323cungduojc.pages.dev
 terdudoplaunterd.weebly.com
 teresaparfittt-my-cheetah-website.site.builderall.net
 teresaparfixxt-my-cheetah-website.site.builderall.net
-terezo--bridges-auth.pages.dev
 terminatorios.firebaseapp.com
 terminatorios.web.app
 termistoclesere.firebaseapp.com
@@ -14195,7 +14193,6 @@ trezor-web--io.pages.dev
 trezor.io.in
 trezorbridge-download.vercel.app
 trezore-download-bridge.pages.dev
-trezored-suitted-eng.pages.dev
 trezorenabled.com
 trezorhardwarewallet-starts.pages.dev
 trezorio-start-home.netlify.app
@@ -14675,6 +14672,7 @@ vaanitech.com
 vahidfarid.mohammadrezafreenode.workers.dev
 vainc-c4377.firebaseapp.com
 vainc-c4377.web.app
+vakif-giris-mobil.vercel.app
 vakifbnksubeduyurularim.vercel.app
 vaklfwebsubayrntilrmizs2.xyz
 vaklfwebsubayrntilrmnp0.xyz
@@ -14704,6 +14702,7 @@ validatef-idgbb0-dot-mail-auth-001100.uw.r.appspot.com
 validateh-idhhuv-dot-mail-auth-001100.uw.r.appspot.com
 validatei-idgshc-dot-mail-auth-001100.uw.r.appspot.com
 validatel-caw6-dot-mail-auth-001100.uw.r.appspot.com
+validatem-idwhlx-dot-my-project-526720000.ew.r.appspot.com
 validaten-vy8h-dot-mail-auth-001100.uw.r.appspot.com
 validateo-wozr-dot-mail-auth-001100.uw.r.appspot.com
 validatev-id9krw-dot-mail-auth-001100.uw.r.appspot.com
@@ -15080,7 +15079,6 @@ wallet-trezor-secure.pages.dev
 wallet-uphold-eng-us.pages.dev
 wallet-us-cdn-trezor.webflow.io
 walletconnectsdapps.firebaseapp.com
-walletdeficonnect.firebaseapp.com
 walletssync.firebaseapp.com
 walletssync.web.app
 wallett---trzrrr.pages.dev
@@ -15121,6 +15119,7 @@ wdcm2j.webwave.dev
 wdfacosi.wpdevcloud.com
 wdfcsefcuonlineknewver.weebly.com
 wdjhgwer78.weebly.com
+wdvzpvssvnwscvpg.loyedo7220.workers.dev
 web-ac-maj.boxmode.io
 web-activateddcard.firebaseapp.com
 web-activateddcard.web.app
@@ -15546,6 +15545,7 @@ www-acheminement-lundi.com
 www-banerbamk.top
 www-choisir-lockers.com
 www-choisir-pickup-fr.com
+www-choisir-pickup-vendredi.com
 www-choisir-son-locker.com
 www-client-jeudi-paiement.com
 www-client-locker.com
@@ -15597,6 +15597,7 @@ www-nomura.gshjagc.com
 www-nomura.jnyqhk.com
 www-nomura.qwyc888.com
 www-nomura.szcyszdh.com
+www-nomura.ynqufu.com
 www-pickup-client-fr.com
 www-pickup-clients-fr.com
 www-pickup-clients.com
@@ -15613,6 +15614,7 @@ www-pickup-suivi-fr.com
 www-pickup-suivis.com
 www-pickup-urgence-fr.com
 www-pickup-urgent.com
+www-pickup-vendredi-prgm.com
 www-pickup-web.com
 www-planning-coursiers.com
 www-portage-mrelay.com
@@ -15667,6 +15669,7 @@ www.apteka-sadivnyka.ua
 www.aptosgaminglabs.com
 www.art.com
 www.asisa.com.co
+www.axsroute.com
 www.ayniplast.pe
 www.azmodelsearch.com
 www.bacfinancial.biz
@@ -15832,7 +15835,6 @@ www.vitalis-renouv.info
 www.wealthguaranteed.org
 www.web-docu-co.info
 www.wegivethanksinc.org
-www.wiadomoscitwoje-rmfmiasto.pl.asia222.webd.pro
 www.workjunction.in
 www.zeilkamp.info
 www2--mlcauerard--co--jp--mlaocredd-caidrams68592-workers-dev.translate.goog
@@ -16026,6 +16028,7 @@ yadammanajk.blogspot.com
 yagfalabfgal.blogspot.com
 yah00m3.weebly.com
 yahomsgtyttdgj.weebly.com
+yahoomailinccca.weebly.com
 yahoomails.ukit.me
 yahoomailv.boxmode.io
 yahoomailzayy98765.boxmode.io
@@ -16133,6 +16136,7 @@ zapmetamstsc.firebaseapp.com
 zapmetamstsc.web.app
 zapost-id2981.firebaseapp.com
 zapost-id2981.web.app
+zara-invitation.vercel.app
 zbabiys.blogspot.com
 zbthrl.com
 zc6amadny.duckdns.org
