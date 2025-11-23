@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sun Nov 23 04:17:58 UTC 2025
-# Number of unique domains: 15120
+# Date: Sun Nov 23 08:08:16 UTC 2025
+# Number of unique domains: 15101
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -719,7 +719,6 @@ allegro.6754378.rest
 allegro.74648.me
 allegro.74682.me
 allegro.76848.me
-allegro.784847.click
 allegro.78682.me
 allegro.78684.me
 allegro.82673020.pl
@@ -728,7 +727,6 @@ allegro.pl-1231414.icu
 allegro.pl-12879.shop
 allegro.pl-12897.shop
 allegro.pl-163910.icu
-allegro.pl-37398.cfd
 allegro.pl-3888519.cfd
 allegro.pl-432592434.sbs
 allegro.pl-49991412.icu
@@ -801,6 +799,7 @@ allegro.pl-oferta234235.icu
 allegro.pl-oferta2453224.sbs
 allegro.pl-oferta2645325.icu
 allegro.pl-oferta3132152.shop
+allegro.pl-oferta3289900.cfd
 allegro.pl-oferta3446564.shop
 allegro.pl-oferta3460677.shop
 allegro.pl-oferta34751924.shop
@@ -808,13 +807,14 @@ allegro.pl-oferta35912351.shop
 allegro.pl-oferta3644137.icu
 allegro.pl-oferta3949913.sbs
 allegro.pl-oferta4020398.cfd
-allegro.pl-oferta4127951932515.sbs
 allegro.pl-oferta4141263647.shop
 allegro.pl-oferta4143026.icu
 allegro.pl-oferta45334.com
 allegro.pl-oferta458972.cfd
 allegro.pl-oferta4614510.shop
+allegro.pl-oferta47862.cfd
 allegro.pl-oferta48943.cfd
+allegro.pl-oferta48961.cfd
 allegro.pl-oferta5119370.shop
 allegro.pl-oferta515211.info
 allegro.pl-oferta5577972.shop
@@ -881,11 +881,11 @@ allegro.pl-ofertax081247.shop
 allegro.pl-ofertx5326411.shop
 allegro.pl-ofertx53647511.shop
 allegro.pl-przedmiot5363846.icu
-allegro.pl-zamowienie84238583675357323722533772263.cfd
 allegro.pl-zamowienie84238583675357323722533772567.cfd
 allegro.pl1036.cfd
 allegro.pl60213.icu
 allegro.pl60312.cfd
+allegro.pl60421.icu
 allegrolokalnie.0-230-23.rest
 allegrolokalnie.00002555-coi2.cfd
 allegrolokalnie.012512.shop
@@ -911,6 +911,7 @@ allegrolokalnie.51285178sjasj.cyou
 allegrolokalnie.536721.shop
 allegrolokalnie.5431654.rest
 allegrolokalnie.5483o23-3828n12.rest
+allegrolokalnie.55741.icu
 allegrolokalnie.583-prywatnie5951-125125192.cfd
 allegrolokalnie.63771574.pl
 allegrolokalnie.643646.me
@@ -940,7 +941,6 @@ allegrolokalnie.id8764148921.shop
 allegrolokalnie.id87941240.shop
 allegrolokalnie.inne-1932834845.rest
 allegrolokalnie.inne-194385754.rest
-allegrolokalnie.inne-23848452.rest
 allegrolokalnie.ka-50393-prywatne251.sbs
 allegrolokalnie.katefgoria-dom-i-ogrvod-032c6.rest
 allegrolokalnie.kategoria-oferty-kompresory-i-sprezarki-3.sbs
@@ -1029,7 +1029,6 @@ allegrolokalnie.pl-64111234211343395122749922233f45.cfd
 allegrolokalnie.pl-6435523432.shop
 allegrolokalnie.pl-743193.icu
 allegrolokalnie.pl-798678658.shop
-allegrolokalnie.pl-82762255262637l7262651616778287262.icu
 allegrolokalnie.pl-828393.sbs
 allegrolokalnie.pl-873213.pro
 allegrolokalnie.pl-8758751.cfd
@@ -1125,6 +1124,7 @@ allegrolokalnie.pl-oferta2699247-laptop-gamingowy-i7-gtx-960m.sbs
 allegrolokalnie.pl-oferta27783.cfd
 allegrolokalnie.pl-oferta304030409.sbs
 allegrolokalnie.pl-oferta3104822.icu
+allegrolokalnie.pl-oferta3289900.cfd
 allegrolokalnie.pl-oferta3353849.shop
 allegrolokalnie.pl-oferta3460677.shop
 allegrolokalnie.pl-oferta34751924.shop
@@ -1145,6 +1145,7 @@ allegrolokalnie.pl-oferta482023.cfd
 allegrolokalnie.pl-oferta48239145.shop
 allegrolokalnie.pl-oferta482823.cfd
 allegrolokalnie.pl-oferta48943.cfd
+allegrolokalnie.pl-oferta48961.cfd
 allegrolokalnie.pl-oferta5036990.cfd
 allegrolokalnie.pl-oferta5119370.shop
 allegrolokalnie.pl-oferta564088799.sbs
@@ -1178,7 +1179,6 @@ allegrolokalnie.pl-oferta826132.icu
 allegrolokalnie.pl-oferta826327524.com
 allegrolokalnie.pl-oferta8295261.sbs
 allegrolokalnie.pl-oferta83213941.shop
-allegrolokalnie.pl-oferta8328138193.shop
 allegrolokalnie.pl-oferta834694.sbs
 allegrolokalnie.pl-oferta834742.icu
 allegrolokalnie.pl-oferta8372130.shop
@@ -1253,6 +1253,7 @@ allegrolokalnie.pl3485.cfd
 allegrolokalnie.pl60213.icu
 allegrolokalnie.pl60312.cfd
 allegrolokalnie.pl60325.icu
+allegrolokalnie.pl60421.icu
 allegrolokalnie.pll-kategoria74716248124567.shop
 allegrolokalnie.plsd2bgflstasd56cgk.icu
 allegrolokalnie.plsd2bgflstasm56cgk.icu
@@ -1304,7 +1305,6 @@ amazonlogin.webflow.io
 ambernamesweb.com
 ambiente2133.weebly.com
 ambienteponto.info
-ambienteseguro.click
 ameli-actif.com
 ameli-actualisation.com
 ameli.assurancemaladiecarte-vitale.com
@@ -2807,7 +2807,6 @@ bcinformativo.webcindario.com
 bcipremio.webcindario.com
 bciserv-90d7c.firebaseapp.com
 bciserv-90d7c.web.app
-bcitz.top
 bciuk.top
 bcode-wallet.firebaseapp.com
 bcode-wallet.web.app
@@ -3262,7 +3261,6 @@ bt-broadband-btbtbj-app-a.glide.page
 bt-broadband-interne-8939.glide.page
 bt-broadband.sellfy.store
 bt-broadbanddelightful.sellfy.store
-bt-broadbandstella.sellfy.store
 bt-broadbandstellar.sellfy.store
 bt-cmp.link.cam
 bt-ee-105385.weeblysite.com
@@ -3337,7 +3335,6 @@ btinternetcustomersupport123.weebly.com
 btinternetemail.boxmode.io
 btinternetertry-104742.weeblysite.com
 btinternetfghjk-108771.weeblysite.com
-btinternethsdhj.weeblysite.com
 btinternetjhkkh.weeblysite.com
 btinternetmailupdate2024ix.weebly.com
 btinternetself.sellfy.store
@@ -5847,7 +5844,6 @@ forecobatservicefr.firebaseapp.com
 forecobatservicefr.web.app
 forestguardian-leafseeker.blogspot.com
 form.asana.com
-formcenterhub.com
 formob-cf1e8.firebaseapp.com
 formob-cf1e8.web.app
 forney-construction.myportfolio.com
@@ -6719,7 +6715,6 @@ hiworkskr919.weebly.com
 hjbclo.com
 hjdhjdjh.weeblysite.com
 hjdhjhjfjhf.weeblysite.com
-hjfyyh45.weebly.com
 hjgh7878.weebly.com
 hjhhguhj89jkj9ply7676fu.weebly.com
 hjkl-db1e5.firebaseapp.com
@@ -7492,7 +7487,6 @@ kdspolonhja.web.app
 keeslerfcuonlin.firebaseapp.com
 keeslerfcuonlin.web.app
 kemlugo.weebly.com
-ken-judith09-my-cheetah-website.site.builderallsite.com
 kentamovieservicefr.firebaseapp.com
 kentamovieservicefr.web.app
 kerorpls.weebly.com
@@ -7675,7 +7669,6 @@ laclope-40e6a.web.app
 lacoectc19-26.weebly.com
 ladmcu.firebaseapp.com
 ladmcu.web.app
-laedgr-wallet-us.pages.dev
 lafehoy263.mvt.so
 lahka-f50cf.firebaseapp.com
 lahka-f50cf.web.app
@@ -8079,7 +8072,6 @@ m.tdesktop.telega.one
 m04hpqw63.ukit.me
 m0axqo.webwave.dev
 m109751101487.square.site
-m24seguranca.icu
 m27.737.mytemp.website
 m3ilunifiitroundcube.weebly.com
 m40842errorcode9022ssdw.w3spaces.com
@@ -8985,7 +8977,6 @@ my-site-101506-108122.weeblysite.com
 my-site-101602-104503.weeblysite.com
 my-site-102029-103594.square.site
 my-site-102623.square.site
-my-site-104025-105727.weeblysite.com
 my-site-104155-108977.weeblysite.com
 my-site-104187-104342.weeblysite.com
 my-site-105577-103071.weeblysite.com
@@ -10243,7 +10234,6 @@ produb.webcindario.com
 produban.webcindario.com
 produbanc-32.webcindario.com
 produbanc0.webcindario.com
-produbanc0nlinetrop.vercel.app
 produbanco-enlinea.vercel.app
 produbanco-prest.webcindario.com
 produbanco2024.webcindario.com
@@ -10495,7 +10485,6 @@ qzbhja.webwave.dev
 r-ckerstattung.vercel.app
 r-web-2a3a9.firebaseapp.com
 r-web-2a3a9.web.app
-r0b-finan0cua79p.weebly.com
 r0bypasf.forms.app
 r0osra.webwave.dev
 r1r.954.mytemp.website
@@ -11154,7 +11143,6 @@ screen.boxmode.io
 scrtc.weebly.com
 scrtcc.weebly.com
 scsfsx56e76fdc98df.weebly.com
-scsjcsuper.sellfy.store
 scv-95742100579.southamerica-east1.run.app
 sd0z5d4.blogspot.com
 sd5hup4yo5vj7p5g35l36m843brzhpj.pages.dev
@@ -11717,6 +11705,7 @@ smartlayerboard.web.app
 smartparcelchain.firebaseapp.com
 smartparcelchain.web.app
 smartresolverpanel.firebaseapp.com
+smartwallet-trezor.com
 smashdorlayert.firebaseapp.com
 smbc-card.atljix.com
 smbc-card050.club
@@ -12060,7 +12049,6 @@ statusgd-northstar-page.web.app
 stawar-prosgfant00020.firebaseapp.com
 stawar-prosgfant00020.web.app
 stayilerteverwisecuorg.weebly.com
-steamcommunllity.com
 steamcomnunnlty.com
 steamcomunmitty.com
 steamstoredeal.weebly.com
@@ -12180,7 +12168,6 @@ support-inc-sylc.weebly.com
 support-index-mailling.weebly.com
 support-inter.webcindario.com
 support-ldgercom-hub.pages.dev
-support-ldgr-pages.pages.dev
 support-ledgr-com-helps-us.pages.dev
 support-ledgr-io-us.pages.dev
 support-live-ledges.pages.dev
@@ -13254,7 +13241,6 @@ validvienda.webcindario.com
 valldhebronbarcelon.weebly.com
 valleymushrooms.co.nz
 vanatus.surge.sh
-vandizzel.byethost32.com
 vaneldangueldase.firebaseapp.com
 vaneldangueldase.web.app
 vanicadaranebanistercaris.firebaseapp.com
@@ -13601,7 +13587,6 @@ vpass-jp.jlzlu.cn
 vpass-jp.jmdda.cn
 vpass-jp.jwefk.cn
 vpass-jp.jwwdix.cn
-vpass-jp.kbehk.cn
 vpass-jp.kpjsv.cn
 vpass-jp.ksakc.cn
 vpass-jp.kysat.cn
@@ -13722,7 +13707,6 @@ vpass-ne.dgcep.cn
 vpass-ne.dvxudz.cn
 vpass-ne.ecvmst.cn
 vpass-ne.egime.cn
-vpass-ne.egowp.cn
 vpass-ne.fujyx.cn
 vpass-ne.hqddm.cn
 vpass-ne.mrxci.cn
@@ -14566,7 +14550,6 @@ www.web-docu-co.info
 www.wegivethanksinc.org
 www.whausttiapppn.com
 www.wiadomoscitwoje-rmfmiasto.pl.asia222.webd.pro
-www.www-vpass-logln.help
 www.ynzaog.cn
 www.zeilkamp.info
 www2--mlcauerard--co--jp--mlaocredd-caidrams68592-workers-dev.translate.goog
@@ -14608,7 +14591,6 @@ www3-vpass.gtffg.cn
 www3-vpass.gvjpg.cn
 www3-vpass.gzggi.cn
 www3-vpass.happyboxe.com
-www3-vpass.hengxiangstore.com
 www3-vpass.hszva.cn
 www3-vpass.hwlup.cn
 www3-vpass.hxzdze.cn
@@ -14872,7 +14854,6 @@ yape-1.webcindario.com
 yape-3.webcindario.com
 yape-seguridad.webcindario.com
 yapebolivia.webcindario.com
-yardclaat.com
 yarezpo.firebaseapp.com
 yasdroumenhouna.firebaseapp.com
 yasdroumenhouna.web.app
