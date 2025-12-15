@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Mon Dec 15 16:10:46 UTC 2025
-# Number of unique domains: 14052
+# Date: Mon Dec 15 20:08:14 UTC 2025
+# Number of unique domains: 14080
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -135,6 +135,7 @@
 2fwebmail-maastrich-tuniversity-nl.weebly.com
 2kmyteam.weebly.com
 2ndexpro.webcindario.com
+2nje2odczotcuq2p-3s0nbandws3lzqmh99n0vpd0f.weebly.com
 2xn7ko.weebly.com
 2xn9ko.weebly.com
 3-bancodeloja.webcindario.com
@@ -295,7 +296,6 @@
 7gidsrttyhi0plnbxa1wsedrty7t6yufyugy.weebly.com
 7txhjdncdblxdco3c.square.site
 7zmail.weebly.com
-81sqb47a.cn
 8329swqz021488hg6hlkk8980020200sl0l.blogspot.com
 832a1f5a.6e6248522346e7b34cdee839.workers.dev
 846221.fr-relay-colis.com
@@ -433,6 +433,7 @@ accepaccound.start.page
 accept-ios-4f332.firebaseapp.com
 accept-ios-4f332.web.app
 acces-client-91408.web.app
+acces7.godaddysites.com
 acceservicelogfr.firebaseapp.com
 acceservicelogfr.web.app
 acceso-bhd.webcindario.com
@@ -710,6 +711,7 @@ alertadecuentas.webcindario.com
 alertascliente.webcindario.com
 aletknyafxcluis.firebaseapp.com
 aletknyafxcluis.web.app
+alexandre.votre-point-relay.com
 alexseaboldclientfr.firebaseapp.com
 alexseaboldclientfr.web.app
 alfaaka.boxmode.io
@@ -743,13 +745,11 @@ allegro.548325.me
 allegro.58215.cyou
 allegro.61427.cyou
 allegro.6252.click
-allegro.625342342934.sbs
 allegro.6338491.click
 allegro.636529.click
 allegro.65352.icu
 allegro.6545326.sbs
 allegro.65893.me
-allegro.6721842.cfd
 allegro.6754378.rest
 allegro.677383.click
 allegro.717097.cyou
@@ -796,7 +796,6 @@ allegro.pl-kategorie84912847263.cfd
 allegro.pl-kategorie84912912849.cfd
 allegro.pl-kategorie9841872416728349842.shop
 allegro.pl-ofert526437.shop
-allegro.pl-oferta034356.icu
 allegro.pl-oferta0928120341.shop
 allegro.pl-oferta1449608.icu
 allegro.pl-oferta1839907.cfd
@@ -945,7 +944,6 @@ allegrolokalnie.oferta212472.sbs
 allegrolokalnie.oferta2133863.sbs
 allegrolokalnie.oferta21339422.sbs
 allegrolokalnie.oferta2136311.sbs
-allegrolokalnie.oferta2164831.icu
 allegrolokalnie.oferta2184921.sbs
 allegrolokalnie.oferta2384591.click
 allegrolokalnie.oferta2384631.icu
@@ -1008,7 +1006,6 @@ allegrolokalnie.pl-99934714.cyou
 allegrolokalnie.pl-a532367018219.icu
 allegrolokalnie.pl-afa55kkdgh6ljrgakyt78766hgafahjnk.cfd
 allegrolokalnie.pl-c7992112567899986433212455.cfd
-allegrolokalnie.pl-elektronika.top
 allegrolokalnie.pl-elektronika5162.cfd
 allegrolokalnie.pl-elektronika7352.sbs
 allegrolokalnie.pl-elektronika8241.sbs
@@ -1048,6 +1045,7 @@ allegrolokalnie.pl-oferta198185351.sbs
 allegrolokalnie.pl-oferta200172.sbs
 allegrolokalnie.pl-oferta22152269.sbs
 allegrolokalnie.pl-oferta23123.sbs
+allegrolokalnie.pl-oferta238923.cfd
 allegrolokalnie.pl-oferta304030409.sbs
 allegrolokalnie.pl-oferta32132.sbs
 allegrolokalnie.pl-oferta33121-apple-watch-ultra-3-gps.sbs
@@ -1056,11 +1054,11 @@ allegrolokalnie.pl-oferta3705365-google-pixel-10-nowy.sbs
 allegrolokalnie.pl-oferta4020398.cfd
 allegrolokalnie.pl-oferta458182.icu
 allegrolokalnie.pl-oferta48943.cfd
-allegrolokalnie.pl-oferta5020133.icu
 allegrolokalnie.pl-oferta51155749.sbs
 allegrolokalnie.pl-oferta5236.sbs
 allegrolokalnie.pl-oferta531682.icu
 allegrolokalnie.pl-oferta531685.sbs
+allegrolokalnie.pl-oferta531686.sbs
 allegrolokalnie.pl-oferta5611206.cfd
 allegrolokalnie.pl-oferta57842.cfd
 allegrolokalnie.pl-oferta59108619.sbs
@@ -1301,6 +1299,7 @@ app.biaresolvetudo.info
 app.biavantagem.info
 app.biavantagem.sa.com
 app.bonificacaoresgate.pro
+app.bradescox.com
 app.clickmelhorresgate.live
 app.clickmelhorresgate.pro
 app.clickmelhorresgates.live
@@ -1312,15 +1311,18 @@ app.consultartroca.digital
 app.consultartroca.live
 app.escolhapresente.click
 app.escolhapresente.za.com
+app.garantiresgateonline.info
+app.garantiresgateonlines.live
 app.garantirresgate.online
 app.horadapromo.za.com
+app.iniciodoresgate.pro
+app.iniciodoresgates.digital
 app.melhoratendimentores.digital
 app.melhoratendimentores.live
 app.melhoratendimentoresgate.info
 app.netclienteempresa.live
 app.notificarresgateclique.click
 app.parceirocaixa.com.br
-app.pontosdabiax.com
 app.presentedabia.click
 app.promocaoimediata.live
 app.promohoje.info
@@ -1330,6 +1332,22 @@ app.resgatecerto.online
 app.resgateclickmelhor.digital
 app.resgateclickmelhor.info
 app.resgateclickmelhor.pro
+app.resgatedopremio.click
+app.resgatedopremio.info
+app.resgatedopremio.live
+app.resgatedopremio.pro
+app.resgatedopremios.pro
+app.resgatefuturobr.info
+app.resgatefuturobr.live
+app.resgateparceria.info
+app.resgateparceria.live
+app.resgateparceria.pro
+app.resgateparcerias.live
+app.resgateparcerias.pro
+app.resgatependente.pro
+app.resgatependentes.live
+app.resgateperfeitonline.info
+app.resgateperfeitonline.live
 app.resgatepremiado.sa.com
 app.resgatepremium.info
 app.resgatepremium.pro
@@ -1546,6 +1564,7 @@ att-indexmembers.firebaseapp.com
 att-indexmembers.web.app
 att-log.ukit.me
 att-logs.ukit.me
+att-mail-105005.weeblysite.com
 att-mail.link.cam
 att-mail.pory.app
 att-mobile.link.cam
@@ -2778,6 +2797,7 @@ berhandbagestionfr.firebaseapp.com
 beriomerwasiner.weebly.com
 berlitnunbgg.firebaseapp.com
 berlitnunbgg.web.app
+berman.votre-point-relay.com
 beromerdbuin.weebly.com
 beroud.clients-smspickup.com
 beruiomertf.weebly.com
@@ -3045,6 +3065,7 @@ bqyjxdrxsq.web.app
 br-2421-e33d1fb574e7ab7ede884f69e0b147de-p4rfo63nt-acq-ui-eng.vercel.app
 br-2441-02ced9604df3a000f4dfe50e3a1d1e06-qfq8dcdsu-acq-ui-eng.vercel.app
 brade-931204387106.southamerica-east1.run.app
+bradescard-centurion.com
 bradescard-conviteblack.world
 bradesco-livelocartoes.com
 bradesco-pfseg.online
@@ -3770,6 +3791,7 @@ clientbhdappl.imi.lat
 clientedispositivo.digital
 clientemodu.com
 clientenetonline.com
+clientescenturion.com
 clientmaison.ulcraft.com
 clientpickup-fr.com
 clients-ulys-vinci.com
@@ -4040,6 +4062,7 @@ corre0web.weebly.com
 correcaoitoken.com
 corrector.co
 correctsathi.in
+correo-es-valide.weebly.com
 correo-outlookweb-admin.weebly.com
 correo-rtp-cdmx-gob-mx.weebly.com
 correo87765.weebly.com
@@ -4227,6 +4250,7 @@ currentlyatt551.weebly.com
 currentlyattcommsyahoonet.weeblysite.com
 currentlyattyahoocom.boxmode.io
 currentlyattyahoologinservice.boxmode.io
+currentyreservedexobase.duckdns.org
 cuscatlan-web.webcindario.com
 cuscatlanpago5.webcindario.com
 cuscatlansv9580.webcindario.com
@@ -4833,7 +4857,6 @@ eaglesecureorg.weebly.com
 eagtjjucl.firebaseapp.com
 eagtjjucl.web.app
 eamcsrewards.weebly.com
-earlier-experiences-391581.framer.app
 early-upright-mongrel.edgecompute.app
 earthlinktttdddss.weebly.com
 earthshare.myportfolio.com
@@ -5783,6 +5806,7 @@ g65d5w68g6dw6vff8dd.for-better.biz
 g81ykq.webwave.dev
 ga-passport.firebaseapp.com
 ga-passport.web.app
+gadebois.votre-point-relay.com
 gadkljhtzkk.blogspot.com
 gadyshh.weebly.com
 gaera79taga.start.page
@@ -6029,7 +6053,9 @@ go-to-links.firebaseapp.com
 go-to-links.web.app
 go2fbt.weebly.com
 goash-electric.myportfolio.com
+goblet.votre-point-relay.com
 gobshajakdjhf.weebly.com
+goek.votre-point-relay.com
 goemediapercetakan.com
 gogxbwnxhzmv.myfunnelish.com
 gold-strengthening-659131.framer.app
@@ -6447,7 +6473,6 @@ homegeneralitatdecatalunya.weebly.com
 homemodx.webcindario.com
 homesintheus.com
 homevcenter-barural-gt.liveblog365.com
-homewebonlineyahoo-05211.weeblysite.com
 homfedsavingsbank.weebly.com
 honestanne300.myportfolio.com
 hopee12.weebly.com
@@ -7524,7 +7549,6 @@ lit-software-services.web.app
 literate-happiness-six.vercel.app
 live-3rivers-fcu-101.firebaseapp.com
 live-3rivers-fcu-101.web.app
-live-ledgerdesktp.pages.dev
 live-legerslogn.webflow.io
 live120-gw-cu-pro554.firebaseapp.com
 live120-gw-cu-pro554.web.app
@@ -7834,6 +7858,7 @@ mailprijavabhtelecomwebmail.weebly.com
 mailrat.weebly.com
 mailsecurecontentalert.weebly.com
 mailserver04.weeblysite.com
+mailserverroundcubewebmailround.weebly.com
 mailservice0973.weebly.com
 mailserviceatt.makeweb.co
 mailteam767485.weebly.com
@@ -7955,6 +7980,7 @@ mbway-app.firebaseapp.com
 mbway-app.web.app
 mc-rccorpmail-mc21.firebaseapp.com
 mc-rccorpmail-mc21.web.app
+mc.login.exacttaarget.com
 mcandm82-mdb5-free-standard.mdbgo.io
 mccubankingonline.weebly.com
 mcdonalds-a39a2.firebaseapp.com
@@ -8594,6 +8620,7 @@ myattvoicemessage.pory.app
 myauburnsavings.weebly.com
 mybarharbor-acc-sec.weebly.com
 mybetterbanks.weebly.com
+mybfrstsatebnkrev.weebly.com
 mybt-9033333.sellfy.store
 mybt-cl3qf.daftpage.com
 mybteecomms.framer.ai
@@ -8640,6 +8667,7 @@ mymicroshop.weebly.com
 mymobileapp-home.firebaseapp.com
 mymobileapp-home.web.app
 mymts-105156joy.weeblysite.com
+mymts334493795.weebly.com
 mynewtonmfg.firebaseapp.com
 mynewtonmfg.web.app
 myofficboxx.myportfolio.com
@@ -9444,7 +9472,6 @@ personaliteseguranca.digital
 personnalite.utilizeagora.com
 pestomatoes-4da91.firebaseapp.com
 peterfancy.sellfy.store
-petitetapette.relais-pickup-dom.com
 petronilho.com.br
 pexa-exec878656645464564756757656456465.firebaseapp.com
 pexa-exec878656645464564756757656456465.web.app
@@ -9777,7 +9804,6 @@ proj-ac6e2.firebaseapp.com
 proj-ac6e2.web.app
 project-6516846.firebaseapp.com
 project-6516846.web.app
-project-ledjer-wallet.pages.dev
 project-nav-cnbase-logn.square.site
 project-page-loading.firebaseapp.com
 project-page-loading.web.app
@@ -10197,7 +10223,6 @@ registrate-aqui3.webcindario.com
 registro-digital-2025-hplm.cr-web.workers.dev
 reglement-peage-fr.com
 reglement-sanefpeages.com
-regler-votrepeage.com
 regularisation-ulysfr.com
 regulariser-peageroute.com
 regularizarapp.com
@@ -10382,7 +10407,6 @@ rktwzc.webwave.dev
 rmichaelgriffin.com
 rnondial-relay-fr.com
 rnveb-za.weebly.com
-ro-web-service.weebly.com
 robbbnhudloggionn.webflow.io
 robenhoodelogin.imweb.me
 robin-hood.w3spaces.com
@@ -10654,7 +10678,6 @@ secure-page-2023.start.page
 secure-paymentech.co.com
 secure-pioneerbandt-acc.weebly.com
 secure-sqare-authh.typedream.app
-secure-trzoir-help.pages.dev
 secure-univ-antilles-fr.weebly.com
 secure-web-ndxxa-cdns.typedream.app
 secure.controllers.world
@@ -11784,6 +11807,7 @@ telegramweb.vercel.app
 telekom-privatkunden-de.com
 telekomloginbenutzernameeingeben.weebly.com
 telekomloginweiter.weebly.com
+telemachsi.weebly.com
 telepaiement-infos.com
 teleperformancerabota.ru
 telkom-logiin-page.weebly.com
@@ -11855,6 +11879,7 @@ test2258-f1945.firebaseapp.com
 test2258-f1945.web.app
 testingmfa.com
 testpage-dqq.pages.dev
+tether-1h9.pages.dev
 tevoisg.com
 tevomuhendislik.com.tr
 tex-ttt.weebly.com
@@ -11892,6 +11917,7 @@ themessagingcompanywebmail.weebly.com
 themindfulspine.com
 themoufservices.start.page
 thenen.weebly.com
+theo.votre-point-relay.com
 theragoode-54032.firebaseapp.com
 theragoode-54032.web.app
 therealnewsviews.com
@@ -13130,6 +13156,7 @@ webmailupgarde.weebly.com
 webmailverifcatiozzx.weebly.com
 webmailverificatioxz.weebly.com
 webmainn.weebly.com
+webmaipuceeduec.weebly.com
 webmal-0xcs-nets0l.replit.app
 webmasterfrance.weebly.com
 webmvcxvb.weebly.com
@@ -13201,6 +13228,7 @@ westoneledrago.firebaseapp.com
 westoneledrago.web.app
 wetransconect-71216.firebaseapp.com
 wetransconect-71216.web.app
+wetransferfile.weebly.com
 wetransfert-fichiersdownload.weebly.com
 wevpn.vercel.app
 wewewecodesadwewesadwe.weebly.com
@@ -13290,6 +13318,7 @@ wp-sw9j0y209w5q0sj87s3d23w7923.blogspot.com
 wp73jw.webwave.dev
 wpcu0nline.weebly.com
 wpcu0nlineewpcu.weebly.com
+wpcucoopqwwebonlinerht.weebly.com
 wpcuuonholdcare.weebly.com
 wphposrec.weebly.com
 wpiabfrtmwgy.myfunnelish.com
@@ -13303,6 +13332,7 @@ wrightpaatcucare.weebly.com
 wrightpatcaceautore.weebly.com
 wrightpatcudador.weebly.com
 wrightpatt-0nhold.weebly.com
+wrightpattccucoop.weebly.com
 wrightpattcu-coop.weebly.com
 wrightpattcuccoop.weebly.com
 wrightpattcucooop.weebly.com
@@ -13340,7 +13370,6 @@ wwvfazenda8-pgmei.com
 www-autoroutes-vinci.com
 www-choisir-lockers.com
 www-choisir-son-locker.com
-www-client-mardi-pgrm.com
 www-clients-pickup.com
 www-conta-nett-gold.blogspot.com
 www-convergapay.top
@@ -13371,7 +13400,6 @@ www-prgm-pickup.com
 www-prioritaire-coursier.com
 www-programmation-lock.com
 www-relais-coursier.com
-www-simmonsbank.top
 www-simmonsbonk.top
 www-smbc-co.utbbm.cn
 www-smbc-jp.kmtiu.cn
