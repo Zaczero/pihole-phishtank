@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Thu Dec 18 12:15:39 UTC 2025
-# Number of unique domains: 14064
+# Date: Thu Dec 18 16:07:06 UTC 2025
+# Number of unique domains: 14077
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -720,7 +720,6 @@ alldomainilogsviwes.weebly.com
 allegro-appassionato.org
 allegro-lokalne.pl-7284.icu
 allegro-lokalnie.pl-74629.sbs
-allegro-lokalnie.pl-80598.cfd
 allegro-lokalnie.pl-oferta322352532.icu
 allegro-lokalnie.pl34075013914.cfd
 allegro-lokalnie.pl564396.cfd
@@ -759,6 +758,8 @@ allegro.76848.me
 allegro.78684.me
 allegro.81522.click
 allegro.83249234.icu
+allegro.83346.icu
+allegro.84346.icu
 allegro.8751241.click
 allegro.9813021.cfd
 allegro.98364.me
@@ -781,7 +782,6 @@ allegro.pl-749154.icu
 allegro.pl-76432257753222577652777.sbs
 allegro.pl-78154.icu
 allegro.pl-78852.icu
-allegro.pl-8371291.cfd
 allegro.pl-9831588530.sbs
 allegro.pl-a532367018219.icu
 allegro.pl-a929350013.icu
@@ -864,7 +864,6 @@ allegrolokalnie.1524.click
 allegrolokalnie.1532.click
 allegrolokalnie.17361.click
 allegrolokalnie.1923098.xyz
-allegrolokalnie.20d82b38dh28dn3.sbs
 allegrolokalnie.2313.click
 allegrolokalnie.235851.click
 allegrolokalnie.23995239582.sbs
@@ -932,6 +931,7 @@ allegrolokalnie.oferta-7175768.icu
 allegrolokalnie.oferta-794892-dla-ciebie-proponowana.sbs
 allegrolokalnie.oferta-82615561.click
 allegrolokalnie.oferta-83942-dla-ciebie-proponowana.icu
+allegrolokalnie.oferta-857891.icu
 allegrolokalnie.oferta-894892-dla-ciebie-proponowana.sbs
 allegrolokalnie.oferta-9344302-dla-ciebie-proponowana.sbs
 allegrolokalnie.oferta-943822-dla-ciebie-proponowana.sbs
@@ -1063,7 +1063,6 @@ allegrolokalnie.pl-oferta5611206.cfd
 allegrolokalnie.pl-oferta57415675.cfd
 allegrolokalnie.pl-oferta57842.cfd
 allegrolokalnie.pl-oferta59108619.sbs
-allegrolokalnie.pl-oferta5921747.cfd
 allegrolokalnie.pl-oferta63230169.sbs
 allegrolokalnie.pl-oferta632731.cfd
 allegrolokalnie.pl-oferta6412594.icu
@@ -1085,6 +1084,7 @@ allegrolokalnie.pl-oferta776685.icu
 allegrolokalnie.pl-oferta78612r-ps5-vr-2-z-gwarancja.sbs
 allegrolokalnie.pl-oferta79206351.cfd
 allegrolokalnie.pl-oferta79206352.cfd
+allegrolokalnie.pl-oferta7963011.cfd
 allegrolokalnie.pl-oferta8017369-wydajny-komputer-gamingow-4k.sbs
 allegrolokalnie.pl-oferta814932.sbs
 allegrolokalnie.pl-oferta84392.cfd
@@ -1369,7 +1369,6 @@ app.resgateparceria.info
 app.resgateparceria.live
 app.resgateparceria.pro
 app.resgateparcerias.live
-app.resgatependente.pro
 app.resgatependentes.live
 app.resgateperfeitonline.live
 app.resgatepremiado.sa.com
@@ -1447,7 +1446,6 @@ arcxray.com.au
 ardentcusecurenow.weebly.com
 ardentonlinealert.weebly.com
 ardsleynyc.myportfolio.com
-aressardegna.weebly.com
 argprovin07.vastserve.com
 arhived.weebly.com
 aricomsemmrvicess.weebly.com
@@ -1544,9 +1542,11 @@ atenciones-gt.biz.site
 atencionintegral240.weebly.com
 atencionproame.webcindario.com
 atendibia.sa.com
+atendimento-ajuda.cfd
 atendimentobiaonline.digital
 atendimentobradesco.app
 atendimentodigitalbia.digital
+atendimentosempresa.cfd
 atendimentosuporte.click
 atendimentosuporte.info
 atendimentoviasac.digital
@@ -2665,6 +2665,7 @@ bancodoccidntee.webcindario.com
 bancogeneral21.webcindario.com
 bancolombia-creditoconvenio.vercel.app
 bancopanrefin.multidadosti.com.br
+bancovenezuelacreditospersonas.netlify.app
 bancrediecuador.webcindario.com
 bangbet.weebly.com
 bangenabayo.shop
@@ -2776,7 +2777,6 @@ bellsouth-att-sign-in-02e55b.webflow.io
 bellsouth-att-sign-in-08bbe2.webflow.io
 bellsouth-att-sign-in-093a8c.webflow.io
 bellsouth-att-sign-in-215b0d.webflow.io
-bellsouth-att-sign-in-312ed7.webflow.io
 bellsouth-att-sign-in-329c72.webflow.io
 bellsouth-att-sign-in-39e18c.webflow.io
 bellsouth-att-sign-in-3f84be.webflow.io
@@ -3069,6 +3069,7 @@ bot11abc-el4.pages.dev
 botbancopan.multidadosti.com.br
 botecodomanolo.blogspot.com
 botik.dk
+boukake.expde-transit-app.com
 bov-mobile-app.firebaseapp.com
 bov-mobile-app.web.app
 bov-mt.firebaseapp.com
@@ -3108,6 +3109,7 @@ bradesco.analisepf.com
 bradesco.chatcorporativo.sa.com
 bradesco.corporativo.sa.com
 bradesco.juntos-livelo.com
+bradesco.sacbia.online
 bradescoanalisepj.online
 bradescobia.portalweb.sa.com
 bradescoempresa.digital
@@ -4666,12 +4668,12 @@ docfactor-be6bd.firebaseapp.com
 docfactor-be6bd.web.app
 docfile07172023.myportfolio.com
 docrelogin.weebly.com
-docs-exod-us-web3.pages.dev
 docs-trezorlogin.blogspot.com
 docsignauthentication.weebly.com
 docsxword.myportfolio.com
 doctmoude.firebaseapp.com
 doctmoude.web.app
+doctolib-reunion.info
 doctorseervicee.weebly.com
 doctorssserver.weebly.com
 docu-sign-42534568743432143546576323123542633215465273.weebly.com
@@ -4774,6 +4776,9 @@ dorvoinsvetaiiu.blogspot.com
 dota-2official-freearcana-immortal.weebly.com
 doufatin.blogspot.com
 douglasvaughann-my-cheetah-website.site.builderallsite.com
+dpd-prtsvr.cfd
+dpd-prtsze.cfd
+dpd-prtszt.cfd
 dpd-ptcse.cfd
 dpd-ptrest.cfd
 dpd-ptrezt.cfd
@@ -5286,6 +5291,7 @@ euuomdrtk.web.app
 evenementlesinfos.firebaseapp.com
 evenementlesinfos.web.app
 everwisecrdtunonresetsitejiw.weebly.com
+evji-xbse-otps-djvk-uejg-sjei.netlify.app
 evkbjsved.firebaseapp.com
 evkbjsved.web.app
 evolua-cop.blogspot.com
@@ -5708,7 +5714,6 @@ fr-shumy.web.app
 fr-suivi-coursier.com
 fr-vinci-app.com
 fr-www-locker.com
-fr-www-prbs.com
 fr.wix.com
 fran33.weebly.com
 france-relais-infos.com
@@ -6248,7 +6253,6 @@ gytujfshmtyxkif.weebly.com
 h1d66x.blogspot.com
 h5c9jsw71.ukit.me
 h67mbm.webwave.dev
-h6h8wdg6wdg6nwfg6g6.servebbs.com
 h8rg56rdwgf46dhg5w6d.office-on-the.net
 haalapayswiden.blogspot.com
 hadafatya23sa.start.page
@@ -6892,7 +6896,6 @@ intra-frostbank-web-staging.azurewebsites.net
 intranet20033.weebly.com
 inv2023.firebaseapp.com
 inv2023.web.app
-inventive-goals-863832.framer.app
 investmentpulse.cc
 inveunturepog.firebaseapp.com
 inveunturepog.web.app
@@ -7254,6 +7257,8 @@ kkucoiinlogiain.webflow.io
 kkuikoinlogin.webflow.io
 klantendienstics.firebaseapp.com
 klantendienstics.web.app
+klarna-support.dns04.com
+klarna-verificaties.ddns.info
 klausklaus54.weebly.com
 kllllllla.weebly.com
 klounhdskla.firebaseapp.com
@@ -7295,7 +7300,6 @@ kraken-apps.firebaseapp.com
 kraken-apps.web.app
 kraken-loginnus.webflow.io
 krakenlogine-avj.pages.dev
-krakenloginii.webflow.io
 krakenloogin.pages.dev
 krakensllogin.pages.dev
 kranknloguins.webflow.io
@@ -7363,7 +7367,6 @@ kuucxionlognn.webflow.io
 kuyfgttgyuil.w3spaces.com
 kuytrhj.weebly.com
 kuyyuiop.w3spaces.com
-kuzzatumrea.weebly.com
 kwdbtrmww.web.app
 kx0tmr.webwave.dev
 kyc4w2.webwave.dev
@@ -7660,6 +7663,7 @@ login-raiffeisen-ebanking.web.app
 login-screen-dyanlluwi-106254.weeblysite.com
 login.293vkuv.top
 login.geniecleanservices.com
+login.microsoftonline.pintato.com.ar
 login.nxhcusp.cn
 login.securitybank-secure.workers.dev
 login1-authid-mail-posteo-oauth2onepass-hgthvcrsweeqeqeq.weebly.com
@@ -7716,6 +7720,7 @@ lorentz.planning-locker.com
 los-libertadorese-helpdesk.weebly.com
 losospl.github.io
 loteriacaixaoficial.sbs
+louchagne.expde-transit-app.com
 louddechargingbest.firebaseapp.com
 louddechargingbest.web.app
 louisvilleeduvalid.ukit.me
@@ -8445,6 +8450,9 @@ mondial-relay-choix.com
 mondial-relay-etape.com
 mondial-relay-journee.com
 mondial-relay-planning.com
+mondial-relayagenda.com
+mondial-relayetapes.com
+mondial-relaytrafic.com
 mondial-relaytransit.com
 mondial.relaysign.in
 mondialpass-relay.com
@@ -8741,6 +8749,7 @@ name-trezor-help-dvoy.vercel.app
 nanoegypt.com
 nanomeda.com
 nasringhadiria1e2.myportfolio.com
+nassab.expde-transit-app.com
 nassabdetect.prioritaire-pickupfr.com
 natalbauducco.vercel.app
 national-filing-service.com
@@ -8969,7 +8978,6 @@ nouxtot.web.app
 nouxtut.firebaseapp.com
 nouxtut.web.app
 novaguia-379577418433.southamerica-east1.run.app
-novakrealtyllc.com
 novedadesenlineaitauservices.vercel.app
 noveddcusctln.webcindario.com
 noventaenergy-ca161.firebaseapp.com
@@ -8979,6 +8987,7 @@ novoacesso.ru.com
 novoba1.systeme.io
 novoempresta.vercel.app
 novonaver.weebly.com
+novonetempresaspj.app
 now-ps.weebly.com
 nq7iqv.webwave.dev
 nrf9876234.firebaseapp.com
@@ -9584,7 +9593,6 @@ poczta2.weebly.com
 pocztaapolish.weebly.com
 pocztapolish.weebly.com
 point-pack-transit.com
-point-relais.livraison-relais-fr.com
 point-transit-attente.com
 pointblanktg.weebly.com
 pointmail87.weebly.com
@@ -9758,7 +9766,6 @@ process-3riversfcu-online.firebaseapp.com
 process-3riversfcu-online.web.app
 prod-bte-mailauth-bt-coaction-795304.framer.website
 prod-btemailauth-bt-com-voice-menu.framer.website
-prod-btemailauth-com81522fe7.framer.website
 prod-rd-10040.firebaseapp.com
 prod-rd-10040.web.app
 proddubank.webcindario.com
@@ -10408,6 +10415,7 @@ rioapzxoxoz.web.app
 riomeridianhotels.com
 riopunmertfinsa.weebly.com
 riosccopudepar.webcindario.com
+ripio.accesoauths.com
 ritae1e1.myportfolio.com
 rivapp-log.firebaseapp.com
 rivapp-log.web.app
@@ -10442,6 +10450,7 @@ rosenblattsappraisalservice.com
 rosewebmailaccountant.weebly.com
 rotshtein.ferreracademy.com
 roudaud.clients-smspickup.com
+rougnous.expde-transit-app.com
 roundcbecorreomxx.weebly.com
 roundccube.weebly.com
 roundcub8.firebaseapp.com
@@ -10574,6 +10583,7 @@ sanefautoroute-client.com
 sanefautoroutes-client.com
 sanefautoroutes-clients.com
 sanpix.com.br
+santander.netbanco-pt.app
 santiagoanthony.com
 santmxpresta.webcindario.com
 santnder-sms.info
@@ -10648,6 +10658,7 @@ scsfsx56e76fdc98df.weebly.com
 scv-95742100579.southamerica-east1.run.app
 sd0z5d4.blogspot.com
 sd5hup4yo5vj7p5g35l36m843brzhpj.pages.dev
+sdfghjghjh.surge.sh
 sdgvsdvsdvs.blogspot.com
 sdlkjsldkf.firebaseapp.com
 sdlkjsldkf.web.app
@@ -11551,6 +11562,7 @@ stowawaypay.com
 stpetersburgcollege365.ukit.me
 str.informalcraft.com
 strasbourginsa.weebly.com
+strato-server.clientarea82928.com
 strawberry-3az3-ps0a.6hfgwx79.workers.dev
 streak-ftp.weebly.com
 streamwebpage110.weebly.com
@@ -12187,6 +12199,7 @@ tt-109187.weeblysite.com
 ttdhgry.weebly.com
 ttelstrrra.weebly.com
 ttrezoorio-saitt.webflow.io
+ttsetet.expde-transit-app.com
 tttneewssforrandtwc.weebly.com
 tttttggggggggg.square.site
 ttttttccccc12.pages.dev
@@ -12738,7 +12751,6 @@ vhq8ed.webwave.dev
 viacredi.ailos.hallo.app
 viadeo.journaldunet.com
 vibecah.com
-victorious-stick-659825.framer.app
 vid-latvija.firebaseapp.com
 vid-latvija.web.app
 vid-lv-eds.firebaseapp.com
@@ -13805,6 +13817,7 @@ y1vcfa.webwave.dev
 y2o7v8.webwave.dev
 y768575845.weebly.com
 yadammanajk.blogspot.com
+yael-zzlsrwpsxzwffum9.builder-preview.com
 yagfalabfgal.blogspot.com
 yahoomaillingpage5.weeblysite.com
 yahoomails.ukit.me
