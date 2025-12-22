@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Mon Dec 22 16:06:16 UTC 2025
-# Number of unique domains: 14026
+# Date: Mon Dec 22 20:09:01 UTC 2025
+# Number of unique domains: 14012
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -270,6 +270,7 @@
 712290393670637388.weebly.com
 713592.relais-aide-fr.com
 72144728126491224-gsjgnmtikptk.start.page
+72891291nhg6hlkk89808889sl0l.blogspot.com
 731989395825512402.weebly.com
 74847854944.weebly.com
 7565meduniwien-ac-at.weebly.com
@@ -774,6 +775,7 @@ allegro.pl-6435523432.shop
 allegro.pl-6533952.cfd
 allegro.pl-653952.cfd
 allegro.pl-71130114122.cfd
+allegro.pl-711302134122.cfd
 allegro.pl-739218304.sbs
 allegro.pl-74128843.cyou
 allegro.pl-74130114122.cfd
@@ -806,13 +808,11 @@ allegro.pl-oferta4561884.pl
 allegro.pl-oferta4614510.shop
 allegro.pl-oferta58432.cfd
 allegro.pl-oferta6214153.icu
-allegro.pl-oferta63230169.sbs
 allegro.pl-oferta632731.cfd
 allegro.pl-oferta647834.sbs
 allegro.pl-oferta647892.sbs
 allegro.pl-oferta649378.sbs
 allegro.pl-oferta6722157.icu
-allegro.pl-oferta6722327.icu
 allegro.pl-oferta6728127.icu
 allegro.pl-oferta6734153.icu
 allegro.pl-oferta674893.sbs
@@ -825,6 +825,7 @@ allegro.pl-oferta73902541.cfd
 allegro.pl-oferta759383.cfd
 allegro.pl-oferta7619613.cfd
 allegro.pl-oferta7833346.rest
+allegro.pl-oferta784315.sbs
 allegro.pl-oferta79304128.cfd
 allegro.pl-oferta814932.sbs
 allegro.pl-oferta823419.cfd
@@ -835,6 +836,7 @@ allegro.pl-oferta8485766.cfd
 allegro.pl-oferta86054.cfd
 allegro.pl-oferta8605458740.cfd
 allegro.pl-oferta87126.cfd
+allegro.pl-oferta8764271.cfd
 allegro.pl-oferta893562.sbs
 allegro.pl-oferta8947426835289.shop
 allegro.pl-oferta8947648914.shop
@@ -890,6 +892,7 @@ allegrolokalnie.78626.me
 allegrolokalnie.82673020.pl
 allegrolokalnie.83249234.icu
 allegrolokalnie.856340oferta.sbs
+allegrolokalnie.87430.vu
 allegrolokalnie.87pl-uu87-hyud-5d.rest
 allegrolokalnie.9125125.click
 allegrolokalnie.9238482738472.sbs
@@ -928,7 +931,6 @@ allegrolokalnie.oferta-45092313-kategoria-dla-ciebie.sbs
 allegrolokalnie.oferta-45092317-kategoria-dla-ciebie.sbs
 allegrolokalnie.oferta-4509232-kategoria-dla-ciebie.sbs
 allegrolokalnie.oferta-54509235-kategoria-dla-ciebie.icu
-allegrolokalnie.oferta-559256-dla-ciebie-proponowana.icu
 allegrolokalnie.oferta-7175768.icu
 allegrolokalnie.oferta-794892-dla-ciebie-proponowana.sbs
 allegrolokalnie.oferta-82615561.click
@@ -967,7 +969,6 @@ allegrolokalnie.oferty-narzedzia-127362.cfd
 allegrolokalnie.oferty-ogloszenia-dla-ciebie-264527.icu
 allegrolokalnie.ogloszenie-953022.shop
 allegrolokalnie.p24-v98a9as0.shop
-allegrolokalnie.p4jgsdcj3rj4.sbs
 allegrolokalnie.pi-oferta-6700239272638.rest
 allegrolokalnie.pl-012255jagtwfwvy882kwgafwcbj22159kwhaga1.sbs
 allegrolokalnie.pl-0198609.icu
@@ -994,7 +995,6 @@ allegrolokalnie.pl-74130114122.cfd
 allegrolokalnie.pl-74130534122.cfd
 allegrolokalnie.pl-74131534122.cfd
 allegrolokalnie.pl-775421112344543223g4321344555r4433.icu
-allegrolokalnie.pl-8371291.cfd
 allegrolokalnie.pl-8372093245.sbs
 allegrolokalnie.pl-8376251441627273662636a6615155261d625515.cyou
 allegrolokalnie.pl-8864gguer75toyytoo5655uopiwetyop199teygz9.cfd
@@ -1049,7 +1049,6 @@ allegrolokalnie.pl-oferta238923.cfd
 allegrolokalnie.pl-oferta32132.sbs
 allegrolokalnie.pl-oferta33121-apple-watch-ultra-3-gps.sbs
 allegrolokalnie.pl-oferta34819.cfd
-allegrolokalnie.pl-oferta34839269.sbs
 allegrolokalnie.pl-oferta3705365-google-pixel-10-nowy.sbs
 allegrolokalnie.pl-oferta4020398.cfd
 allegrolokalnie.pl-oferta423413.sbs
@@ -1067,6 +1066,7 @@ allegrolokalnie.pl-oferta5410438.icu
 allegrolokalnie.pl-oferta5611206.cfd
 allegrolokalnie.pl-oferta57415675.cfd
 allegrolokalnie.pl-oferta6214153.icu
+allegrolokalnie.pl-oferta6234153.icu
 allegrolokalnie.pl-oferta63230169.sbs
 allegrolokalnie.pl-oferta6412594.icu
 allegrolokalnie.pl-oferta6427008.cfd
@@ -1084,11 +1084,11 @@ allegrolokalnie.pl-oferta674893.sbs
 allegrolokalnie.pl-oferta6834153.icu
 allegrolokalnie.pl-oferta738642.sbs
 allegrolokalnie.pl-oferta74630741.cfd
+allegrolokalnie.pl-oferta74730792.cfd
 allegrolokalnie.pl-oferta757322.cfd
 allegrolokalnie.pl-oferta761529921.cfd
 allegrolokalnie.pl-oferta764326.sbs
 allegrolokalnie.pl-oferta776685.icu
-allegrolokalnie.pl-oferta782479.sbs
 allegrolokalnie.pl-oferta78612r-ps5-vr-2-z-gwarancja.sbs
 allegrolokalnie.pl-oferta79206351.cfd
 allegrolokalnie.pl-oferta79206352.cfd
@@ -1100,6 +1100,7 @@ allegrolokalnie.pl-oferta8485766.cfd
 allegrolokalnie.pl-oferta849762.sbs
 allegrolokalnie.pl-oferta864936.com
 allegrolokalnie.pl-oferta87126.cfd
+allegrolokalnie.pl-oferta8764271.cfd
 allegrolokalnie.pl-oferta893409.sbs
 allegrolokalnie.pl-oferta894525.cfd
 allegrolokalnie.pl-oferta896372.sbs
@@ -1338,7 +1339,6 @@ app.melhoratendimentoresgate.info
 app.milhaspararesgate.live
 app.netclienteempresa.live
 app.notificarresgateclique.click
-app.ofertaclubeclientes.digital
 app.ofertatopbr.pro
 app.parceirocaixa.com.br
 app.presentedabia.click
@@ -1369,7 +1369,6 @@ app.resgatesuasconquistas.digital
 app.resgatesuasconquistas.sa.com
 app.resgatevalor.pro
 app.suas-vantagens.digital
-app.trocadeponts.pro
 app.trocaeresgate.info
 app.trocaseresgate.digital
 app.trocaseresgates.digital
@@ -2793,6 +2792,7 @@ bellsouth-att-sign-in-b58237.webflow.io
 bellsouth-att-sign-in-c9cb53.webflow.io
 bellsouth-att-sign-in-d139da.webflow.io
 bellsouth-att-sign-in-d4cfe2.webflow.io
+bellsouth-att-sign-in-edb829.webflow.io
 bellsouth-att-sign-in-ee0492.webflow.io
 bellsouth-att-sign-in-f297c7.webflow.io
 bellsouth-att-sign-in-fa4f00.webflow.io
@@ -2897,7 +2897,6 @@ bhdusuarlos.webcindario.com
 bhdusuarlos1.webcindario.com
 bhdvalidaciaon.webcindario.com
 bhdwebpage.vercel.app
-bhsrt45.blogspot.com
 bi-enlinea.webcindario.com
 bia.chatjuridico.live
 bia24hsatendimento.pro
@@ -3107,7 +3106,6 @@ bradesco.corporativo.sa.com
 bradesco.juntos-livelo.com
 bradesco.netatendimentopj.site
 bradesco.sacbia.online
-bradescoanalisepj.online
 bradescobia.portalweb.sa.com
 bradescoempresa.digital
 bradesconet.sa.com
@@ -3175,7 +3173,6 @@ brtnudeisoliso.firebaseapp.com
 brtpocvetolsd.weebly.com
 bru4gp.webwave.dev
 bruceteelnet.weebly.com
-brustolin.app-exped-fr.com
 brwsuprimentos.com.br
 brwtihfyemdrt.firebaseapp.com
 brwtihfyemdrt.web.app
@@ -4046,7 +4043,6 @@ conspirerepiretche.firebaseapp.com
 conspirerepiretche.web.app
 consultaparaempresas.com.br
 consultapontos.com
-consultarbonusapp.cfd
 consumersculog-on.weebly.com
 consumilhas.digital
 contabilidadcastillodesatascos.weebly.com
@@ -4082,6 +4078,7 @@ conviket-292274795155.southamerica-east1.run.app
 conviteblackx.com
 convitesblackamex.com
 convitesblackpremium.com
+convitesexclusivosblack.com
 convitespremiumvip.com
 copernicusrealty.com
 coppersite002.weebly.com
@@ -4214,7 +4211,6 @@ creeksidehomeloans.com
 creencerater.firebaseapp.com
 creewsuweb2.makeweb.co
 creneau-choisir-mondial.com
-cretin.relais-pickup-dom.com
 crlzaq.webwave.dev
 crmoutlec.firebaseapp.com
 crmoutlec.web.app
@@ -4604,7 +4600,6 @@ diiasnifnixzxcad.gpmwryee.workers.dev
 dijonacademie.weebly.com
 dijonacademiewebmail.weebly.com
 diner-club.webcindario.com
-dineroalinstantevialoginbcpaporbados.creditos-sbs.online
 dinersecuador.webcindario.com
 dinersvalid.webcindario.com
 dinnersclub.webcindario.com
@@ -4666,7 +4661,6 @@ docsignauthentication.weebly.com
 docsxword.myportfolio.com
 doctmoude.firebaseapp.com
 doctmoude.web.app
-doctolib-reunion.info
 doctoorsnetuk.weebly.com
 doctorseervicee.weebly.com
 doctorssserver.weebly.com
@@ -5770,6 +5764,7 @@ front-six-self.vercel.app
 frontier2bsecure.weebly.com
 frontierbfc.weebly.com
 frontiermail.ukit.me
+frostconnectsecure.netlify.app
 frostconnectverify.netlify.app
 frosttreasury.netlify.app
 frosttreasury02.vercel.app
@@ -5806,6 +5801,7 @@ fulfilled-perspective-584025.framer.app
 fulfilled-population-125660.framer.app
 fulltermsservicefr.firebaseapp.com
 fulltermsservicefr.web.app
+funny-center-605835.framer.app
 furrh1p.duckdns.org
 fusionate-ai.webflow.io
 future-mouse-small.on-fleek.app
@@ -6569,7 +6565,6 @@ hushmail.web.app
 hussain.sms-pickupclients.com
 husxim.weebly.com
 hutoknepper.de
-huuuugyy.weebly.com
 huxqkait.firebaseapp.com
 huxqkait.web.app
 hvcu-sec.firebaseapp.com
@@ -6688,7 +6683,6 @@ iiinnet.weebly.com
 iiivolny777.weebly.com
 iikimbra.weebly.com
 iindonesiaa.weebly.com
-iinet-webmails.weebly.com
 iinetcompanyserv.weebly.com
 iinetmacompanyfa.weebly.com
 iinetservice11.weebly.com
@@ -6865,7 +6859,6 @@ inter-support.webcindario.com
 inter-supports.webcindario.com
 interactivesoftwareru.blogspot.com
 interbank.mobi
-interbankapp.onl
 interbankempresas.com
 interbankpe.co
 interbankpe.ltd
@@ -6900,7 +6893,6 @@ intra-frostbank-web-staging.azurewebsites.net
 intranet20033.weebly.com
 inv2023.firebaseapp.com
 inv2023.web.app
-investmentpulse.cc
 inveunturepog.firebaseapp.com
 inveunturepog.web.app
 invitationhhomesss67.weebly.com
@@ -7411,6 +7403,7 @@ larstore11.web.app
 latam-oab.cd-brasil.com
 late-ability-some.on-fleek.app
 late-hydrogen-long.on-fleek.app
+lateral-neblina.sbs
 lationseasilysoubrowsetheweb.weebly.com
 latvia-pasts.firebaseapp.com
 latvia-pasts.web.app
@@ -7459,7 +7452,6 @@ ledger-live-desktop-begin.pages.dev
 ledger-live-login-contact.vercel.app
 ledger-live-support-cls.pages.dev
 ledger-login-us-wallet.vercel.app
-ledger-m--auth-info.webflow.io
 ledger-securescan.com
 ledger-secureupdate.com
 ledger-securitycheck.com
@@ -7713,7 +7705,9 @@ lordgratiful.web.app
 lorentz.planning-locker.com
 los-libertadorese-helpdesk.weebly.com
 losospl.github.io
+loteria-caixa.org
 loteriacaixaoficial.sbs
+lotericaonline.shop
 louddechargingbest.firebaseapp.com
 louddechargingbest.web.app
 louisvilleeduvalid.ukit.me
@@ -8533,7 +8527,6 @@ mtcfiber.weebly.com
 mtlog.weebly.com
 mtpost-id2871.firebaseapp.com
 mtpost-id2871.web.app
-mts-web254.weeblysite.com
 mtsace.ukit.me
 mtt8-asdf31.firebaseapp.com
 mtt8-asdf31.web.app
@@ -8762,7 +8755,6 @@ ncparis-dcb32.web.app
 nctcwebmaillogin.weebly.com
 nda-ex-log-in.pages.dev
 ndax-login-access.typedream.app
-ndax-login-ens.pages.dev
 ndjkdjkf.weebly.com
 ndjqweke9283893emwmw839203fdkks8493jds.myportfolio.com
 ndlions.netlify.app
@@ -11446,7 +11438,6 @@ sslvhconnectclients.wan64.de
 sso--m-uphold--com-cdn--auth.webflow.io
 sso--robinhood-com--aauthh.webflow.io
 sso-coinbase-com-cdn-x-auth.wstd.io
-sso-conbasepro-x-auth.wstd.io
 sso-ehess2.weebly.com
 sso-ledger-live-login.pages.dev
 sso-nifty-com-sso.weebly.com
@@ -12074,7 +12065,6 @@ track-lx92f9.web.app
 trackid-za2702.firebaseapp.com
 trackid-za2702.web.app
 trackimailai.firebaseapp.com
-tracking.livraison-relais-fr.com
 tracking.mrelay-domicile.com
 tracking.simcomining.com
 trackion.netlify.app
@@ -12186,7 +12176,6 @@ tuccuvawiekrfjhvywej-sactyujkahsdjcjh.teemill.com
 tucompraonline.webcindario.com
 tudosobretodos.se
 tudryse67oiydtrytufyiku-dts7idifyukgyf6r8uyij.teemill.com
-tuftsportal.weebly.com
 tuggerahrealtyquotes-attached.firebaseapp.com
 tuggerahrealtyquotes-attached.web.app
 tujourslaforcedefrappe.firebaseapp.com
@@ -12319,7 +12308,6 @@ ultrahazardous.web.app
 ultrawinnaxelfr.firebaseapp.com
 ultrawinnaxelfr.web.app
 ulu.so
-ulys-reconsigne.com
 ulys-reglement.com
 ulysfr-autoroute.com
 ulyspeage-co.com
@@ -13032,7 +13020,6 @@ webdappsfixprotocol.web.app
 webddbv.weebly.com
 webdded.weebly.com
 webddeupgrding.weebly.com
-webde-100268.weeblysite.com
 webde-102737.weeblysite.com
 webde-103046.weeblysite.com
 webde-103557.weeblysite.com
@@ -13197,7 +13184,6 @@ wentyayaya.weebly.com
 werasdvumtredascin.weebly.com
 weraulallma.blogspot.com
 weropaiementmobile99.godaddysites.com
-wertyvjvh.weebly.com
 wertywerqwse.weebly.com
 wervftswervicfrty.framer.website
 wessamoptical.com
