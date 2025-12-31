@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Wed Dec 31 00:24:17 UTC 2025
-# Number of unique domains: 13578
+# Date: Wed Dec 31 04:18:18 UTC 2025
+# Number of unique domains: 13579
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -704,7 +704,6 @@ allegro.61427.cyou
 allegro.63738.vu
 allegro.65893.me
 allegro.69346.cfd
-allegro.717097.cyou
 allegro.73534.icu
 allegro.74206.me
 allegro.74839.top
@@ -737,6 +736,7 @@ allegro.pl-78154.icu
 allegro.pl-78852.icu
 allegro.pl-90540.cfd
 allegro.pl-a532367018219.icu
+allegro.pl-kategorie489268903.sbs
 allegro.pl-kategorie84912847263.cfd
 allegro.pl-kategorie84912912849.cfd
 allegro.pl-ofert526437.shop
@@ -746,6 +746,7 @@ allegro.pl-oferta23768479.sbs
 allegro.pl-oferta24901839.sbs
 allegro.pl-oferta34839269.sbs
 allegro.pl-oferta3949913.sbs
+allegro.pl-oferta4614303.cfd
 allegro.pl-oferta5173964.pl
 allegro.pl-oferta55179459.sbs
 allegro.pl-oferta58432.cfd
@@ -769,13 +770,13 @@ allegro.pl-oferta759383.cfd
 allegro.pl-oferta775292969.sbs
 allegro.pl-oferta7833346.rest
 allegro.pl-oferta784315.sbs
+allegro.pl-oferta798349.sbs
 allegro.pl-oferta84037449.cfd
 allegro.pl-oferta84037449.lol
 allegro.pl-oferta8462963529.shop
 allegro.pl-oferta8473057.cfd
 allegro.pl-oferta8485766.cfd
 allegro.pl-oferta87126.cfd
-allegro.pl-oferta8764271.cfd
 allegro.pl-oferta893562.sbs
 allegro.pl-oferta8947648914.shop
 allegro.pl-oferta896542.sbs
@@ -882,6 +883,7 @@ allegrolokalnie.oferta31473825.sbs
 allegrolokalnie.oferta318761.sbs
 allegrolokalnie.oferta362312182316.sbs
 allegrolokalnie.oferta417634.icu
+allegrolokalnie.oferta425984.sbs
 allegrolokalnie.oferta42753.icu
 allegrolokalnie.oferta42801.sbs
 allegrolokalnie.oferta4372611.sbs
@@ -918,9 +920,9 @@ allegrolokalnie.pl-731260.sbs
 allegrolokalnie.pl-7321656.sbs
 allegrolokalnie.pl-74130114122.cfd
 allegrolokalnie.pl-74131534122.cfd
+allegrolokalnie.pl-76375612.sbs
 allegrolokalnie.pl-7753124.top
 allegrolokalnie.pl-775421112344543223g4321344555r4433.icu
-allegrolokalnie.pl-8372093245.sbs
 allegrolokalnie.pl-8376251441627273662636a6615155261d625515.cyou
 allegrolokalnie.pl-8378632356.cfd
 allegrolokalnie.pl-87831245.top
@@ -933,13 +935,13 @@ allegrolokalnie.pl-a9393959591882937572.icu
 allegrolokalnie.pl-c7992112567899986433212455.cfd
 allegrolokalnie.pl-elektronika7321.sbs
 allegrolokalnie.pl-elektronika7352.sbs
-allegrolokalnie.pl-elektronika7654.us
 allegrolokalnie.pl-elektronika8432.cfd
 allegrolokalnie.pl-firmowe-18821.icu
 allegrolokalnie.pl-firmowe-27463.sbs
 allegrolokalnie.pl-firmowe-77163.sbs
 allegrolokalnie.pl-firmowe-98191.sbs
 allegrolokalnie.pl-id531690.sbs
+allegrolokalnie.pl-kategorie489268903.sbs
 allegrolokalnie.pl-kategorie841069876247142.shop
 allegrolokalnie.pl-oferta-2356727.cfd
 allegrolokalnie.pl-oferta-636491.sbs
@@ -968,6 +970,7 @@ allegrolokalnie.pl-oferta423632.cfd
 allegrolokalnie.pl-oferta4262-apple-watch-ultra-3.sbs
 allegrolokalnie.pl-oferta4283866-playstation-5-pro-zaplombowane.sbs
 allegrolokalnie.pl-oferta433001-rtx-3090-asus-tuf-oc.sbs
+allegrolokalnie.pl-oferta4614303.cfd
 allegrolokalnie.pl-oferta5173964.pl
 allegrolokalnie.pl-oferta5266239-samsung-galaxy-tab.cfd
 allegrolokalnie.pl-oferta531686.sbs
@@ -997,6 +1000,7 @@ allegrolokalnie.pl-oferta761529921.cfd
 allegrolokalnie.pl-oferta775292969.sbs
 allegrolokalnie.pl-oferta79206351.cfd
 allegrolokalnie.pl-oferta79206352.cfd
+allegrolokalnie.pl-oferta798349.sbs
 allegrolokalnie.pl-oferta80507-google-pixel-10-pro.cfd
 allegrolokalnie.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 allegrolokalnie.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
@@ -1013,7 +1017,6 @@ allegrolokalnie.pl-oferta904601-ipad-pro-13-m4-wifi-cellular.sbs
 allegrolokalnie.pl-oferta909597465.sbs
 allegrolokalnie.pl-oferta932417.com
 allegrolokalnie.pl-oferta94062813.cfd
-allegrolokalnie.pl-oferta962033-google-pixel-10-pro-xl.sbs
 allegrolokalnie.pl-oferta962033-playstation-5-fat.sbs
 allegrolokalnie.pl-oferta9932647.sbs
 allegrolokalnie.pl-ogloszenia-firmowe-888321.icu
@@ -1118,7 +1121,6 @@ angry-visvesvaraya-b99e51.netlify.app
 anhooqb40.ukit.me
 anmelden1.weebly.com
 anmelden2.weebly.com
-annprojectplan.weebly.com
 anouarchargeur.github.io
 ansomedils.firebaseapp.com
 ansomedils.web.app
@@ -2543,7 +2545,6 @@ bap-gmxnetsid-fb484500709fbec4a97ca840b16f82ef5785c42.square.site
 barajtrading.com
 bardatuyda.weebly.com
 baruchcunyedu2.weebly.com
-base-degen-tools.gitbook.io
 baseuntechrun.firebaseapp.com
 baseuntechrun.web.app
 basewallet.unaux.com
@@ -4724,6 +4725,7 @@ ecuadordainicio.webcindario.com
 ecuadorincentivo.webcindario.com
 ecuadorweb.webcindario.com
 ecuavanza2026.webcindario.com
+ecupich1nchi.webcindario.com
 ecuvalid.ukit.me
 ecvforqualitegineerthanksegards.weebly.com
 edavki-8a186.firebaseapp.com
@@ -4895,7 +4897,6 @@ en-ledgerlive.vercel.app
 en-nadaxx-login.pages.dev
 en-ndex.pages.dev
 en-support-lderglive.pages.dev
-en-trezor-suite-io.vercel.app
 en-trezorbridgeapp.vercel.app
 en-trezr-bryge.pages.dev
 enacip.edu.pe
@@ -6975,7 +6976,6 @@ kkcurion.weebly.com
 kkjdksdklkdslel.weebly.com
 kkmmdo-wallet.webflow.io
 kku-account.weebly.com
-kkuikoinlogin.webflow.io
 klantendienstics.firebaseapp.com
 klantendienstics.web.app
 klausklaus54.weebly.com
@@ -7647,7 +7647,6 @@ manual-load-page-1009724739501.firebaseapp.com
 manual-load-page-1009724739501.web.app
 maradomessiano.firebaseapp.com
 maradomessiano.web.app
-mardi-pickup-programmation.com
 mardsklo.firebaseapp.com
 mardsklo.web.app
 marechal.clients-smspickup.com
@@ -8141,6 +8140,7 @@ monitoringstemhavidentifieduspicious.weebly.com
 monkzvkwos.blogspot.com
 monlheure.firebaseapp.com
 monlheure.web.app
+monreglementretard.com
 monrelay.org
 monroeville.myportfolio.com
 monthlyspaceknob.weebly.com
@@ -8758,6 +8758,7 @@ officialpaper.com.br
 officialsentpayment.weebly.com
 offierff.firebaseapp.com
 offierff.web.app
+offre-fr-carte-avantage.info
 offyourplate.my.idaptive.app
 ofx-login.top
 ogaletamgoabeg.up.railway.app
@@ -9181,6 +9182,7 @@ photometaa.weebly.com
 photsinstagrmclubsd.weebly.com
 php5s.webcindario.com
 phpsta-apymntnttogothrouhjdud.weebly.com
+pich12segurida.webcindario.com
 pich1ncha.webcindario.com
 pich89nseguridad.webcindario.com
 pich9nseguridad.webcindario.com
@@ -9492,6 +9494,7 @@ projet-vert00120nc.firebaseapp.com
 projet-vert00120nc.web.app
 promaillptdadmin.weebly.com
 promericacuentaa.webcindario.com
+promericard1.webcindario.com
 promericaweb-iota.vercel.app
 promerispot.help
 promobhd2025rd8fa64ac.xo.je
@@ -10228,7 +10231,6 @@ saludessalud.weebly.com
 samsclubcreit.com
 samsunmechanical.myportfolio.com
 sandiafcuarea.weebly.com
-sanefautoroutes-clients.com
 sanpix.com.br
 santanderlink.netlify.app
 santiagoanthony.com
@@ -13335,7 +13337,6 @@ yahoostorage.weebly.com
 yahwee.ukit.me
 yalmnailinf.weebly.com
 yanis-bitos.app-exped-fr.com
-yanis-tafiole.mon-pickup-expd.com
 yanis-tafiole.sms-transitsms.com
 yanisnoibs.mon-pickup-expd.com
 yanisptitetaf.clients-expd-fr.com
