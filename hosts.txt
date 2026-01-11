@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sat Jan 10 16:05:39 UTC 2026
-# Number of unique domains: 13538
+# Date: Sun Jan 11 00:26:49 UTC 2026
+# Number of unique domains: 13567
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -57,6 +57,7 @@
 121323ggfdh.weebly.com
 123corriu.weebly.com
 12428461842-gskantmbsuknbnus.start.page
+126-new.weebly.com
 1298815f-295d-4002-bf9d-d7bcc561c490-00-2v37bqcughjrh.spock.replit.dev
 12mydncu32.weebly.com
 12o-open-mx.weebly.com
@@ -701,6 +702,7 @@ allegro.038511.click
 allegro.04805.click
 allegro.06467.click
 allegro.09530.click
+allegro.11544.click
 allegro.1524.click
 allegro.23585142.click
 allegro.2839417.cfd
@@ -758,12 +760,10 @@ allegro.pl-oferta8646559.icu
 allegro.pl-oferta869352.sbs
 allegro.pl-oferta869372.cfd
 allegro.pl-oferta896542.sbs
-allegro.pl-oferta898731.sbs
 allegro.pl-oferta909597465.sbs
 allegro.pl-oferta929219191938013.sbs
 allegro.pl-oferta94062813.cfd
 allegro.pl-smart10285.sbs
-allegro.pl-smart1224552.sbs
 allegro.pl-smart36252.sbs
 allegro.pl-smart64221.sbs
 allegro.pl-smart71824121.cfd
@@ -854,10 +854,8 @@ allegrolokalnie.pl-271492841695.cfd
 allegrolokalnie.pl-284728.cfd
 allegrolokalnie.pl-30045623.icu
 allegrolokalnie.pl-39034567.cfd
-allegrolokalnie.pl-458996734.cfd
 allegrolokalnie.pl-468945670.icu
 allegrolokalnie.pl-48274824.icu
-allegrolokalnie.pl-49991412.icu
 allegrolokalnie.pl-53127564.top
 allegrolokalnie.pl-5676453.cfd
 allegrolokalnie.pl-569306.rest
@@ -877,7 +875,6 @@ allegrolokalnie.pl-8361819.cfd
 allegrolokalnie.pl-8361819.icu
 allegrolokalnie.pl-8363739.cfd
 allegrolokalnie.pl-847309424.cfd
-allegrolokalnie.pl-873782695.cfd
 allegrolokalnie.pl-874987034.cfd
 allegrolokalnie.pl-8994918hdaxvbnnm662895321ftuewm7.cyou
 allegrolokalnie.pl-903195.rest
@@ -897,6 +894,8 @@ allegrolokalnie.pl-id523423.sbs
 allegrolokalnie.pl-kategoria47581928472452.sbs
 allegrolokalnie.pl-kategorie3127509749274.sbs
 allegrolokalnie.pl-oferta-2356727.cfd
+allegrolokalnie.pl-oferta-23823482238289329232-fast.click
+allegrolokalnie.pl-oferta-345723782323934932-fast.click
 allegrolokalnie.pl-oferta-636491.sbs
 allegrolokalnie.pl-oferta-7940496820.shop
 allegrolokalnie.pl-oferta-ekspres-do-kawy-philips.icu
@@ -949,7 +948,6 @@ allegrolokalnie.pl-smart1124552.sbs
 allegrolokalnie.pl-smart234423.sbs
 allegrolokalnie.pl-smart3762452.sbs
 allegrolokalnie.pl-smart435211.top
-allegrolokalnie.pl-smart43543.sbs
 allegrolokalnie.pl-smart6264221.sbs
 allegrolokalnie.pl-smart64221.sbs
 allegrolokalnie.pl-smart657463.sbs
@@ -965,8 +963,6 @@ allegrolokalnie.pls2zhxzfaqs11xk.icu
 allegrolokalnie.plsd9hsheas14xk.icu
 allegrolokalnie.plsd9hshgss15xk.icu
 allegrolokalnie.plsd9klazs02xk.icu
-allegrolokalnie.plsd9klflrdmwsqp01xk.icu
-allegrolokalnie.plsd9klgzb01xk.icu
 allegrolokalnie.plsdjnmkf94845.cfd
 allianceseksfr.firebaseapp.com
 allianceseksfr.web.app
@@ -1095,6 +1091,7 @@ app-id6016.firebaseapp.com
 app-id6016.web.app
 app-id8109.firebaseapp.com
 app-mtapps-prod-wu2.azurewebsites.net
+app-mxmerchnt.top
 app-sparkprotocol-io.ipns.dweb.link
 app-store-download.firebaseapp.com
 app-store-download.web.app
@@ -1185,6 +1182,7 @@ approve.fb-business.com
 apps--phantom---walllet.webflow.io
 apps-cunfirm-ownear2023.start.page
 apps-data77accntcenters.start.page
+apps-liveledgr-auths.pages.dev
 apps-user868aceptis.start.page
 apps-uuser433accepts.start.page
 appsdownload-suites.framer.media
@@ -1215,7 +1213,6 @@ arcetvnczkfkhmqzs.web.app
 arcorhuayt.weebly.com
 arcxray.com.au
 ardentcusecurenow.weebly.com
-ardentonlinealert.weebly.com
 ardsleynyc.myportfolio.com
 argprovin07.vastserve.com
 arhived.weebly.com
@@ -1800,6 +1797,7 @@ bafkreibvysn4rriup6iq3ckoxvuca3oailzrjhwmteuy67itycvgmphh3y.ipfs.dweb.link
 bafkreibwtdlnili4ufevhrxeeadojngldkuba3ycy7efdpgmoac437icsy.ipfs.dweb.link
 bafkreibx2dtwulpyikxfn3lrjhg6u7bmcapj2qun6tdnznzip53jb4l46e.ipfs.dweb.link
 bafkreibxhnpc2kdvpnwenewg5othgjlt7nrtkdh6ohz3u3sdl3refgfak4.ipfs.dweb.link
+bafkreibxjrmzukfph7smubvjoln2lnjub2cqye7degp5lrdhh2m3qb5a4q.ipfs.dweb.link
 bafkreibyxhd4k4yflqyc6exrmajzlx6dpb4ww5smkm62kscd3jbhamok5m.ipfs.dweb.link
 bafkreibzewn67nmlfnbcix4zhejt5ces24p5e4g3xqqs35ayjwxejjscv4.ipfs.dweb.link
 bafkreibzex26osxnhlzohy2hv4vd56lzvqmnjewj75veqnpj4q44sy5pxe.ipfs.dweb.link
@@ -1853,6 +1851,7 @@ bafkreichx3zwnbrdsutfgoejqjg23v4jbt5qazf4uf6t6fqni2fvhhruiu.ipfs.dweb.link
 bafkreici37256lkg3o3t2pifg7behhmahorfnqvxuhapwvs27v672lk3h4.ipfs.dweb.link
 bafkreicimfcaj7gmlzyyd3erbhrxwymo3ycnt5pnp5t6gma2xy65bdeu44.ipfs.dweb.link
 bafkreicj4uoygqa6kfhocfuwmrx5tw7bgkrv4uphvgmr4h2cb3nbksovmy.ipfs.dweb.link
+bafkreicj7jahumfq7v5xyov4b6zc5gygrn6ksth4qcnwr3ip53quvthgmm.ipfs.dweb.link
 bafkreicj7jbyg4bme4hicbwgvvxtjpmhq26u6wvbznx74oga7antfhn2ua.ipfs.dweb.link
 bafkreicjbo6ztthldlxtmc4sd4hmtqyjt7gysfknij5qtobvxe3wllrsbi.ipfs.dweb.link
 bafkreicjovfacil3q2qxyxjhilw4p5fd4fbyuglriszp4tgfty2pskkrjm.ipfs.dweb.link
@@ -2009,6 +2008,7 @@ bafkreieb6rrfbehkyrxiuk7hqdownvvy3gjfu5p3jbgsifbtn46hf77gcu.ipfs.dweb.link
 bafkreiebbsmbeimdntpw7eqvisrh4tiejk7fvbgdni3xlu4m7grb7y3j7u.ipfs.dweb.link
 bafkreiebrn3w76euwywy263uarg5l7cgom2se2gmfhzr75o4gnigqiokkm.ipfs.dweb.link
 bafkreiecmfxj3clqflwfmrj2zpz2w6jjdrydambp3sezfrl4ydhhjb6osy.ipfs.dweb.link
+bafkreiecvycccw636eu24sboxdcwg2incfh7vhgt3vlqbbhv37ztbyaev4.ipfs.dweb.link
 bafkreiedglq4jgcgqoxjap7rswpqoxaepcv6szm47h6koe6uhzhxnrfqhy.ipfs.dweb.link
 bafkreiedjqnn5x4ztifda4eunh7hjkglorlwf62xzill4zp54tweifvlde.ipfs.dweb.link
 bafkreiedzqhpunqsrv2pwji6vgawqtxe4vdwdicpr6tuycbujkn6vfsrq4.ipfs.dweb.link
@@ -2306,6 +2306,7 @@ bafkreihuwsmynlll4to4pzv7dq2ke76huvkbcni7eh4khw5ids3wt4x5su.ipfs.dweb.link
 bafkreihwxjc5smgeg7lpfwlkwepv23vqeyz3faomgcjhirplsepb7vct44.ipfs.dweb.link
 bafybeiaamq7qrezzm7cbko4e6hl5c3fcjqntup4343z5as3j2jnxs7s4p4.ipfs.dweb.link
 bafybeiamo2yli2vn6dvjshqwwvj3armjgxlo7ftkclqthmz5bvcdvitmui.ipfs.dweb.link
+bafybeian4zt4p7vnsmhrdxd255ieqqdhfdnlchf2l46lwhfuz57bvwyoiy.ipfs.dweb.link
 bafybeiasac6j6vrtn7xnsqfksowgqfqgwteeiydmf6d46mtm5amdexy2h4.ipfs.dweb.link
 bafybeiaszvdnnob336ofawin4wcb2lpt7kjt76ejo3xtkzani4vifom4oi.ipfs.dweb.link
 bafybeiaus6ftks7oxi26q7aqbcbea6btn37oadipitadxrqegkt2xufb64.ipfs.dweb.link
@@ -2347,10 +2348,12 @@ bafybeiekcmol7rfl4i5oa7nwm6hs5gn4premtzltkpvnmv4jnhlr7jxaby.ipfs.dweb.link
 bafybeieoal5rshacy6hki7truntn2bfbhaqxfpvllrgsjhvtecv7tq6ybm.ipfs.dweb.link
 bafybeiepsclswraretbhcy7gnnhw7uggq345s2utwko6uxvwofh7lslxwu.ipfs.dweb.link
 bafybeiesfsibeu2kq3pp33vdyryb2ginznvylufqo6grhxgna2wfqernai.ipfs.dweb.link
+bafybeietqbtudhhied2ds3zwupewgtiylypmglxybebmiq6ukbn6ukd4uy.ipfs.dweb.link
 bafybeif2v4tzjfkmfxuxylhezpqrwrptfkfu3tshsyvk2te4rle62kjjwu.ipfs.dweb.link
 bafybeif3abukbejdrdueeddyr6fmyxw3fjvctgmwv2h4z5u2l6iggfjgmi.ipfs.dweb.link
 bafybeifcfe5xorgq2rm5cwebwgksa72gyifrf3tmfjqrwcnwpr5qpglvb4.ipfs.dweb.link
 bafybeifgzx4io3dzbvis5ts2t24kltun72lzv7l37zroel7prg5wfg352i.ipfs.dweb.link
+bafybeifmc5amrnurjvszhrygc2yhrpfcwllh3m4zhpzjzc23jca2clzw34.ipfs.dweb.link
 bafybeifo2pid4d2xyk7cc2rncpemph3kljg5ylnovhdmdvw4khoq3uzlya.ipfs.dweb.link
 bafybeifpqhyzn73oe4u5fepceonr6hbpvffuxj7vikwnwh3wkrp2v3blei.ipfs.dweb.link
 bafybeifpqhyzn73oe4u5fepceonr6hbpvffuxj7vikwnwh3wkrp2v3blei.ipfs.infura-ipfs.io
@@ -2368,10 +2371,10 @@ bafybeigyowrqkcpaqpibi2xgmf3jeyjymm7mn5glttsqukcy4adpo3uoie.ipfs.infura-ipfs.io
 bafybeigz3zfosvwiso3abzamcwdp6v2o4xasnj4smntd4uienjeb2sklle.ipfs.dweb.link
 bafybeigzm7vlgqrr5uni5cc4dspw3v4djawa5y54jeosc4ay3pslolkmgi.ipfs.dweb.link
 bafybeih2gfnjdhhabsfqj2menb5eoli7ecxoaroq6uwxhw4evf7gp7vwpi.ipfs.w3s.link
+bafybeih3iymjf64oyrevtybxbool4qjib4dook3hrl7zoqyad6wp7d4oui.ipfs.dweb.link
 bafybeih6fxh7ch7c4wi2x2jm5m6xteqeogdynpxenl4u4p6vxotkcrruna.ipfs.dweb.link
 bafybeihdar7rztkscbfw2cac2s6pbhsuexzepl7ee75fsggkw2sjdyzybe.ipfs.w3s.link
 bafybeihehu22cj4qptk2vwidrgo5j7g3ziewxpcqvymrkxv2fqubnt74qa.ipfs.dweb.link
-bafybeihf6yx3ba5on7oo2lihuqvhfrld2k4tlyuqfr4rss4bckh55dpkpe.ipfs.dweb.link
 bafybeihfcxunwgln23t6g2f357wdkqalsh7miscw5lx22oi7pmv2b5ffxy.ipfs.dweb.link
 bafybeihfwda45vhbhsfj5k72x57ip6cezhmwxpxe2rhjz3sxbicqwnmnca.ipfs.dweb.link
 bafybeihptm6fsikllddqyo4pfhmoej7xoybw6qjdeqdfxbve4gwflubz5u.ipfs.dweb.link
@@ -2550,7 +2553,6 @@ bellsouth-att-sign-in-033b77.webflow.io
 bellsouth-att-sign-in-3bff79.webflow.io
 bellsouth-att-sign-in-87e71e.webflow.io
 bellsouth-att-sign-in-904158.webflow.io
-bellsouth-att-sign-in-92d501.webflow.io
 bellsouth-att-sign-in-96416b.webflow.io
 bellsouth-att-sign-in-a171f9.webflow.io
 bellsouth-att-sign-in-a66748.webflow.io
@@ -2857,7 +2859,6 @@ bradesco-pfseg.online
 bradesco.chatcorporativo.sa.com
 bradesco.clientecorporativo.com
 bradesco.corporativo.sa.com
-bradesco.sacbia.online
 bradesco.solucaoempresas.com
 bradescobia.portalweb.sa.com
 bradesconet.sa.com
@@ -3308,6 +3309,7 @@ catalanasgencatthisfriday.ukit.me
 catarinareginasub.blogspot.com
 catergoryacceptance.weebly.com
 cateringbyliz.org
+cau-edu-cn.weebly.com
 cauradaada.firebaseapp.com
 cauradaada.web.app
 causcausejeforce.firebaseapp.com
@@ -3710,6 +3712,7 @@ confirmsaccount.start.page
 confirmverifyaccount-supportpagecenter-requestofreviews.pages.dev
 confirmyouraccountdetails.firebaseapp.com
 confirmyouraccountdetails.web.app
+confirmyourmail.weebly.com
 confix-centrepages.pages.dev
 confr-16343.firebaseapp.com
 confr-16343.web.app
@@ -3802,7 +3805,6 @@ convergencesfracbesancon.weebly.com
 convergepay.co.com
 conviket-292274795155.southamerica-east1.run.app
 convitecenturionvipblack.com
-conviteprincipalseguro.com
 convitesblackamex.com
 convitesblackpremium.com
 convitesexclusive.com
@@ -4124,6 +4126,7 @@ datapage-hcucoopindex.firebaseapp.com
 datapage-hcucoopindex.web.app
 datatelkomserver.weebly.com
 datefordate.weebly.com
+daum2649155595.weebly.com
 daurnkaka0.weebly.com
 dave-56047.bubbleapps.io
 davescetlem.firebaseapp.com
@@ -4254,6 +4257,7 @@ deterri-25986.firebaseapp.com
 deterri-25986.web.app
 detinol.firebaseapp.com
 detinol.web.app
+deutacct.surge.sh
 deutsh-us68448654gb-logistics.firebaseapp.com
 deutsh-us68448654gb-logistics.web.app
 deuxdoitsdelavictoire.firebaseapp.com
@@ -4268,6 +4272,7 @@ deveaux.clients-smspickup.com
 device-public-auth-exoudsweb.typedream.app
 devomats.com
 dexfi-next-js.vercel.app
+dextoolwallets.on.fleek.co
 df787.weebly.com
 dfconalep.weebly.com
 dfdffccommcasst.weebly.com
@@ -4344,6 +4349,7 @@ distribution-colis.com
 distributionlivraison.com
 distributions-relay.com
 districtcourtsouth.com
+divace-web-nda-cdn.pages.dev
 diyqmnvsd.firebaseapp.com
 diyqmnvsd.web.app
 djbpke.duckdns.org
@@ -4864,6 +4870,7 @@ enquete-uphf.firebaseapp.com
 enquete-uphf.web.app
 ensamservice.weebly.com
 ensparis-saclay-fr.weebly.com
+ent-trezor.pages.dev
 enthusiastic-impact-434193.framer.app
 entrar-conta.digital
 entrarbanrurral.webcindario.com
@@ -5121,6 +5128,7 @@ falasesions.vercel.app
 fallsemester2025.weebly.com
 fallupdates.weebly.com
 famtel.weebly.com
+faq-liveledgr-auths.pages.dev
 faq-start-io-bfv.pages.dev
 faq-suit-trezor.wasmer.app
 faraway-misty-sparrow-4cji6v.teleporthq.app
@@ -5501,7 +5509,6 @@ freeturts.weebly.com
 freeyge.weebly.com
 fremonsolvebnkinglogln.weebly.com
 frgtytrgth.w3spaces.com
-friendsforweightloss.com
 frist2dskbg.firebaseapp.com
 frist2dskbg.web.app
 frkytw.firebaseapp.com
@@ -5602,7 +5609,6 @@ gawhybnoc.firebaseapp.com
 gawhybnoc.web.app
 gbaume121.weebly.com
 gbeirewa.weebly.com
-gchjnjhjhjhjjk.framer.website
 gcxuiuhsrydtukhcr-sryuju7i6rertjy.teemill.com
 gdesigns.info
 gdffy.urest.org
@@ -6109,6 +6115,7 @@ helps-businesscenters.pages.dev
 helps-businesspolicy-center.pages.dev
 helps-centrefacbook.start.page
 helps-hardware-trezz-docs.typedream.app
+helps-ledg-r-sso.pages.dev
 helpsbusiness-centerpolicys.pages.dev
 helpsbussiness-centerpolicys.pages.dev
 helpsbussiness-policycenters.pages.dev
@@ -6128,7 +6135,6 @@ heusakleame.weebly.com
 heybn.webcindario.com
 hfadiamanna.blogspot.com
 hffabricaciones.com
-hfftfbase.weebly.com
 hfhcjskd6tqewhsxrhc-qgyjjad68qewjrdgcuiwesf.teemill.com
 hgabaaljanak.blogspot.com
 hgdfgh6780.weebly.com
@@ -6289,7 +6295,9 @@ hwbgtnqegfp.web.app
 hydrogen-raindrop.netlify.app
 hyjt687uy.square.site
 hypeprimates.web.app
+hyppothese.weebly.com
 hytrdsfrg.weebly.com
+hytrertuiuyttt.weebly.com
 hzsan.mydesigntechniques.com
 hzsmsk-cz.weebly.com
 i-wyomingcommunity.firebaseapp.com
@@ -6624,6 +6632,7 @@ iostart-trzo.wixstudio.com
 iostrtedtrzzr.weebly.com
 iouewfhe.weebly.com
 ipaboost.optum.link
+ipbalunos.weebly.com
 ipdfosose.web.app
 ipko-surveys.icu
 ipluganda.com
@@ -6854,6 +6863,7 @@ jzehalkmalna.blogspot.com
 jzljhgdazo.blogspot.com
 k51qzi5uqu5dgjngusbscza0jnzwdcaylhdqwute0pyrfh9505ad7vn8gua1pl.ipns.dweb.link
 k51qzi5uqu5dik8fxdmk5rbwpdovpfjzu7zfls06bg43rr7bnv6mc0z4jvsmdf.ipns.dweb.link
+k51qzi5uqu5djyto818ici4u3w200gbtortbsxgnoeywdjzh82d80qm3efra8k.ipns.dweb.link
 k901zx.webwave.dev
 kabelmailll.weebly.com
 kaharaerad.web.app
@@ -6928,6 +6938,7 @@ kjhgfzrjydtuyjkuydtsyuyjkj-nxfzdj1tuyivcxtzrjyjk1.teemill.com
 kjhgghj.w3spaces.com
 kjhuytkojhcv.weebly.com
 kjkjfsjkfs9.weebly.com
+kjpana.weebly.com
 kjtkygjtder.firebaseapp.com
 kjtkygjtder.web.app
 kjuteddoluinter.weebly.com
@@ -6951,6 +6962,7 @@ kngvsiw.weebly.com
 knlkj.weebly.com
 knob-synch.weebly.com
 knowledge-nexus-ai.gitbook.io
+knumerciharrisonmerciharrisononline.weebly.com
 kocaelii.weebly.com
 kodakmilli1.weebly.com
 kohls-cj.vercel.app
@@ -6976,6 +6988,7 @@ kraken-apps.firebaseapp.com
 kraken-apps.web.app
 kraken-loginnus.webflow.io
 krakenlogine-avj.pages.dev
+krakennlogines.pages.dev
 krakenz-logginz.godaddysites.com
 krakunxlogi.godaddysites.com
 kraqienloghii.godaddysites.com
@@ -7074,6 +7087,7 @@ lamail7.godaddysites.com
 lamarnationalbank.weebly.com
 lamlaojalmam.blogspot.com
 landsolutions.myportfolio.com
+langsung.weebly.com
 lapetitetaf-yanis.transitapp-expde.com
 lapin-terrinouveau.firebaseapp.com
 lapin-terrinouveau.web.app
@@ -7137,6 +7151,7 @@ ledgerappsupport-bpn.pages.dev
 ledgerihivlogin.webflow.io
 ledgerlive-ledger.com
 ledgerrr.pages.dev
+ledggr-live-login.pages.dev
 ledgrcoms.wixstudio.com
 ledgt5-kmh7.netlify.app
 ledixslca.firebaseapp.com
@@ -7235,8 +7250,12 @@ lit-software-services.web.app
 live-3rivers-fcu-101.firebaseapp.com
 live-3rivers-fcu-101.web.app
 live-laedger-wallet-io.pages.dev
+live-ledgei.pages.dev
+live-ledgerb.pages.dev
+live-ledgerf.pages.dev
 live-leger-support.pages.dev
 live-pribadi-883.weebly.com
+live-supports.pages.dev
 live120-gw-cu-pro554.firebaseapp.com
 live120-gw-cu-pro554.web.app
 live2u.private-video.my.id
@@ -8216,6 +8235,7 @@ mwxoq1840.ukit.me
 mxfr6f.webwave.dev
 mxg-e63fe1.webflow.io
 mxk-762399649109.southamerica-east1.run.app
+mxmerchant.co.com
 my-auth-ee.firebaseapp.com
 my-auth-ee.web.app
 my-business-100814-107514.square.site
@@ -8324,7 +8344,6 @@ myproperty.pages.dev
 myredform-acc-sec.weebly.com
 mysan.wm17173.com
 mysecurelink-attmail.pory.app
-mysevisesmangment-bnl.rioweb.org
 myshawwebmail.weebly.com
 mysiteab012.weebly.com
 mysitecentrum.weebly.com
@@ -8417,7 +8436,6 @@ nespoltems.firebaseapp.com
 nespoltems.web.app
 nestfilms.com
 net-coinbase-us.framer.ai
-netbanco-seguro.com
 netempresabia.click
 netempresas.solucoesbradesco.digital
 netflix-71f05.firebaseapp.com
@@ -8503,6 +8521,7 @@ nidnaver0757467w360.weebly.com
 nidnaver12155667gf.weebly.com
 nidnaver5248888r4.weebly.com
 nidnaver5651373693.weebly.com
+nidnaver6478448763.weebly.com
 nidnaver72877755058.weebly.com
 nidnaver787420666.weebly.com
 nielzu.webwave.dev
@@ -8641,7 +8660,6 @@ nspmedia.com.au
 nspti.weebly.com
 ntf6yzc12.ukit.me
 ntflx-compte-premium.com
-ntflx-nametnuti.com
 ntqhakh.cn
 ntvlwef.cn
 nucolegbaqis.weebly.com
@@ -8978,6 +8996,7 @@ p0rtail-dgfip.ukit.me
 p1-eviivo.com
 p1chinchaonline.webcindario.com
 p307a1.webwave.dev
+pa23sjbfak.weebly.com
 pabptjbyjpyjpjh.weebly.com
 pacifi2025ec.webcindario.com
 pacific-website.myportfolio.com
@@ -9374,7 +9393,6 @@ pr0duban-online.webcindario.com
 pr0duban.webcindario.com
 prairtesltbigp.weebly.com
 prdbkserv1ces17w.webcindario.com
-precious-dance-422841.framer.app
 predovicpathbuzz.myportfolio.com
 preference-centers.firebaseapp.com
 preference-centers.web.app
@@ -9387,6 +9405,7 @@ prestamosprodu1.webcindario.com
 previouscaserossing.weebly.com
 prijava-logare.firebaseapp.com
 prijava-logare.web.app
+primariasaravale.weebly.com
 primeatendimento.info
 principalatende.com
 priolpducpro.firebaseapp.com
@@ -9578,6 +9597,7 @@ pymtrem.web.app
 pz6qcp.webwave.dev
 q1-238.firebaseapp.com
 q1-238.web.app
+qaaddfgfhfdgfdgh.weebly.com
 qareintreoplasder.weebly.com
 qbaznhsjd.komi.io
 qcnz84ut.paperform.co
@@ -9860,6 +9880,7 @@ refund2402.web.app
 refundbill24.firebaseapp.com
 refundbill24.web.app
 reg1str4te-aqui.webcindario.com
+reg1tr4te-4qu1.webcindario.com
 regentnegombo.lk
 regg0d-gand45ts.weebly.com
 regisdopmsld.webcindario.com
@@ -10315,6 +10336,7 @@ secure-sqare-authh.typedream.app
 secure-univ-antilles-fr.weebly.com
 secure-web-ndxxa-cdns.typedream.app
 secure.controllers.world
+secure.totaldrive.com
 secure1stbank.com
 secure33n0rwaysavings.weebly.com
 secureapgfcui.weebly.com
@@ -10333,6 +10355,7 @@ securehscedukw.weebly.com
 securejonesburgbank.weebly.com
 securelypageeni.weebly.com
 securemapsonlinecu.weebly.com
+securemylcuacc.weebly.com
 securennbm.weebly.com
 securentuedutwteam.weebly.com
 securephotoshare.weebly.com
@@ -10373,6 +10396,7 @@ seguridad-maill2.webcindario.com
 seguridadpich9n.webcindario.com
 seguridadpichin5.webcindario.com
 seguridbienlinea.webcindario.com
+seguridid3288.webcindario.com
 seguridpich398.webcindario.com
 seguritydecuenta.webcindario.com
 sei-heat.myportfolio.com
@@ -10446,7 +10470,6 @@ service-authen.ukit.me
 service-bankingbp.firebaseapp.com
 service-bankingbp.web.app
 service-bordereau.com
-service-bundessteueramt.net
 service-enlignet.firebaseapp.com
 service-enlignet.web.app
 service-familyprime.com
@@ -10455,6 +10478,7 @@ service-iotrezr.wixstudio.com
 service-msmsorange.gator.site
 service-no.com
 service-nw.com
+service-start-io-en.pages.dev
 service-terra.carlosamaral.workers.dev
 service-uco.weebly.com
 service-update-online-hf78hv.boxmode.io
@@ -10472,6 +10496,7 @@ servicefbhelpmeta.firebaseapp.com
 servicefbhelpmeta.web.app
 serviceingrediffmail.weebly.com
 servicemail443.boxmode.io
+servicemailru.weebly.com
 servicemembershipoattloginscreen.boxmode.io
 serviceorange7.godaddysites.com
 servicepages-locked.start.page
@@ -10674,6 +10699,7 @@ site-d9l8vtb68.godaddysites.com
 site-ecak53g3g.godaddysites.com
 site-ep79hq1b7.godaddysites.com
 site-ezus7ck4o.godaddysites.com
+site-fiizhvms9.godaddysites.com
 site-fn8mvrqwi.godaddysites.com
 site-h739olhpg.godaddysites.com
 site-h9wtnddtp.godaddysites.com
@@ -11028,7 +11054,6 @@ ssfgfq12.ukit.me
 ssfsrer.weebly.com
 ssjsjssedefrfdc.weebly.com
 sso--m-uphold--com-cdn--auth.webflow.io
-sso-coinbase-com-cdn-x-auth.wstd.io
 sso-ehess2.weebly.com
 sso-exodus-wallet.weebly.com
 sso-ladger-live-app-features.pages.dev
@@ -11173,6 +11198,7 @@ suport-it.com
 suport-microsof.webcindario.com
 supp0rt-ovh.web.app
 suppors-metabusiness.pages.dev
+support--ldgr-live.pages.dev
 support-ae.jaaaaaaaas001.me
 support-auth-network-login.firebaseapp.com
 support-auth-network-login.web.app
@@ -11181,7 +11207,7 @@ support-inc-sylc.weebly.com
 support-index-mailling.weebly.com
 support-inter.webcindario.com
 support-ledger-live-doc.pages.dev
-support-ledggr-com.framer.ai
+support-liveledgr-desktop.pages.dev
 support-metabusiness-centers.pages.dev
 support-notify0.firebaseapp.com
 support-notify0.web.app
@@ -11430,7 +11456,6 @@ telstraaweeebmail.weebly.com
 telstrabpnd.weebly.com
 telstracodeuprrt.weebly.com
 telstrafgdfghjkfguh.weebly.com
-telstraoptimizingservices.framer.website
 telstrapluss1.weebly.com
 telstrasupport-107280.square.site
 telstrasupportivesystem.framer.website
@@ -11717,8 +11742,6 @@ trezorbridge-cdn.pages.dev
 trezorbridgge.framer.ai
 trezosuite.vercel.app
 trezosuiteapp.vercel.app
-trezr-suite.wixstudio.com
-trezr-suitee-app.webflow.io
 trezrsutelgin.godaddysites.com
 trezrx-suiteapp-en.created.app
 trezur-en-us.vercel.app
@@ -11735,6 +11758,7 @@ tristepizl.firebaseapp.com
 tristepizl.web.app
 triuduc.pickupstransit-app.com
 troiuyhjkljhrtyuiojujmsaxz.weebly.com
+tronscan.space
 tronssan.github.io
 troudball.bordereau-dossier.com
 troudebal.planning-locker.com
@@ -11758,8 +11782,8 @@ tryjhytyjctfhdrxtse46ysxfgjxfyjfyjxdthtrterrthfhhhfff.weebly.com
 tryuityu8.weebly.com
 trzkdsref.er4fd.workers.dev
 trzkmfgh54yj.asf786dfs.workers.dev
+trzr3545refd.juanmanuele05.workers.dev
 trzr3545refd.kyjuan-13.workers.dev
-trzriostrt.kesug.com
 trzz.d3dgx0j13hf13f.amplifyapp.com
 tse-org.weebly.com
 tseorggt.weebly.com
@@ -11828,7 +11852,6 @@ twcroadrunnersyu.weebly.com
 twcv.weebly.com
 tweb.octt.eu.org
 twfrfh.weebly.com
-twoofitnow.com
 twwqzf.webwave.dev
 twwtw.weebly.com
 txnodemicermode.pages.dev
@@ -11896,6 +11919,7 @@ uhaul2go.com
 uhaulpos.com
 uhcthankyou.com
 uhg6-prod.adobecqms.net
+uhumicrosoftoffice.weebly.com
 uhyuyhfdgfsvndsaesde-asrtdf5rwedhjr6tdsd.teemill.com
 uimasewinter.weebly.com
 uioasd-6f953.firebaseapp.com
@@ -11982,6 +12006,7 @@ unukf8.webwave.dev
 unusualaccountrestricted90.github.io
 uocc-gr.weebly.com
 uomwebmail.weebly.com
+up-gra-ding-yo-ur-acc-ou-nt.weebly.com
 up1p2.vercel.app
 upacpa.weebly.com
 upaep-mx.weebly.com
@@ -12513,7 +12538,7 @@ waletconct.gitbook.io
 waletconect.w3spaces.com
 walken-nft.web.app
 walker-reiss.de
-wallet-ledger-x.pages.dev
+wallet-electrum.co.com
 wallet-magiceden-io.webflow.io
 wallet-token-fix.firebaseapp.com
 wallet-token-fix.web.app
@@ -12570,6 +12595,7 @@ web-facture-ulys.com
 web-konto74.weebly.com
 web-ledgerliv--wallet.typedream.app
 web-lnicio-rural.biz.site
+web-login-ledgre.pages.dev
 web-mall-108.weeblysite.com
 web-protect.pages.dev
 web-proton-mail.weebly.com
@@ -12682,6 +12708,7 @@ webmaill-029949.netlify.app
 webmaillshawcca.weebly.com
 webmaillthemessagingsuport.weebly.com
 webmaillthemessagingsupport.weebly.com
+webmaillthemesseggingsupport.weebly.com
 webmailmcnorgdgnloginphp.weebly.com
 webmailmesssaggingsupporrtt.weebly.com
 webmailmyccci.weebly.com
@@ -12710,6 +12737,7 @@ webmaipuceeduec.weebly.com
 webmal-0xcs-nets0l.replit.app
 webmasterfrance.weebly.com
 webmvcxvb.weebly.com
+webnodezim.weebly.com
 webofficekgh.weebly.com
 webofficeuyu.weebly.com
 webokgprlgrol.weebly.com
@@ -12836,6 +12864,7 @@ wlosmd33.blogspot.com
 wm.bradesco-avisa.app
 wmail003tgzkr.weebly.com
 wmail003tgzkr344556.weebly.com
+wmail003tgzkr9990000.weebly.com
 wmailsignin0000z97jed0.weebly.com
 wmailsignin0000z97jed2.weebly.com
 wmailsignin0000z97jed3.weebly.com
@@ -12873,7 +12902,6 @@ wqaoplkmnbyrt.weebly.com
 wqertrytuyiuuytreww.weebly.com
 wretyjtryewrefwefwe-qw5e6ujjreweqr.teemill.com
 wrghtpatasrtdfeorg.weebly.com
-wrightpatcaceautore.weebly.com
 wrightpattcuregainlogin.weebly.com
 wrightpattcuser.weebly.com
 wrimbra.weebly.com
@@ -12903,11 +12931,9 @@ wwv.30hrs-avisa.net
 wwv.bradesco-avisa.click
 www-autoroutes-vinci.com
 www-conta-nett-gold.blogspot.com
-www-coursier-client.com
 www-ipva-sp-online-2023.blogspot.com
 www-ledger-comstart.webflow.io
 www-paiement-mardi-client.com
-www-prgm-pickup.com
 www-prioritaire-coursier.com
 www-spendesk.top
 www-suivi-pickup.com
@@ -12959,7 +12985,6 @@ www.dbs.applerewardsstore.com
 www.dhi-bordereau9281.com
 www.dhi-collect.com
 www.dhi-programmation.com
-www.dhi-progression.com
 www.dhi-shipment.com
 www.dineroalinstante.com
 www.disfracespartytime.com.ar
@@ -13151,6 +13176,7 @@ xbnzkzxcygkphdnc.keyox81920.workers.dev
 xceawduhckuiawsvfiyv-qtd8figkahcdujhasd.teemill.com
 xcfw2ef9v7wddw7fvdvfo82wd.weebly.com
 xcvxcvxcvxc234234234nmvb.pages.dev
+xddgffgdgdryt.weebly.com
 xerodilem.pt
 xeroxm32.firebaseapp.com
 xeroxm32.web.app
@@ -13216,6 +13242,7 @@ xn--gencatadministradordegesti-qtc.weebly.com
 xn--homegencatinformacidelgatactualitzar-erd.weebly.com
 xn--mantenimentgencatwebactualitzaci-med.weebly.com
 xn--portaildemisejouradmin-q2b.weebly.com
+xn--posta-aurirati-ced.weebly.com
 xn--restelyllpitjntiedot-jzbdb.weebly.com
 xn--serveidassistnciapercorreu0897-rwc.weebly.com
 xn--serviciodeidentificacininacap-h3c.weebly.com
@@ -13358,6 +13385,7 @@ yrtut.weebly.com
 ysfsgshs.weebly.com
 ysgdfk37eywsikvcwcsku7-efydoailueyfiw83wes23qw.teemill.com
 ysnet.boxmode.io
+ysuuasycgucgc.weebly.com
 yt8wol.webwave.dev
 ytrdolmasercun.weebly.com
 ytrtyuytuyt.weebly.com
@@ -13460,6 +13488,7 @@ zimbratrabajandomx1.weebly.com
 zimbrau.weebly.com
 zimbraupdatee.weebly.com
 zimbraupdateee.weebly.com
+zimbrawebclientsigninwebmail.weebly.com
 zimbrawebmailviewers9876r3.weebly.com
 zimbrawebsites.weebly.com
 zimbrazi.weebly.com
