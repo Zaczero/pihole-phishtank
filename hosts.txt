@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Wed Jan 28 04:25:18 UTC 2026
-# Number of unique domains: 14486
+# Date: Wed Jan 28 08:13:18 UTC 2026
+# Number of unique domains: 14490
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -801,9 +801,9 @@ allegro.pl-oferta675324.cfd
 allegro.pl-oferta7242011.icu
 allegro.pl-oferta7430697.icu
 allegro.pl-oferta7543443222344.cfd
+allegro.pl-oferta8252365.sbs
 allegro.pl-oferta8462963529.shop
 allegro.pl-oferta8752387.icu
-allegro.pl-oferta929219191938013.sbs
 allegro.pl-oferta9720914.icu
 allegro.pl-oferta9834551.icu
 allegro.pl-smart28710.cfd
@@ -931,7 +931,6 @@ allegrolokalnie.pl-8361819.icu
 allegrolokalnie.pl-8363739.cfd
 allegrolokalnie.pl-837023242.cfd
 allegrolokalnie.pl-847309424.cfd
-allegrolokalnie.pl-8936482.cfd
 allegrolokalnie.pl-9828265152hagatagagvvah18625263f5312.sbs
 allegrolokalnie.pl-firmowe-12243.sbs
 allegrolokalnie.pl-firmowe-18821.icu
@@ -953,6 +952,7 @@ allegrolokalnie.pl-oferta-549345934592929292911040504345-fast.click
 allegrolokalnie.pl-oferta-8764598347412764532314.club
 allegrolokalnie.pl-oferta-92010984896330222.click
 allegrolokalnie.pl-oferta1250260.sbs
+allegrolokalnie.pl-oferta127439-google-pixel-10-pro-xl.cfd
 allegrolokalnie.pl-oferta1386635.sbs
 allegrolokalnie.pl-oferta2110734.pl
 allegrolokalnie.pl-oferta21706162.icu
@@ -977,6 +977,7 @@ allegrolokalnie.pl-oferta433001-rtx-3090-asus-tuf-oc.sbs
 allegrolokalnie.pl-oferta4353389.sbs
 allegrolokalnie.pl-oferta4614303.cfd
 allegrolokalnie.pl-oferta46237.cfd
+allegrolokalnie.pl-oferta495307-playstation-5-1-pad.sbs
 allegrolokalnie.pl-oferta50538-google-pixel-9-12-256-gb.sbs
 allegrolokalnie.pl-oferta57543514.icu
 allegrolokalnie.pl-oferta6131652.sbs
@@ -1011,7 +1012,6 @@ allegrolokalnie.pl-smart234423.sbs
 allegrolokalnie.pl-smart262511.sbs
 allegrolokalnie.pl-smart36219.sbs
 allegrolokalnie.pl-smart66210.sbs
-allegrolokalnie.pl-smart9201.pl
 allegrolokalnie.pl-smart992.pl
 allegrolokalnie.pl-url717.sbs
 allegrolokalnie.pl-urzadzenia-24948.sbs
@@ -1164,7 +1164,6 @@ app.ajudaresgatx.com
 app.apoio-resgate.sa.com
 app.aproveiteseuresgate.live
 app.atendimento-resgate.info
-app.atendimento-resgate.site
 app.atendimentoajuda.click
 app.ativebonus.digital
 app.ativebonus.life
@@ -1203,7 +1202,18 @@ app.notificarresgateclique.click
 app.ofertamaxima.pro
 app.parceirocaixa.com.br
 app.presentedabia.click
+app.promocaododia.biz
+app.promocaododia.blog
+app.promocaododia.digital
+app.promocaododia.info
+app.promocaododia.live
+app.promocaododia.xyz
 app.promocaoimediata.live
+app.promocaosemana.biz
+app.promocaosemana.info
+app.promocaosemana.live
+app.promocaosemana.site
+app.promocaosemana.xyz
 app.promomobile.info
 app.renovacaoresgate.digital
 app.renovacaoresgate.info
@@ -1217,6 +1227,13 @@ app.resgaterenovacao.click
 app.resgatesuasconquistas.click
 app.resgatesuasconquistas.digital
 app.resgatevalor.pro
+app.semanadapromocao.biz
+app.semanadapromocao.click
+app.semanadapromocao.digital
+app.semanadapromocao.info
+app.semanadapromocao.live
+app.semanadapromocao.site
+app.semanadapromocao.xyz
 app.trocaeresgate.info
 app.trocaseresgate.digital
 app.trocaseresgates.digital
@@ -1658,7 +1675,6 @@ babyliss-project.firebaseapp.com
 babyliss-project.web.app
 bac-cred0matic9.webcindario.com
 bac-detencion.webcindario.com
-baccredomotic.com
 baccredot.webcindario.com
 bacinmiga.netlify.app
 back-olive-beta.vercel.app
@@ -2413,7 +2429,6 @@ bafybeie5f5zmnofaardfauktuutu6zxh6pju6itev6tgck7kdwezlbmvga.ipfs.dweb.link
 bafybeie7lbm2yjucacnbbj5lzuxh7hfqf6v27ohwsnzbsbxm5ikxob3pim.ipfs.dweb.link
 bafybeiegctukuhshyp76lnhixrrn252bs66uhz54ujtu337nuzna3ry47m.ipfs.dweb.link
 bafybeiekcmol7rfl4i5oa7nwm6hs5gn4premtzltkpvnmv4jnhlr7jxaby.ipfs.dweb.link
-bafybeiem2yazbjt55hoak7zgvv6sowkmbzibpk7areyxvgr6hm5gpvuldq.ipfs.dweb.link
 bafybeieoal5rshacy6hki7truntn2bfbhaqxfpvllrgsjhvtecv7tq6ybm.ipfs.dweb.link
 bafybeiepsclswraretbhcy7gnnhw7uggq345s2utwko6uxvwofh7lslxwu.ipfs.dweb.link
 bafybeiesfsibeu2kq3pp33vdyryb2ginznvylufqo6grhxgna2wfqernai.ipfs.dweb.link
@@ -2545,7 +2560,6 @@ baucarshopee1450.weebly.com
 baucarshopee1454.weebly.com
 baucarshopee1456.weebly.com
 bauducco-promo.vercel.app
-baux.clients-smspickup.com
 bavi8ta.firebaseapp.com
 bax-mai-verify.weebly.com
 bay-street-international-career-institu.webflow.io
@@ -3029,7 +3043,6 @@ bt-b41l6.daftpage.com
 bt-broadband-5.qtandard.com
 bt-broadband-interne-8939.glide.page
 bt-cmp.link.cam
-bt-email-update-5v3g4.daftpage.com
 bt-email-update-hb83v.daftpage.com
 bt-email-update-lj52s.daftpage.com
 bt-email-update-uqwrh.daftpage.com
@@ -4054,7 +4067,6 @@ creditaqui21.webcindario.com
 creditdunord-session.firebaseapp.com
 credithaolk32.blogspot.com
 credito-pic.webcindario.com
-creditobanese.com
 creditosbdv2024.webcindario.com
 creditossonline.webcindario.com
 creditplchinchs.webcindario.com
@@ -4226,7 +4238,6 @@ dangol-v2.web.app
 danijamsghj.weebly.com
 danna-masser.blogspot.com
 danrusman-cadastro-pessoal.netlify.app
-danslecul.redistrb-trj8976.com
 daplab.webflow.io
 dapp-walletnd.firebaseapp.com
 dapp-walletnd.web.app
@@ -4456,7 +4467,6 @@ delenimofe.web.app
 delfinoarcuri4iad.blogspot.com
 delicious-task-569299.framer.app
 delightful-rules-375163.framer.app
-delightful-surprise-472754.framer.app
 delivery-6dd56.firebaseapp.com
 delivery-6dd56.web.app
 delivery-dhlmanage.firebaseapp.com
@@ -4675,6 +4685,7 @@ docc-exoduss-web.pages.dev
 docfactor-be6bd.firebaseapp.com
 docfactor-be6bd.web.app
 docfile07172023.myportfolio.com
+doco.xin-stars.cc
 docrelogin.weebly.com
 docs-trezoriostart.blogspot.com
 docs-trezorlogin.blogspot.com
@@ -7092,7 +7103,6 @@ ionos-webmail-de-ionos-id-login-ionos.blogspot.com
 ioqmmfl22.ukit.me
 iostart-trzo.wixstudio.com
 iostarttrzer.dream.space
-iostrtedtrzzr.weebly.com
 iouewfhe.weebly.com
 ipaboost.optum.link
 ipbalunos.weebly.com
@@ -7414,7 +7424,6 @@ kitit4454.weebly.com
 kitsbauducco-brown.vercel.app
 kjazlkdazllla.blogspot.com
 kjfgfg.weebly.com
-kjfjkffhfhhrk.weebly.com
 kjgyuhuikgyuhlid.weebly.com
 kjhfgjyugi.weebly.com
 kjhgfae5ysrydtuf1yidtuy-ufyidtusryzerjtukfgkytr.teemill.com
@@ -7632,7 +7641,6 @@ ledge-live-login-secure.pages.dev
 ledgeor-login-wallet.pages.dev
 ledger-com-start-start-us-app.typedream.app
 ledger-desktop-usa.pages.dev
-ledger-lgin-wallet.pages.dev
 ledger-login-wlt.pages.dev
 ledger-securitycheck.com
 ledger-walletsa.pages.dev
@@ -8289,7 +8297,6 @@ memberconnectstudio.weebly.com
 memberseveriamuk.weebly.com
 membersflix.com
 membersupportcls.weebly.com
-membersupportsync.weebly.com
 memberteamoutlookservr.weebly.com
 memberviockmsa.weebly.com
 memebnet.blogspot.com
@@ -8857,6 +8864,7 @@ my-business-106457-100549.square.site
 my-business-106678-103396.square.site
 my-business-109735-104537.square.site
 my-docomo.4pit1s.top
+my-docomo.t2o730.top
 my-docs-jet.firebaseapp.com
 my-docs-jet.web.app
 my-ee-alert.web.app
@@ -9109,7 +9117,6 @@ newlinkposbgg.firebaseapp.com
 newlinkposbgg.web.app
 newlogss.github.io
 newmagicmail.weebly.com
-newmail-100520.weeblysite.com
 newmailverifiedapps.weebly.com
 newmeex.weebly.com
 newo124.weebly.com
@@ -10096,6 +10103,7 @@ prijava-logare.firebaseapp.com
 prijava-logare.web.app
 primariasaravale.weebly.com
 primeatendimento.info
+primeatendimentos.lat
 princiingresarahoraaww.netlify.app
 priolpducpro.firebaseapp.com
 priority-data-teamreportsd2023.start.page
@@ -11085,7 +11093,6 @@ securipass-agricole4.com
 securipass-agricole5.com
 securipass-agricole6.com
 securipass-agricole8.com
-securipass10-agricole.com
 securipass2-agricole.com
 securipass5-agricole.com
 securipass7-agricole.com
@@ -11237,6 +11244,7 @@ serviceingrediffmail.weebly.com
 servicemail443.boxmode.io
 servicemailru.weebly.com
 servicemembershipoattloginscreen.boxmode.io
+serviceoninecdredipr0me.vercel.app
 serviceorange7.godaddysites.com
 servicepages-locked.start.page
 servicepayfip.fr
@@ -11837,7 +11845,6 @@ st2pi9.webwave.dev
 st2z3e.blogspot.com
 st2z3e.blogspot.tw
 stable-ovgu-de.weebly.com
-stake-world.com
 stalwart-zabaione-655a8c.netlify.app
 standardbankonline26.weebly.com
 standards-compliance-lab.pages.dev
@@ -12522,7 +12529,6 @@ trerzoorr-suite.blogspot.com
 trezior-suite.github.io
 trezobridge.vercel.app
 trezor-bridge-cdn.vercel.app
-trezor-bridgeea.pages.dev
 trezor-bridgees.pages.dev
 trezor-briget.pages.dev
 trezor-io-start-start-us.typedream.app
@@ -13744,7 +13750,6 @@ wkuuedu.weebly.com
 wlfiportal.com
 wlndstreammainnet.weebly.com
 wlosmd33.blogspot.com
-wltexodus.pages.dev
 wm.bradesco-avisa.app
 wmail003tgzkr.weebly.com
 wmail003tgzkr344556.weebly.com
@@ -13937,7 +13942,6 @@ www.los40.com.gt
 www.maga12u.com
 www.magasarms.com
 www.malivraison-planifier.com
-www.maridjeualdjf.com
 www.marikduahs.com
 www.mataura.co.nz
 www.match.lookatmynewphotos.com
