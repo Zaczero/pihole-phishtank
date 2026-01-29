@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Thu Jan 29 04:38:44 UTC 2026
-# Number of unique domains: 14546
+# Date: Thu Jan 29 08:15:38 UTC 2026
+# Number of unique domains: 14526
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -804,6 +804,7 @@ allegro.pl-oferta6214153.icu
 allegro.pl-oferta6310.sbs
 allegro.pl-oferta6521785.sbs
 allegro.pl-oferta675324.cfd
+allegro.pl-oferta6906934.sbs
 allegro.pl-oferta7242011.icu
 allegro.pl-oferta7430697.icu
 allegro.pl-oferta7543443222344.cfd
@@ -896,7 +897,6 @@ allegrolokalnie.oferta5173144.sbs
 allegrolokalnie.oferta5183744.rest
 allegrolokalnie.oferta518832.sbs
 allegrolokalnie.oferty-kategoria-popularne-12446811.sbs
-allegrolokalnie.oferty-kategoria-popularne-1353574.sbs
 allegrolokalnie.oferty-kategoria-popularne-14317412.sbs
 allegrolokalnie.oferty-proponowane-dla-ciebie-1546341.sbs
 allegrolokalnie.oferty-proponowane-dla-ciebie-1646341.sbs
@@ -906,6 +906,7 @@ allegrolokalnie.p13912x79.sbs
 allegrolokalnie.p1x83918p91.sbs
 allegrolokalnie.p2l134w-2.sbs
 allegrolokalnie.pl-002492841691.cfd
+allegrolokalnie.pl-023492841692.cfd
 allegrolokalnie.pl-038223-szybki.click
 allegrolokalnie.pl-0392932-zamowienie.sbs
 allegrolokalnie.pl-042492841692.cfd
@@ -996,10 +997,8 @@ allegrolokalnie.pl-oferta57543514.icu
 allegrolokalnie.pl-oferta6131652.sbs
 allegrolokalnie.pl-oferta6311.sbs
 allegrolokalnie.pl-oferta6355331.cfd
-allegrolokalnie.pl-oferta64323.cfd
 allegrolokalnie.pl-oferta6751970.sbs
 allegrolokalnie.pl-oferta675324.cfd
-allegrolokalnie.pl-oferta6831.cfd
 allegrolokalnie.pl-oferta689915-ipad-pro-m4-11-256gb-wifi.sbs
 allegrolokalnie.pl-oferta6906934.sbs
 allegrolokalnie.pl-oferta7242011.icu
@@ -1008,6 +1007,7 @@ allegrolokalnie.pl-oferta7430697.icu
 allegrolokalnie.pl-oferta7543443222344.cfd
 allegrolokalnie.pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
 allegrolokalnie.pl-oferta817394834.cfd
+allegrolokalnie.pl-oferta8252365.sbs
 allegrolokalnie.pl-oferta84037449.lol
 allegrolokalnie.pl-oferta8485738.sbs
 allegrolokalnie.pl-oferta84911-apple-ipad-m4-pro.cfd
@@ -1246,7 +1246,6 @@ app.semanadapromocao.click
 app.semanadapromocao.digital
 app.semanadapromocao.info
 app.semanadapromocao.live
-app.semanadapromocao.site
 app.semanadapromocao.xyz
 app.trocaeresgate.info
 app.trocaseresgate.digital
@@ -1388,7 +1387,6 @@ at-t-r2fgp.daftpage.com
 at-t-revnv.daftpage.com
 at-t-service0.pory.app
 at-t-support-d5x15.daftpage.com
-at-t-ycv8a.daftpage.com
 at-tnotce2.pory.app
 at-tyahoo.pory.app
 at7tpluseupdate.ulcraft.com
@@ -3681,7 +3679,6 @@ clientmaison.ulcraft.com
 clientwigthamanwebsitepages.weebly.com
 climary.cl
 clinicasantacruzcompe.weebly.com
-clinquant-naiad-0a239f.netlify.app
 clmknhuyt.firebaseapp.com
 clmknhuyt.web.app
 cloud-233f9.firebaseapp.com
@@ -3854,7 +3851,6 @@ confirmsaccount.start.page
 confirmverifyaccount-supportpagecenter-requestofreviews.pages.dev
 confirmyouraccountdetails.firebaseapp.com
 confirmyouraccountdetails.web.app
-confirmyourmail.weebly.com
 confix-centrepages.pages.dev
 confr-16343.firebaseapp.com
 confr-16343.web.app
@@ -4164,7 +4160,6 @@ currently5637.weebly.com
 currentlyatt551.weebly.com
 currentlyattyahoocom.boxmode.io
 currentlyattyahoologinservice.boxmode.io
-currentlyfolderwebmails0090008000.weebly.com
 cuscatlan-web.webcindario.com
 cuscatlanpago5.webcindario.com
 cuscatlansv9580.webcindario.com
@@ -4528,7 +4523,6 @@ designelapas.lapassemarie.com
 designhub-0e6.mvt.so
 desinformation00120.firebaseapp.com
 desinformation00120.web.app
-desire.dhi-collect.com
 desk-index-verify.weebly.com
 deskloni.firebaseapp.com
 deskloni.web.app
@@ -6306,7 +6300,6 @@ gouvacad.ukit.me
 gov-gr-auth.firebaseapp.com
 gov-gr-auth.web.app
 gov-pt.net
-gov-uk-dvlaservices.com
 gov-vid.firebaseapp.com
 gov-vid.web.app
 gov.emocaptcha.us
@@ -6513,7 +6506,6 @@ helpdesk-abv.weebly.com
 helpdesk-umwedu.weebly.com
 helpdesk-unas.weebly.com
 helpdeskcsdmedu.weebly.com
-helpful-choices-097114.framer.app
 helpid100235789238974.firebaseapp.com
 helpid100235789238974.web.app
 helpid92244723849185968484844.firebaseapp.com
@@ -6675,7 +6667,6 @@ home-sui-te-trez-or.typedream.app
 home-trezor--suite.pages.dev
 home-trezzr-bridge-help.typedream.app
 home67898995433.weebly.com
-homeattonline-006281.weeblysite.com
 homebcr15.webcindario.com
 homecharterv81update.weebly.com
 homegeneralitatdecatalunya.weebly.com
@@ -7015,7 +7006,6 @@ ingreesar-aqui23.webcindario.com
 ingres0pichi2026.webcindario.com
 ingresa-inicio.webcindario.com
 ingresadaviplata.webcindario.com
-ingresagymbfc.space
 ingresar-tarjeta.webcindario.com
 ingresarbdv2024.webcindario.com
 ingresarbhd1.webcindario.com
@@ -7978,7 +7968,6 @@ louqjesuis.firebaseapp.com
 louqjesuis.web.app
 louuiscahuf.com
 lovable-career-067267.framer.app
-lovable-popover-399054.framer.app
 lpdeymonblackfr.firebaseapp.com
 lqfhiw489.ukit.me
 lqrrheidnei9403riri9hrc.pages.dev
@@ -8114,7 +8103,6 @@ mailboxvoicemailservice.weebly.com
 mailbrightnet938fucj.weebly.com
 mailchoiceindia.weebly.com
 mailcomm.weebly.com
-mailcomunicattion.weebly.com
 maildde.weebly.com
 maildedienst.weebly.com
 maildhdn474.weebly.com
@@ -8498,7 +8486,6 @@ metamasksecurity.unaux.com
 metamasksignin.teachable.com
 metamaskxx1.webcindario.com
 metamaskzlogin.webflow.io
-metamassk.yzz.me
 metaoperationsaccnotices.firebaseapp.com
 metaoperationsaccnotices.web.app
 metaplatforms-case10005023532.firebaseapp.com
@@ -8598,7 +8585,6 @@ microsoftsupport45.weebly.com
 microsoftsupport57.weebly.com
 microsoftsupport7.weebly.com
 microsofttlow56dxt765hg6d.weebly.com
-microsoftupsoft.weebly.com
 microsoftusersinc.weebly.com
 microutlooke.webcindario.com
 micrrosoftttonline.weebly.com
@@ -9944,7 +9930,6 @@ pjxbgdd71.ukit.me
 pknumerciharrison5merciharrison5.weebly.com
 pkobp.com
 pkobppromo.com
-pkobppromo.info
 placid-plans-151772.framer.app
 planh-c6a92.firebaseapp.com
 planh-c6a92.web.app
@@ -11117,7 +11102,6 @@ secured-shareserver-gmfsteelgroup-1note.myportfolio.com
 securedata34567.weebly.com
 secureeepptd.weebly.com
 securef365sharedencryptvieviewkxaedcsnideufmtcsfvdcd365.weebly.com
-securefirstunitedbank.weebly.com
 securegpcu.weebly.com
 securehscedukw.weebly.com
 securejonesburgbank.weebly.com
@@ -12029,7 +12013,6 @@ support-index-mailling.weebly.com
 support-inter.webcindario.com
 support-lgr-live.pages.dev
 support-live-2qz.pages.dev
-support-live-desktops.pages.dev
 support-live-eng-5pl.pages.dev
 support-metabusiness-centers.pages.dev
 support-ndaxx-log-docss.pages.dev
@@ -13290,7 +13273,6 @@ vinted.pl-oferta6521785.sbs
 vinted.pl-oferta6906934.sbs
 vinted.pl-oferta7430697.icu
 vinted.pl-oferta8485738.sbs
-vinted.pl-oferta864936.com
 vinted.pl-oferta9720914.icu
 vinylworkscanada.com
 violation-management-a6bc6.firebaseapp.com
@@ -13372,7 +13354,6 @@ voxxttelecom.weebly.com
 voxxxdebitpayment.weebly.com
 vpass-jp.brwkcx.cn
 vpass-jp.cdgemt.cn
-vpass-jp.hcirzf.cn
 vpass-jp.jwwdix.cn
 vpass-jp.pgbqt.cn
 vpass-login.eawfcz.cn
@@ -14512,7 +14493,6 @@ zolmbra.weebly.com
 zooomintercom.weebly.com
 zoubida.appexpd-clients.com
 zoubida.rdv-tbj7r.com
-zoubit.rdv-tbj7r.com
 zpmbra.weebly.com
 zq3q5twry4545x5y4t4wgq3fww2g43yh324653g4etrwvikb.teemill.com
 zqdtiuqvbzzjf.firebaseapp.com
