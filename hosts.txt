@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Mon Feb 23 12:16:45 UTC 2026
-# Number of unique domains: 16186
+# Date: Mon Feb 23 16:22:58 UTC 2026
+# Number of unique domains: 16218
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -288,6 +288,7 @@
 67t98889sa-dry-wind-3a19.accounts-payable.workers.dev
 6898e.link.cam
 69901b73-0037-40ab-8102-e8b87bb06d81-00-2e3nxa9cbf2pc.janeway.replit.dev
+699a26ca1eae9cec8700576e--glistening-platypus-505378.netlify.app
 6ada8904d68a.godaddysites.com
 6bed10b4-7f14-47f0-9a8a-ae46c6e2c953-00-29op5zoaeva8f.picard.replit.dev
 6pt8hwg94.ukit.me
@@ -357,7 +358,6 @@
 94i.37c.mytemp.website
 9616464466164.hyperphp.com
 9691564644650.hyperphp.com
-96bca227-3dbd-41a3-ba80-de2ab8c15375-00-811dg3v5onh1.picard.replit.dev
 9758474765.weebly.com
 975b1fbf.1266b8dd0c622df28d9af103.workers.dev
 978652324598773248676.hyperphp.com
@@ -851,6 +851,7 @@ allegro.75421.cfd
 allegro.81522.click
 allegro.88g8g882.cfd
 allegro.904785.vu
+allegro.ff99f-1s9.bond
 allegro.oferta-4303466.click
 allegro.oferta-4491103.sbs
 allegro.p1839200s8.sbs
@@ -1127,12 +1128,12 @@ allegrolokalnie.pl-918364.sbs
 allegrolokalnie.pl-923483823.cfd
 allegrolokalnie.pl-9543.sbs
 allegrolokalnie.pl-9654.sbs
+allegrolokalnie.pl-96831.cfd
 allegrolokalnie.pl-997112.sbs
 allegrolokalnie.pl-aukcja651851.cfd
 allegrolokalnie.pl-aukcja68914.cfd
 allegrolokalnie.pl-aukcja95478124.cfd
 allegrolokalnie.pl-aukcja957813.cfd
-allegrolokalnie.pl-firmowe-18821.icu
 allegrolokalnie.pl-firmowe-22243.sbs
 allegrolokalnie.pl-firmowe-28414.sbs
 allegrolokalnie.pl-firmowe-28524.sbs
@@ -1408,6 +1409,7 @@ app--itrustcapital-sso.webflow.io
 app-acending-owners2023.start.page
 app-captchav2.pages.dev
 app-convergepay.co.com
+app-exxods-wallt.pages.dev
 app-id6016.firebaseapp.com
 app-id6016.web.app
 app-id8109.firebaseapp.com
@@ -1612,7 +1614,6 @@ assine-clarobrasil-com-br.vercel.app
 assisorys.firebaseapp.com
 assisorys.web.app
 assistance--ameli.com
-assistancerelay.com
 assistances-renouvellement.com
 assu-reprogrammation.com
 assuranceameli-infoactu.com
@@ -1826,7 +1827,6 @@ austinl33.github.io
 austria-bank-login--hshssh2737.replit.app
 austroactualiza.webcindario.com
 autenticacaopt.com
-auth-bcpmillenium.com
 auth-bitpanda.firebaseapp.com
 auth-bitpanda.web.app
 auth-bncr.webcindario.com
@@ -1933,7 +1933,6 @@ azevilianmys.firebaseapp.com
 azrsyd1092653.start.page
 azuki-110716005.vercel.app
 azure-standards-739394.framer.app
-azure-takeaways-012622.framer.app
 b-1-18wg.webcindario.com
 b-i-by272.webcindario.com
 b-i-iw8.webcindario.com
@@ -1964,6 +1963,7 @@ bac-puntos.com
 baccredot.webcindario.com
 bacinmiga.netlify.app
 back-neon-beta.vercel.app
+back-orcin-mu.vercel.app
 backupcenter-process-ex.vercel.app
 bacpayee.contactin.bio
 bacsv.webcindario.com
@@ -4331,7 +4331,6 @@ conscientious-conference-967432.framer.app
 consejo-superior-esic.weebly.com
 considerate-function-244065.framer.app
 considerate-overlay-908941.framer.app
-considerate-permission-111327.framer.app
 consistent-keep-855743.framer.app
 consistent-table-394558.framer.app
 consolation5.firebaseapp.com
@@ -4735,6 +4734,7 @@ dapp-walletnd.web.app
 dappconnecthub.pages.dev
 dapps-assets-protocol.firebaseapp.com
 dapps-assets-protocol.web.app
+dapps-exodus-wllet.created.app
 dappsappplug.firebaseapp.com
 dappsappplug.web.app
 dappsmainnetasset.pages.dev
@@ -4773,7 +4773,6 @@ darb.qmobilitvrp.com
 darb.qmobility13.cn
 darb.qmobility3.com
 darb.qmobility4.com
-darb.qmobilitys3.cn
 darb.qmobilitys7.cn
 darb.qmobilityse.cn
 darb.qmobilitysi.cn
@@ -5141,6 +5140,7 @@ docfactor-be6bd.firebaseapp.com
 docfactor-be6bd.web.app
 docfile07172023.myportfolio.com
 docrelogin.weebly.com
+docs-exdus-web3.pages.dev
 docs-exed-us-web3.pages.dev
 docs-trezoriostart.blogspot.com
 docs-trezorlogin.blogspot.com
@@ -5250,6 +5250,7 @@ dooncastood.web.app
 dop-enlienabhd1.weebly.com
 dorel-jacques.com
 dorvoinsvetaiiu.blogspot.com
+dos-en-exodus.pages.dev
 dossier-ameli.com
 dossier61-bnp.com
 dossier63-bnp.com
@@ -5639,8 +5640,10 @@ emprestimosimgl.vercel.app
 emta-ee-authst.firebaseapp.com
 emta-ee-authst.web.app
 emverifier.weebly.com
+en--exo-x-us-wallet.created.app
 en-chainfix.pages.dev
 en-exedos-net.pages.dev
+en-exodus-es.created.app
 en-ledger.netlify.app
 en-ledgerlive.vercel.app
 en-ntcoins.zapier.app
@@ -5661,7 +5664,6 @@ enbraise.redistrb-trj8976.com
 encryptdrive.booogle.net
 encrypted-portal.com
 encryptedfileserver.weebly.com
-encryptedmail-orgformpostdirsecurereade.webflow.io
 encryptionproton.weebly.com
 endives-bechamel.reclammation-7363.pro
 endless-handbook-552767.framer.app
@@ -5701,7 +5703,6 @@ enquete-uphf.web.app
 ensamservice.weebly.com
 ensparis-saclay-fr.weebly.com
 enthusiastic-acknowledgment-182011.framer.app
-entire-combination-798766.framer.app
 entire-luxury-363070.framer.app
 entrada-cttexpresso.com
 entrar-conta.digital
@@ -5885,6 +5886,7 @@ ewrefgjekfrgjjkef.weebly.com
 ewvjygaju.firebaseapp.com
 ewvjygaju.web.app
 ex-cmetamask-wallet-cdn.groovehq.com
+ex-exodusw-eb.pages.dev
 examindusonling.vercel.app
 excited-centre-681415.framer.app
 excited-copy-294724.framer.app
@@ -5893,7 +5895,6 @@ exdos-us-en.zapier.app
 exdous-ios-en.framer.media
 exdous-web-en.created.app
 exdous-web3.created.app
-exdousweb-io.created.app
 exds-web3wallet.created.app
 exds-wlt-ds6.brionnaa4.workers.dev
 exdsstbfdg54f.jksah7d6sadads.workers.dev
@@ -5911,6 +5912,7 @@ exiodswab3wallet.webflow.io
 existing-problem-accountt.start.page
 exo--duswalletweb3.pages.dev
 exo-dcuswebe.pages.dev
+exo-ds-web-en.pages.dev
 exo-dsweb3.created.app
 exo-dus-wallet-ex.created.app
 exo-dus-web3-en.created.app
@@ -5932,6 +5934,7 @@ exodus---web3wallet.created.app
 exodus-app-wallet.pages.dev
 exodus-appwalet.pages.dev
 exodus-browser.created.app
+exodus-download-en.pages.dev
 exodus-download.pages.dev
 exodus-en--web3wallett.created.app
 exodus-en-downlod.pages.dev
@@ -5939,13 +5942,13 @@ exodus-io-web3.pages.dev
 exodus-logins.webflow.io
 exodus-site.created.app
 exodus-ten-five-sigma-dfasf-98457-343564-goa.vercel.app
+exodus-us-web3.created.app
 exodus-walet-extension.created.app
 exodus-waletio.pages.dev
 exodus-wallet-extension-en-us.created.app
 exodus-wallet-exts.vercel.app
 exodus-wallet-exttion.created.app
 exodus-wallet-web.created.app
-exodus-wallet-web3.created.app
 exodus-wallet-webus.zapier.app
 exodus-wallets.boxmode.io
 exodus-web--io.pages.dev
@@ -5956,6 +5959,7 @@ exodus-web.nicepage.io
 exodus-web3-us-io.pages.dev
 exodus-web3-w-allet.pages.dev
 exodus-web3-wallet-auth.created.app
+exodus-web3en.pages.dev
 exodus-web3wallet-enus.created.app
 exodus-web3wallet-io.created.app
 exodus-web3wallet-support.created.app
@@ -5977,11 +5981,14 @@ exodusweb3-en-usa.pages.dev
 exodusweb3-us.created.app
 exodusweb3-w.pages.dev
 exodusweb3wailet.created.app
+exodusweb3wallet.created.app
 exodusweb3wollet.w3spaces.com
 exoduswebtewallot.webflow.io
 exoduswebwallet.created.app
 exoodusweeb3walet.webflow.io
 exosdeusweb-hub.pages.dev
+exosdus-web3.pages.dev
+exosdusweb-io-eng.pages.dev
 expanded-level-223420.framer.app
 expanded-screens-092744.framer.app
 expanded-takeaways-047350.framer.app
@@ -6020,6 +6027,8 @@ exvlhbjik.web.app
 exx-duseo.pages.dev
 exxds-web3walet.created.app
 exxduss-walat-io.created.app
+exxodas-en-io.pages.dev
+exxodus-en.zapier.app
 eyo.lqn.mybluehost.me
 eytnbdgeb.weebly.com
 ezKKG26-f4d777af882c6452cf8f08055cfe63e1.jarrodchong.com
@@ -6037,6 +6046,7 @@ fabulous-messages-897673.framer.app
 facbok-verify.start.page
 facbokhelp-centre.start.page
 facbook-systeam.start.page
+faceb000k.duckdns.org
 facebok-account.start.page
 facebok-verified.start.page
 facebooc-system.start.page
@@ -6696,6 +6706,7 @@ gemini.243026.xyz
 gemini.ccyacg.xyz
 gemini.two13.net
 gemini.wowtaco.cn
+geminibalance.520131401.xyz
 geminibalence.zeabur.app
 gemjadl.weebly.com
 genbexcnre.firebaseapp.com
@@ -6730,6 +6741,7 @@ gerhjturetrwqfgwrhretsae-qwthrq34retdsawqes.teemill.com
 german-tax-form--carsepohapobv.replit.app
 geroplmertunerd.weebly.com
 get-cloud-kucoin-login-en.typedream.app
+get-exodus-cpp.pages.dev
 get-getways-hoaha-toplik.blogspot.com
 get-trzur-kash-en.pages.dev
 getapps.vip
@@ -7006,6 +7018,7 @@ grafeio-voitheias.firebaseapp.com
 grafeio-voitheias.web.app
 grafeioypostirixis.firebaseapp.com
 grafeioypostirixis.web.app
+grafenocliente.digital
 gram-wallet.org
 grand-jelly-75f494.netlify.app
 grandifter.blogspot.com
@@ -7204,6 +7217,7 @@ heliustestresolve.pages.dev
 hellzimb.weebly.com
 help--logie--kucuie.webflow.io
 help-abv.weebly.com
+help-exodus-io.pages.dev
 help-ndx-login.pages.dev
 help-nifty.weebly.com
 help-suite-treizo-public.typedream.app
@@ -7396,24 +7410,30 @@ home-105812.square.site
 home-106343.weeblysite.com
 home-108117.weeblysite.com
 home-109995.square.site
+home-eadua-docs.pages.dev
 home-en-exo-web3.netlify.app
+home-exaduaweb-docs.pages.dev
 home-exo--x--en.pages.dev
 home-exo-dus.created.app
 home-exo-web3-en.created.app
 home-exod-x-en.created.app
 home-exodas-x-en.pages.dev
+home-exodass-en.pages.dev
 home-exodes.created.app
+home-exodus-wallet.blogspot.com
 home-exoduss-x-en.pages.dev
 home-exodusweb-io.pages.dev
 home-sui-te-trez-or.typedream.app
 home-trezor--suite.pages.dev
 home-trezor-suite-app.blogspot.com
 home-trezzr-bridge-help.typedream.app
+home-us-exosds-us-en.pages.dev
 home-us-exoss.pages.dev
 home67898995433.weebly.com
 homebanking-frontend.vercel.app
 homebcr15.webcindario.com
 homemodx.webcindario.com
+homepage-exxodas.pages.dev
 homepagexodus.created.app
 honest-tenure-126772.framer.app
 honestanne300.myportfolio.com
@@ -7427,6 +7447,7 @@ horame.vercel.app
 hordeweb.weebly.com
 horizonfcu.weebly.com
 horpin.planning-locker.com
+host-exodusweb.pages.dev
 host-vc-fone-dx-wiem-qa.weebly.com
 hot-trendingvidoes.pages.dev
 hotdnjiwww.weebly.com
@@ -7759,7 +7780,6 @@ infolinkd.weebly.com
 infopay-a7fe0.firebaseapp.com
 infopay-a7fe0.web.app
 infoprotection.start.page
-infor-ver-davi.vercel.app
 inform-01.firebaseapp.com
 inform-01.web.app
 informa0050pft00.firebaseapp.com
@@ -8000,7 +8020,6 @@ ivory-language-470385.framer.app
 ivory-path-008099.framer.app
 ivory-support-288361.framer.app
 ivs.c34.mytemp.website
-ivx-rpcdebug.pages.dev
 iwpt50r25.ukit.me
 iyfdtusryxcuviuklfyidtu-dtusrzydtkuyufdytsukdyj.teemill.com
 iz5jxz.webwave.dev
@@ -8089,7 +8108,6 @@ jhgfdgf774.w3spaces.com
 jhghjjhjkj.w3spaces.com
 jhkxjkxjhxj90.weebly.com
 jhucgajukrvhauskjvuweyi-wgsxjyhjhwcs.teemill.com
-jhugvygubhij.weebly.com
 jhugyfdxzsxfcgvhbjn.weebly.com
 jienzac.com
 jilsmqne.com
@@ -8397,6 +8415,7 @@ kukcoiinnlogin.webflow.io
 kukiceinnlogin.webflow.io
 kukkinlgan.webflow.io
 kukoin_logiusaa.godaddysites.com
+kukonlgnty.webflow.io
 kukuoiinlogen.webflow.io
 kundengmxnet.weebly.com
 kundenservices2023.blogspot.com
@@ -8511,8 +8530,10 @@ ldztyfgxf.firebaseapp.com
 ldztyfgxf.web.app
 le64connexion.godaddysites.com
 leagueaflegends.weebly.com
+learn-exodass-io.pages.dev
 learn-ldgr-live-sso.pages.dev
 learn-pro-coins.zapier.app
+learn-rn-web3exo.pages.dev
 leaseflipserviceasfr.firebaseapp.com
 leaseflipserviceasfr.web.app
 lechefducartelle.firebaseapp.com
@@ -8730,7 +8751,6 @@ login-primus-ca.weebly.com
 login-raiffeisen-ebanking.firebaseapp.com
 login-raiffeisen-ebanking.web.app
 login-screen-dyanlluwi-106254.weeblysite.com
-login-trust.co.com
 login.billinsgmanager.com
 login.securitybank-secure.workers.dev
 login1-authid-mail-posteo-oauth2onepass-hgthvcrsweeqeqeq.weebly.com
@@ -9199,6 +9219,7 @@ mcdonalds-a39a2.firebaseapp.com
 mcdonalds-a39a2.web.app
 mcnedraca-cpsessere.weebly.com
 mcrososft.framer.website
+mcs-cityline.info
 mdndbdbdbd.weebly.com
 mdrelay-infoscolver.com
 mdskredik.firebaseapp.com
@@ -9210,7 +9231,6 @@ mebersupportservrnewcl.weebly.com
 mecconnect-8669d.firebaseapp.com
 mecconnect-8669d.web.app
 mechanicsbank-business.co.com
-mecindoseversupport.weebly.com
 medervbnot.firebaseapp.com
 medervbnot.web.app
 mediacix.com
@@ -9232,6 +9252,7 @@ megajenkinserviceagfr.firebaseapp.com
 megaway.start.page
 megyar-post.firebaseapp.com
 megyar-post.web.app
+meindkbgiroprodukte.online
 meine-sicherheitshinweis.firebaseapp.com
 meine-sicherheitshinweis.web.app
 meineschufa.site
@@ -9510,7 +9531,6 @@ microsoftonliiner.weebly.com
 microsoftoutlooklivelogin.framer.ai
 microsoftsupport57.weebly.com
 microsoftteam011.weebly.com
-microsoftuplogin.weebly.com
 microsoftuwedupl.weebly.com
 microsoftwebmail022.weebly.com
 microsoftword-signinwebpage.framer.website
@@ -9586,6 +9606,7 @@ mit-alert01a.web.app
 mitgliedwedeee.weebly.com
 mitld-brugerld.firebaseapp.com
 mitld-brugerld.web.app
+mixer-elgin-turbo-chef.vercel.app
 mixrosftt.framer.website
 mizoralul.z1.web.core.windows.net
 mjaffee.myportfolio.com
@@ -9630,6 +9651,7 @@ mmtttb33-opnn5.web.app
 mmurjtryu.weebly.com
 mmwebbercoza.weebly.com
 mmwmail.weebly.com
+mmyjjj.netlify.app
 mn8xt8.webwave.dev
 mnblop.weebly.com
 mnbvcxz-t4o4p5zeqo.edgeone.app
@@ -9729,7 +9751,6 @@ more-understood-539806.framer.app
 morrisbgateway2.weebly.com
 most-action-602014.framer.app
 most-grammar-539786.framer.app
-most-impact-816636.framer.app
 mothersdining.com
 moulaga-frederic.dstrb-6130.pro
 mozarez.firebaseapp.com
@@ -10132,6 +10153,7 @@ nevergoastray.weebly.com
 neversionupdate.framer.website
 new-directions-686483.framer.app
 new-document977.weebly.com
+new-exodus-en.pages.dev
 new-moneypak.com
 new-project-c3ead.firebaseapp.com
 new-project-c3ead.web.app
@@ -10319,7 +10341,6 @@ novoba1.systeme.io
 novobanco-proteger.com
 novobanco-reportar.com
 novobanco.pt-web.net
-novobanco2026.pt-web.net
 novonaver.weebly.com
 now-ps.weebly.com
 nowe-18-02-2026.click
@@ -10399,6 +10420,7 @@ ofcielip.com
 ofdocsonliineaws.firebaseapp.com
 ofdocsonliineaws.web.app
 offical-support-exodus.framer.media
+officals-exoxdusweb.pages.dev
 officce365-e63c9.firebaseapp.com
 officce365-e63c9.web.app
 office-ce1ca.firebaseapp.com
@@ -10432,6 +10454,7 @@ officesharepoints.myportfolio.com
 officespanishlog.weebly.com
 officeupgrading44forsystem888freee.weebly.com
 official-exdus.created.app
+official-exo--us.pages.dev
 official-exo-d-us-en.pages.dev
 official-exodus-wallet.created.app
 officialpaper.com.br
@@ -10691,7 +10714,6 @@ outlook76fr.weebly.com
 outlookbghy.weebly.com
 outlookdeenmailer.weebly.com
 outlookfireworking.weebly.com
-outlookingplease.weebly.com
 outlooklivemsnkfkf.weebly.com
 outlookmaillermailere.weebly.com
 outlookmailsupport77.framer.website
@@ -10840,6 +10862,15 @@ paquet-achemine.com
 paquet-express100.com
 paquet-express101.com
 paquet-express102.com
+paquet-express103.com
+paquet-express104.com
+paquet-express105.com
+paquet-express106.com
+paquet-express107.com
+paquet-express108.com
+paquet-express109.com
+paquet-express110.com
+paquet-express111.com
 paquet-express24.com
 paquet-fts.com
 paquets-pro.com
@@ -10932,7 +10963,6 @@ pencabcetelem.web.app
 pepsico.com.co
 perdaniacoid.com
 perfcthungry111.weebly.com
-perfect-reassurance-800991.framer.app
 performance-bonus-c2206.firebaseapp.com
 performance-bonus-c2206.web.app
 periodic-servic.start.page
@@ -11041,7 +11071,6 @@ pl-11167.sbs
 pl-12677.sbs
 pl-14767.sbs
 pl-283173.sbs
-pl-3243.sbs
 pl-34343.sbs
 pl-467316.sbs
 pl-82638.sbs
@@ -11400,7 +11429,6 @@ pronmail-103119.square.site
 prop-fix.weebly.com
 properidad1536.webcindario.com
 propitious-exceptions-081679.framer.app
-propitious-transform-831205.framer.app
 proposition-jour.pro
 proracingsimuladores.com.br
 prosperity-load-page-100082947.firebaseapp.com
@@ -12041,7 +12069,6 @@ rheuq3y.weebly.com
 rhgu8rfhwrt3r.daftpage.com
 rich-benefits-382366.framer.app
 ridgewaykite.com
-right-status-775462.framer.app
 right-words-895863.framer.app
 riimbra.weebly.com
 rioapzxoxoz.firebaseapp.com
@@ -12607,6 +12634,7 @@ sfr-reunion-renouvellement.com
 sfr.cimamotori.com
 sfr.hwf.temporary.site
 sfr.info
+sfr.service.client.disposablebazar.com
 sfrmail.iceiy.com
 sfrpanel.lws.fr
 sfrr.wuaze.com
@@ -12682,7 +12710,6 @@ shinedupa.weebly.com
 shopcooktop.vercel.app
 shopee-final-br.vercel.app
 shopee-itm.duckdns.org
-shopee-oficial-beryl.vercel.app
 shopee.menglar.com
 shopeecoins.blogspot.com
 shopeeprize-2025.weebly.com
@@ -12937,7 +12964,6 @@ sms0909v.weebly.com
 sms1-cledigitale.com
 sms12-cledigitale.com
 sms14-cledigitale.com
-sms15-cledigitale.com
 sms21-cledigitale.com
 sms25-cledigitale.com
 sms27-cledigitale.com
@@ -13271,6 +13297,7 @@ ssquareddigital.com
 sss555ssssaaaazzzzzccc.start.page
 sss6s56s5ssaaa.start.page
 ssssxxserver88888searchfigonline.weebly.com
+ssstiktok168.pages.dev
 ssundeqce.firebaseapp.com
 ssundeqce.web.app
 st2pi9.webwave.dev
@@ -13293,7 +13320,6 @@ start72.godaddysites.com
 started-ndxx.framer.ai
 started-trezo.zapier.app
 started-trezorr-en.framer.ai
-startedtrzerr-io-us.framer.ai
 startportal-io-docs-trezur.typedream.app
 starttsboxfile.myfreesites.net
 starvision.pages.dev
@@ -13572,6 +13598,7 @@ tab-volfed.firebaseapp.com
 tab-volfed.web.app
 tabo-60ba8.firebaseapp.com
 tabo-60ba8.web.app
+tabua-inox-304-ten.vercel.app
 tabwjwq78282hjwq09201jjakak89102rh.myportfolio.com
 tactical-article-854736.framer.app
 tactical-feel-300287.framer.app
@@ -13841,11 +13868,13 @@ thriving-home-231519.framer.app
 throbbing-flower-8863.on.fleek.co
 thswildaude.weebly.com
 thttpmailnctoaskmai.weebly.com
+tiktoktube-pc19.pages.dev
 time-limited-secure-content.webflow.io
 time-worked.firebaseapp.com
 time-worked.web.app
 tinkabee.m-pages.com
 tinkermsinacesorg.weebly.com
+tintabrshop-eight.vercel.app
 tiny-branding-048564.framer.app
 tiny-click-115499.framer.app
 tiometrdffubin.weebly.com
@@ -14083,6 +14112,7 @@ troudebal.planning-locker.com
 trouduc-frederic.dstrb-6130.pro
 trouduc.clientpickups-expd.com
 trouduc.jours-dhi.com
+trozr-sdf87we.roshunda11.workers.dev
 trozr-wlt-c7s.dwanna3.workers.dev
 trpmediation.com
 trrrryu778iu99iu.weebly.com
@@ -14608,7 +14638,6 @@ vcn-hiyetuafjmjseulvedcaulqe.weebly.com
 vcnlvoicelhigt5jgu6khl73y7i3647.weebly.com
 vcpiunwb.weebly.com
 vcrizonaccovnt.digital
-vcuhealth-org.webflow.io
 vcvbnmn.weebly.com
 vcxetfv.weebly.com
 vdbjpmeaqqjzpwxfflbjfmeykyxvcfgmhjbad.blogspot.com
@@ -15026,6 +15055,7 @@ web-westnetmail.weebly.com
 web-zmail-iitm-ac-in-zimbra.weebly.com
 web.pancake.run
 web0099934447.weebly.com
+web3-com-exodus.created.app
 web3-connect-wallet.webflow.io
 web3-exodus.created.app
 web3-restore-io.onrender.com
@@ -15845,6 +15875,7 @@ xncok.weebly.com
 xncok12.weebly.com
 xnisksossw.blogspot.com
 xodus-learn-page.pages.dev
+xodus-web-access-wellex.pages.dev
 xodus-wllt-extn.created.app
 xolviservicefr.firebaseapp.com
 xolviservicefr.web.app
@@ -16192,3 +16223,4 @@ zxn532zimbra.weebly.com
 zxz09m.webwave.dev
 zyinfomail.weebly.com
 zyyj97.webwave.dev
+świecejakzmarzeń.my.canva.site
