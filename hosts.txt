@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sat Mar 21 16:14:37 UTC 2026
-# Number of unique domains: 16334
+# Date: Sat Mar 21 20:06:15 UTC 2026
+# Number of unique domains: 16329
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -904,7 +904,6 @@ allegro.7960703-oferta-sprzedam-macbook-air-m1.sbs
 allegro.79732554.rest
 allegro.809754745.click
 allegro.81522.click
-allegro.8348734.cyou
 allegro.8374829.bond
 allegro.877731810-31f.bond
 allegro.885294026-oferta-ipad-pro-m5-13-wifi-cellular.cfd
@@ -965,6 +964,7 @@ allegro.pl-16k.cfd
 allegro.pl-1847730.sbs
 allegro.pl-23659853.cyou
 allegro.pl-23843453.sbs
+allegro.pl-2629272618181zamowienie92262819176281.lat
 allegro.pl-273456.click
 allegro.pl-28737382882728bsbagshbsh272662828zam.sbs
 allegro.pl-2926256272zamowienie826263728289.lat
@@ -990,7 +990,6 @@ allegro.pl-52352.cyou
 allegro.pl-5323643566bsagkmnjj054337097.sbs
 allegro.pl-5341.sbs
 allegro.pl-534267.bond
-allegro.pl-536637385.cfd
 allegro.pl-549890128.cyou
 allegro.pl-5632621.cyou
 allegro.pl-563773.pl
@@ -1000,7 +999,6 @@ allegro.pl-58791248.cyou
 allegro.pl-5981874.cyou
 allegro.pl-612836912.sbs
 allegro.pl-63146aurssf7435843jbcddhhvg5263744ffvhfthgu97654.sbs
-allegro.pl-634262647538734674274387347437574563.cyou
 allegro.pl-6435523432.shop
 allegro.pl-6436346347462743743734643634.sbs
 allegro.pl-651241.cyou
@@ -1071,9 +1069,12 @@ allegro.pl-oferta356437.pl
 allegro.pl-oferta3648462.click
 allegro.pl-oferta3649562.click
 allegro.pl-oferta4496677.sbs
+allegro.pl-oferta48392.sbs
+allegro.pl-oferta491402.sbs
 allegro.pl-oferta501278645128412.top
 allegro.pl-oferta5013582-apple-macbook-pro-m4-24gb.site
 allegro.pl-oferta52743.cfd
+allegro.pl-oferta548434.sbs
 allegro.pl-oferta56294716.icu
 allegro.pl-oferta56296716.icu
 allegro.pl-oferta567543.sbs
@@ -1084,6 +1085,7 @@ allegro.pl-oferta6027980.click
 allegro.pl-oferta6073496.click
 allegro.pl-oferta61752791.cfd
 allegro.pl-oferta625384.cfd
+allegro.pl-oferta638294.cfd
 allegro.pl-oferta6392638.click
 allegro.pl-oferta6482538.click
 allegro.pl-oferta6482648.click
@@ -1160,6 +1162,7 @@ allegro.t43987t3478f.cyou
 allegro.x152989110.cyou
 allegro.y4594hg985984.bond
 allegro.y749.sbs
+allegro.zakupy5832752.click
 allegro.zrpoyie83-2032982.cfd
 allegrolokainie.pl-1968433.cyou
 allegrolokainie.pl-385912.sbs
@@ -1421,6 +1424,7 @@ allegrolokalnie.pl-748327.pro
 allegrolokalnie.pl-756434.sbs
 allegrolokalnie.pl-76119.icu
 allegrolokalnie.pl-77634.sbs
+allegrolokalnie.pl-785671.cyou
 allegrolokalnie.pl-819063.icu
 allegrolokalnie.pl-823651560826zamowienie9732688733.lat
 allegrolokalnie.pl-82616272628zamowienie91626282726919.lat
@@ -1461,7 +1465,6 @@ allegrolokalnie.pl-firmowe-2599.sbs
 allegrolokalnie.pl-firmowe-26953.sbs
 allegrolokalnie.pl-firmowe-28414.sbs
 allegrolokalnie.pl-firmowe-28428.click
-allegrolokalnie.pl-firmowe-28482.sbs
 allegrolokalnie.pl-firmowe-286472.sbs
 allegrolokalnie.pl-firmowe-29182.sbs
 allegrolokalnie.pl-firmowe-3284.sbs
@@ -1542,6 +1545,8 @@ allegrolokalnie.pl-oferta4153593.icu
 allegrolokalnie.pl-oferta4244139.cfd
 allegrolokalnie.pl-oferta4251634.sbs
 allegrolokalnie.pl-oferta4324.sbs
+allegrolokalnie.pl-oferta48392.sbs
+allegrolokalnie.pl-oferta491402.sbs
 allegrolokalnie.pl-oferta501278645128412.top
 allegrolokalnie.pl-oferta504710.cfd
 allegrolokalnie.pl-oferta5252415.cfd
@@ -1549,6 +1554,7 @@ allegrolokalnie.pl-oferta5279642.cfd
 allegrolokalnie.pl-oferta53334-macbook-air-m2-8gb-256gb.shop
 allegrolokalnie.pl-oferta538284.cfd
 allegrolokalnie.pl-oferta54325.sbs
+allegrolokalnie.pl-oferta548434.sbs
 allegrolokalnie.pl-oferta56296716.icu
 allegrolokalnie.pl-oferta567543.sbs
 allegrolokalnie.pl-oferta568942.sbs
@@ -1714,7 +1720,6 @@ ameli-espace-assurance.com
 ameli-renouvlement.fr
 americanuniversityofbeirut.ukit.me
 amerikoolernet.w3spaces.com
-amesulfe.s3-website.ap-southeast-4.amazonaws.com
 amex-puntos.com
 amfct.weebly.com
 amiable-essentials-848395.framer.app
@@ -3530,6 +3535,7 @@ blockchaindefiresolve.firebaseapp.com
 blockchaindefiresolve.web.app
 blockchaindevrestore.vercel.app
 blockfi-crypto-logi.webflow.io
+blockfs-login.webflow.io
 blockhcair.github.io
 bltdl.weebly.com
 bluckfillogin.gitbook.io
@@ -4482,7 +4488,6 @@ coinsdeskweb3rectification.netlify.app
 coinsfifa18.weebly.com
 coinsquaareelogin.webflow.io
 coinsquuuarelogiin.webflow.io
-coinuasexloingh.godaddysites.com
 colegiocumbres.org
 colingil.replit.app
 colis-arrivage.com
@@ -5145,7 +5150,6 @@ dayspringadmissions.firebaseapp.com
 dayspringadmissions.web.app
 dayy7uyt6.weebly.com
 dazzled-center-247710.framer.app
-dazzled-face-140134.framer.app
 dazzled-view-176960.framer.app
 dazzling-luxury.com
 dbklgovmygoodupdateforall.weebly.com
@@ -6130,7 +6134,6 @@ eth-login.webflow.io
 eth-x91831-exodus.firebaseapp.com
 eth-x91831-exodus.web.app
 etherwallet.mobilelab.vn
-ethnopoliticsonline.com
 etrgjnrethdkjnjekfv.firebaseapp.com
 etrgjnrethdkjnjekfv.web.app
 etrtyty5y4htrr.w3spaces.com
@@ -8141,7 +8144,6 @@ intranet-logln.framer.website
 intranet20033.weebly.com
 intrustbank1728.weebly.com
 intuitive-lot-909843.framer.app
-intuitive-notes-077407.framer.app
 intulltuit.de
 inv2023.firebaseapp.com
 inv2023.web.app
@@ -8410,7 +8412,6 @@ jsiwjskejekeksndfddt.com
 jslcom.weebly.com
 jsnectrese.firebaseapp.com
 jsnectrese.web.app
-jtklqaz.com
 jubilant-accessibility-535552.framer.app
 juegnjkwn.firebaseapp.com
 juegnjkwn.web.app
@@ -8668,6 +8669,7 @@ kucoinluginiu.webflow.io
 kucoinn-custtomer-suporrt-numbber.webflow.io
 kucoinneilginus.webflow.io
 kucoinnologo.webflow.io
+kucoinrloggen.webflow.io
 kucoinrloglin.webflow.io
 kucoinx-login.webflow.io
 kuconi_exchang.godaddysites.com
@@ -9477,7 +9479,6 @@ mcs-cityline.info
 mdlr-perso5.pro
 mdlr-perso9.pro
 mdndbdbdbd.weebly.com
-mdrelay-infoscolver.com
 mdskredik.firebaseapp.com
 mdskredik.web.app
 meartoklnbhgta.firebaseapp.com
@@ -9982,7 +9983,6 @@ mplimpo-16300.firebaseapp.com
 mplimpo-16300.web.app
 mplobvfr.firebaseapp.com
 mplobvfr.web.app
-mr-instruction-mypack.com
 mr33-transit.pro
 mrbublegumpaog.blogspot.com
 mrelais.com
@@ -10950,7 +10950,6 @@ packett-id.web.app
 pag0cuscatlan.webcindario.com
 pagamentodelpacchetto.hosted.phplist.com
 pagamtalia.ydns.eu
-pagar-pedagios.org
 page-loading-for-page.firebaseapp.com
 page-loading-for-page.web.app
 page-loading-squad-10008744.firebaseapp.com
@@ -12723,7 +12722,6 @@ serviciospichin.webcindario.com
 servieonline2.webcindario.com
 servimarkess.blogspot.com
 servintlaccamnegswebappsiwnbdujasbdjw.casa-de-knuckles.com
-servintlupdteaccmangespaymentswebappsadhwavdhsd.nexuscomputer.com.np
 servipichincha01.webcindario.com
 servismtswebmail.weebly.com
 serviziunir.weebly.com
@@ -12777,7 +12775,6 @@ sgpass-fr033.com
 sgpass-fr034.com
 sgpass-fr035.com
 sgpass-fr047.com
-sgpass-fr050.com
 sgpass-fr051.com
 sgt3yje16.ukit.me
 sgtbalde991-dot-still-dynamics-321006.ue.r.appspot.com
@@ -13011,7 +13008,6 @@ siteverifierwnsmrh22-ujhewfn-weqdmw.webflow.io
 sitiosegurobhd25.webcindario.com
 siwkk-a37dc.firebaseapp.com
 siwkk-a37dc.web.app
-sixth-ionos.pages.dev
 sjfkeno.firebaseapp.com
 sjfkeno.web.app
 sjhdhjho.weebly.com
@@ -13108,7 +13104,6 @@ snbcvertess.firebaseapp.com
 snbcvertess.web.app
 sncf-connect.app
 sncf-connect.me
-sncfavantages1-fr.com
 sncfconnect.app
 sneekzpjcwzos.blogspot.com
 snimfr.weebly.com
@@ -15559,6 +15554,7 @@ www.art.com
 www.asisa.com.co
 www.assholepopulation.com
 www.assistance--ameli.com
+www.asymptoticrelation.cfd
 www.ayniplast.pe
 www.azmodelsearch.com
 www.bacfinancial.biz
@@ -15591,7 +15587,6 @@ www.chateauversalles.fr
 www.check-redirects.com
 www.chiefdesigns.co.zw
 www.choisir-horaire.com
-www.cnnsw.com
 www.cocktailparty.cfd
 www.colis-arrivage.com
 www.colis-mrelay-fr.com
@@ -15664,6 +15659,7 @@ www.habbocreditosparati.blogspot.com
 www.helicaledge.cfd
 www.hendershothaflinger.com
 www.hkampqje.com
+www.homeobox.cfd
 www.hotspottrack.cfd
 www.hptennis.com.au
 www.hrrnva.com
@@ -15694,7 +15690,6 @@ www.juliasvoice.org
 www.juybqlm.com
 www.jzpaqmd.com
 www.kednezh.com
-www.kerdfol.com
 www.kibblemechanism.cfd
 www.krenqlwb.com
 www.kucoin_-login.godaddysites.com
@@ -15750,7 +15745,6 @@ www.paginas.site
 www.parkerinstability.cfd
 www.patternseparation.cfd
 www.pay-accounkeken.com
-www.pay.tlhecourierguy.pro
 www.pentosephosphate.cfd
 www.phononlaser.cfd
 www.phylogeneticindependent.cfd
@@ -15787,6 +15781,7 @@ www.securemail.inkgraphtechno.com
 www.setupyouraccounts.com
 www.sfr-login.s-host.net
 www.shacksign.com
+www.shortlivednuclide.cfd
 www.signin-ehay-uk-login-secures-5f8twghw.manushmanusherjonnobd.com
 www.sisterhoodmint.com
 www.sitesgpt.com
@@ -15813,9 +15808,9 @@ www.syndromemeasurement.cfd
 www.synonymous.cfd
 www.t-junction.cfd
 www.tetragonaltap.cfd
+www.thermochron.cfd
 www.tibesti.net
 www.tlcbcp.app
-www.tonogenesis.cfd
 www.topologicalprotection.cfd
 www.tracking-frcolisrelay.com
 www.treasurytrackhub.com
@@ -15840,6 +15835,7 @@ www.verklu.com
 www.vibecah.com
 www.vibimed.com
 www.vitale-corps.com
+www.volatileelement.cfd
 www.wealthguaranteed.org
 www.web3pairlinks.com
 www.webkundenassistent.de
@@ -16300,7 +16296,6 @@ zoll39820.web.app
 zolmbra.weebly.com
 zooomintercom.weebly.com
 zorro.form11420.pro
-zoubida.appexpd-clients.com
 zoubida.rdv-tbj7r.com
 zpmbra.weebly.com
 zq3q5twry4545x5y4t4wgq3fww2g43yh324653g4etrwvikb.teemill.com
