@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Wed Mar 25 16:29:22 UTC 2026
-# Number of unique domains: 16401
+# Date: Wed Mar 25 20:15:55 UTC 2026
+# Number of unique domains: 16410
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -868,6 +868,7 @@ allegro-lokalnie.lkj7237f012.cfd
 allegro-lokalnie.ofeg-0239t9.sbs
 allegro-lokalnie.pl-23129.cfd
 allegro-lokalnie.pl-341268.cfd
+allegro-lokalnie.pl-93789.cfd
 allegro-lokalnie.posi183-1r399.bond
 allegro-lokalnie.prs8178519.cfd
 allegro-ups.e-kei.pl
@@ -940,6 +941,7 @@ allegro.9260425109827.click
 allegro.9260435109817.click
 allegro.9260475109817.click
 allegro.926803751094817.click
+allegro.927410691350627.click
 allegro.9274106913507.click
 allegro.9274186913507.click
 allegro.9360435109827.click
@@ -1038,7 +1040,6 @@ allegro.pl-5981874.cyou
 allegro.pl-612836912.sbs
 allegro.pl-63146aurssf7435843jbcddhhvg5263744ffvhfthgu97654.sbs
 allegro.pl-6435523432.shop
-allegro.pl-6436346347462743743734643634.sbs
 allegro.pl-651241.cyou
 allegro.pl-77634.sbs
 allegro.pl-81655228162728zamowienie1927272828.lat
@@ -1056,6 +1057,7 @@ allegro.pl-88586.sbs
 allegro.pl-91519162528zamowienie715156172620.lat
 allegro.pl-917263682829zamowienie82727281f9262728.sbs
 allegro.pl-92614152728zamowienie0171662828183.lat
+allegro.pl-9262628172628zamowienie72525288262.cfd
 allegro.pl-9272627176228zamowienie28637382w62637383.sbs
 allegro.pl-927263829216zamowienie22738299r8226282.sbs
 allegro.pl-9410.sbs
@@ -1105,7 +1107,6 @@ allegro.pl-oferta3648462.click
 allegro.pl-oferta3649562.click
 allegro.pl-oferta3824401.sbs
 allegro.pl-oferta4496677.sbs
-allegro.pl-oferta48392.sbs
 allegro.pl-oferta491402.sbs
 allegro.pl-oferta501278645128412.top
 allegro.pl-oferta5013582-apple-macbook-pro-m4-24gb.site
@@ -1153,7 +1154,6 @@ allegro.pl-oferta819482.cfd
 allegro.pl-oferta824753.sbs
 allegro.pl-oferta830538.cfd
 allegro.pl-oferta85329.cfd
-allegro.pl-oferta886199.cfd
 allegro.pl-oferta88749167.cfd
 allegro.pl-oferta9036747.cfd
 allegro.pl-oferta9355832.click
@@ -1212,6 +1212,7 @@ allegro.pzpo51251.cfd
 allegro.r3882f923g023.sbs
 allegro.t384834834.cyou
 allegro.t43987t3478f.cyou
+allegro.t4634g364g3.cyou
 allegro.x152989110.cyou
 allegro.y4594hg985984.bond
 allegro.y749.sbs
@@ -1244,9 +1245,11 @@ allegrolokalne.pl-smart9689124.cyou
 allegrolokalne.v3456.click
 allegrolokalnie.023904.lat
 allegrolokalnie.03294.lat
+allegrolokalnie.0375092205307.click
 allegrolokalnie.03750922053078.click
 allegrolokalnie.039119.cyou
 allegrolokalnie.06902.lat
+allegrolokalnie.07032.lat
 allegrolokalnie.0873455.rest
 allegrolokalnie.09123.top
 allegrolokalnie.1014738473274934342.bond
@@ -1257,11 +1260,14 @@ allegrolokalnie.12739t71.sbs
 allegrolokalnie.135485234.sbs
 allegrolokalnie.143283h1.lat
 allegrolokalnie.143894n21.sbs
+allegrolokalnie.162935r8.sbs
 allegrolokalnie.163432p1.sbs
+allegrolokalnie.172437e5.sbs
 allegrolokalnie.17x134ds98x837p2.bond
 allegrolokalnie.182101834.click
 allegrolokalnie.182535n27.click
 allegrolokalnie.1895439327.sbs
+allegrolokalnie.192734r7.sbs
 allegrolokalnie.19394683749310439742839.bond
 allegrolokalnie.195748b2.click
 allegrolokalnie.198x9230d31.sbs
@@ -1318,6 +1324,7 @@ allegrolokalnie.793r727482824472424.cfd
 allegrolokalnie.7960703-oferta-sprzedam-macbook-air-m1.sbs
 allegrolokalnie.79732554.rest
 allegrolokalnie.83583.cfd
+allegrolokalnie.8423853496.sbs
 allegrolokalnie.84573.cfd
 allegrolokalnie.85153723015423.sbs
 allegrolokalnie.88235623.sbs
@@ -1336,7 +1343,6 @@ allegrolokalnie.dla-ciebie-oferty16253.sbs
 allegrolokalnie.g3ajs8jzad.sbs
 allegrolokalnie.hmptl.sbs
 allegrolokalnie.id3401.pl
-allegrolokalnie.impls.sbs
 allegrolokalnie.j3409ko23.sbs
 allegrolokalnie.k-inne-3024.click
 allegrolokalnie.kategorie-polecane-83659.sbs
@@ -1350,7 +1356,6 @@ allegrolokalnie.net-oferta-39201023.sbs
 allegrolokalnie.net-ogloszenie-nr-03203-kup.forum
 allegrolokalnie.net-ogloszenie-nr-291031-kup.online
 allegrolokalnie.net-ogloszenie-nr-2919023-nasze.forum
-allegrolokalnie.net-ogloszenie-nr-443032-kup.online
 allegrolokalnie.net-ogloszenie-nr-938212-kup.forum
 allegrolokalnie.net-priv-aukcja-nr-92192-kup.online
 allegrolokalnie.oferta-33243621.sbs
@@ -1398,6 +1403,7 @@ allegrolokalnie.ogloszenie598433543-pl.click
 allegrolokalnie.ogloszenie64327461.sbs
 allegrolokalnie.ogloszenie74328125.sbs
 allegrolokalnie.oprvpcdskvejkvr.sbs
+allegrolokalnie.ortbvdksckskvevr.sbs
 allegrolokalnie.p1839200s8.sbs
 allegrolokalnie.p3209193i0i21.icu
 allegrolokalnie.p6sda43hlar57.sbs
@@ -1540,6 +1546,7 @@ allegrolokalnie.pl-ld8382929.click
 allegrolokalnie.pl-ofera-938543012.cyou
 allegrolokalnie.pl-ofera1278631271238712381237123.sbs
 allegrolokalnie.pl-oferta-03259190.cyou
+allegrolokalnie.pl-oferta-0823741.sbs
 allegrolokalnie.pl-oferta-198032.cfd
 allegrolokalnie.pl-oferta-242841027.sbs
 allegrolokalnie.pl-oferta-242847.sbs
@@ -1654,7 +1661,6 @@ allegrolokalnie.pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
 allegrolokalnie.pl-oferta819129.sbs
 allegrolokalnie.pl-oferta819482.cfd
 allegrolokalnie.pl-oferta824753.sbs
-allegrolokalnie.pl-oferta8252365.sbs
 allegrolokalnie.pl-oferta826427.cfd
 allegrolokalnie.pl-oferta828492.cfd
 allegrolokalnie.pl-oferta8352222.cfd
@@ -1677,6 +1683,7 @@ allegrolokalnie.pl-ogloszenia-firmowe-82183.click
 allegrolokalnie.pl-ogloszenia-firmowe-88384.click
 allegrolokalnie.pl-ogloszenia-firmowe-888231.click
 allegrolokalnie.pl-ogloszenie-firmowe-84792192.click
+allegrolokalnie.pl-ogloszenie-firmowe-86231867.click
 allegrolokalnie.pl-ogloszenie-id5967456612.cfd
 allegrolokalnie.pl-ogloszenie2423509.biz
 allegrolokalnie.pl-ogloszenie298532.sbs
@@ -1718,7 +1725,6 @@ allegrolokalnie.plsdkxzlmcvbn.cfd
 allegrolokalnie.pritwta389018-800.cyou
 allegrolokalnie.pryow18w8101.sbs
 allegrolokalnie.ptrboedvskcsk.sbs
-allegrolokalnie.r45kgvkdkkekrvkdskc.sbs
 allegrolokalnie.ra734hgf34jd.sbs
 allegrolokalnie.rezerwacja3116743.sbs
 allegrolokalnie.rezerwacja6525987.sbs
@@ -1955,7 +1961,6 @@ appmminfoscdcterritoires.durablesites.com
 appointhjuh.komi.io
 appp5srckspcew3bmalllintoadmscprurlreadillywilling.weebly.com
 appraisal-analysis.myportfolio.com
-appreciated-tables-675206.framer.app
 appriverpasswordexp.firebaseapp.com
 appriverpasswordexp.web.app
 approve-gemo.weebly.com
@@ -3259,7 +3264,6 @@ bancopichinchastage.prod.acquia-sites.com
 bancoplaza.lol
 bancrediecuador.webcindario.com
 bangbet.weebly.com
-bangenabayo.shop
 bangkokposttie.weebly.com
 bank.216883.top
 bankauditsystemfr.firebaseapp.com
@@ -4294,6 +4298,7 @@ centralnationalaccess.weebly.com
 centre-backup-exodus-com-u.vercel.app
 centre-biometrie-sante.com
 centre-public-sante.com
+centro-preventivo-bancobhd2025.weebly.com
 centrocasalbenga.com
 centrum-107008.square.site
 centrum-2023.square.site
@@ -4417,6 +4422,7 @@ chuyestadare.web.app
 ciaokledrtvin.weebly.com
 cibc-ag.com
 ciedigitaie01-sms.com
+ciedigitaie0216.info
 ciedigitaie10-sms.com
 ciedigitaie11-sms.com
 ciedigitaie12-sms.com
@@ -4815,7 +4821,6 @@ coujimade.firebaseapp.com
 coujimade.web.app
 couloubamassa-2fda6.firebaseapp.com
 couloubamassa-2fda6.web.app
-coumivhcdgvg.org
 couponstc.weebly.com
 courageous-situation-834094.framer.app
 courielvideotron.weebly.com
@@ -5122,6 +5127,7 @@ daiyxtaki.web.app
 dakloun.firebaseapp.com
 dakloun.web.app
 daktel-103469.square.site
+dale-addition-bowl-motorcycle.trycloudflare.com
 dalga-water.firebaseapp.com
 dalga-water.web.app
 damizet.info-201002.pro
@@ -5841,6 +5847,7 @@ ecuadordavida.webcindario.com
 ecuadorincentivo.webcindario.com
 ecuadorweb.webcindario.com
 ecuavanza2026.webcindario.com
+ecufc.gt.tc
 ecupich1nchi.webcindario.com
 ecuvalid.ukit.me
 ed4641ae-f961-4efe-9222-58e5ff4b50e9-00-12va56hpx7xwi.picard.replit.dev
@@ -6417,6 +6424,7 @@ ezKKG26-f4d777af882c6452cf8f08055cfe63e1.jarrodchong.com
 ezrsiole.firebaseapp.com
 ezrsiole.web.app
 f3fztv.webwave.dev
+f59e000f-7efa-44b2-91ae-4b361f2ecd57-00-2i71ok5vx9zpu.worf.replit.dev
 f9tbe7hv7f9.firebaseapp.com
 f9tbe7hv7f9.web.app
 fabios-cafe.square.site
@@ -6476,6 +6484,7 @@ faraway-misty-sparrow-4cji6v.teleporthq.app
 farayankarasetisnis.firebaseapp.com
 farayankarasetisnis.web.app
 faruq.boxmode.io
+fascintinga.netlify.app
 fast-report-786534.framer.app
 fastsecureyourpelicanstatecu.weebly.com
 fastswap-v2.vercel.app
@@ -8418,7 +8427,6 @@ jenniferaustin.typeform.com
 jeremyroberts8e31.myportfolio.com
 jerrybeers.com
 jessegray.co.nz
-jetletusderickwellatouching.weebly.com
 jeudiunjour.firebaseapp.com
 jeudiunjour.web.app
 jeux-freebucks-fortnite-illimite.weebly.com
@@ -8480,6 +8488,7 @@ jorrnalisblast.weebly.com
 joshbystrom.com
 jouturez.firebaseapp.com
 jouturez.web.app
+jovialcentaurwaterlook.netlify.app
 joyous-course-233115.framer.app
 joyous-memory-186213.framer.app
 joyous-shares-023098.framer.app
@@ -8846,6 +8855,7 @@ larstore11.web.app
 laskaratikur.com
 lassuranceretraite.net
 latam-oab.cd-brasil.com
+latest-info.webflow.io
 latvia-pasts.firebaseapp.com
 latvia-pasts.web.app
 laurrain.monplng-1296.pro
@@ -11110,7 +11120,6 @@ papeleriadelnorte.com.ar
 papercitysavings.firebaseapp.com
 papercitysavings.web.app
 paquet-express103.com
-paquet-express105.com
 paquet-express106.com
 paquet-express107.com
 paquet-express108.com
@@ -11556,6 +11565,7 @@ premioslivex.com
 prepa-2403.pro
 president38832.weebly.com
 presmowaply.weebly.com
+presta-persona-pichin3232.weebly.com
 prestamoonline2.webcindario.com
 prestamos-oca-uy.webcindario.com
 prestamosfaistar.webcindario.com
@@ -11982,7 +11992,6 @@ reamaam.blogspot.com
 rearytumnbo.weebly.com
 reatorear.firebaseapp.com
 reatorear.web.app
-reattribution-day.pro
 recadastraronline.digital
 recaptcha-8325.firebaseapp.com
 recaptcha-8325.web.app
@@ -12279,6 +12288,7 @@ reviewfiledocu2023.myportfolio.com
 reviewinvoiceeek.weebly.com
 reviews-page-57d26.firebaseapp.com
 reviews-page-57d26.web.app
+revisar-comprabhd19092025aqui.weebly.com
 revoke-cash-lahana.vercel.app
 revsupporteradvanced.weebly.com
 reward-ff.garenaind.com
@@ -13941,7 +13951,6 @@ terrade-andouille.requete-8856.pro
 terrasedf.blogspot.com
 terrtofr.firebaseapp.com
 terrtofr.web.app
-tescohelloweengiveaway589.pages.dev
 tesilingbigu.weebly.com
 test-crypto-chi.vercel.app
 test-namecheap.pages.dev
@@ -15410,7 +15419,6 @@ welc0me-redireth0perate247hx.framer.wiki
 welcome-staking-home.webflow.io
 welcome-usage-089474.framer.app
 welcomed-ferret-678696.framer.app
-welcomed-guardrails.weebly.com
 welcomed-lots-848064.framer.app
 welcomed-tenure-062420.framer.app
 welcometouhcglobal.com
@@ -16271,6 +16279,7 @@ zeyatatay.z27.web.core.windows.net
 zgi3258m.paperform.co
 zgwlymh.com
 zhelp-supports.business-minagne.com
+zht-okx.cc
 zi0034034323.web.app
 zi992883923923.web.app
 zibra2025.weebly.com
