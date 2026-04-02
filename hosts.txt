@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Wed Apr  1 20:18:58 UTC 2026
-# Number of unique domains: 16453
+# Date: Thu Apr  2 00:32:49 UTC 2026
+# Number of unique domains: 16434
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -66,6 +66,7 @@
 11225544serviceaccountbussines.start.page
 115504240119269936.weebly.com
 1192md.weebly.com
+11cont-bp.vercel.app
 11nat10nalmb.weebly.com
 11sq1.weebly.com
 121212121rcnn.weebly.com
@@ -434,6 +435,7 @@ a4f70522-8748-4c46-b5ca-393976fc2623-00-2zt748un26b9v.janeway.replit.dev
 a546sd57f6879g8ouaet464sdfiytusra463wtzdf0d1.teemill.com
 a6u4s5d76f87g9gyirfqzjm6ilo8ei57tfy57tdh46yu5fs.teemill.com
 a705580e.waccon.pages.dev
+a7cea156-9271-4f5f-8b2b-8c97e63fbd4b-00-28zt3w56uw956.janeway.replit.dev
 a7sdtigz-5ehppllb5q-3ouewxpisl.r6iiucvodh.workers.dev
 a878ui.square.site
 aaaaaaaaaa.myportfolio.com
@@ -886,6 +888,7 @@ allegro.19-91019737n.sbs
 allegro.1935981-d109.cyou
 allegro.213123141.sbs
 allegro.23099g89283.bond
+allegro.2327382951.click
 allegro.2349gf23f8232.cfd
 allegro.2398g9848394.cyou
 allegro.23t2893t9823.cfd
@@ -915,6 +918,7 @@ allegro.394534g34g-3.cyou
 allegro.3947428284833847.click
 allegro.39498349g3.bond
 allegro.3t4938498734.cyou
+allegro.403773.pl
 allegro.412734.click
 allegro.42837.cfd
 allegro.438434.pl
@@ -960,7 +964,6 @@ allegro.982t8t8238t2.sbs
 allegro.98g38472163.click
 allegro.99r8328f230.sbs
 allegro.9t349t83412.cyou
-allegro.aukc290400888-p.bond
 allegro.aukcj19-20929.bond
 allegro.c87ax.click
 allegro.gjjuokvg5799.sbs
@@ -1000,6 +1003,7 @@ allegro.oferta579807pl.cfd
 allegro.oferta609257pl.cfd
 allegro.oferta692742.cfd
 allegro.oferta728812.cfd
+allegro.oferta761941pl.click
 allegro.oferta7655590.click
 allegro.oferta7803471pl.cfd
 allegro.oferta78965402pl.cfd
@@ -1104,7 +1108,6 @@ allegro.pl-oferta071647.cfd
 allegro.pl-oferta093159.cfd
 allegro.pl-oferta1081410.sbs
 allegro.pl-oferta1231252142.click
-allegro.pl-oferta13910249.sbs
 allegro.pl-oferta13950323.sbs
 allegro.pl-oferta1810837.sbs
 allegro.pl-oferta1849230.cfd
@@ -1125,12 +1128,12 @@ allegro.pl-oferta41142113151202981.sbs
 allegro.pl-oferta4114211315122981.sbs
 allegro.pl-oferta4142113151202981.sbs
 allegro.pl-oferta453212121.click
+allegro.pl-oferta4561167.click
 allegro.pl-oferta47389449.cfd
 allegro.pl-oferta48340234.click
 allegro.pl-oferta501278645128412.top
 allegro.pl-oferta5194890.click
 allegro.pl-oferta543895023.sbs
-allegro.pl-oferta548434.sbs
 allegro.pl-oferta56294716.icu
 allegro.pl-oferta56296716.icu
 allegro.pl-oferta5737974.click
@@ -1174,6 +1177,7 @@ allegro.pl-oferta819129.sbs
 allegro.pl-oferta830538.cfd
 allegro.pl-oferta85329.cfd
 allegro.pl-oferta88749167.cfd
+allegro.pl-oferta8920950.click
 allegro.pl-oferta9036747.cfd
 allegro.pl-oferta91278323278.sbs
 allegro.pl-oferta91664861538.sbs
@@ -1217,7 +1221,6 @@ allegro.pl-ssid38673.click
 allegro.pl-ssid55346.click
 allegro.pl-ssid56342.click
 allegro.pl-trueahb7289014nzsejkovfj9322151679.icu
-allegro.pl-ubkjaasv732266804nfdteabbdcn83677879.sbs
 allegro.pl-vs37l.cfd
 allegro.pl-y34t63.click
 allegro.pl738237.click
@@ -1235,7 +1238,7 @@ allegro.pruby643682.cfd
 allegro.pruwtao367201.cfd
 allegro.pruyrh3g41293f.cfd
 allegro.pryb67463.cfd
-allegro.pryub8371727.cyou
+allegro.przesylka342121.cfd
 allegro.pzpo51251.cfd
 allegro.r3882f923g023.sbs
 allegro.t384834834.cyou
@@ -1294,7 +1297,6 @@ allegrolokalnie.1039530234.sbs
 allegrolokalnie.12739t71.sbs
 allegrolokalnie.1347865493.sbs
 allegrolokalnie.135485234.sbs
-allegrolokalnie.143283h1.lat
 allegrolokalnie.143894n21.sbs
 allegrolokalnie.162935r8.sbs
 allegrolokalnie.163432p1.sbs
@@ -1411,7 +1413,6 @@ allegrolokalnie.net-aukcja-nr-567745.lat
 allegrolokalnie.net-aukcja-prywatna-92381-kup.online
 allegrolokalnie.net-nr-39093-nasze.forum
 allegrolokalnie.net-ogloszenie-nr-03203-kup.forum
-allegrolokalnie.net-ogloszenie-nr-291031-kup.online
 allegrolokalnie.net-ogloszenie-nr-2919023-nasze.forum
 allegrolokalnie.net-priv-aukcja-nr-92192-kup.online
 allegrolokalnie.oferta-16872156-pl.click
@@ -1448,7 +1449,6 @@ allegrolokalnie.oferta6638194.sbs
 allegrolokalnie.oferta692742.cfd
 allegrolokalnie.oferta7358274.click
 allegrolokalnie.oferta7432716.rest
-allegrolokalnie.oferta754873.icu
 allegrolokalnie.oferta761941pl.click
 allegrolokalnie.oferta7803471pl.cfd
 allegrolokalnie.oferta8345174pl.cfd
@@ -1556,7 +1556,6 @@ allegrolokalnie.pl-869040.cfd
 allegrolokalnie.pl-8726.sbs
 allegrolokalnie.pl-901662.pl
 allegrolokalnie.pl-90312.icu
-allegrolokalnie.pl-91205.sbs
 allegrolokalnie.pl-91519162528zamowienie715156172620.lat
 allegrolokalnie.pl-9172637f6151zamowienie882336291973h.sbs
 allegrolokalnie.pl-917272882828zmowienie816262837337.lat
@@ -1622,6 +1621,7 @@ allegrolokalnie.pl-oferta13950323.sbs
 allegrolokalnie.pl-oferta152342.click
 allegrolokalnie.pl-oferta1734129.click
 allegrolokalnie.pl-oferta1837584.cfd
+allegrolokalnie.pl-oferta2228937.click
 allegrolokalnie.pl-oferta2318251.click
 allegrolokalnie.pl-oferta2508073.click
 allegrolokalnie.pl-oferta26.sbs
@@ -1645,6 +1645,7 @@ allegrolokalnie.pl-oferta4153593.icu
 allegrolokalnie.pl-oferta4251634.sbs
 allegrolokalnie.pl-oferta4324.sbs
 allegrolokalnie.pl-oferta453212121.click
+allegrolokalnie.pl-oferta4561167.click
 allegrolokalnie.pl-oferta47389449.cfd
 allegrolokalnie.pl-oferta48340234.click
 allegrolokalnie.pl-oferta491402.sbs
@@ -1708,9 +1709,9 @@ allegrolokalnie.pl-oferta824753.sbs
 allegrolokalnie.pl-oferta826427.cfd
 allegrolokalnie.pl-oferta828492.cfd
 allegrolokalnie.pl-oferta8352222.cfd
-allegrolokalnie.pl-oferta8492648.click
 allegrolokalnie.pl-oferta8752387.icu
 allegrolokalnie.pl-oferta88749167.sbs
+allegrolokalnie.pl-oferta8920950.click
 allegrolokalnie.pl-oferta895039.sbs
 allegrolokalnie.pl-oferta896421.sbs
 allegrolokalnie.pl-oferta905151533.cfd
@@ -3467,7 +3468,6 @@ best-evolution-427205.framer.app
 best-prism-478762.framer.app
 best-pt-onllin.blogspot.com
 best-snow-872667.framer.app
-best-years-046601.framer.app
 bestchange.help
 bestchange.net.ru
 bestchange.org.ru
@@ -3574,6 +3574,7 @@ biemadepur.firebaseapp.com
 biemadepur.web.app
 bienlinea.onlineaccount.net
 bienvenido-portal.lovable.app
+bienvenido-postulado-hub.lovable.app
 bienvenuemessagerieorange.weebly.com
 bietdoipokemonicefr.firebaseapp.com
 biezkolnjkla.firebaseapp.com
@@ -4133,7 +4134,6 @@ candada.weebly.com
 canisterofpaintsandaerosolys.firebaseapp.com
 canisterofpaintsandaerosolys.web.app
 caocidadao.bubbleapps.io
-capable-mindset-461943.framer.app
 capesminecraftbr.weebly.com
 capfedc.firebaseapp.com
 capfedc.web.app
@@ -4381,9 +4381,9 @@ chambrequebcnot.duckdns.org
 championlog.com.br
 changeanswer.weebly.com
 changellywalliths-cdn.webflow.io
+changepasswordd.com
 chaniago10342.start.page
 chanjcamsdri.firebaseapp.com
-chantal.docu301299.pro
 charaf1.durablesites.com
 charcheauloginok.firebaseapp.com
 charcheauloginok.web.app
@@ -4423,6 +4423,7 @@ chevre.dire-61129.pro
 chevy.ru
 chic-muffin-59f7d1.netlify.app
 chickenbloodfirezpzty.blogspot.com
+chief-green-7ci3orsg6u.edgeone.app
 chillisinpatulas.weebly.com
 chilly-checkbox-238166.framer.app
 chiphi-app.firebaseapp.com
@@ -4762,7 +4763,6 @@ connection-being-fixed-now.firebaseapp.com
 connection-being-fixed-now.web.app
 connection-tbaytel.weebly.com
 connectionreview.weebly.com
-connectionsapproved01.pages.dev
 connectivitynotificationstodoommains.weebly.com
 connectloginss.weebly.com
 connectmetodapps.firebaseapp.com
@@ -5111,7 +5111,6 @@ customer895stev.weebly.com
 customerinvoice-534998.firebaseapp.com
 customerinvoice-534998.web.app
 customerupgrade1121.weebly.com
-customextractup0.framer.website
 cute-cuchufli-41c4bb.netlify.app
 cute-psychology-363180.framer.app
 cute-satisfaction-464604.framer.app
@@ -5152,7 +5151,6 @@ d26z9x.blogspot.ru
 d2c7c12c.meet-clic.com
 d32fgx.webwave.dev
 d34pt.weebly.com
-d4f98226-f0f6-4e74-81d9-960b2d5b07c1-00-26uilnrqehk8k.spock.replit.dev
 d582z504.na1.hubspotlinks.com
 d64998.blogspot.ch
 d64998.blogspot.com
@@ -5421,7 +5419,6 @@ dev-6byd9.web.app
 dev.casaderincon.com
 devbr-7de68.firebaseapp.com
 devbr-7de68.web.app
-devnetrpc.pages.dev
 devomats.com
 dexfi-next-js.vercel.app
 dexsyncs.pages.dev
@@ -6326,7 +6323,6 @@ evri-parcelsa.art
 evri-parcelsa.cn
 evri-parcelsa.icu
 evri-parcelsw.art
-evri-parcelsw.cn
 evri-parcelt.art
 evri-parcelt.icu
 evri-parcelu.art
@@ -6381,7 +6377,6 @@ exodssu.zapier.app
 exodsu.zapier.app
 exodulogjuiui.gitbook.io
 exodus-app-wallet.pages.dev
-exodus-appwalet.pages.dev
 exodus-browser.created.app
 exodus-download.pages.dev
 exodus-en-downlod.pages.dev
@@ -6451,7 +6446,6 @@ exx-duseo.pages.dev
 exxduss-walat-io.created.app
 exxodas-en-io.pages.dev
 exxodous-web3.pages.dev
-exxodsu.zapier.app
 eyo.lqn.mybluehost.me
 eytnbdgeb.weebly.com
 ezKKG26-f4d777af882c6452cf8f08055cfe63e1.jarrodchong.com
@@ -7098,6 +7092,7 @@ gemini.ccyacg.xyz
 gemini.chatgpt-use.com
 gemini.chnaserver.com
 gemini.huspace.cn
+gemini.jerryfage.top
 gemini.oracle.gyronee.top
 gemini.two13.net
 geminibalance.520131401.xyz
@@ -7449,7 +7444,6 @@ groucoles.firebaseapp.com
 groucoles.web.app
 grounded-nature-114597.framer.app
 grounded-predict-406753.framer.app
-groupcallalert.framer.website
 groupmgmt.ferreracademy.com
 groupwise-cz.weebly.com
 growfix.weebly.com
@@ -8087,7 +8081,6 @@ ilotbetzipeg1li1itch.weebly.com
 ilotbetzipeg1li2itch.weebly.com
 ils37427456.firebaseapp.com
 ils37427456.web.app
-imp-money.pages.dev
 impartial-pineapple-189808.framer.app
 impartial-walkthroughs-734938.framer.app
 important-process-416809.framer.app
@@ -8420,7 +8413,6 @@ jalakzuakuaa.blogspot.com
 jalkanajamaa.blogspot.com
 jalmknaalna.blogspot.com
 jambon.dire-61129.pro
-jambon.domici11920.pro
 jambon.mrelay-etape.com
 jambon.propagation-d2vvh.pro
 jamesmadisonuniversityjmu.weebly.com
@@ -8778,6 +8770,7 @@ kuccoinl0giin.godaddysites.com
 kucinsh-lgin.webflow.io
 kucoenelouegin.webflow.io
 kucoin-lloginn.pages.dev
+kucoin-login-authh.webflow.io
 kucoin-loginm.webflow.io
 kucoin-logino.gitbook.io
 kucoin-m.info
@@ -8799,6 +8792,7 @@ kucoinnologo.webflow.io
 kucoinrloglin.webflow.io
 kucoinx-login.webflow.io
 kucoinzloguin.webflow.io
+kucologinn.webflow.io
 kuconi_exchang.godaddysites.com
 kucooiinnlogin.webflow.io
 kucuinloginu.webflow.io
@@ -9118,6 +9112,7 @@ locker-6859.relaysign.in
 locker-espace.com
 locker-pickup.com
 lockers-livraison-colis.com
+lockersjour.pro
 lodbandbfr.firebaseapp.com
 lodfdsvx8.brionnaa4.workers.dev
 lodgevinasdelsol.com
@@ -9158,7 +9153,6 @@ login.dekoraktifyapi.com
 login.disinfectionforce.com
 login.facebo0k.legal-lead-hub.com
 login.gauway.com
-login.goacrosstravel.com
 login.gregoireetmarion.com
 login.listofpharmacies.com
 login.northcountrypropertymanagement.com
@@ -9673,7 +9667,6 @@ mellow-dodol-44d08d.netlify.app
 memberccuky-fastsec.weebly.com
 membersflix.com
 memebnet.blogspot.com
-mengovwebmaintenance.weebly.com
 mensajede.weebly.com
 mensajedevoz.weebly.com
 menschliche-verifikation.firebaseapp.com
@@ -10252,13 +10245,11 @@ my-site-103245-102947.weeblysite.com
 my-site-103448-107697.weeblysite.com
 my-site-104187-104342.weeblysite.com
 my-site-104723-104863.weeblysite.com
-my-site-104756-107428.weeblysite.com
 my-site-106156-106288.weeblysite.com
 my-site-106788-101935.weeblysite.com
 my-site-107344-101781.weeblysite.com
 my-site-107705-10527.square.site
 my-site-108543-104288.weeblysite.com
-my-site-109495-108282.weeblysite.com
 my-site-109543-105333.weeblysite.com
 my-site-109566-108596.weeblysite.com
 my-tccd-edu.weebly.com
@@ -11105,7 +11096,6 @@ pages-confirm.start.page
 pages-manualy-loading-10029479.firebaseapp.com
 pages-manualy-loading-10029479.web.app
 pages-suitetrzr.pages.dev
-pages-trezor-io-login.typedream.app
 pagesbusiness-centerpolicy.pages.dev
 pagesp118.firebaseapp.com
 pagesp118.web.app
@@ -11186,7 +11176,6 @@ pay-accounkeken.com
 pay-interbank.webcindario.com
 pay.auth-co.com
 pay.myoffice365.ninja
-pay.offce365-login.com
 pay.shanshancar.com
 payapayments.com
 payapl-login.webflow.io
@@ -11781,6 +11770,7 @@ pubgmobilefreeucs15.weebly.com
 public-crypto-ledger-en.typedream.app
 public-renouvellement-sante.com
 public-uphld-web-auth.typedream.app
+publice-apps.zapier.app
 publis.start.page
 publish-note.myportfolio.com
 puce-edu-intranet.weebly.com
@@ -13050,10 +13040,12 @@ site-9by26xnw.godaddysites.com
 site-9dwosyvie.godaddysites.com
 site-9gzodesty.godaddysites.com
 site-agngjkc19.godaddysites.com
+site-aic91fv1h.godaddysites.com
 site-apvztyum4.godaddysites.com
 site-arkmio0vb.godaddysites.com
 site-avdg02oqh.godaddysites.com
 site-bpt0irfx6.godaddysites.com
+site-bridge.zapier.app
 site-d32pihzal.godaddysites.com
 site-d9l8vtb68.godaddysites.com
 site-dofdieajj.godaddysites.com
@@ -13654,6 +13646,7 @@ suport-microsof.webcindario.com
 suporteicloud.net
 supp0rt-ovh.web.app
 suppors-metabusiness.pages.dev
+support-achemin-mondlrlay.com
 support-auth-network-login.firebaseapp.com
 support-auth-network-login.web.app
 support-b2fbcommunity.github.io
@@ -13762,7 +13755,6 @@ sympathetic-years-987820.framer.app
 sympatico001.weebly.com
 symplafabric.vercel.app
 sync-trezorsuite.com
-syncpad-connect.pages.dev
 syneoshealthlondon.co.uk.admin-mcas.ms
 syneoshealthlondon.co.uk.mcas.ms
 syneragrisystem.firebaseapp.com
@@ -13878,7 +13870,6 @@ tebouneprime.com
 tech333-guradian-cu-555.firebaseapp.com
 tech333-guradian-cu-555.web.app
 techcuonline.weebly.com
-technical-world-186128.framer.app
 tedfdfd.pages.dev
 tedious-choose-689090.framer.app
 teekamanajma.blogspot.com
@@ -13963,7 +13954,6 @@ tenchi323cungduojc.pages.dev
 tender-subtasks-939748.framer.app
 tengohncreditos.webcindario.com
 teofilwrorewerd.samcart.com
-terminationaccountnotice.weebly.com
 terminatorios.firebaseapp.com
 terminatorios.web.app
 termistoclesere.firebaseapp.com
@@ -14545,7 +14535,6 @@ unitecrequestcancellationformonline.weebly.com
 united-service-domain.blogspot.com
 united-service-domain.blogspot.mx
 unitedairlines-alightwork.vercel.app
-unitestresolve.pages.dev
 univ-aix-a.weebly.com
 univ-amu00.weebly.com
 univ-frr.firebaseapp.com
@@ -14588,7 +14577,6 @@ upacpa.weebly.com
 upaep-mx.weebly.com
 updataservcoreo25.weebly.com
 updatassesion.weebly.com
-update-firmwaretrezor.com
 update-monremaxremax-quebec.weebly.com
 update-ssl.netlify.app
 updateaccountidentity.click
@@ -15600,7 +15588,6 @@ worldwidewebfr-9b75e.firebaseapp.com
 worldwidewebfr-9b75e.web.app
 woven-knot.weebly.com
 wowil76339.weebly.com
-wowogenavi.z5.web.core.windows.net
 wp-sw9j0y209w5q0sj87s3d23w7923.blogspot.com
 wp73jw.webwave.dev
 wpcuadminvfyacctt01.weebly.com
@@ -15723,14 +15710,12 @@ www.contrat-energie-edf.com
 www.countingclass.cfd
 www.creative-titanium.com
 www.credit-agricolees.endora.site
-www.crevnqle.com
 www.dailythanthi.com
 www.daiwa.jp
 www.das-neue-wir-verbindet.de
 www.dbs.applerewardsstore.com
 www.dfgchvjvjb.vercel.app
 www.dhl-express-suivi-de-votre-colis.com
-www.dhl-express-suivis-colis.com
 www.dhl-support-del.com
 www.dhlreference-n2u7l.com
 www.digitaler-fitness-check.de
@@ -15861,12 +15846,10 @@ www.ostracoderm.cfd
 www.otahuhumainstreet.co.nz
 www.otincorp.com
 www.paginas.site
-www.parkerinstability.cfd
 www.patternseparation.cfd
 www.pentosephosphate.cfd
 www.phononlaser.cfd
 www.phylogeneticindependent.cfd
-www.pointrelais-livraison.com
 www.polaronbinding.cfd
 www.polynomialtime.cfd
 www.ponostonehawaii.com
@@ -15973,7 +15956,6 @@ www.zeilkamp.info
 www.zh-ap-whatoapap.com
 www.zhk-okx.cc
 www.zigtdkqp.com
-www.zjlanrze.com
 www2--mlcauerard--co--jp--mlaocredd-caidrams68592-workers-dev.translate.goog
 www3-vpass.cnxzzb.cn
 www3-vpass.uubkn.cn
@@ -16228,7 +16210,6 @@ yolusem-goiglecom.firebaseapp.com
 yolusem-goiglecom.web.app
 yoour-metaaa-update-rivac.start.page
 yoriabdihcaeqabiabdihcaiq.iceiy.com
-youngg-account.com
 youraccountdisabled.start.page
 yourbestfriend2468.com
 yourdailydelvry.weebly.com
