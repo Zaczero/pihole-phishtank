@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Mon Apr 13 05:09:14 UTC 2026
-# Number of unique domains: 16711
+# Date: Mon Apr 13 12:27:32 UTC 2026
+# Number of unique domains: 16754
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -49,6 +49,8 @@
 0975896749.weebly.com
 0988576657456223.weebly.com
 0997564mail.weebly.com
+0auth-xfinity-com.weebly.com
+0gt5ef0t5f040ef0ggt54ed0f0r40r0t6504e0fghnyn654nn.weebly.com
 0ii-meta-confirm-info.start.page
 0ldwest90.weebly.com
 0mvc-dcdv.weebly.com
@@ -176,6 +178,7 @@
 273-open-21-web-mail-12.weebly.com
 27653fd738hej.ukit.me
 27846128421-krupkpdsenklecwoy.start.page
+29190302fg124slkk098sl0l.blogspot.com
 296cf9c7-9e51-4118-b378-0fbc9187fbed-00-18xrl2lom0wt8.riker.replit.dev
 2a6c447a-5933-4f45-a0c0-a098121dc8dc-00-6f6glcvong4a.worf.replit.dev
 2a6e354e.0ee9711ad2ec6d4cff432a62.workers.dev
@@ -425,7 +428,6 @@ a0c8aa83-4d51-4ff1-a63c-32e07bd577a3-00-12j8xis1lwqws.riker.replit.dev
 a0omer.webwave.dev
 a11sprachboxlogde.weebly.com
 a22807c5-24d2-4ec1-9369-38355a78e3dd-00-17uo8f9a1vv8c.spock.replit.dev
-a24509a5-2407-40b4-9262-eb3c2afe5abc-00-qwfps9raa4pg.kirk.replit.dev
 a2beda5e-e3d5-459a-b684-0f21c1267569-00-2q0n48dfp3y4g.worf.replit.dev
 a46i3iitisydtukyha384s6d57opf8yotsria46s57od68.teemill.com
 a4f70522-8748-4c46-b5ca-393976fc2623-00-2zt748un26b9v.janeway.replit.dev
@@ -695,7 +697,6 @@ adminupdatemail.weebly.com
 adminverififcationxx.weebly.com
 adminweb66.weebly.com
 admnistrator8docsfilesserviceinstant784huo7889s9sssusfffff.pages.dev
-admnserv2usuaoservrr444c8.vercel.app
 adobe-knwrgjnwghnwhrkfnejwnfkje.pages.dev
 adobepdf-readingfile-online.weebly.com
 adopelinkfile.weebly.com
@@ -845,6 +846,7 @@ alibaba-inc.kefu.helps.live
 alibabacarelogin.weebly.com
 alice.form11420.pro
 alice.ram534212.pro
+aliexpress-item-aliexpress-order-cart.weebly.com
 alightworklife.unitedairlineft.com
 alinosso.liveblog365.com
 alive-eyes-063391.framer.app
@@ -1035,6 +1037,7 @@ allegro.oferta6754302pl.cfd
 allegro.oferta728812.cfd
 allegro.oferta761941pl.click
 allegro.oferta7655590.click
+allegro.oferta780183pl.click
 allegro.oferta7803471pl.cfd
 allegro.oferta78965402pl.cfd
 allegro.oferta819301.cfd
@@ -1156,7 +1159,6 @@ allegro.pl-oferta5722555.click
 allegro.pl-oferta5737974.click
 allegro.pl-oferta584295343.sbs
 allegro.pl-oferta58431.sbs
-allegro.pl-oferta58442135.sbs
 allegro.pl-oferta584520.sbs
 allegro.pl-oferta59325.sbs
 allegro.pl-oferta59329512.sbs
@@ -1246,7 +1248,6 @@ allegro.pl-y34t63.click
 allegro.pl738237.click
 allegro.pl7859rezerwacja7264.lol
 allegro.pl8324rezerwacja6792.sbs
-allegro.pl8425rezerwacja7261.sbs
 allegro.pl8475rezerwacja6897.sbs
 allegro.pl867.cfd
 allegro.pl8724rezerwacja6859.sbs
@@ -1329,7 +1330,6 @@ allegrolokalnie.2378841522.sbs
 allegrolokalnie.23852352.cfd
 allegrolokalnie.23857235.sbs
 allegrolokalnie.27321.cfd
-allegrolokalnie.284732828388.click
 allegrolokalnie.286534923.sbs
 allegrolokalnie.289542914.sbs
 allegrolokalnie.293743038596.click
@@ -1449,10 +1449,10 @@ allegrolokalnie.oferta579807pl.cfd
 allegrolokalnie.oferta582718.sbs
 allegrolokalnie.oferta6311957.click
 allegrolokalnie.oferta6638194.sbs
+allegrolokalnie.oferta672045pl.click
 allegrolokalnie.oferta6720485pl.click
 allegrolokalnie.oferta6754302pl.cfd
 allegrolokalnie.oferta7358274.click
-allegrolokalnie.oferta7432716.rest
 allegrolokalnie.oferta761941pl.click
 allegrolokalnie.oferta7801943pl.click
 allegrolokalnie.oferta828331pl.click
@@ -1476,7 +1476,6 @@ allegrolokalnie.pe4ovodkvkekvrekv.sbs
 allegrolokalnie.pi-096906.cfd
 allegrolokalnie.pi-83794874532.click
 allegrolokalnie.pi-oferta54678.sbs
-allegrolokalnie.pi-prywatne93274.click
 allegrolokalnie.pl-02910.lol
 allegrolokalnie.pl-02927266271zamowienie1862628182727.lat
 allegrolokalnie.pl-038.cfd
@@ -1494,7 +1493,6 @@ allegrolokalnie.pl-27494974.icu
 allegrolokalnie.pl-28737382882728bsbagshbsh272662828zam.sbs
 allegrolokalnie.pl-28742.lat
 allegrolokalnie.pl-2926256272zamowienie826263728289.lat
-allegrolokalnie.pl-29272728282zamowienie8272637282j162729.sbs
 allegrolokalnie.pl-29298.icu
 allegrolokalnie.pl-297876279.sbs
 allegrolokalnie.pl-3102.sbs
@@ -1531,7 +1529,6 @@ allegrolokalnie.pl-748327.pro
 allegrolokalnie.pl-785671.cyou
 allegrolokalnie.pl-81655228162728zamowienie1927272828.lat
 allegrolokalnie.pl-819063.icu
-allegrolokalnie.pl-82616272628zamowienie91626282726919.lat
 allegrolokalnie.pl-826538826ogloszenie01625739bagshd.sbs
 allegrolokalnie.pl-8321325.lat
 allegrolokalnie.pl-8374917.lol
@@ -1565,7 +1562,6 @@ allegrolokalnie.pl-id5464.pl
 allegrolokalnie.pl-kategoria139804.cfd
 allegrolokalnie.pl-kategorie-id-192382.sbs
 allegrolokalnie.pl-kosiarka837489172.sbs
-allegrolokalnie.pl-ld0100211.cfd
 allegrolokalnie.pl-ld0900700.cfd
 allegrolokalnie.pl-ld628283.lol
 allegrolokalnie.pl-ld8382929.click
@@ -1638,7 +1634,6 @@ allegrolokalnie.pl-oferta567543.sbs
 allegrolokalnie.pl-oferta5722555.click
 allegrolokalnie.pl-oferta5737974.click
 allegrolokalnie.pl-oferta581293512.sbs
-allegrolokalnie.pl-oferta58431.sbs
 allegrolokalnie.pl-oferta58934589914.sbs
 allegrolokalnie.pl-oferta5894215342.sbs
 allegrolokalnie.pl-oferta59329512.sbs
@@ -1691,7 +1686,6 @@ allegrolokalnie.pl-oferta853275356.sbs
 allegrolokalnie.pl-oferta8752387.icu
 allegrolokalnie.pl-oferta88749167.sbs
 allegrolokalnie.pl-oferta8920950.click
-allegrolokalnie.pl-oferta905151533.cfd
 allegrolokalnie.pl-oferta91664861538.sbs
 allegrolokalnie.pl-oferta926212.click
 allegrolokalnie.pl-oferta927352.online
@@ -1730,7 +1724,6 @@ allegrolokalnie.pl-ogloszenie5346722337.click
 allegrolokalnie.pl-ogloszenie5672334572.click
 allegrolokalnie.pl-ogloszenie5678723392.click
 allegrolokalnie.pl-ogloszenie5932678397.click
-allegrolokalnie.pl-ogloszenie5982334192.click
 allegrolokalnie.pl-ogloszenie74582375.sbs
 allegrolokalnie.pl-ogloszenie7461284839571.sbs
 allegrolokalnie.pl-ogloszenie9347235437.click
@@ -1852,6 +1845,7 @@ andresinmobiliaria.com.ar
 andrew-malone.mvt.so
 andrewmarkowitzrealestate.com
 angelic-alpaca-427210.framer.app
+angelic-flow-903975.framer.app
 angelic-topic-463279.framer.app
 angraverifytc.weebly.com
 angry-visvesvaraya-b99e51.netlify.app
@@ -2273,7 +2267,6 @@ attyahoomail.urest.org
 attyahooo.onepage.me
 attzcxffclfjlggflggghjjhjljhjjhhk.weebly.com
 atualizarquota.weebly.com
-atualizartaxa.uk
 atuokwxfm.firebaseapp.com
 atuokwxfm.web.app
 auburn-unicu-acc-sc.weebly.com
@@ -3372,6 +3365,7 @@ bdvpersonasp.webcindario.com
 bdvpromos.webcindario.com
 be4yji.firebaseapp.com
 be6pec.webwave.dev
+beaurenard.pages.dev
 beautytoimpress.com
 becauygmypag99.weebly.com
 becon-21768.firebaseapp.com
@@ -3547,6 +3541,7 @@ big-pointreward-claim.weebly.com
 bigaroua.firebaseapp.com
 bigaroua.web.app
 bigbauer.com
+biggest-bear-792228.framer.app
 biggest-vacation-503570.framer.app
 biglobe.duckdns.org
 biglobeeee.weebly.com
@@ -3569,6 +3564,7 @@ billingccways.weebly.com
 billtobox-b4acc.firebaseapp.com
 billtobox-b4acc.web.app
 binance-e1n.pages.dev
+binance-zh.com
 binancebooster.com
 binancevcxq.firebaseapp.com
 binancevcxq.web.app
@@ -4071,6 +4067,7 @@ cajatrujillo.news
 calendrier-mars.pro
 californialstateunivrsitylosangeles.ukit.me
 calm-place-199089.framer.app
+calm-tone-663936.framer.app
 calmnest-ba4.mvt.so
 calxadirecta.top
 cambiar-plazo-nomina-2412.vercel.app
@@ -4142,6 +4139,7 @@ carlomcur.web.app
 carnavaldaluizaonline.blogspot.com
 carpeta.portal-online.im
 carry67lean455f.square.site
+carte-nouvelle-biometrie.com
 carteavantages-connect10.com
 carteavantages-connect11.com
 carteavantages-connect7.com
@@ -4602,7 +4600,6 @@ coljines-3e09f.firebaseapp.com
 coljines-3e09f.web.app
 collaborative-leadership-470437.framer.app
 collaborative-minds-386205.framer.app
-collaborative-stories-062625.framer.app
 collect-trierelay.com
 collegeboardgrantverification.ukit.me
 collegereaction-d3eed.firebaseapp.com
@@ -4634,6 +4631,7 @@ comin-oardin-onvenien-onveni-enoardi-com.weebly.com
 commn-auth0.firebaseapp.com
 commn-auth0.web.app
 common-hiring-726777.framer.app
+communicationupdate.weebly.com
 communities1272c0.myportfolio.com
 community-standards-1006436512.firebaseapp.com
 community-standards-1006436512.web.app
@@ -4656,6 +4654,7 @@ comprascompras.webcindario.com
 comprasproviar.webcindario.com
 comprehensive-code-890238.framer.app
 comprehensive-frictionless-018731.framer.app
+comprehensive-understood-087326.framer.app
 compretitulos.vercel.app
 compruebadatos.webcindario.com
 compte-vitale.com
@@ -4680,6 +4679,7 @@ conemaxil.web.app
 conf-bn-cr472.webcindario.com
 conf278-bn-cr038.webcindario.com
 confianzayvida.com
+confident-successes-498442.framer.app
 confidentialdirectfr.firebaseapp.com
 confidentialdirectfr.web.app
 configfreefire.sbs
@@ -4763,6 +4763,7 @@ connexion-document.web.app
 connexion-orange-fr-msg.vercel.app
 connexion-par-e-mail.weebly.com
 connexionagroparistech.weebly.com
+connexionazimbra.weebly.com
 connexiondeclientzimbraweb.weebly.com
 connexionwebmailupjv.weebly.com
 conquestreforged.webflow.io
@@ -4788,6 +4789,7 @@ contacto-digital.webcindario.com
 contasegura.sa.com
 contatobiaonline.ru.com
 contenewsts.start.page
+content-requests-904016.framer.app
 continentals.webcindario.com
 continousa.firebaseapp.com
 continousa.web.app
@@ -4865,6 +4867,7 @@ courrielweb4578.weebly.com
 courrielweb66.weebly.com
 courrielwebc.weebly.com
 courrielwebvide0tron.weebly.com
+courteous-operation-108109.framer.app
 couverture-biometrie-sante.com
 covertina.com
 cowebmailbillings.weebly.com
@@ -5099,7 +5102,6 @@ customerinvoice-534998.web.app
 customerupgrade1121.weebly.com
 cute-cuchufli-41c4bb.netlify.app
 cute-psychology-363180.framer.app
-cute-satisfaction-464604.framer.app
 cute-status-933258.framer.app
 cutter-made.firebaseapp.com
 cutter-made.web.app
@@ -5210,7 +5212,6 @@ darb.qmobilitysid.com
 darb.qmobilitysp.cn
 darb.qmobilixvne.com
 dargoexpress.com
-daring-effect-724662.framer.app
 darmaning-gerard.dstrb-1995.pro
 daro-fari-biz-lumo-selo-sp12ct3.pages.dev
 darrawli22940d.myportfolio.com
@@ -5307,6 +5308,7 @@ dedicated-future-781843.framer.app
 deedfe1.myportfolio.com
 deeluxeetorolh.firebaseapp.com
 deepp--bssniiees--674838.start.page
+defiant-choices-649004.framer.app
 defidappsrestore.firebaseapp.com
 defidappsrestore.web.app
 defiflux.netlify.app
@@ -5453,8 +5455,8 @@ dhevlptks.web.app
 dhhhllll.weebly.com
 dhiexpresssdpdh1l.weebly.com
 dhl-express-suivis-colis.com
+dhl-expresss.weebly.com
 dhl-info.ru
-dhl-monplanning.com
 dhlbnl.cfd
 dhltransporter.com
 dhsunfhbi.firebaseapp.com
@@ -5504,7 +5506,7 @@ discosthoo.com
 discreet-click-319576.framer.app
 discreet-friday-225995.framer.app
 discreet-operation-925476.framer.app
-discreet-pluto-437729.framer.app
+disney-rnw.com
 disneychannel-france.firebaseapp.com
 disneychannel-france.web.app
 dispatch-department.builder-preview.com
@@ -5515,6 +5517,7 @@ distribution-colis.com
 districtcourtsouth.com
 diverse-birthday-334272.framer.app
 diverse-prototyper-093328.framer.app
+divine-role-578108.framer.app
 diyqmnvsd.firebaseapp.com
 diyqmnvsd.web.app
 djdfopslmcueo.weebly.com
@@ -5601,7 +5604,6 @@ doiuyghsf.weebly.com
 dojoker.duckdns.org
 domachetendi3.firebaseapp.com
 domachetendi3.web.app
-domain-krake-support.zapier.app
 domaineprivatefort.firebaseapp.com
 domaineprivatefort.web.app
 domainfunctionfr.firebaseapp.com
@@ -5703,7 +5705,6 @@ driect-sm1tbc.com
 driect-sm1tbd.com
 driect-sm1tbe.com
 driect-sm1tbg.com
-driect-sm1tbh.com
 driect-sm1tbi.com
 driect-sm1tbj.com
 driect-sm1tbl.com
@@ -5747,7 +5748,6 @@ dshboard09ae.web.app
 dsjhfjdjh-hkdfjg-4a4589.netlify.app
 dsrytydtfugiogyidtub-ufydtukfyiguoilufydituk.teemill.com
 dstrb-centre0.com
-dstrb-centre4.com
 dstrb-centre9.com
 dstrb-plateforme26.com
 dstrb-trie2.com
@@ -5781,6 +5781,7 @@ dwasdft.blogspot.com
 dwb097.webwave.dev
 dwertipymagicmsr.blogspot.com
 dxgmx.weebly.com
+dxjlcohdl.weebly.com
 dyeidlt76.ukit.me
 dygmx.weebly.com
 dyhchvj.weebly.com
@@ -5828,6 +5829,7 @@ eabokbeobokok.firebaseapp.com
 eabokbeobokok.web.app
 eaccessmyatt.pory.app
 eae58b0d-4a9b-4414-b7ba-5ac4cdea7b94-00-2f68ilxu7p2fj.worf.replit.dev
+eager-actor-034163.framer.app
 eager-personalization-549933.framer.app
 eagle-tex.cn
 eaglecu.weebly.com
@@ -6110,7 +6112,6 @@ empow-erae.one
 empowe-r.one
 empowe-ra.one
 empowe-raa.one
-empowe-rab.one
 empowe-rac.one
 empowe-rad.one
 empowe-rae.one
@@ -6127,7 +6128,6 @@ empowerab.one
 empowerac.one
 empowerad.one
 empoweraf.one
-empowered-recipient-863996.framer.app
 empowerherbreastcancer.org
 empowersafetybc.one
 empowersafetybd.one
@@ -6139,7 +6139,6 @@ empowerworkplacebu.one
 empowerworkplacebv.one
 empowerworkplacebw.one
 empowerworkplaceby.one
-empowerworkplacebz.one
 empresahabilitada.kinghost.net
 empresameusnet.kinghost.net
 empresasjuridica.kinghost.net
@@ -6247,6 +6246,7 @@ ergoterapiacaribu.ch
 erica-sandy-law-practice-e6f81b.webflow.io
 eriolasdiiunter.weebly.com
 erionetrfindsa.weebly.com
+erjfujqhgujgqrjn.weebly.com
 ernuilibolikro.firebaseapp.com
 eroplcmnfuei.weebly.com
 eroplinretuin.weebly.com
@@ -6285,6 +6285,7 @@ espalubdes.web.app
 espananewlink.weebly.com
 especialdaluizabol.blogspot.com
 espressobot.gitbook.io
+espyzwxh.com
 esrickis.firebaseapp.com
 esrickis.web.app
 esspace-lcients.firebaseapp.com
@@ -6400,6 +6401,7 @@ evri.rewardikj.icu
 evri.rewardolk.icu
 evri.rewardytr.icu
 ewerplcwasuintre.weebly.com
+ewkjkqwlqw.weebly.com
 eworldrebuild.com
 ewouldepese.firebaseapp.com
 ewouldepese.web.app
@@ -6507,7 +6509,6 @@ faboo78.github.io
 facbok-verify.start.page
 facbokhelp-centre.start.page
 facbook-systeam.start.page
-faccueilspring.weebly.com
 facdocspdfouvrir.weebly.com
 face5boosk.webcindario.com
 facebok-account.start.page
@@ -6579,7 +6580,6 @@ fauconnier.journ-6262.pro
 fautvoirpourcrois-9d6b1.firebaseapp.com
 fautvoirpourcrois-9d6b1.web.app
 favorable-example-649521.framer.app
-favorable-eyes-624446.framer.app
 favorable-illuminate-104216.framer.app
 favorite-sheet-045607.framer.app
 fb-details1000854.firebaseapp.com
@@ -6741,7 +6741,6 @@ final-behavior-118875.framer.app
 final-predict-098912.framer.app
 finalaccountwarningteam.weebly.com
 finances-impots-gouv.com
-financieracontiamiga.pages.dev
 finasas-amarilla.webcindario.com
 fincenalliance.com
 finedropmultilub.com
@@ -6765,6 +6764,7 @@ firstberne.weebly.com
 firstcitizens-org.weebly.com
 firstclass222.w3spaces.com
 firstcsblog.weebly.com
+firstlight-communication-service-team-4566.weebly.com
 firstquentexservic.firebaseapp.com
 firstquentexservic.web.app
 firstsbank.weebly.com
@@ -7017,6 +7017,7 @@ front-seven-tawny.vercel.app
 frontier2bsecure.weebly.com
 frontierbfc.weebly.com
 frontiermail.ukit.me
+frontiesemairl.weebly.com
 frontnetjuridica.kinghost.net
 frontsconexaonet.kinghost.net
 frontsnetconexao.kinghost.net
@@ -7055,7 +7056,6 @@ ftgyttgyhyuh.w3spaces.com
 ftrgvrtvtrbvrtbv6b5ry65t.weebly.com
 ftsbtrustsaving.weebly.com
 ftyfetefefytedfd37uij.weebly.com
-fuchsia-audience-214593.framer.app
 fuchsia-popover-340073.framer.app
 fuiokwsaioteyfdv.weebly.com
 fuisryajsdtuoi-oe68w57q46we57d6io.teemill.com
@@ -7139,6 +7139,7 @@ gcxuiuhsrydtukhcr-sryuju7i6rertjy.teemill.com
 gdesigns.info
 gdffy.urest.org
 gdfre537dw.weebly.com
+gdgfhbr.weebly.com
 gdhjxkdnfgj23.weeblysite.com
 gdhsdgecom.godaddysites.com
 gdkbyy.com
@@ -7165,6 +7166,7 @@ gemini.03vps.cn
 gemini.199401.xyz
 gemini.243026.xyz
 gemini.588886.xyz
+gemini.appawx.com
 gemini.ccyacg.xyz
 gemini.chatgpt-use.com
 gemini.chnaserver.com
@@ -7203,6 +7205,7 @@ generation-cover-8170.whdzq2qfs.workers.dev
 generous-steps-339945.framer.app
 genfrso.firebaseapp.com
 genfrso.web.app
+genial-objects-594130.framer.app
 genuine-naiad-a69deb.netlify.app
 genxwhosting.com
 georgiaquarium.com
@@ -7611,6 +7614,7 @@ h-outlook76879hjhhh.weeblysite.com
 h-uphooold-login.typedream.app
 h0hpsm3bpp-25646f18ff.vercel.app
 h1nes.weebly.com
+h2q9l3b5r7g4n0c5q1kl7d3j9n7v7b3k7.square.site
 h4-okx.com
 h5c9jsw71.ukit.me
 h67mbm.webwave.dev
@@ -7632,6 +7636,7 @@ handya1festnetz.weebly.com
 hannnnnnnmaaaaaiiillllllkakakakaoao.weebly.com
 happier-mercury-665352.framer.app
 happier-ways-535391.framer.app
+happy-convention-503333.framer.app
 happy-lovelace.5-100-224-131.plesk.page
 happy-minimalist-050221.framer.app
 hargarymailer.weebly.com
@@ -7815,6 +7820,7 @@ hhsvfvhwfv.ukit.me
 high-instance-167244.framer.app
 high-topic-205572.framer.app
 highcountryy.weebly.com
+hikiki5.weebly.com
 hilfe-zentrum.weebly.com
 hilfecenter1.weebly.com
 hillsboroughcommcollege.ukit.me
@@ -7937,6 +7943,7 @@ hsbs-tg.com
 hsdfvvczjjy.weebly.com
 hsdisujuk.netlify.app
 hsiogqo04.ukit.me
+hsjgjghgkhgk.weebly.com
 hskyzvrcwbfx.firebaseapp.com
 hskyzvrcwbfx.web.app
 htashihchaebyou.firebaseapp.com
@@ -8281,10 +8288,12 @@ insigniaeventimefr.firebaseapp.com
 insnsb-gob.weebly.com
 inspirational-action-393347.framer.app
 inspirational-advantage-843825.framer.app
+inspired-begin-554516.framer.app
 insrnmfr.weebly.com
 insstagrram.github.io
 instablogs.github.io
 instagraam-login.vercel.app
+instagraamviideeog700.weebly.com
 instagrambusiness-supportcenter.pages.dev
 instagrams.free.nf
 instant-creditportal.lovable.app
@@ -8344,6 +8353,7 @@ intra-frostbank-web-staging.azurewebsites.net
 intranet20033.weebly.com
 intrustbank1728.weebly.com
 intuitive-lot-909843.framer.app
+intuitive-patterns-917194.framer.app
 inv2023.firebaseapp.com
 inv2023.web.app
 inventive-tournaments-815927.framer.app
@@ -8374,7 +8384,6 @@ inwayhosting.com
 inzizi.com
 io--ledgre--com.webflow.io
 io-en-exodus.pages.dev
-io-exodusweb-us.pages.dev
 io-hardware-dc-wallet.typedream.app
 io-login-andex.pages.dev
 io-trezr-login-us.typedream.app
@@ -8392,7 +8401,6 @@ ionos-outlook.firebaseapp.com
 ionos-outlook.web.app
 ionos-webmail-de-ionos-id-login-ionos.blogspot.com
 ioqmmfl22.ukit.me
-iostart-trezer.zapier.app
 iostarttrzer.dream.space
 iouewfhe.weebly.com
 ipaboost.optum.link
@@ -8467,6 +8475,7 @@ itsvalidations.godaddysites.com
 itvopen.net
 itwilliveyouaconce.hyyljggc.com
 iuhrifoef98e7f99f789f.blogspot.com
+iujfgjdfhd.weebly.com
 iukmxnwetreadioplio.weebly.com
 iuoiklioploi.weebly.com
 iuparadas.org
@@ -8795,6 +8804,7 @@ klantendienstics.web.app
 klarna-verificatie.ns02.info
 klasik.pages.dev
 klausklaus54.weebly.com
+kleinanzeigen.idyverification.com
 klgyanq.hosted.phplist.com
 kllllllla.weebly.com
 klmaiil.weebly.com
@@ -8839,10 +8849,12 @@ kraken-apps.firebaseapp.com
 kraken-apps.web.app
 krakenkalogin.webflow.io
 krakenlogin.co.com
+kraxcdaaaauuumkaokaokaokaokao.weebly.com
 kraxckakaokaokaokaokaokaokaok.weebly.com
 kraxckakaokaokaokaokaokaokaokao.weebly.com
 kraxckaokaokaokaokaokaokaokaokaokao.weebly.com
 kraxckaokaokaokaokaokaokaokaokaokaokao.weebly.com
+krdaaauuuuummmmmmmmmmmmmmm.weebly.com
 kredikartsparkass234.firebaseapp.com
 kredikartsparkass234.web.app
 krenqlwb.com
@@ -9062,6 +9074,7 @@ lendingtreeusa.vercel.app
 lenjeu.firebaseapp.com
 lenjeu.web.app
 lenodibi.z33.web.core.windows.net
+lensyhxv.com
 leon-bhd2025.webcindario.com
 lepjistruq.weebly.com
 leqcayzjwstzou.firebaseapp.com
@@ -9093,6 +9106,7 @@ lfgldcltxc.weebly.com
 lg-onecom-io.web.app
 lg-yetkiliservis.com
 lgincorleanstoursfridpprofleoidcauthorizeexecutione1s2de.weebly.com
+lgiy.systeme.io
 lgv0qw.webwave.dev
 lhjgjkkfkk.weebly.com
 libertywebmail.weebly.com
@@ -9260,8 +9274,10 @@ login-primus-ca.weebly.com
 login-raiffeisen-ebanking.firebaseapp.com
 login-raiffeisen-ebanking.web.app
 login-ze-delivery.vercel.app
+login.9by3ks1h.com
 login.alifeanswer.com
 login.atlantadentalimplantsatlanta.com
+login.b1hinf20.com
 login.bluebugboutique.com
 login.cyclone6.com
 login.dekoraktifyapi.com
@@ -9332,6 +9348,7 @@ loginfreegames.weebly.com
 loginhomepage-sharefile.myportfolio.com
 loginmetajobssuite.com
 loginmicrosoftonlinecom.myportfolio.com
+loginmicrosoftonlinecomcommonoauth2v20authorize.weebly.com
 loginmircosoft.myportfolio.com
 loginsapo.weebly.com
 loginscreenatt1867.boxmode.io
@@ -9386,7 +9403,6 @@ lounoin.web.app
 louqjesuis.firebaseapp.com
 louqjesuis.web.app
 louuiscahuf.com
-lovable-beginning-620088.framer.app
 lovely-checkbox-235949.framer.app
 lpdeymonblackfr.firebaseapp.com
 lqrrheidnei9403riri9hrc.pages.dev
@@ -9416,7 +9432,6 @@ lyaneso.web.app
 lycosweb.weebly.com
 lycustechnologies.com
 lyfyftgufhgfgjht.weebly.com
-m-dupont.plan-6ztxd.com
 m-jrs.pro
 m-pkupjrs.pro
 m-relay-creneau.com
@@ -9475,6 +9490,7 @@ mail-101184.weeblysite.com
 mail-13532.weebly.com
 mail-ashianahousing-com.weebly.com
 mail-austral-edu-ar.weebly.com
+mail-chacoe-gov-ar.weebly.com
 mail-chettinad-com.weebly.com
 mail-churchfieldhomeservices-ie.weebly.com
 mail-cichnovabrno-cz.weebly.com
@@ -10002,6 +10018,7 @@ michiganfirst-online.firebaseapp.com
 michiganfirst-online.web.app
 micredito.lat
 micro-105xp-joer896.weeblysite.com
+micro-softconnect.weebly.com
 micro50495045045.firebaseapp.com
 micro50495045045.web.app
 microaustrupdsa.weebly.com
@@ -10072,6 +10089,7 @@ miseenplacemoinsplusok.mydurable.com
 missprissehp.blogspot.com
 misssions-posible.firebaseapp.com
 misssions-posible.web.app
+misty-number-559424.framer.app
 mit-alert01a.firebaseapp.com
 mit-alert01a.web.app
 mitamxsklogun.gitbook.io
@@ -10404,6 +10422,7 @@ myefccu-proconmabe-0-php.weebly.com
 myfastsmailorg.weebly.com
 myfqt25.vercel.app
 myfreeprivateroom.weebly.com
+myfrstbnktrst.weebly.com
 myg.zeabur.app
 mygov-aus.firebaseapp.com
 mygov-aus.web.app
@@ -10514,6 +10533,7 @@ navlunara.com.wplanders.a2hosted.com
 navy-guest-344134.framer.app
 nbalikamonjal.blogspot.com
 nbb888898.weebly.com
+nbc0188.weebly.com
 nbm3suspi76activity.weebly.com
 nbvchgfuytrbrainerd.weebly.com
 nbvcxcvenmnvcenetrete.weebly.com
@@ -10560,6 +10580,7 @@ nespoltems.web.app
 netbnksb1a.com
 netbnksb1b.com
 netbnksb1c.com
+netcare-healthos.vercel.app
 netcoinslogi-shop.webflow.io
 netflix-71f05.firebaseapp.com
 netflix-71f05.web.app
@@ -10673,7 +10694,6 @@ nixtla-developer-portal-main.web.app
 njawe223sww.blogspot.com
 njawnd2ss.blogspot.com
 njitfinancialaid.weebly.com
-njokz.lyz6dlvl.cn
 njom8c.webwave.dev
 nkjzgfkzaal.blogspot.com
 nklyupdate.weebly.com
@@ -10915,7 +10935,6 @@ okx-apzc.com.cn
 okx-desktop.org
 okx-jys9.com
 okx-ouyiapp.com
-okx-tradingcenter.com
 okx-trd.net
 okx-web3-tron-usdt-trc20-000000110.pages.dev
 okx-web3-tron-usdt-trc20-000000313.pages.dev
@@ -11176,6 +11195,7 @@ ov-h-709f2.firebaseapp.com
 ov-h-709f2.web.app
 ov-okx.com
 overagamecanstrengthen.com
+overenpostovinischrankyict.liveblog365.com
 overly-innovation-738396.framer.app
 overstartoutlokmobil.weebly.com
 ovh-dfh.web.app
@@ -11198,7 +11218,6 @@ owa-90837.web.app
 owa-educacion-gob-es-admin.weebly.com
 owa-europa-uni-de-lm-auth-proxy.weebly.com
 owa-europa-uni-de.weebly.com
-owa-lausanne-ch.weebly.com
 owa-mail-auth.firebaseapp.com
 owa-mail-auth.web.app
 owa-sartorius-com.weebly.com
@@ -11492,6 +11511,7 @@ pjkhbvhcgfhgf1jhjgj-fdzsdjfkglkjhghftjfhgjhkj.teemill.com
 pjxbgdd71.ukit.me
 pknumerciharrison5merciharrison5.weebly.com
 pkobp.com
+pkup-trcpr.pro
 pkup-trjs.pro
 pkups-jrs.pro
 pl-firmowe-allegrol.sbs
@@ -11518,6 +11538,7 @@ please-wait--connection.web.app
 please-wait-for-page-a7267.firebaseapp.com
 please-wait-for-page-a7267.web.app
 pleaseconfirmationaccount.start.page
+pleqawtye.com
 pllsadosaod.pages.dev
 plmn89-55673.web.app
 plosrwalnamter.online
@@ -11579,7 +11600,6 @@ pop.schubel.info
 poppin-405201.firebaseapp.com
 poppin-405201.web.app
 porc.pointrel-6368.pro
-porcos.direc-9472.pro
 porezna-uperava.firebaseapp.com
 porezna-uperava.web.app
 porezna-upirava.firebaseapp.com
@@ -12370,6 +12390,8 @@ renouvelement-admin01-panel.bjorkholmen.se
 renouvellement-carte-biometrique.com
 renouvellement-devotrecarte-vitale.com
 reorhdhe.weebly.com
+repairemail.weebly.com
+repairmails.weebly.com
 repairsharelementfr.firebaseapp.com
 repairsharelementfr.web.app
 repermaiec.weebly.com
@@ -12672,6 +12694,8 @@ sant.cannonsafe.com
 santander-es.eliminacioncargo.com
 santander.bniconsulting.co.tz
 sante-acces.com
+sante-cpam.com
+sante-demarche.com
 santgroup-es.im
 santiagoanthony.com
 santmxpresta.webcindario.com
@@ -13099,6 +13123,7 @@ shawworldcheck.weebly.com
 shawww55.weebly.com
 shbdz.blogspot.com
 shear-fix.weebly.com
+shelbystatebank.weebly.com
 shentelcommunicatiionsserverupgrade.weebly.com
 shentelnetsing.weebly.com
 shentelnewupdatlogo.weebly.com
@@ -13233,6 +13258,7 @@ site-izy5hwlzl.godaddysites.com
 site-jemihf8xz.godaddysites.com
 site-kezp294en.godaddysites.com
 site-kf9jsqmk5.godaddysites.com
+site-kwgqglv5q.godaddysites.com
 site-l3qe53zbl.godaddysites.com
 site-l7rgcetqs.godaddysites.com
 site-m2mab9rxp.godaddysites.com
@@ -13252,6 +13278,7 @@ site-s4dhsrfje.godaddysites.com
 site-setup-success-9e84c.firebaseapp.com
 site-setup-success-9e84c.web.app
 site-t3o5nftdz.godaddysites.com
+site-t60cq3528.godaddysites.com
 site-t7141qq0w.godaddysites.com
 site-ueva6l6mp.godaddysites.com
 site-ug6vfztbv.godaddysites.com
@@ -13484,6 +13511,7 @@ sp23876.sitebeat.crazydomains.com
 sp246812.sitebeat.crazydomains.com
 sp248730.sitebeat.crazydomains.com
 sp251005.sitebeat.crazydomains.com
+sp263399.sitebeat.crazydomains.com
 sp265973.sitebeat.crazydomains.com
 sp280715.sitebeat.crazydomains.com
 sp294706.sitebeat.crazydomains.com
@@ -13698,7 +13726,6 @@ stawar-prosgfant00020.firebaseapp.com
 stawar-prosgfant00020.web.app
 steamcomnunnlty.com
 steamcomunmitty.com
-steamconnmunity.cc
 steamdoa1.duckdns.org
 steamstoredeal.weebly.com
 stebbings.co.nz
@@ -13850,7 +13877,6 @@ supports-bussiness-centre.pages.dev
 supports-metabusiness-center.pages.dev
 supports-metabussiness-center.pages.dev
 supports-metabussiness-centers.pages.dev
-supportseerviceauth.weebly.com
 supportt.pages.dev
 supporttalktalk.weebly.com
 supporttelkommail.weebly.com
@@ -14061,10 +14087,12 @@ telegrameva.com
 telegrameys.com
 telegramggs.com
 telegramhai.com
+telegrammac.com
 telegrammai.com
 telegrammz.cc
 telegramnco.com
 telegramscn.com
+telegramvietnam.net
 telekmvoicmailpmw.vercel.app
 telekom-privatkunden-de.com
 telekomloginbenutzernameeingeben.weebly.com
@@ -14118,7 +14146,6 @@ telstrasupprort.weebly.com
 telstraups.weebly.com
 telstrawebmaiiiill.weebly.com
 telstrawebmailllsupportt.weebly.com
-telstrawebspace.framer.website
 telstrraserviice.weebly.com
 telsyutreas.weebly.com
 temp-owkexuorwkyoibanumaq.webadorsite.com
@@ -14171,6 +14198,7 @@ tgcxcxi.com
 tggpipe.com
 tgionvi.com
 tgmnail.weebly.com
+tgv-promo.com
 tgweb.appgo.in
 tgwy.pages.dev
 tgyhuiote.weebly.com
@@ -14226,6 +14254,7 @@ thswildaude.weebly.com
 thttpmailnctoaskmai.weebly.com
 thuysml.weebly.com
 ticket-coinbase.app
+tik-shop.qpon
 tiktok.ymiznf.cn
 time-limited-secure-content.webflow.io
 time-worked.firebaseapp.com
@@ -14545,12 +14574,12 @@ turks-review.weebly.com
 turkss.weebly.com
 turman33.weebly.com
 turnip-5q08-mvcv.ge0qqs.workers.dev
+turquoise-lifecycle-755707.framer.app
 turtleman.grv961010.pro
 turyzctukjvzdrytjyhkjt-ijhxrgzjxhcgjwtdsyikuff.teemill.com
 tuskegeeeuniversity.ukit.me
 tuttevadavantirol.firebaseapp.com
 tuttivadavantity.firebaseapp.com
-tuuu555585.godaddysites.com
 tv-show-tracker-81e25.firebaseapp.com
 tv-show-tracker-81e25.web.app
 tvnewsjdapp.firebaseapp.com
@@ -14710,13 +14739,13 @@ uniservemailupdate.weebly.com
 unison1.weebly.com
 unisvap.godaddysites.com
 uniswap.vg
+unitcomcast.weebly.com
 unitecnologia-d4f2a.firebaseapp.com
 unitecnologia-d4f2a.web.app
 unitecrequestcancellationformonline.weebly.com
 united-service-domain.blogspot.com
 united-service-domain.blogspot.mx
 united567.vercel.app
-unitedairlines-alight.vercel.app
 unitedairlines-alightwork.vercel.app
 unitedairlines-worklife.vercel.app
 univ-aix-a.weebly.com
@@ -14725,6 +14754,7 @@ univ-frr.firebaseapp.com
 univ-frr.web.app
 univ-grenoble-alpes0.weebly.com
 univ-ident.weebly.com
+univ-lorraine-1.weebly.com
 univ-lorraine0.weebly.com
 univ-reimsfr.weebly.com
 univamu.ulcraft.com
@@ -14827,7 +14857,6 @@ uryhs6resxifyjxfhahxcj-aeyzyzxcjvsdf6tafshxd2.teemill.com
 us-conect-ledger-live-login.typedream.app
 us-en-desktop.framer.media
 us-mettaa-mask_loggin.godaddysites.com
-us-trazer-suite.pages.dev
 us1.campaign-archive.com
 us10.campaign-archive.com
 us11.campaign-archive.com
@@ -14860,7 +14889,6 @@ usario02cf-5468-ionos584help.blogspot.com
 usario04lapting-authmartin.blogspot.com
 usataxirs.com
 usbitt.weebly.com
-usdt-okx.cc
 usdt-okx.com
 usdt-okx.net
 user-davlvlenda.webcindario.com
@@ -15000,6 +15028,7 @@ vaneldangueldase.web.app
 vanicadaranebanistercaris.firebaseapp.com
 vanicadaranebanistercaris.web.app
 varietyscissor.com
+various-input-283407.framer.app
 varmnail.weebly.com
 vasilybrabusterrinsulias.firebaseapp.com
 vasilybrabusterrinsulias.web.app
@@ -15142,7 +15171,6 @@ vfyspriorityone.weebly.com
 vfyvikingbnk.weebly.com
 vg76uioi.weebly.com
 vgeydisjswosks.weebly.com
-vgfsjhxkv.weebly.com
 vgu.iwp.mybluehost.me
 vgyhuji.w3spaces.com
 vhgshyeyusb.weebly.com
@@ -15261,7 +15289,6 @@ volkanomirados12.blogspot.com
 volkewneg.firebaseapp.com
 volksbank-f26f8.firebaseapp.com
 volksbank-f26f8.web.app
-volksbank.de.sicherheits.digital
 volkswagen.comexport.com.br
 volny33344.weebly.com
 volny3334466.weebly.com
@@ -15438,6 +15465,7 @@ web.nalubiro-whatsapp.com.cn
 web.pancake.run
 web.pimarolu-whatsapp.com.cn
 web.sitolanu-whatsapp.com.cn
+web.telegrambot.cyou
 web0099934447.weebly.com
 web3-appconnect.pages.dev
 web3-connect-wallet.webflow.io
@@ -15737,7 +15765,6 @@ wiomnufrytsdfe.weebly.com
 wiomsfreuhgfterdsiok.weebly.com
 wireconfirmation68c10a25442a3e13.blogspot.com
 wisceduvalid.ukit.me
-wise-apps-764788.framer.app
 wise-favorites-144332.framer.app
 with-haixingtv.com
 withoutwarning4.weebly.com
@@ -15780,7 +15807,6 @@ woosterportallog.weebly.com
 woozworldbeexgratuit.weebly.com
 woozworldfreewoozfrancais.weebly.com
 wor6a9e8f3001534eb85e273da4065fbbkerow-lab-0665.pilnik9.workers.dev
-woralvendrixu-kemprasolitu.live
 wordpress-ionos-validation10102908.netlify.app
 wordxreview.myportfolio.com
 woriskal.weebly.com
@@ -15850,6 +15876,7 @@ www-ipva-sp-online-2023.blogspot.com
 www.100responsible.com
 www.247loanpros.com
 www.2wsms.com
+www.62pn34wo.com
 www.abbreviatejuice.com
 www.acces-suivicolis.com
 www.acces448216.pro
@@ -15878,7 +15905,6 @@ www.asisa.com.co
 www.assistance--ameli.com
 www.asymptoticrelation.cfd
 www.atlanticgroupe.com
-www.auroraelectrojet.cfd
 www.authsso.productoselbosque.com
 www.ayniplast.pe
 www.azmodelsearch.com
@@ -15888,6 +15914,7 @@ www.bdhznlq.com
 www.bencahu.com
 www.bet365bby.com
 www.bibliobus-caen.com
+www.binance-zh.com
 www.binance.info
 www.binancebooster.com
 www.binanceserev.com
@@ -15903,9 +15930,9 @@ www.burmite.cfd
 www.cam4.com
 www.carpetbuyingtips.com
 www.carte-biometrique-sante.com
+www.carte-nouvelle-biometrie.com
 www.centre-biometrie-sante.com
 www.centre-public-sante.com
-www.ch-oubo.com
 www.check-redirects.com
 www.choisir-horaire.com
 www.cn-oyi-okx.com.cn
@@ -15921,7 +15948,6 @@ www.daiwa.jp
 www.das-neue-wir-verbindet.de
 www.dbs.applerewardsstore.com
 www.demotrans.com.bd
-www.dfgchvjvjb.vercel.app
 www.digitaler-fitness-check.de
 www.dineroalinstante.com
 www.discordloginpage.vercel.app
@@ -15944,6 +15970,7 @@ www.epicwow.com
 www.erfdqgvw.com
 www.erkemuhendislik.com
 www.espace-compte-disneyplus.com
+www.espyzwxh.com
 www.eufashionbd.com
 www.eugene.com
 www.evital-assur.com
@@ -16003,6 +16030,7 @@ www.laestrelladeljamon.com
 www.languagexperience.it
 www.ledger-com-dashboard.eaatelaf.com
 www.lehftjaq.com
+www.lensyhxv.com
 www.leoqzmkv.com
 www.letgt2-project-9nbz.vercel.app
 www.lezionfd.com
@@ -16014,7 +16042,6 @@ www.locker-pickup.com
 www.logi-paquetfrance.com
 www.lokrcxvd.com
 www.los40.com.gt
-www.lsmworks.com
 www.luxurylifestylebydiamondmariexxx.com
 www.ma-carte-renouvellement.com
 www.maga12u.com
@@ -16056,6 +16083,7 @@ www.okx-tech.org
 www.okx-tradingcenter.com
 www.okx-trd.net
 www.okx-trd.org
+www.okx-wl.com
 www.okx-zh.info
 www.ope-961084.pro
 www.or-okx.com
@@ -16070,9 +16098,9 @@ www.paddlefish-kbg4.squarespace.com
 www.paginas.site
 www.paiement-avantages.com
 www.particuliers.sgfr.icd.publisafetech.info
-www.patternseparation.cfd
 www.pentosephosphate.cfd
 www.phylogeneticindependent.cfd
+www.pleqawtye.com
 www.polaronbinding.cfd
 www.polynomialtime.cfd
 www.ponostonehawaii.com
@@ -16107,6 +16135,8 @@ www.rihabpc.com
 www.robloxhack.cheatmodonline.com
 www.rte-22762.pro
 www.ruggedshells.com
+www.sante-cpam.com
+www.sante-demarche.com
 www.sarl-francecomptabilite.com
 www.scissoron.com
 www.securemail.inkgraphtechno.com
@@ -16176,6 +16206,11 @@ www.v10-okx-app.com
 www.v11-okx-app.com
 www.v2-okx.com
 www.v3-okx.com
+www.v5-okx.com
+www.v5-okx.net
+www.v8-okx-app.com
+www.v8-okx-pc.com
+www.v9-okx.net
 www.va.permata.bankslemansyariah.co.id
 www.verbqne.com
 www.verklu.com
@@ -16253,6 +16288,7 @@ xbiguateenligtzx.w3spaces.com
 xceawduhckuiawsvfiyv-qtd8figkahcdujhasd.teemill.com
 xcfinitycomcast.weebly.com
 xcfw2ef9v7wddw7fvdvfo82wd.weebly.com
+xcidfolfd.weebly.com
 xcvcbadsfdgfwretryttyu.weebly.com
 xcvxcvxcvxc234234234nmvb.pages.dev
 xddgffgdgdryt.weebly.com
@@ -16262,8 +16298,10 @@ xeroxm32.firebaseapp.com
 xeroxm32.web.app
 xersde4rjnms.weebly.com
 xeshfdk.weebly.com
+xf1n1tyyyyyy.weebly.com
 xfdyghudrsr.weebly.com
 xffcnnn.framer.website
+xffifnnnitttttttttyyy.weebly.com
 xfgyjm.blogspot.com
 xfgyjm.blogspot.tw
 xfhdttdhd.weebly.com
@@ -16272,12 +16310,14 @@ xfiniityyupdgradesse.framer.website
 xfinit11211.weebly.com
 xfinitico.weebly.com
 xfinitisignin.weebly.com
+xfinittttttyyy.weebly.com
 xfinity-37283.weebly.com
 xfinity-login-service-team-45667.weebly.com
 xfinity-rho.vercel.app
 xfinity-voice-j74rv.daftpage.com
 xfinity-welcome-hub.base44.app
 xfinityccommuniication.weebly.com
+xfinityconnectinc738.weebly.com
 xfinityhomelogin.weebly.com
 xfinitymyaccount0.weebly.com
 xfinityoin.weebly.com
@@ -16288,11 +16328,13 @@ xfinityys.weebly.com
 xfinityyt.weebly.com
 xfinityyycomcastloginn.weebly.com
 xfinltymailservice.weebly.com
+xfinnhgdgfxf.weebly.com
 xfliveptottems.weebly.com
 xflnltyma1lsupp0rt.weebly.com
 xfmdnsr.com
 xfnty800.weebly.com
 xfttty.weebly.com
+xfufjdsb.weebly.com
 xg.hztiynz.com
 xggsdx.weebly.com
 xghdgf.firebaseapp.com
@@ -16401,6 +16443,7 @@ xxx565xx90-9.weebly.com
 xxxfinityyy.vercel.app
 xxxflnltty25.weebly.com
 xxxxffinniityyy.weebly.com
+xxxxfinnittyyyy.weebly.com
 xxzcajadeahorro.webcindario.com
 xxzxx8888888885654check.weebly.com
 xylem.ewebtel.com
