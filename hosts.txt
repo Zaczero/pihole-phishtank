@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Fri Jun 26 16:48:05 UTC 2026
-# Number of unique domains: 20581
+# Date: Fri Jun 26 20:37:52 UTC 2026
+# Number of unique domains: 20614
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -11,6 +11,7 @@
 00-utu-fi.weebly.com
 000-054343-info.weebly.com
 0000000000000190000010111.weebly.com
+000039a9-398f-7000-a805-921aa822efc.vercel.app
 0002985647.weebly.com
 00065455.weebly.com
 001zimbra.weebly.com
@@ -675,6 +676,7 @@ acdijon.weebly.com
 ace-siv-biz-vor-len-sp18ct3.pages.dev
 acesorvirtual-365--segoffice365.replit.app
 acessibilidadeempresa.kinghost.net
+acesso-pj.live
 acesso-principal.com
 acesso.apoionetempresas.online
 acesso.pjappempresas.click
@@ -682,8 +684,10 @@ acesso.plataformapj.click
 acessobradesco.portalclientes.online
 acessocliente.digital
 acessodigitalpj.site
+acessojuridicopj.digital
 acessonetportal.digital
 acessopj.com
+acessos-netempresas.sbs
 acessoscenturion.com
 acessosuportenetempresa.com
 acessousuariomaster.com
@@ -851,6 +855,7 @@ adviaculorinfcpol.weebly.com
 advise-trezoior-en.framer.media
 adw24-1c9.mvt.so
 ae0be76a.f27ae0085b7b841aecc4fa2f.workers.dev
+aec-valuations148.top
 aecmanagement120.top
 aefgdhjfdsaqe4gw-qwherjresarfra.teemill.com
 aefnyuali.firebaseapp.com
@@ -1007,7 +1012,6 @@ allegro-lokalnie.0t340g349g.cfd
 allegro-lokalnie.1020smart9381.baby
 allegro-lokalnie.103748234.lat
 allegro-lokalnie.1209438h403.shop
-allegro-lokalnie.1209903g2.lol
 allegro-lokalnie.12200h0592.xyz
 allegro-lokalnie.126251.shop
 allegro-lokalnie.1826346f7.sbs
@@ -1391,7 +1395,6 @@ allegro.9328812904.shop
 allegro.932890po-20d9.shop
 allegro.93298g7847.shop
 allegro.9360435109827.click
-allegro.9381728gi.cyou
 allegro.938327382939129gfog.sbs
 allegro.938329019sdz8.lat
 allegro.93t289283g.lol
@@ -1405,7 +1408,6 @@ allegro.982834823dsgsp.lat
 allegro.983450h41.lat
 allegro.983gi4.cyou
 allegro.984398t39843.lol
-allegro.98978347g3.cfd
 allegro.9900878g7.click
 allegro.9900bhx21s.lol
 allegro.9943034912874738.shop
@@ -1522,6 +1524,7 @@ allegro.oopo889d0s87.shop
 allegro.oppo900912821.xyz
 allegro.panel-pl778923.cfd
 allegro.pi-01.sbs
+allegro.pl-010212.xyz
 allegro.pl-23lamz3.cfd
 allegro.pl-2926256272zamowienie826263728289.lat
 allegro.pl-3523572222398439.sbs
@@ -1643,6 +1646,7 @@ allegro.smar9t438831024.lat
 allegro.smaro12919287392.shop
 allegro.smart-0391827.click
 allegro.smart-502393528120.lat
+allegro.smart-ofera23393919.shop
 allegro.smart-ofera88558530.sbs
 allegro.smart023987132712x0.xyz
 allegro.smart0298391243.bond
@@ -1962,11 +1966,11 @@ allegrolokalnie.lokalna-ofera49.shop
 allegrolokalnie.lokalna-ofera8880924.sbs
 allegrolokalnie.lokalna-ofera9123491292.shop
 allegrolokalnie.lokalna-ofera9123491294.shop
+allegrolokalnie.lokalna-ofera94949493292.xyz
 allegrolokalnie.lokalna-oferta01928.sbs
 allegrolokalnie.lokalna-oferta0222792.sbs
 allegrolokalnie.lokalna-oferta12.ink
 allegrolokalnie.lokalna-oferta153573618.lat
-allegrolokalnie.lokalna-oferta1718739522.sbs
 allegrolokalnie.lokalna-oferta1931462.ink
 allegrolokalnie.lokalna-oferta342801.sbs
 allegrolokalnie.lokalna-oferta38473.cfd
@@ -1992,6 +1996,7 @@ allegrolokalnie.lokalna-ofeta395775029.cfd
 allegrolokalnie.lokalna-ofeta419.biz
 allegrolokalnie.lokalna-ofeta4788521.cyou
 allegrolokalnie.lokalna-ofeta489.sbs
+allegrolokalnie.lokalna-ofeta56362.sbs
 allegrolokalnie.lokalna-ofeta6767.sbs
 allegrolokalnie.lokalna-ofeta722.sbs
 allegrolokalnie.lokalna-ofeta94811.lol
@@ -2049,6 +2054,7 @@ allegrolokalnie.oferta294724480.shop
 allegrolokalnie.oferta295619.click
 allegrolokalnie.oferta30592749592747.shop
 allegrolokalnie.oferta323848.shop
+allegrolokalnie.oferta37265412.shop
 allegrolokalnie.oferta38557637.lat
 allegrolokalnie.oferta3947253850.shop
 allegrolokalnie.oferta39472hdb9294728.shop
@@ -2113,6 +2119,7 @@ allegrolokalnie.ot34723191gf-34.lat
 allegrolokalnie.otrbvkdscj.sbs
 allegrolokalnie.pi-01.sbs
 allegrolokalnie.pi-83794874532.click
+allegrolokalnie.pl-010212.xyz
 allegrolokalnie.pl-029.cfd
 allegrolokalnie.pl-0305-oferta.click
 allegrolokalnie.pl-035.cfd
@@ -2349,8 +2356,10 @@ allegrolokalnie.smart-73824.cfd
 allegrolokalnie.smart-92282.cfd
 allegrolokalnie.smart-92352.cfd
 allegrolokalnie.smart-92372.cfd
+allegrolokalnie.smart-92542.cfd
 allegrolokalnie.smart-92616.cfd
 allegrolokalnie.smart-92872.cfd
+allegrolokalnie.smart-ofera23393919.shop
 allegrolokalnie.smart-ofera88558530.sbs
 allegrolokalnie.smart-oferta84475.sbs
 allegrolokalnie.smart-oferta8842943.sbs
@@ -2985,6 +2994,7 @@ attzcxffclfjlggflggghjjhjljhjjhhk.weebly.com
 atualizacao-2026.app
 atualizacao-netempresa.online
 atualizacaocadastralpj.digital
+atualizacaonetempresas.live
 atualizanetempresapj.app
 atualizarmodulotopaz.com
 atualizarnetempresas.app
@@ -2993,6 +3003,7 @@ atualizartopaz.online
 atualizataxa.uk
 atualize-netempresa.info
 atualizebradescopj.net
+atualizepj-topaz.digital
 atuokwxfm.firebaseapp.com
 atuokwxfm.web.app
 auburn-unicu-acc-sc.weebly.com
@@ -3432,7 +3443,6 @@ bafkreibwtdlnili4ufevhrxeeadojngldkuba3ycy7efdpgmoac437icsy.ipfs.dweb.link
 bafkreibx2dtwulpyikxfn3lrjhg6u7bmcapj2qun6tdnznzip53jb4l46e.ipfs.dweb.link
 bafkreibx5jeu2wc5qip4ha4ksuyrjmg3hpdy6zrd4cfgycjyx4d2qddkrm.ipfs.dweb.link
 bafkreibxhnpc2kdvpnwenewg5othgjlt7nrtkdh6ohz3u3sdl3refgfak4.ipfs.dweb.link
-bafkreibyljmt5scyuoccu3ucintoqyfi33tvk6gvwng4pniq3pnoahrva4.ipfs.dweb.link
 bafkreibyxhd4k4yflqyc6exrmajzlx6dpb4ww5smkm62kscd3jbhamok5m.ipfs.dweb.link
 bafkreibzewn67nmlfnbcix4zhejt5ces24p5e4g3xqqs35ayjwxejjscv4.ipfs.dweb.link
 bafkreibzex26osxnhlzohy2hv4vd56lzvqmnjewj75veqnpj4q44sy5pxe.ipfs.dweb.link
@@ -4702,6 +4712,7 @@ br-atualiza-pendente.digital
 bradesco-atualizarpj.digital
 bradesco-netempresasacesso.digital
 bradesco-prime.online
+bradesco-suportepjdigital.online
 bradesco.12net-empresa.com
 bradesco.acesse-empresas.com
 bradesco.acesso-empresa.click
@@ -6816,7 +6827,6 @@ dfykj.blogspot.co.nz
 dfykj.blogspot.com
 dfykj.blogspot.fr
 dfz-telegram.com.cn
-dgan-go.weebly.com
 dgfctxrhx324345464.vercel.app
 dgfhgjhkjhj.weebly.com
 dgfoodsnet.myportfolio.com
@@ -6862,6 +6872,7 @@ digitalcurrencysupport.blogspot.com
 digitale-reactivation.com
 digitalisationprofil.firebaseapp.com
 digitalisationprofil.web.app
+digitalnetempresas.com
 digitalpedagio.vercel.app
 diiasnifnixzxcad.gpmwryee.workers.dev
 dijonacademie.weebly.com
@@ -7816,6 +7827,7 @@ evanica.ce2661.pro
 eve.planning-suivi.com
 evenementlesinfos.firebaseapp.com
 evenementlesinfos.web.app
+eventchecker-io.netlify.app
 eventlikeit.weebly.com
 everwisecualertlnkweb.weebly.com
 everwlse0fauthh0nllne.weebly.com
@@ -9043,7 +9055,6 @@ gov-mcj.help
 gov-mck.help
 gov-mcm.help
 gov-mcn.help
-gov-mco.help
 gov-mcr.help
 gov-mcs.help
 gov-mcv.help
@@ -9055,7 +9066,6 @@ gov-mxh.help
 gov-mxj.help
 gov-mxv.help
 gov-nazd.help
-gov-nazn.help
 gov-nazs.help
 gov-nazt.help
 gov-nazu.help
@@ -9064,7 +9074,6 @@ gov-nfqa.help
 gov-nfqi.help
 gov-nfqo.help
 gov-nfqp.help
-gov-nfqr.help
 gov-nfqt.help
 gov-nfqu.help
 gov-nfqy.help
@@ -9341,7 +9350,6 @@ hamir.acces448216.pro
 hancosbsndkdkekkhancosbsndkdkekkdendkndndkk.ttrbru.eu.org
 handsome-communication-053785.framer.app
 hannarantala.com
-haomasou.com
 happier-village-403312.framer.app
 happy-ice-990137.framer.app
 happy-lovelace.5-100-224-131.plesk.page
@@ -9400,6 +9408,7 @@ hellp-ledgerrliv-app.webflow.io
 hellzimb.weebly.com
 heloledgedownload.weebly.com
 help---cloud--ledger.webflow.io
+help---ex--azuure---coinbase-app.webflow.io
 help--ledger-start.webflow.io
 help--logie--kucuie.webflow.io
 help-abv.weebly.com
@@ -10159,6 +10168,7 @@ instagrams.free.nf
 instagrmm.vercel.app
 instagviediooeeloogin1.weebly.com
 instalgram.vercel.app
+installed-trrzr-bridge-en.framer.ai
 instant-creditportal.lovable.app
 instantchainsfix.pages.dev
 instantformhdc.com
@@ -10235,7 +10245,6 @@ invoice17176274.myportfolio.com
 invoice2328e9dc.myportfolio.com
 invoice6534ba5d.myportfolio.com
 invoice76542dfb.myportfolio.com
-invoicecopy014930.weebly.com
 invoicingf4c0.myportfolio.com
 inwayhosting.com
 inzizi.com
@@ -10389,7 +10398,6 @@ jaygqlokslokq.blogspot.com
 jazhalhauamm.blogspot.com
 jazkjeazlkk.blogspot.com
 jazmkalhanaa.blogspot.com
-jazzed-questions-121042.framer.app
 jbalkamkaa.blogspot.com
 jcamalalaj.blogspot.com
 jdarch07.github.io
@@ -10800,6 +10808,7 @@ kundeonline.web.app
 kuokinlogon.webflow.io
 kuotamu.com
 kuqoimlogen.gitbook.io
+kuqwennlogin.webflow.io
 kurasiz.sbs
 kureshnameshindex.firebaseapp.com
 kureshnameshindex.web.app
@@ -12440,6 +12449,8 @@ moonshot-listing-slg.netlify.app
 moonshot-listing-vpb.netlify.app
 moonshot-listing-yaz.netlify.app
 moonshot-listing-zvy.netlify.app
+moonshot-voting-61b.netlify.app
+moonshot-voting-7ok.netlify.app
 moonshot-voting-d1t.netlify.app
 moonshot-voting-hnl6q8.netlify.app
 moonshot-voting-jkn.netlify.app
@@ -12734,7 +12745,6 @@ myp-sharedocu-statements-projects-e1565c5e.vercel.app
 mypageofficemailcheck.myportfolio.com
 mypioneeralert.weebly.com
 mypioneersecure.weebly.com
-mypnbkewane.weebly.com
 myportalccis.ukit.me
 myprivatezoomcall.weebly.com
 myproductglobalsource.weebly.com
@@ -12895,19 +12905,24 @@ netempresa-bradesco.cantareiraead.com.br
 netempresa.cadastrodochat.com
 netempresa.cadastrointerno.digital
 netempresa.novaagencia.digital
+netempresaapptopazatualize.com
 netempresaatendimentopj.digital
 netempresaatualizarapp.com
 netempresachat.online
+netempresacontapj.digital
+netempresarialsuporte.live
 netempresas-negocios.online
 netempresas-negocios.site
 netempresas.atendimentoexclusivo.digital
 netempresas.suporteinternopj.digital
 netempresasatualizar.digital
 netempresasbradesco.net
+netempresasdigital.click
 netempresasenegocios.net
 netempresasgerente.net
 netempresasinternadigital.online
 netempresaspjonline.digital
+netempresavalidaronlinedigital.online
 netfixrenovacion.com
 netflix-71f05.firebaseapp.com
 netflix-71f05.web.app
@@ -13855,7 +13870,6 @@ papercitysavings.web.app
 paquet-express103.com
 paquets-pro.com
 parcellforcee.weebly.com
-parlakinokahcom.com
 parlmsogn.firebaseapp.com
 parlmsogn.web.app
 parmiganorezp.com
@@ -14284,6 +14298,8 @@ portalbeneficiosx.com
 portalcredensialonline.zya.me
 portalcreditmanuality.lovable.app
 portalcreditos.webcindario.com
+portaldeacessojuridico.cfd
+portaldeacessojuridico.sbs
 portaldeinicio.webcindario.com
 portaldigitalclientefeliz.blogspot.com
 portaldiscover19.firebaseapp.com
@@ -14433,6 +14449,7 @@ prime-videofacture.com
 prime-videosfrance.com
 prime.hub5723511.pro
 primeamazon-remboursement.com
+primeamz010.top
 primeamzabo001.pro
 primeamzabo002.pro
 primeamzabo003.pro
@@ -15066,7 +15083,6 @@ regg0d-gand45ts.weebly.com
 regi-crd-pc-ec.webcindario.com
 regisdopmsld.webcindario.com
 registerhere8.my-squaad.click
-registeronlinebhd2026.iceiy.com
 registrat3-aqui1.webcindario.com
 registrate-aqui0.webcindario.com
 registrate-aqui2.webcindario.com
@@ -15150,6 +15166,7 @@ reniacade.web.app
 renner-o.blogspot.com
 renouv-carte-biometrie.com
 renouveilement-sante.com
+renouveler-mon-acces.com
 renouvelez-votre-espace.com
 renouvelle-la-carte.com
 renouvelle-ta-carte.com
@@ -15562,7 +15579,6 @@ sbc-signin-att-net.webflow.io
 sbc-verifier-sign-in-2ca554.webflow.io
 sbc-verifier-sign-in-682375.webflow.io
 sbc-verifier-sign-in-775d01.webflow.io
-sbc-verifier-sign-in-7f251e.webflow.io
 sbc-verifier-sign-in-84bfcd.webflow.io
 sbc-verifier-sign-in-db5d5d.webflow.io
 sbc-verifier-sign-in-eb7663.webflow.io
@@ -15650,7 +15666,6 @@ screen.boxmode.io
 scrtc.weebly.com
 scrtcc.weebly.com
 scsalud--es.weebly.com
-scuolaparitaria-s.weebly.com
 scureauthpymntupdtiawergaergvoaekrmgva.cnew.ir
 sczycz.weebly.com
 sd0z5d4.blogspot.com
@@ -16241,7 +16256,6 @@ site-ftsnykwe8.godaddysites.com
 site-gjm5oov1p.godaddysites.com
 site-gyezz1lmj8.godaddysites.com
 site-hn35vvz3h.godaddysites.com
-site-ixhx3px1n.godaddysites.com
 site-izy5hwlzl.godaddysites.com
 site-jemihf8xz.godaddysites.com
 site-jt1ermpdu.godaddysites.com
@@ -16506,6 +16520,7 @@ sosodo-a9b9a.firebaseapp.com
 sosodo-a9b9a.web.app
 sosogn-21fdd.firebaseapp.com
 sosogn-21fdd.web.app
+sosteniendotufuture-pichincha.zya.me
 souaxwaoh.myfreesites.net
 soufritont.blogspot.com
 soulful-reflect-310128.framer.app
@@ -16889,10 +16904,12 @@ supernovastickers.com
 supfra.firebaseapp.com
 supfra.web.app
 suport-microsof.webcindario.com
+suporte-biadigital.online
 suporteacessochatnet.com
 suportebritto.com
 suportecancelamento-pt.com
 suporteicloud.net
+suportenetempresarial.live
 suportenetempresas.live
 suporteparapj.digital
 supp0rt-ovh.web.app
@@ -17208,6 +17225,7 @@ tejnzjhn.blogspot.de
 tekdwqgqw.firebaseapp.com
 tekdwqgqw.web.app
 tel-opond.weebly.com
+telecom-login.com
 telecommonacowebmail.weebly.com
 teledrfdghygfghjvv.weebly.com
 telefon8.godaddysites.com
@@ -17487,7 +17505,9 @@ tonkeeper-wallet.vercel.app
 tookbook.weebly.com
 top-future-760532.framer.app
 topambernames.com
+topazatualizeappempresa.com
 topazempresa.site
+topaznetempresaappatualize.com
 topical-tadpole.10web.site
 toplevelstechy.site
 toplukonuthemenbasvuru.sbs
@@ -17584,6 +17604,7 @@ trembo-lopez.web.app
 trentino.edu.pe
 trerznriostart.webflow.io
 trewasioiuklyu.weebly.com
+trezerwalletsi.webflow.io
 treziostart.ghost.io
 trezo-bridge.vercel.app
 trezo-compare.framer.ai
@@ -17593,10 +17614,13 @@ trezo-webs.weebly.com
 trezoapp-page.zapier.app
 trezon-sute-eng.framer.media
 trezor-bridge-cdn.vercel.app
+trezor-bridge-io-doc.framer.ai
 trezor-bridge-public-start-web-sso.typedream.app
 trezor-bridgeapp.typedream.app
 trezor-help.support
 trezor-io-start-start-us.typedream.app
+trezor-secure-suitehub.framer.ai
+trezor-trezorharwzt.webflow.io
 trezor-wallet-overview.webflow.io
 trezor-website-gules-arab-jhon-pod-paint-figma-gole-324324-psi.vercel.app
 trezor.article-readusa.com
@@ -17643,6 +17667,7 @@ tronssan.github.io
 trozr-df87sd.randolfa20.workers.dev
 trpmediation.com
 trrrryu778iu99iu.weebly.com
+trrzur-bridge.framer.ai
 trspmls.pro
 trstwebml.weebly.com
 trth13r.weebly.com
@@ -17662,7 +17687,7 @@ trustwalletweb3verification.com
 trustworthy-parsnip-282082.framer.app
 trustworthy-teammates-372611.framer.app
 trustworthy-technology-839760.framer.app
-trxwallet.weebly.com
+truzrewallt.webflow.io
 trxycujvkacdstujkavsdutyjh-aqduyacsitduyqsatq.teemill.com
 tryalnewtech.pages.dev
 tryjhytyjctfhdrxtse46ysxfgjxfyjfyjxdthtrterrthfhhhfff.weebly.com
@@ -18090,6 +18115,7 @@ uryhs6resxifyjxfhahxcj-aeyzyzxcjvsdf6tafshxd2.teemill.com
 us-conect-ledger-live-login.typedream.app
 us-east-2.protection.sophos.com
 us-en-desktop.framer.media
+us-en-suite.framer.ai
 us-en-trzor-hardware.framer.media
 us-en-trzsuites.zapier.app
 us-mettaa-mask_loggin.godaddysites.com
@@ -18204,6 +18230,7 @@ uzbanql.com
 v-i-v-a.vercel.app
 v-vpass-jp.tjweidu.com
 v0-albumcentauro.vercel.app
+v0-barril-de-chopp.vercel.app
 v0-brahma-express-form.vercel.app
 v0-chopp-pedir.vercel.app
 v0-eudora-mother-s-day-e-commerce.vercel.app
@@ -18243,6 +18270,7 @@ valida-correo365.webcindario.com
 valida-datosbhd.webcindario.com
 valida-usuario.webcindario.com
 validacaodigitalnetempresas.com
+validacaonetempresas.digital
 validacinconfir2.webcindario.com
 validacionconfir.webcindario.com
 validacionprodu.webcindario.com
@@ -19177,6 +19205,7 @@ webofficeuyu.weebly.com
 webokgprlgrol.weebly.com
 webonlinevisoinsfdcumainon.weebly.com
 webopenwebcz.weebly.com
+webpage-terzr-io-cdn.framer.ai
 webq12122.weebly.com
 webs-exodus-en-public.pineapple.page
 websd.weebly.com
@@ -19739,6 +19768,7 @@ www.jpsmbc.com
 www.jpvoteshop.shop
 www.jrrjmarketing.com
 www.juliasvoice.org
+www.junetins.site
 www.jzzkjvae.com
 www.kapoorautomobile.in
 www.kfeinaqwo.com
@@ -19787,6 +19817,7 @@ www.mmi.izo.temporary.site
 www.moleculardynamics.cfd
 www.mon-colisrelais.com
 www.mon-primeinfos.com
+www.mondialcustomerinfos.com
 www.mondialinfocustom.com
 www.monsecuripass.com
 www.mpqxyt.com
@@ -19863,6 +19894,7 @@ www.regule-index-compte.com
 www.relais-expedition.com
 www.renewmyplannow.com
 www.renouveilement-sante.com
+www.renouveler-mon-acces.com
 www.renouvelle-la-carte.com
 www.renouvelle-ta-carte.com
 www.renouvellement-e-carte.co
@@ -20422,6 +20454,7 @@ zcs.silomanagement.gr
 zdxfyw0eisd1vlytukncjhk-b9ztudfyiuoyidtusri5ieujh.teemill.com
 ze56fr454rf45rezf45654ez.blogspot.com
 zebiaemoister.firebaseapp.com
+zedelivery-online.vercel.app
 zeimbra.weebly.com
 zemidaluitre.firebaseapp.com
 zemidaluitre.web.app
