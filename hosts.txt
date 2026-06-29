@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sun Jun 28 20:31:29 UTC 2026
-# Number of unique domains: 20503
+# Date: Mon Jun 29 00:55:49 UTC 2026
+# Number of unique domains: 20483
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -481,7 +481,6 @@ a.inaltipiani.it
 a0omer.webwave.dev
 a1-creditmutuel-fr.s-host.net
 a11sprachboxlogde.weebly.com
-a2bd2b5e-4b3a-4b38-a3c4-d258ef9a215f-00-3mtbnxyp38d1f.kirk.replit.dev
 a36.s3.us-east-1.amazonaws.com
 a46i3iitisydtukyha384s6d57opf8yotsria46s57od68.teemill.com
 a4e70a6f-6360-4b01-83d7-af8b7ea246bc-00-3fud91nii2ukn.kirk.replit.dev
@@ -602,6 +601,7 @@ acceso-bhd.webcindario.com
 acceso-v2p.webcindario.com
 acceso-ya1.webcindario.com
 accesobhdactivar.webcindario.com
+accesobhddirecto.iceiy.com
 accesodeverifybhd.iceiy.com
 accesoproductosbhd.iceiy.com
 accesoservicio.webcindario.com
@@ -1000,6 +1000,7 @@ allegro-lokalnie.1826346f7.sbs
 allegro-lokalnie.1935486f5.sbs
 allegro-lokalnie.20120oe.shop
 allegro-lokalnie.2092378549803725.shop
+allegro-lokalnie.234890h945.xyz
 allegro-lokalnie.2387428g923g2-f32.lat
 allegro-lokalnie.23897589450t045.lol
 allegro-lokalnie.2393877.bond
@@ -1153,12 +1154,10 @@ allegro-lokalnie.pl-58918959124.lol
 allegro-lokalnie.pl-589198541.lol
 allegro-lokalnie.pl-590120421.lol
 allegro-lokalnie.pl-59019052.lol
-allegro-lokalnie.pl-5903241241.lol
 allegro-lokalnie.pl-591024124.lol
 allegro-lokalnie.pl-598901879324.lol
 allegro-lokalnie.pl-59901241.lol
 allegro-lokalnie.pl-65891248791243.sbs
-allegro-lokalnie.pl-83345.click
 allegro-lokalnie.pl-9001809642.lol
 allegro-lokalnie.pl-9058712412.lol
 allegro-lokalnie.pl-93758.click
@@ -1174,7 +1173,6 @@ allegro-lokalnie.pl-ogloszenia-firmowe-id838423.click
 allegro-lokalnie.pl-ogloszenia-firmowe83842.click
 allegro-lokalnie.po12801-f12.cfd
 allegro-lokalnie.po34u72830904.shop
-allegro-lokalnie.po45829102y.lol
 allegro-lokalnie.po823902-12.lat
 allegro-lokalnie.poi78128990x.shop
 allegro-lokalnie.poiu23810-g34.lat
@@ -1198,6 +1196,7 @@ allegro-lokalnie.smai7612819.cfd
 allegro-lokalnie.smar01299.shop
 allegro-lokalnie.smar094235823012-y34.shop
 allegro-lokalnie.smar1029638.lat
+allegro-lokalnie.smar3465.shop
 allegro-lokalnie.smar923801039.lat
 allegro-lokalnie.smar9438-65j.cfd
 allegro-lokalnie.smar948347219.shop
@@ -1266,6 +1265,7 @@ allegro.20g92g398g.cyou
 allegro.213123141.sbs
 allegro.219487h741.lol
 allegro.2309849g.lol
+allegro.234890h945.xyz
 allegro.23887g364.click
 allegro.2393877.bond
 allegro.239t829332g.shop
@@ -1513,6 +1513,7 @@ allegro.oferta83629.click
 allegro.oferta837592.click
 allegro.oferta986124pl.click
 allegro.ofertpo889120.cfd
+allegro.ofeta-1413.sbs
 allegro.ofeta3484762-kat78239845.shop
 allegro.ogloszenie-19215169-dla-ciebie.lat
 allegro.ogloszenie598433543-pl.click
@@ -1593,7 +1594,6 @@ allegro.pl-ogloszenia-firmowe-73842.click
 allegro.pl-ogloszenia-firmowe-88839.sbs
 allegro.pl-ogloszenia-firmowe-id-332388.sbs
 allegro.pl-ogloszenia-firmowe-id823833.click
-allegro.pl-ogloszenia-firmowe-id83380.click
 allegro.pl-ogloszenia-firmowe-id838423.click
 allegro.pl-ogloszenia-firmowe83842.click
 allegro.pl-ogloszenia-frimowe-82388234.click
@@ -1633,6 +1633,7 @@ allegro.sma9218732g934.cfd
 allegro.smapo23589210-1.lat
 allegro.smar0t329283102-s.lat
 allegro.smar1029638.lat
+allegro.smar3465.shop
 allegro.smar923801039.lat
 allegro.smar9438-65j.cfd
 allegro.smar9t438831024.lat
@@ -1655,7 +1656,6 @@ allegro.t4634g364g3.cyou
 allegro.t90239g8238g.cfd
 allegro.tkr26.top
 allegro.wih83912-g43.lat
-allegro.wyprzedaz-lokalna192648452641.sbs
 allegro.y31820g341-2.lat
 allegro.yb842190123.click
 allegrolokainie.10209j8j8.shop
@@ -1667,6 +1667,7 @@ allegrolokainie.1733276d45.sbs
 allegrolokainie.18256342x3.sbs
 allegrolokainie.1974275r5.sbs
 allegrolokainie.20120oe.shop
+allegrolokainie.234890h945.xyz
 allegrolokainie.2834g340-g34.shop
 allegrolokainie.28821392h5.shop
 allegrolokainie.34823012h5.lat
@@ -1729,6 +1730,8 @@ allegrolokainie.prywant8492119.xyz
 allegrolokainie.prywatn83812034.bond
 allegrolokainie.prywatne32532865.xyz
 allegrolokainie.prywatne483291.baby
+allegrolokainie.prywatne823912.baby
+allegrolokainie.smar3465.shop
 allegrolokainie.smar8t473291.shop
 allegrolokainie.smar9438-65j.cfd
 allegrolokainie.smart0298391243.bond
@@ -1802,6 +1805,7 @@ allegrolokalne.prywant8492119.xyz
 allegrolokalne.prywante8342932.xyz
 allegrolokalne.prywatne483291.baby
 allegrolokalne.prywatne53289012.shop
+allegrolokalne.smar3465.shop
 allegrolokalne.smar8t473291.shop
 allegrolokalne.smar9438-65j.cfd
 allegrolokalne.smart0298391243.bond
@@ -1839,6 +1843,7 @@ allegrolokalnie.20120oe.shop
 allegrolokalnie.2018475245.xyz
 allegrolokalnie.209089883cc.shop
 allegrolokalnie.2327382951.click
+allegrolokalnie.234890h945.xyz
 allegrolokalnie.234opk3pio58.shop
 allegrolokalnie.23852352.cfd
 allegrolokalnie.2831029.xyz
@@ -2003,7 +2008,6 @@ allegrolokalnie.lokalna-oferta3y7j4.cfd
 allegrolokalnie.lokalna-oferta5222862.sbs
 allegrolokalnie.lokalna-oferta59190.shop
 allegrolokalnie.lokalna-oferta7381653.sbs
-allegrolokalnie.lokalna-oferta74.sbs
 allegrolokalnie.lokalna-oferta772452.cyou
 allegrolokalnie.lokalna-oferta77598042.ink
 allegrolokalnie.lokalna-oferta789459.xyz
@@ -2091,7 +2095,6 @@ allegrolokalnie.oferta4656376.shop
 allegrolokalnie.oferta532843.click
 allegrolokalnie.oferta582718.sbs
 allegrolokalnie.oferta594060.lat
-allegrolokalnie.oferta61493.shop
 allegrolokalnie.oferta628926.sbs
 allegrolokalnie.oferta672045pl.click
 allegrolokalnie.oferta6754302pl.cfd
@@ -2122,6 +2125,7 @@ allegrolokalnie.oferta92776780.lat
 allegrolokalnie.oferta937264.online
 allegrolokalnie.oferta9837180.lat
 allegrolokalnie.ofertazcud2848368djb3859274858478.shop
+allegrolokalnie.ofeta-1413.sbs
 allegrolokalnie.ofeta-291231413.sbs
 allegrolokalnie.ofeta3484762-kat78239845.shop
 allegrolokalnie.offka84812.click
@@ -2238,7 +2242,6 @@ allegrolokalnie.pl-id6366262.cam
 allegrolokalnie.pl-id737832.cam
 allegrolokalnie.pl-id74892939.cam
 allegrolokalnie.pl-kupteraz.click
-allegrolokalnie.pl-kupteraz.icu
 allegrolokalnie.pl-ld8382929.click
 allegrolokalnie.pl-lokalna-ofeta5.shop
 allegrolokalnie.pl-lokalnie92.shop
@@ -2343,7 +2346,6 @@ allegrolokalnie.pl-smart8598124.lol
 allegrolokalnie.pl-ssid38673.click
 allegrolokalnie.pl-uz7gz.sbs
 allegrolokalnie.pl03848284.lat
-allegrolokalnie.pl23576948.click
 allegrolokalnie.pl35283.top
 allegrolokalnie.pl593843.cyou
 allegrolokalnie.pl62557183.click
@@ -2361,7 +2363,6 @@ allegrolokalnie.prywante842012887j.shop
 allegrolokalnie.prywatn83812034.bond
 allegrolokalnie.prywatna-ofera89290198.lol
 allegrolokalnie.prywatna-oferta555362.xyz
-allegrolokalnie.prywatna-oferta5915.shop
 allegrolokalnie.prywatne-ogloszenia2993939393.shop
 allegrolokalnie.prywatne-ogloszenie830102.shop
 allegrolokalnie.prywatne483291.baby
@@ -2370,8 +2371,10 @@ allegrolokalnie.przesylka342121.cfd
 allegrolokalnie.pzp-3-428573.shop
 allegrolokalnie.revjsnbrfevc.sbs
 allegrolokalnie.rezerwacja2621.sbs
+allegrolokalnie.rezerwacja7268.sbs
 allegrolokalnie.rezerwacja7279.sbs
 allegrolokalnie.sdkfrfv.sbs
+allegrolokalnie.smar3465.shop
 allegrolokalnie.smar8t473291.shop
 allegrolokalnie.smar9438-65j.cfd
 allegrolokalnie.smart-73824.cfd
@@ -2431,7 +2434,6 @@ aloi-0a8j.weebly.com
 alouf.actu729261.pro
 alouf.info-804431.pro
 aloufa.ext-345064.pro
-aloufa.jpod5714521.pro
 alphabankgr.netlify.app
 alpiano.ro
 alrawafedit.com
@@ -2873,7 +2875,6 @@ atisorkanpol.firebaseapp.com
 atisorkanpol.web.app
 atlantianpress.com
 atlas2222.weebly.com
-atlasw334.weebly.com
 atmc-102314444.weeblysite.com
 atmc-107564young.weeblysite.com
 atmc-webmaill.weeblysite.com
@@ -5906,7 +5907,6 @@ comcast-xfiintybkjhm.weeblysite.com
 comcastajkrn0ltdmilacctvoice.weebly.com
 comcastkkfhfhhffgdffd.weebly.com
 comcastsecure.netlify.app
-comcastwebma.weebly.com
 comccassttxfinitty.weebly.com
 comenowp.pages.dev
 comeouts.pages.dev
@@ -7966,7 +7966,6 @@ f9tbe7hv7f9.firebaseapp.com
 f9tbe7hv7f9.web.app
 fabios-cafe.square.site
 faboo78.github.io
-fabulous-decisions-465242.framer.app
 fabulous-head-294440.framer.app
 facbok-verify.start.page
 facbokhelp-centre.start.page
@@ -9067,7 +9066,6 @@ gov-mci.help
 gov-mcj.help
 gov-mck.help
 gov-mcm.help
-gov-mcn.help
 gov-mcr.help
 gov-mcv.help
 gov-mnd.click
@@ -9635,7 +9633,6 @@ home-pljsns.weebly.com
 home-pljsnsa.weebly.com
 home-tr-z-r-suite-us.typedream.app
 home-trezor-suite-app.blogspot.com
-home-trezr-io-start.square.site
 home-webmail-login-mvefi1z5snnoqy2ekh.netlify.app
 homebcr15.webcindario.com
 homegencatcatdepartament.weebly.com
@@ -11274,6 +11271,7 @@ login-primus-ca.weebly.com
 login-raiffeisen-ebanking.firebaseapp.com
 login-raiffeisen-ebanking.web.app
 login-sapo-pt.jimdofree.com
+login-trezor-io-start-faq.typedream.app
 login-ze-delivery.vercel.app
 login.002307.com
 login.1688ciht.com
@@ -11579,7 +11577,6 @@ magnitudenunmain.wasmer.app
 magpie-staging-565f46742e-aae0e646ada2f.webflow.io
 mahendrachemicals.com
 mahlazkikadyalo.blogspot.com
-mai1bez801396.weebly.com
 maiilxfinify.weebly.com
 mail-102058-103419.weeblysite.com
 mail-103869.weeblysite.com
@@ -12397,7 +12394,6 @@ mongroupegls.help
 monkzvkwos.blogspot.com
 monlheure.firebaseapp.com
 monlheure.web.app
-monrela77.pro
 monroeville.myportfolio.com
 monsecuripass.com
 monservicelivreo.com
@@ -12839,7 +12835,6 @@ ndscarrefdspv.web.app
 ndxcalogi.weebly.com
 ne12.pjnetempresax.digital
 ne12empresa.digital
-neamqnrp.com
 neat-opportunity-309965.framer.app
 neat-prototyper-466925.framer.app
 neat-sandwich-012876.framer.app
@@ -13737,7 +13732,6 @@ owa049340034.firebaseapp.com
 owa049340034.web.app
 owablu84349439434.web.app
 owacredilityaccess19.weebly.com
-owapt206.weebly.com
 owashdy.firebaseapp.com
 oxcssscomm.weebly.com
 oxpainexecu.weebly.com
@@ -14502,7 +14496,6 @@ produinicio.webcindario.com
 produnetenlin3a.webcindario.com
 produvalidar.webcindario.com
 produvalidar94.webcindario.com
-profeco-gob-mx.weebly.com
 professional-autonomy-790905.framer.app
 professional-blackberry-043549.framer.app
 professional-polygon-973382.framer.app
@@ -14898,6 +14891,7 @@ reactivate-device-au.web.app
 reactivate-device.firebaseapp.com
 reactivate-device.web.app
 reactivation-digitale.com
+reactivation-pass.bolt.host
 read-note1.myportfolio.com
 read-word3.myportfolio.com
 readable-day-332108.framer.app
@@ -15396,7 +15390,6 @@ rsloberi.firebaseapp.com
 rsloberi.web.app
 rtalkecieselawman.weebly.com
 rtdb.tenfold.com
-rte-22762.pro
 rte1.weebly.com
 rtrietley-corporatecare.myportfolio.com
 rtytry456vbnvbnb.pages.dev
@@ -15492,7 +15485,6 @@ samsclubcreit.com
 samsunmechanical.myportfolio.com
 samuiniciarsesion.weebly.com
 samup.live
-sanazayi.z21.web.core.windows.net
 sandiafcuarea.weebly.com
 sanfanderbomk.icu
 sanfanderbornk.icu
@@ -15618,7 +15610,6 @@ screen.boxmode.io
 scrtc.weebly.com
 scsalud--es.weebly.com
 scureauthpymntupdtiawergaergvoaekrmgva.cnew.ir
-sczycz.weebly.com
 sd0z5d4.blogspot.com
 sd5hup4yo5vj7p5g35l36m843brzhpj.pages.dev
 sddftyrdyfwaru.vercel.app
@@ -15658,7 +15649,6 @@ secubanrural.webcindario.com
 secufra44455c.com
 secur531tye.start.page
 securaustraliansydney.com
-securbellwetherdecu.weebly.com
 securbulgaria.weebly.com
 secure-access.partner-programhub.com
 secure-attmail-link.pory.app
@@ -16028,7 +16018,6 @@ shaw-107237.square.site
 shaw-107370.square.site
 shaw-108331.square.site
 shaw-onlines1477.weebly.com
-shaw-webmail-109704.weeblysite.com
 shaw160.framer.website
 shaw211.weebly.com
 shaw903.weebly.com
@@ -17202,7 +17191,6 @@ telkomstorageupgrade.weebly.com
 telllstraaaanewww.weebly.com
 telllstraaadminnn.weebly.com
 tellsstraawellxc.weebly.com
-tellstrrapllus.weebly.com
 telsreagjhdshjdsjhk.weebly.com
 telsssstrrrapllusss.weebly.com
 telstraaserviceadmin.weebly.com
@@ -17956,7 +17944,6 @@ univst.weebly.com
 unlimited-anything-139460.framer.app
 unlimited-train-715498.framer.app
 unlimitedirectfr.firebaseapp.com
-unlock-apple.com
 unlockmicrosoft.webcindario.com
 unmei-no.weebly.com
 unnations.weebly.com
@@ -18122,7 +18109,6 @@ utryxw2uiisd1jkydtry2-tuad1qujscfd73ewusj.teemill.com
 utsahe.com
 utyge5645gvcg.poiaqewsxcbcgtrt566655.workers.dev
 uum-edumy.weebly.com
-uup-hoolldlooggiinn.godaddysites.com
 uuphollddllooqoginnus.godaddysites.com
 uusa1l.weebly.com
 uuser88accepts.start.page
@@ -18237,7 +18223,6 @@ validvienda.webcindario.com
 valleymushrooms.co.nz
 valuable-input-048452.framer.app
 valuable-purple-sibu8izm.edgeone.app
-valuabley.xyz
 vaneldangueldase.firebaseapp.com
 vaneldangueldase.web.app
 vanicadaranebanistercaris.firebaseapp.com
@@ -18333,7 +18318,6 @@ verificationnewprocess.weebly.com
 verificationtpcglobe.weebly.com
 verifidentityed.firebaseapp.com
 verifidentityed.web.app
-verified-support-team346523vr.pages.dev
 verified-youraccount2nd.start.page
 verifiedpoints.weebly.com
 verifiedswiftchain.pages.dev
@@ -19750,7 +19734,6 @@ www.officialliker.co
 www.okayea.com
 www.okx-desktop.org
 www.okx-tech.org
-www.ope-10884282.pro
 www.ope-143109.pro
 www.ope-772281.pro
 www.ope-961084.pro
@@ -19830,7 +19813,6 @@ www.shacksign.com
 www.sharath-aradhyamatt.com
 www.signin-ehay-uk-login-secures-5f8twghw.manushmanusherjonnobd.com
 www.sitesgpt.com
-www.sitolanu-whatsapp.com.cn
 www.smbcnhelp.carservicecoupons.com
 www.smbcnikko.co.jp
 www.smbcyberadvisor.com
@@ -20046,7 +20028,6 @@ xfinty-104617.weeblysite.com
 xfinty.vercel.app
 xfkin.weebly.com
 xflnltycregifytcardggd.framer.website
-xflnltyma1lsupp0rt.weebly.com
 xfmailaccountfile.weebly.com
 xfmailserver.weebly.com
 xfmdnsr.com
@@ -20186,7 +20167,6 @@ yahoomailzayy98765.boxmode.io
 yahooprofilenett45.weebly.com
 yahoosq.boxmode.io
 yahoostorage.weebly.com
-yahwebonlinetime.weebly.com
 yahwee.ukit.me
 yaked.direct-143044.pro
 yalmnailinf.weebly.com
