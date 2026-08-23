@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Sun Aug 23 16:06:21 UTC 2026
-# Number of unique domains: 25097
+# Date: Sun Aug 23 20:04:36 UTC 2026
+# Number of unique domains: 25136
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -311,6 +311,7 @@
 3uzbh-q38ov-3s82s4-vjpj2m.pages.dev
 3yz2-zjubz-zcus-wkv7fh-fnh.pages.dev
 40762eca-78db-459e-a91a-93fbf236de93.pb3.duckdns.org
+410a045e-5bd2-43db-9731-51eb4dd1eb08-00-1f1lxxftg2z8l.worf.replit.dev
 43335.weebly.com
 435467.weebly.com
 43645246723768325535644264l.blogspot.com
@@ -459,6 +460,7 @@
 6ada8904d68a.godaddysites.com
 6c0nh-jrdb0k-yob-fcxop-l0i7l4.pages.dev
 6cd1f2d2-2c73-4070-9e40-9a15f91cab19-00-2evect6l7wxt7.janeway.replit.dev
+6d9d98b0-a858-41be-85b8-dfd3ad9f9331-00-2rwq1ehx6klt3.worf.replit.dev
 6e9-7ew56-doqszs-e15e6t-glomf.pages.dev
 6fl4-krkoo-o9li-029w-qbsig2.pages.dev
 6fv8-uxh-cbh-gn6lq-8q8lia.pages.dev
@@ -1466,6 +1468,7 @@ allegro-lokalnie.pl-589178571.xyz
 allegro-lokalnie.pl-58918857819.sbs
 allegro-lokalnie.pl-58918959124.lol
 allegro-lokalnie.pl-589198541.lol
+allegro-lokalnie.pl-589679353.lol
 allegro-lokalnie.pl-59019052.lol
 allegro-lokalnie.pl-591024124.lol
 allegro-lokalnie.pl-598901879324.lol
@@ -1885,6 +1888,7 @@ allegro.kupyrraz838601.sbs
 allegro.lato-2026-504346.click
 allegro.lato-2026-523924.click
 allegro.letnie-okazje-2026-3k4evjj.sbs
+allegro.lokaina-oferta3029.sbs
 allegro.lokala-ofeta325463456.xyz
 allegro.lokalna-039248.sbs
 allegro.lokalna-043289.shop
@@ -1900,6 +1904,7 @@ allegro.lokalna-3431212.sbs
 allegro.lokalna-3887012.sbs
 allegro.lokalna-473921.sbs
 allegro.lokalna-49382.sbs
+allegro.lokalna-535424.sbs
 allegro.lokalna-73992132.sbs
 allegro.lokalna-849641.sbs
 allegro.lokalna-884456.sbs
@@ -1925,7 +1930,10 @@ allegro.lokalna-oferta3123.sbs
 allegro.lokalna-oferta587645.shop
 allegro.lokalna-oferta772452.cyou
 allegro.lokalna-oferta789459.xyz
+allegro.lokalna-oferta839122.lol
 allegro.lokalna-oferta857521.sbs
+allegro.lokalna-oferta893.lol
+allegro.lokalna-oferta895423.lol
 allegro.lokalna-oferta94291.cfd
 allegro.lokalna-oferta9494283.sbs
 allegro.lokalna-ofeta0290105043.cfd
@@ -1981,6 +1989,7 @@ allegro.oferta-5384913.cfd
 allegro.oferta-737376462647.shop
 allegro.oferta-83902741.cfd
 allegro.oferta-84884848pl.click
+allegro.oferta-8941320.sbs
 allegro.oferta-lokalana2849354363.shop
 allegro.oferta-lokalana37198264.sbs
 allegro.oferta-lokalana584395934.shop
@@ -2124,6 +2133,7 @@ allegro.pl-585439.sbs
 allegro.pl-58639.sbs
 allegro.pl-58791879534.sbs
 allegro.pl-58918959124.lol
+allegro.pl-589679353.lol
 allegro.pl-60459034.click
 allegro.pl-634634643775373.click
 allegro.pl-635373625373.shop
@@ -2341,6 +2351,7 @@ allegrolokainie.pl-79304912.click
 allegrolokainie.pl-83012.sbs
 allegrolokainie.pl-83712.sbs
 allegrolokainie.pl-84382.click
+allegrolokainie.pl-847261842.lol
 allegrolokainie.pl-85563.click
 allegrolokainie.pl-89384051.click
 allegrolokainie.pl-90249.sbs
@@ -2571,7 +2582,9 @@ allegrolokalnie.54094.cfd
 allegrolokalnie.54095.cfd
 allegrolokalnie.5493834.shop
 allegrolokalnie.5537127.rest
+allegrolokalnie.5868182.club
 allegrolokalnie.58845.cfd
+allegrolokalnie.59619201.mom
 allegrolokalnie.6048567469274.xyz
 allegrolokalnie.6143897201.click
 allegrolokalnie.614520.cfd
@@ -2602,6 +2615,8 @@ allegrolokalnie.653462347.lol
 allegrolokalnie.6583og.top
 allegrolokalnie.659825.lat
 allegrolokalnie.67743.lat
+allegrolokalnie.68128821.mom
+allegrolokalnie.68192561.mom
 allegrolokalnie.68472.lat
 allegrolokalnie.689776hh.top
 allegrolokalnie.7025784208045032.lat
@@ -2807,6 +2822,7 @@ allegrolokalnie.lokalna-420.sbs
 allegrolokalnie.lokalna-443.sbs
 allegrolokalnie.lokalna-473921.sbs
 allegrolokalnie.lokalna-49285.sbs
+allegrolokalnie.lokalna-535424.sbs
 allegrolokalnie.lokalna-53821.sbs
 allegrolokalnie.lokalna-589.sbs
 allegrolokalnie.lokalna-666.sbs
@@ -2854,15 +2870,18 @@ allegrolokalnie.lokalna-oferta153573618.lat
 allegrolokalnie.lokalna-oferta189.top
 allegrolokalnie.lokalna-oferta1931462.ink
 allegrolokalnie.lokalna-oferta3y7j4.cfd
+allegrolokalnie.lokalna-oferta4132687.lol
 allegrolokalnie.lokalna-oferta5222862.sbs
 allegrolokalnie.lokalna-oferta57521.sbs
 allegrolokalnie.lokalna-oferta59190.shop
 allegrolokalnie.lokalna-oferta7381653.sbs
+allegrolokalnie.lokalna-oferta742345.lol
 allegrolokalnie.lokalna-oferta772452.cyou
 allegrolokalnie.lokalna-oferta77598042.ink
 allegrolokalnie.lokalna-oferta839122.lol
 allegrolokalnie.lokalna-oferta8422852.sbs
 allegrolokalnie.lokalna-oferta857521.sbs
+allegrolokalnie.lokalna-oferta90312.lol
 allegrolokalnie.lokalna-oferta9129.sbs
 allegrolokalnie.lokalna-oferta913491.sbs
 allegrolokalnie.lokalna-oferta94291.cfd
@@ -2941,6 +2960,7 @@ allegrolokalnie.of15erta-k92bs947194.sbs
 allegrolokalnie.ofeer2r39831.xyz
 allegrolokalnie.ofera-lokalna62167981.shop
 allegrolokalnie.ofera-lokalna6843981.shop
+allegrolokalnie.ofera783727222.shop
 allegrolokalnie.ofera98823882.shop
 allegrolokalnie.ofercategoryid0522323.sbs
 allegrolokalnie.oferp7283501.lat
@@ -2949,8 +2969,11 @@ allegrolokalnie.ofert54034938h5h5.shop
 allegrolokalnie.ofert923781910.shop
 allegrolokalnie.oferta-16872156-pl.click
 allegrolokalnie.oferta-182322.icu
+allegrolokalnie.oferta-211874.cfd
 allegrolokalnie.oferta-23ih4ihui33ni12.sbs
 allegrolokalnie.oferta-28458091-pl.click
+allegrolokalnie.oferta-285749.cfd
+allegrolokalnie.oferta-422362.cfd
 allegrolokalnie.oferta-5384913.cfd
 allegrolokalnie.oferta-735161-sprzedam-nowy-iphone-air-256.cfd
 allegrolokalnie.oferta-737376462647.shop
@@ -3185,6 +3208,7 @@ allegrolokalnie.pl-480918958912.lol
 allegrolokalnie.pl-4839804561.xyz
 allegrolokalnie.pl-484378755.click
 allegrolokalnie.pl-4886781795.shop
+allegrolokalnie.pl-489689124.lol
 allegrolokalnie.pl-490124809512.lol
 allegrolokalnie.pl-4976581791.sbs
 allegrolokalnie.pl-51412.icu
@@ -3218,6 +3242,7 @@ allegrolokalnie.pl-58912412421.xyz
 allegrolokalnie.pl-5891289512.sbs
 allegrolokalnie.pl-5891795691.sbs
 allegrolokalnie.pl-58918857819.sbs
+allegrolokalnie.pl-589679353.lol
 allegrolokalnie.pl-59015783.sbs
 allegrolokalnie.pl-59017958123.lol
 allegrolokalnie.pl-5923366.sbs
@@ -3225,6 +3250,7 @@ allegrolokalnie.pl-598190248124.xyz
 allegrolokalnie.pl-598901879324.lol
 allegrolokalnie.pl-5tfs4818.shop
 allegrolokalnie.pl-61793.icu
+allegrolokalnie.pl-62885439.click
 allegrolokalnie.pl-63142.icu
 allegrolokalnie.pl-6342523.lol
 allegrolokalnie.pl-63592.icu
@@ -3262,6 +3288,7 @@ allegrolokalnie.pl-83mk35z.lol
 allegrolokalnie.pl-84386.click
 allegrolokalnie.pl-846363543.click
 allegrolokalnie.pl-84673.click
+allegrolokalnie.pl-847261842.lol
 allegrolokalnie.pl-84826374.cfd
 allegrolokalnie.pl-85563.click
 allegrolokalnie.pl-86255449.click
@@ -7259,6 +7286,7 @@ claim-8e.netlify.app
 claim-9kd.netlify.app
 claim-9y.netlify.app
 claim-acs.netlify.app
+claim-b8q.netlify.app
 claim-danaa-pending.naa.my.id
 claim-dmu.netlify.app
 claim-dp.netlify.app
@@ -19395,6 +19423,7 @@ site-21y0a1qjt.godaddysites.com
 site-33brjdzkg.godaddysites.com
 site-34idh4pq3.godaddysites.com
 site-3ancsxizu.godaddysites.com
+site-3da5qr19c.godaddysites.com
 site-3e12wkami.godaddysites.com
 site-448oiyci8.godaddysites.com
 site-5p707y6l4.godaddysites.com
@@ -22666,6 +22695,7 @@ vocal-druid-a7186b.netlify.app
 vocalitycommunitycunmv.weebly.com
 voce-liv3l0br.page.gd
 vocmgjenxcmg.sparkasse.website
+vod-facture.com
 vod-video.com
 voda-ci-fone-xi-feam-tc.weebly.com
 vodka1r.weebly.com
@@ -23647,6 +23677,8 @@ www.allegro-lokalnie.3498j5671.shop
 www.allegro-lokalnie.ofert83481.shop
 www.allegro-lokalnie.oferta1758691.click
 www.allegro-lokalnie.oferta98647924.click
+www.allegro-lokalnie.pl-489689124.lol
+www.allegro-lokalnie.pl-589679353.lol
 www.allegro-lokalnie.pl-92133.click
 www.allegro-lokalnie.pl-m8s8f.click
 www.allegro-lokalnie.pl-oferta57423598.shop
@@ -23662,6 +23694,7 @@ www.allegro.829302.shop
 www.allegro.gay-porevo.buzz
 www.allegro.oferta383462.shop
 www.allegro.oferta878861.click
+www.allegro.pl-589679353.lol
 www.allegro.pl-635373625373.shop
 www.allegro.pl-84386.click
 www.allegro.pl-ogloszenie8598192.click
@@ -23673,7 +23706,9 @@ www.allegrolokainie.aukcj82180-43h4.shop
 www.allegrolokainie.ofert83481.shop
 www.allegrolokainie.oferta88618129.click
 www.allegrolokainie.pl-14982.click
+www.allegrolokainie.pl-489689124.lol
 www.allegrolokainie.pl-83345.click
+www.allegrolokainie.pl-847261842.lol
 www.allegrolokainie.pl-m8s8f.click
 www.allegrolokalne.2012094h84.shop
 www.allegrolokalne.20120oe.shop
@@ -23684,6 +23719,7 @@ www.allegrolokalne.894674754765.click
 www.allegrolokalne.8h723810.xyz
 www.allegrolokalne.iofert94371.xyz
 www.allegrolokalne.oferta81480578.click
+www.allegrolokalne.pl-489689124.lol
 www.allegrolokalne.pl-84382.click
 www.allegrolokalne.pl-92133.click
 www.allegrolokalne.pl-oferta03116876.shop
@@ -23701,11 +23737,14 @@ www.allegrolokalnie.oferta3059264949.shop
 www.allegrolokalnie.oferta383462.shop
 www.allegrolokalnie.oferta628926.sbs
 www.allegrolokalnie.pl-482921.sbs
+www.allegrolokalnie.pl-489689124.lol
 www.allegrolokalnie.pl-5884747483.click
 www.allegrolokalnie.pl-5891795691.sbs
+www.allegrolokalnie.pl-589679353.lol
 www.allegrolokalnie.pl-60459034.click
 www.allegrolokalnie.pl-746373638.click
 www.allegrolokalnie.pl-77655.top
+www.allegrolokalnie.pl-847261842.lol
 www.allegrolokalnie.pl-961521.cfd
 www.allegrolokalnie.pl-kup-teraz6543356433.cfd
 www.allegrolokalnie.pl-oferta57423598.shop
