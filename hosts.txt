@@ -1,7 +1,7 @@
 # Title: PhishTank Blocklist for Pi-hole
 #
-# Date: Wed Sep 16 16:17:17 UTC 2026
-# Number of unique domains: 26521
+# Date: Wed Sep 16 20:20:38 UTC 2026
+# Number of unique domains: 26555
 #
 # Maintainer: Kamil Monicz (Zaczero)
 # Project home page: https://github.com/Zaczero/pihole-phishtank
@@ -1566,7 +1566,9 @@ allegro-lokalnie.pl-943293.sbs
 allegro-lokalnie.pl-95439032.cyou
 allegro-lokalnie.pl-984523.sbs
 allegro-lokalnie.pl-hbauv.sbs
+allegro-lokalnie.pl-idwx9.sbs
 allegro-lokalnie.pl-kce6w.sbs
+allegro-lokalnie.pl-knrqi.sbs
 allegro-lokalnie.pl-l2r3s.sbs
 allegro-lokalnie.pl-m8s8f.click
 allegro-lokalnie.pl-oferta24533.sbs
@@ -1587,12 +1589,15 @@ allegro-lokalnie.pl-ogloszenia-firmowe-id8832383.click
 allegro-lokalnie.pl-ogloszenia-firmowe-id883828.sbs
 allegro-lokalnie.pl-ogloszenia-firmowe83842.click
 allegro-lokalnie.pl-ogloszenie-pawelwisniewski9-29.click
+allegro-lokalnie.pl-ogloszenie-prywatne73636284.click
 allegro-lokalnie.pl-ogloszenie-prywatne7584953412.click
 allegro-lokalnie.pl-ogloszenie-prywatne763637483.click
+allegro-lokalnie.pl-ogloszenie-prywatne763839477394.click
 allegro-lokalnie.pl-ogloszenie-prywatne765256384.click
 allegro-lokalnie.pl-ogloszenie-prywatne765833653.click
 allegro-lokalnie.pl-ogloszenie-prywatne78865449.click
 allegro-lokalnie.pl-ogloszenie-tomaszkaraszewski-52.click
+allegro-lokalnie.pl-ogloszenie3640514098.top
 allegro-lokalnie.pl-ogloszenie4567998231.top
 allegro-lokalnie.pl-ogloszenie5672993186.top
 allegro-lokalnie.pl-ogloszenie6753998232.lol
@@ -2440,10 +2445,14 @@ allegro.pl-ogloszenia-firmowe-id883828.sbs
 allegro.pl-ogloszenia-firmowe83842.click
 allegro.pl-ogloszenie-firmowe-84792192.click
 allegro.pl-ogloszenie-pawelwisniewski9-29.click
+allegro.pl-ogloszenie-prywatne73636284.click
 allegro.pl-ogloszenie-prywatne7584953412.click
+allegro.pl-ogloszenie-prywatne763839477394.click
 allegro.pl-ogloszenie-prywatne765256384.click
 allegro.pl-ogloszenie-prywatne765833653.click
+allegro.pl-ogloszenie-tadeuszkaraszewski-93.click
 allegro.pl-ogloszenie-tomaszkaraszewski-52.click
+allegro.pl-ogloszenie3640514098.top
 allegro.pl-ogloszenie5672993186.top
 allegro.pl-ogloszenie5722931873.lol
 allegro.pl-ogloszenie6753998232.lol
@@ -2626,6 +2635,7 @@ allegrolokainie.pl-983243.sbs
 allegrolokainie.pl-984523.sbs
 allegrolokainie.pl-aukcja95478124.cfd
 allegrolokainie.pl-hbauv.sbs
+allegrolokainie.pl-idwx9.sbs
 allegrolokainie.pl-kce6w.sbs
 allegrolokainie.pl-l2r3s.sbs
 allegrolokainie.pl-m8s8f.click
@@ -2640,12 +2650,16 @@ allegrolokainie.pl-ogloszenia-firmowe-id83380.click
 allegrolokainie.pl-ogloszenia-firmowe-id838423.click
 allegrolokainie.pl-ogloszenia-firmowe-id8832383.click
 allegrolokainie.pl-ogloszenia-firmowe-id883828.sbs
+allegrolokainie.pl-ogloszenie-prywatne73636284.click
 allegrolokainie.pl-ogloszenie-prywatne748362548.click
 allegrolokainie.pl-ogloszenie-prywatne7584953412.click
 allegrolokainie.pl-ogloszenie-prywatne763637483.click
+allegrolokainie.pl-ogloszenie-prywatne763839477394.click
 allegrolokainie.pl-ogloszenie-prywatne765256384.click
 allegrolokainie.pl-ogloszenie-prywatne765833653.click
+allegrolokainie.pl-ogloszenie-tadeuszkaraszewski-93.click
 allegrolokainie.pl-ogloszenie-tomaszkaraszewski-52.click
+allegrolokainie.pl-ogloszenie3640514098.top
 allegrolokainie.pl-ogloszenie4567998231.top
 allegrolokainie.pl-ogloszenie5672993186.top
 allegrolokainie.pl-ogloszenie6753998232.lol
@@ -2747,7 +2761,9 @@ allegrolokalne.pl-943293.sbs
 allegrolokalne.pl-983243.sbs
 allegrolokalne.pl-984523.sbs
 allegrolokalne.pl-hbauv.sbs
+allegrolokalne.pl-idwx9.sbs
 allegrolokalne.pl-kce6w.sbs
+allegrolokalne.pl-knrqi.sbs
 allegrolokalne.pl-l2r3s.sbs
 allegrolokalne.pl-m8s8f.click
 allegrolokalne.pl-oferta24533.sbs
@@ -2765,13 +2781,17 @@ allegrolokalne.pl-ogloszenia-firmowe-id-332388.sbs
 allegrolokalne.pl-ogloszenia-firmowe-id823833.click
 allegrolokalne.pl-ogloszenia-firmowe-id8832383.click
 allegrolokalne.pl-ogloszenie-pawelwisniewski9-29.click
+allegrolokalne.pl-ogloszenie-prywatne73636284.click
 allegrolokalne.pl-ogloszenie-prywatne748362548.click
 allegrolokalne.pl-ogloszenie-prywatne7584953412.click
 allegrolokalne.pl-ogloszenie-prywatne763637483.click
+allegrolokalne.pl-ogloszenie-prywatne763839477394.click
 allegrolokalne.pl-ogloszenie-prywatne765256384.click
 allegrolokalne.pl-ogloszenie-prywatne765833653.click
 allegrolokalne.pl-ogloszenie-prywatne78865449.click
+allegrolokalne.pl-ogloszenie-tadeuszkaraszewski-93.click
 allegrolokalne.pl-ogloszenie-tomaszkaraszewski-52.click
+allegrolokalne.pl-ogloszenie3640514098.top
 allegrolokalne.pl-ogloszenie5672993186.top
 allegrolokalne.pl-ogloszenie5722931873.lol
 allegrolokalne.pl-pg2i1.sbs
@@ -3032,6 +3052,7 @@ allegrolokalnie.com-4338252.sbs
 allegrolokalnie.com-4338952.sbs
 allegrolokalnie.com-439252.sbs
 allegrolokalnie.directshop.club
+allegrolokalnie.dk-fk3682gc.sbs
 allegrolokalnie.dla-ciebie-oferty16253.sbs
 allegrolokalnie.dn-produkt273548.sbs
 allegrolokalnie.dn-produkt562906.sbs
@@ -3746,6 +3767,7 @@ allegrolokalnie.pl-aukcja.sbs
 allegrolokalnie.pl-aukcja823134.sbs
 allegrolokalnie.pl-aukcja83472547.sbs
 allegrolokalnie.pl-aukcja834736245.shop
+allegrolokalnie.pl-bvci5.sbs
 allegrolokalnie.pl-checkout28321.com
 allegrolokalnie.pl-checkout72813.com
 allegrolokalnie.pl-d-oferta-ssid-631830.xyz
@@ -3763,6 +3785,8 @@ allegrolokalnie.pl-h4318638262929oferta926273872739.site
 allegrolokalnie.pl-hbauv.sbs
 allegrolokalnie.pl-id-2383.shop
 allegrolokalnie.pl-id74892939.cam
+allegrolokalnie.pl-idwx9.sbs
+allegrolokalnie.pl-knrqi.sbs
 allegrolokalnie.pl-kup-teraz.lat
 allegrolokalnie.pl-kup-teraz6543356433.cfd
 allegrolokalnie.pl-kupteraz.click
@@ -3964,16 +3988,19 @@ allegrolokalnie.pl-ogloszenia-firmowe-id8832383.click
 allegrolokalnie.pl-ogloszenia-firmowe-id902430.click
 allegrolokalnie.pl-ogloszenia-frimowe-82388249.click
 allegrolokalnie.pl-ogloszenie-pawelwisniewski9-29.click
+allegrolokalnie.pl-ogloszenie-prywatne73636284.click
 allegrolokalnie.pl-ogloszenie-prywatne75438439342.click
 allegrolokalnie.pl-ogloszenie-prywatne7584645.click
 allegrolokalnie.pl-ogloszenie-prywatne7584953412.click
 allegrolokalnie.pl-ogloszenie-prywatne763637483.click
+allegrolokalnie.pl-ogloszenie-prywatne763839477394.click
 allegrolokalnie.pl-ogloszenie-prywatne765256384.click
 allegrolokalnie.pl-ogloszenie-prywatne765833653.click
 allegrolokalnie.pl-ogloszenie-prywatne78865449.click
 allegrolokalnie.pl-ogloszenie-tomaszkaraszewski-52.click
 allegrolokalnie.pl-ogloszenie.lat
 allegrolokalnie.pl-ogloszenie28573.click
+allegrolokalnie.pl-ogloszenie3640514098.top
 allegrolokalnie.pl-ogloszenie384192.sbs
 allegrolokalnie.pl-ogloszenie4567998231.top
 allegrolokalnie.pl-ogloszenie483704921.cfd
@@ -11786,6 +11813,7 @@ gfoflcucbaf.web.app
 gfshsezwrdrf4.framer.wiki
 gfyu8i.webwave.dev
 ggee-har6b-ty1p6s-539xis.pages.dev
+ggfg-ikmy.onrender.com
 ggggdjjjjjzip--farma26.replit.app
 gghf43u76juthtr56r7ut.weeblysite.com
 gghghvghvgvgvhvhvhg.weebly.com
@@ -14286,6 +14314,7 @@ legion-sro.weebly.com
 leia-santander.vercel.app
 leilabahiao2026.vercel.app
 leilaocasasbh.vercel.app
+leilaumdabahia.vercel.app
 leilnhar.com
 leistenschneider.urge842284.pro
 lemizenbnps.firebaseapp.com
@@ -15334,6 +15363,7 @@ matenzekinagnal.web.app
 mathunivtoulouse.weebly.com
 matimaski-logiin.godaddysites.com
 matkahuoltn.com
+matriz-treinamentos-shopee.vercel.app
 matvibresz.com
 maty-5860b.firebaseapp.com
 maty-5860b.web.app
@@ -19579,6 +19609,7 @@ s-00054051202548410005.scure.org
 s-cas-unicaen-fr.weebly.com
 s-ceert.de
 s-g-espace02.bolt.host
+s-g-informations-caisse.bolt.host
 s-push000021845106.scure.org
 s.aktivierungsnetz.de
 s.raumwerk-reichel.de
@@ -23948,6 +23979,7 @@ vocational-white-5xciizxu.edgeone.dev
 voce-liv3l0br.page.gd
 vocmgjenxcmg.sparkasse.website
 vod-facture.com
+vod-omc.com
 vod-renouvellement.com
 vod-video.com
 vod-zob.com
@@ -24090,6 +24122,7 @@ w10-2abw-8hgms-ndt-95c-z1m.pages.dev
 w1oca2c66.urest.org
 w1xgy-ddna0-x5cczz-f9h-i9s9qa.pages.dev
 w2-geiuhsewhoictwuhetiuhwie.cloudd1.workers.dev
+w2.ltau-30hrs.click
 w20zuy.webwave.dev
 w22-fghkdjgkvdfhgvdfkgss.joy-hughes.workers.dev
 w3-inf-y-e-t-t-e-l-ugf.adm.ibsystem.com.br
@@ -26029,6 +26062,7 @@ xn--serviciodeatencinalclientevirtualdelcampus-0be.weebly.com
 xn--serviciodeidentificacininacap-h3c.weebly.com
 xn--serviciodeverificacindeidentidad-9dd.weebly.com
 xn--servis-gnsudmeris-s9l38t.weebly.com
+xn--socit-gnrale-scurit-ezbbcbgf.com
 xn--soporteporcorreoelectrnicodelauniversidaduct0909-wve.weebly.com
 xn--srieuxpohotossinnss-bzb.weebly.com
 xn--tq4bs2h.weebly.com
